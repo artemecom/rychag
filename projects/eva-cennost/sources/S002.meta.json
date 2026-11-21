@@ -17,7 +17,7 @@
   "inputs": [
     {
       "path": "materials/rustore_megafon_reviews_full.csv",
-      "sha256": "4bc771bf94f027b418ed82e9ab4329dd74e4448ec984b3513f71c16c86283815"
+      "sha256": "16856dfb8f5adc914db9b8be2a9bd9a33a44f8f016125cefc851393f55afc7f8"
     }
   ]
 }

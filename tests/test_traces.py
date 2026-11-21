@@ -405,3 +405,23 @@ class McpTraceTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class LatestProjectByJournalTest(Env):
+    """После копирования или клонирования время файлов одинаково: последнюю задачу определяет запись журнала."""
+
+    def test_latest_project_uses_journal_time_not_file_time(self):
+        import os
+        import time
+        from lib import common
+        for name in ("old", "new"):
+            self.new_project(name, "Что делать?")
+        old_j = self.root / "projects" / "old" / "journal.jsonl"
+        new_j = self.root / "projects" / "new" / "journal.jsonl"
+        old_j.write_text('{"ts": "2026-11-20T10:00:00", "cmd": "new"}\n', encoding="utf-8")
+        new_j.write_text('{"ts": "2026-11-22T10:00:00", "cmd": "new"}\n', encoding="utf-8")
+        now = time.time()
+        os.utime(str(new_j), (now - 5000, now - 5000))
+        os.utime(str(self.root / "projects" / "new" / "state.json"), (now - 5000, now - 5000))
+        os.utime(str(old_j), (now, now))
+        self.assertEqual(common.latest_project(str(self.root)), "new")

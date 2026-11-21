@@ -313,13 +313,29 @@ def work_projects(root):
 
 def latest_project(root):
     """Задача, которая менялась последней (по журналу и состоянию). None, если задач нет."""
-    best, stamp = None, -1.0
+    best, stamp = None, ("", -1.0)
     for name in work_projects(root):
         base = Path(root) / "projects" / name
-        t = max((f.stat().st_mtime for f in (base / "journal.jsonl", base / "state.json") if f.exists()), default=0.0)
+        # Время берём из последней записи журнала: время изменения файла после копирования или клонирования у всех одинаково.
+        t = (_last_journal_time(base / "journal.jsonl"),
+             max((f.stat().st_mtime for f in (base / "journal.jsonl", base / "state.json") if f.exists()), default=0.0))
         if t > stamp:
             best, stamp = name, t
     return best
+
+
+def _last_journal_time(path):
+    """Отметка времени последней записи журнала задачи (строкой ISO) или пустая строка."""
+    try:
+        with open(path, "rb") as f:
+            lines = f.read().decode("utf-8", "replace").strip().split("\n")
+        for line in reversed(lines):
+            m = re.search(r'"(?:ts|time|at|when)"\s*:\s*"([^"]+)"', line)
+            if m:
+                return m.group(1)
+    except OSError:
+        pass
+    return ""
 
 
 def check_project_id(name):

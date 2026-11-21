@@ -1237,8 +1237,8 @@ class MiscTests(Env):
         for p in ROOT.rglob("*"):
             if not p.is_file() or p.suffix not in (".py", ".md", ".json", ".txt", ".csv", ".jsonl") or "__pycache__" in p.parts:
                 continue
-            if copies in p.parents:
-                continue
+            if copies in p.parents or (ROOT / "docs" / "evidence") in p.parents:
+                continue  # тексты сверок и ответ обычного чата сохранены как есть
             # материалы и копии источников в проектах это чужие тексты (отзывы, выгрузки): правило про длинные тире касается только наших текстов
             rel = p.relative_to(ROOT).parts
             # Чужие слова храним как есть: входящие файлы руководителя, копии источников,

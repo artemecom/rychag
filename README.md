@@ -134,6 +134,7 @@ tests/             тесты программы
 docs/              KEY-DECISIONS.md, MCP.md, OTHER-TOOLS.md
 .claude/           замок завершения, помощники, навыки
 .mcp.json          подключение сервера MCP для Claude Code
+docs/evidence/     версии документа по брифу, тексты сверок, сравнение с обычным чатом
 .cursor/rules/     правило для Cursor
 ```
 
