@@ -1,0 +1,26 @@
+{
+  "id": "S002",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт effekt.py",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "599cfb9eb08491e0908f0c174c0a5b62b80a22db642a8ca6165c8bb9c2fee82e",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:24:59",
+  "method": "расчёт",
+  "script": "analysis/effekt.py",
+  "script_sha256": "ccca84704fd06bf7d4987110e1f9cc7dcc5121e6f3a57661dee14caf342a9944",
+  "inputs": [],
+  "rests_on": [
+    "C018",
+    "C019",
+    "C020",
+    "C021",
+    "C023",
+    "C024"
+  ]
+}

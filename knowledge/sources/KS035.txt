@@ -1,0 +1,76 @@
+The Fast-Talking AI Chat Agent | Harvard Business School AI Institute
+ Skip to content
+ The Digital Data Design Institute at Harvard is now the Harvard Business School AI Institute.
+ Search for:
+ Search for:
+ Search
+ Menu
+ Close
+ Insights
+Events
+Digital Learning
+Enterprise Learning
+Labs
+ Quick Links
+About Us
+Our Team
+Leadership Donors
+LinkedIn
+Instagram
+ The Fast-Talking AI Chat Agent
+ Written by
+ HBS AI Content & Learning
+ HBS and HBS AI Affiliate Research
+ February 11, 2026
+New research shows when AI boosts service, and when it backfires.
+Think about the last time you contacted customer support. Did you start with a chatbot? If it failed to resolve your problem, how did you feel when transferred to a human agent? This dynamic defines our expectations of the modern customer service experience: the struggle to balance the cold speed of automation with the warm necessity of human empathy. However, in “Engaging Customers with AI in Online Chats: Evidence from a Randomized Field Experiment,” Harvard Business School AI Institute Frontier Firm affiliate Shunyuan Zhang and Das Narayandas explain how the results from a year-long experiment involving 138 customer service agents and over 250,000 conversations are far more complex than the typical assumption.
+Key Insight: AI Assistance Isn’t Just Faster, It’s More Human
+“We posit that AI enables agents to handle conversations more efficiently, thus encouraging more responses from customers, leading to deeper back-and-forth interactions between them.” [1]
+The prevailing fear in customer service is that introducing AI will turn human interactions into robotic, assembly-line exchanges. Yet, when agents received real-time AI-generated reply suggestions, they didn’t just respond 22% faster to customer messages, they actually sent more messages and saw a measurable boost in the “human” quality of the chats. AI freed agents from the cognitive burden of composing responses, allowing them to engage customers more deeply. The conversations became richer, not shallower: using large language models to categorize agent messages, the researchers found that AI-assisted responses scored higher in the key aspects of empathy, information, and solution, with the largest jump in empathy.
+Key Insight: The Experience Equalizer
+“Specifically, for a hypothetical brand new agent, AI would lead to a remarkable reduction in agent response time of approximately 70.3%.” [2]
+One of the most business-relevant findings in the study was that AI assistance didn’t benefit everyone equally. When the researchers examined how agent tenure moderated AI’s effects, they found that less-experienced agents gained far more from AI suggestions than their veteran counterparts. Essentially, the AI “downloaded” institutional knowledge into the workflow of new employees: having access to these real-time suggestions was the functional equivalent of nearly five months of experience. This has profound implications for industries with high turnover, suggesting that AI can serve as a stabilized bridge, ensuring that a customer’s experience doesn’t suffer just because they happened to be connected to a trainee.
+Key Insight: Not All Conversations Are Created Equal
+“Different customer intents shape the context and dynamics of conversations, and if AI fails to adapt to these nuances, it may provide misleading suggestions, potentially harming interactions.” [3]
+The AI algorithm’s impact varied depending on why customers were reaching out in the first place. For example, when customers wanted to cancel subscriptions—traditionally difficult conversations—AI helped agents identify underlying reasons and recommend alternative options, leading to notable improvements in customer sentiment. But repeat complaints told a different story. Although AI helped agents respond quickly in these scenarios, customer sentiment barely improved. These complaints stemmed from systematic operational issues, like recurring delivery problems, that no amount of empathetic, information-rich messaging could solve. The AI could help agents communicate better about problems, but it couldn’t actually fix them.
+Perhaps the most counterintuitive finding emerged from examining what happened in the handoff from a bot to a human agent. Many companies use a “chatbot first” approach, where a fully automated bot tries to solve the problem before transferring the customer to a human. As we’ve seen, AI-assisted agents are able to respond more quickly, and if the AI-assisted agent responded too quickly, customers suspected that they were still talking to a bot. The response speed that might normally delight customers became a liability, triggering what the researchers term a negative “spillover” from the initial bot failure. In these contexts, the study found that increasing the delay in human responses actually helped rebuild trust and improve sentiment.
+Why This Matters
+For executives deploying AI in customer-facing operations, this research delivers three strategic imperatives. First, resist the temptation to replace human agents entirely: augmentation delivers better outcomes than automation alone, particularly for handling nuanced, emotionally charged interactions. Second, deploy AI with precision: it’s most valuable in specific conversation types (like retention scenarios). Third, manage your AI ecosystem holistically. If you’re using multiple AI systems in sequence, recognize that they’re not independent. The companies that will win with AI aren’t those that deploy the most LLMs, they’re those that understand how these systems interact across the entire customer ecosystem and adapt their implementation accordingly.
+Bonus
+When emotions are involved, who people think is responding can shape outcomes as much as what is said. For another angle on AI and human emotion, check out It Feels Like AI Understands, But Do We Care? New Research on Empathy.
+References
+[1] Zhang, Shunyuan, and Das Narayandas, “Engaging Customers with AI in Online Chats: Evidence from a Randomized Field Experiment.” Management Science 72 (1) (2025): 84. https://doi.org/10.1287/mnsc.2022.03920
+[2] Zhang and Narayandas, “Engaging Customers with AI in Online Chats,” 84.
+[3] Zhang and Narayandas, “Engaging Customers with AI in Online Chats,” 75-76.
+Meet the Authors
+Shunyuan Zhang is Associate Professor of Business Administration at Harvard Business School. She and other HBS faculty contribute to the HBS AI Institute Frontier Firm Initiative.
+Das Narayandas is Edsel Bryant Ford Professor of Business Administration at Harvard Business School.
+Did you find this insight to be useful?Yes
+No
+Would you recommend this insight to others?Yes
+No
+Submit
+Engage With Us
+Join Our Community
+Ready to dive deeper with the HBS AI Institute? Subscribe to our newsletter, contribute to the conversation and begin to invent the future for yourself, your business and society as a whole.
+Email *
+Subscribe
+The Institute
+About Us
+Overview
+Labs
+Our Team
+Advisory Council
+Website
+Privacy Notice
+Accessibility
+Digital Accessibility
+Harvard University
+Get In Touch
+LinkedIn
+Instagram
+YouTube
+Map & Directions
+Work With Us
+ HBS AI Institute (formerly known as Digital Data Design Institute at Harvard)
+ Copyright © 2026 President and Fellows of Harvard College

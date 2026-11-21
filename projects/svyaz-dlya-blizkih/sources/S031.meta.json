@@ -1,0 +1,31 @@
+{
+  "id": "S031",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (kv2_osnovnoi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "42e81f15f882cd7ffe1d50681e2965c01e1760b3e0b38f9a0ec52237cc833519",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T18:49:55",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/kv2_osnovnoi.json",
+      "sha256": "ffc25fd6ffa620098ea2ac6e7695d5ea99d2ccad48540090554e9e64635efd37"
+    }
+  ],
+  "rests_on": [
+    "C198",
+    "C195",
+    "C197",
+    "C196",
+    "C207"
+  ]
+}

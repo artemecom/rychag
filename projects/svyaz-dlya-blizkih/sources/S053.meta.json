@@ -1,0 +1,25 @@
+{
+  "id": "S053",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт dop6.py",
+  "published": "2026-11-21",
+  "accessed": "2026-11-21",
+  "sha256": "0905a24eb09d346c0a8709a049e58d499971d042131ac9ad2746ec98d4ce2ccb",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-21T19:19:46",
+  "method": "расчёт",
+  "script": "analysis/dop6.py",
+  "script_sha256": "b7b682273884a7e0c2cbebcc1727ba8aaa9f8779edfd26ec0c6d1b170f32486d",
+  "inputs": [],
+  "rests_on": [
+    "C003",
+    "C005",
+    "C093",
+    "C097",
+    "C101"
+  ]
+}

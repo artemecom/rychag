@@ -1,0 +1,198 @@
+Poor connectivity damages the mobile app business | Opensignal
+ Skip to main content
+ Market Insights
+ Toggle submenu
+Market Insights
+Opensignal reports and analyses are the definitive guide to understanding the true experience consumers receive on mobile and broadband networks.
+ Introducing The
+Global Network Excellence Index
+ Find out more
+Albania
+Algeria
+Argentina
+Australia
+Austria
+Bahrain
+Bangladesh
+Belgium
+Bolivia
+Brazil
+Bulgaria
+Cambodia
+Canada
+Chile
+Colombia
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+Estonia
+Finland
+France
+Germany
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Jordan
+Kuwait
+Latvia
+Libya
+Lithuania
+Malaysia
+Maldives
+Mexico
+Morocco
+Myanmar
+Netherlands
+New Zealand
+Nicaragua
+North Macedonia
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Tunisia
+Türkiye
+UAE
+UK
+Uruguay
+USA
+Venezuela
+Vietnam
+filler
+Global
+ All Reports
+ Other Analysis and Insights
+ Global Network Excellence Index
+ Solutions
+ Toggle submenu
+Solutions
+Mobile and broadband network operators, regulators and financial analysts around the world, use our solutions to gain an in-depth understanding of users’ real-world experience.
+ All Solutions
+ By Role
+Telecom Executives
+Sales & Marketing teams
+Technical teams
+Regulators
+Financial Analysts
+App Developers
+Consumers
+ By Solution
+ ONX
+Influence network improvements
+ Subscriber Analytics
+Determine market impact
+ Brand Licensing
+Validate marketing claims
+ Subscriber Acquisition
+Convert shoppers into subscribers
+ GeoResults
+Support prospecting & planning
+ Need help? Not sure which solution is right for you? Contact us
+ Our Approach
+ Apps
+ Toggle submenu
+ Opensignal app
+ Meteor app
+ About
+ Toggle submenu
+ Careers
+ Leadership
+ Newsroom
+ Contact
+ Blog
+Poor connectivity damages the mobile app business
+May 11, 2023 by Ian Fogg
+ Get our latest reports straight to your inbox.
+ Subscribe
+ Share this article
+Mobile app publishers need to drive ongoing usage of smartphone apps to generate recurring revenues from advertising, in-app purchases and paid subscriptions. However, Opensignal’s latest analysis demonstrates that when there is poor connectivity users spend much less time in apps as they become dissatisfied with the experience and are less likely to retain apps on their device.
+With poor mobile connectivity, users spend 20% less time in each app session while with poor Wi-Fi it’s an even greater 38% less time. After seven days, app retention rates are 49% lower for users that have seen consistently poor connectivity.
+Poor connectivity is commonplace. Opensignal data demonstrates that in 29% of mobile app sessions users experienced a poor signal. With Wi-Fi, 11% of app sessions had a poor signal.
+Poor connectivity directly affects app revenues as well as increasing user dissatisfaction. Almost all apps are monetized either through in-app purchases or advertising. Both business models require people to continue using the app. Data.ai (formerly App Annie) reports 2022 total global app revenues were $336bn for advertising and $167bn for app store spend, of which almost all was either in-app purchases or paid subscriptions.
+Smartphone users have a poor cellular signal during 29% of app sessions — almost one third. During these times, app sessions with active data transfers are 20% shorter, meaning fewer adverts will be shown to users, hurting app revenues. Additionally, if users spend less time in apps they are more likely to cancel ongoing paid subscriptions or uninstall an app. On Wi-Fi, there is an even greater drop in app session length of 38% during the 11% of time with a poor Wi-Fi signal.
+With new extended reality (XR) and augmented reality offerings imminent — most likely from Apple and Meta — that need fast low latency connections to connect to cloud services, good quality connectivity is becoming even more important, on Wi-Fi as well as with mobile. Qualcomm is also powering ahead with Snapdragon Spaces that combines relatively lightweight XR glasses with a tethered smartphone which provides both compute power and cellular connectivity while keeping the weight of the glasses to a minimum. Hardware partners include Xiaomi, OnePlus and Lenovo while telecom partners include China Mobile, Deutsche Telekom, KDDI, NTT Qonoq, Telefonica, T-Mobile, and Vodafone.
+There are significant drops in app session length for many categories of app on both cellular and Wi-Fi connections. Video Players see the largest drop on mobile and Wi-Fi connections with a poor signal — a staggering 61% shorter session on mobile and a nearly identical 60% shorter time on Wi-Fi. Numerous categories see big drops in usage with poor connectivity including Lifestyle, Navigation, News & Magazines, Education and Shopping.
+Users are most likely to uninstall apps on the first day after download. Approximately half of Android apps were uninstalled within 30 days of download, and nearly half of those were uninstalled inside the first 24 hours according to AppsFlyer.
+Opensignal data indicates even higher day one app uninstall rates when smartphone users face poor network connectivity. There are significant increases across different app categories, with Video Players apps being uninstalled 31% more when there’s a poor signal on the first day, followed by News & Magazines 24% and Lifestyle 23% more often.
+When we analyze app retention across the first seven days after installation we see an interesting trend related to poor connectivity. First day app retention is 16% worse when there is a poor signal compared to a good signal because usage of the apps has reduced. This difference widens over time. On day three it reaches 41%, and by day seven mobile app retention is 49% lower with poor signal — meaning users with poor connectivity are much more likely to either stop using or even uninstall apps over time, not just on day one.
+Analyzing mobile connectivity will help apps to improve revenue
+Tackling poor connectivity will also help app publishers that choose to distribute their apps as part of a subscription service such as Apple Arcade or in the Netflix mobile game app offering. While usage of the game apps is covered by a flat-rate mobile subscription, the more users play the apps — i.e. the longer the app sessions — and the longer the apps are kept installed, the more likely are the curators of Apple Arcade and Netflix’s game offer to keep those titles in their catalog and continue to pay the app creator.
+If app developers and publishers improve users’ experience during the time spent with poor connectivity they can boost recurring advertising, in-app and subscription revenues. If app creators can lengthen app sessions during poor connectivity it means apps can display more adverts to users, increasing revenue, as well as boosting engagement. With greater satisfaction, users are less likely to uninstall apps too. Users, app developers and app publishers will all benefit through improving connectivity for all.
+ ©2025 Opensignal, Limited - All rights reserved.
+Opensignal Limited retains ownership of this insight including all intellectual property rights, data, content, graphs & analysis. Reports and insights produced by Opensignal Limited may not be quoted, reproduced, distributed, published for any commercial purpose (including use in advertisements or other promotional content) without prior written consent. Journalists are encouraged to quote information included in Opensignal reports and insights provided they include clear source attribution. For more information, contact [email protected].
+ Previous
+ Next
+Sign up to our newsletter to receive the latest Opensignal reports in your inbox
+ Subscribe
+About
+Leadership
+Newsroom
+Careers
+DEI&B
+Contact
+Blog
+Market Insights
+All Reports
+Global Insights
+Solutions
+Technical Teams
+Sales & Marketing Teams
+Regulators
+Analysts
+App Developers
+Products
+Technical Solutions (ONX)
+Subscriber Acquisition Solutions
+Brand Licensing
+Subscriber Analytics
+GeoResults
+Opensignal Apps
+Mobile Coverage Apps
+Our Approach
+Methodology Overview
+Independence Charter
+Experience Charter
+Analytics Charter
+Data Privacy Charter
+© 2025 Opensignal Limited - All rights reserved
+ Privacy Policy : Apps & Connectivity Assistant
+ Privacy Policy : Services & Web
+ Terms & Conditions
+Sign up to our newsletter to receive the latest Opensignal reports in your inbox
+Sign up to our newsletter to receive the latest Opensignal reports in your inbox

@@ -1,0 +1,22 @@
+{
+  "id": "S008",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт weekly.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "76bead9530ab71273b57f6465d3c06cadaf641385491dfa9ac272b397011c207",
+  "question": "1",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:25:50",
+  "script": "analysis/weekly.py",
+  "script_sha256": "f3f59d3b1250611d1355a4873a872ba433405190c99ca52faa036cf2cf771b0c",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews.csv",
+      "sha256": "9ea47f0f871e4694c3738f8582b40dea8fc7e6dab7c078d456968b8a4e27f424"
+    }
+  ]
+}

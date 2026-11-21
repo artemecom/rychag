@@ -1,0 +1,17 @@
+{
+  "id": "S010",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт inertia.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "18495225c7d4e33ad89ebaead3cb76409cc2440e4e8b15e92e24e2f51ad94c26",
+  "question": "5",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:28:17",
+  "script": "analysis/inertia.py",
+  "script_sha256": "fed3c086c6d7571214ba9d792632ae54f4b155a5b796d08ac082a6644335b37f",
+  "inputs": []
+}

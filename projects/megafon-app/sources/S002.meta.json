@@ -1,0 +1,22 @@
+{
+  "id": "S002",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт monthly.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "e3c7744331e76bdec3a2103e13c6d12406026a099c104d00615f7f2a1fc10981",
+  "question": "1",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:24:04",
+  "script": "analysis/monthly.py",
+  "script_sha256": "afbba68601f8ff2f6232af4017f809a7c1f6350bc814967de34ddfa7346dd55e",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews.csv",
+      "sha256": "9ea47f0f871e4694c3738f8582b40dea8fc7e6dab7c078d456968b8a4e27f424"
+    }
+  ]
+}

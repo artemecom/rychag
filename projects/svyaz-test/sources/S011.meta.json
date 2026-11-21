@@ -1,0 +1,28 @@
+{
+  "id": "S011",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (okupaemost-porog.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "b51acde87b77315cb1726ac70a77d3df59fbeaa4654b5ea887b4f336dd16196b",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:26:12",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/okupaemost-porog.json",
+      "sha256": "26c985af61beee207cd92cf7f63de873584c11391be6e89a821569e6b7bc7011"
+    }
+  ],
+  "rests_on": [
+    "C051",
+    "C025"
+  ]
+}

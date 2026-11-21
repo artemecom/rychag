@@ -1,0 +1,29 @@
+{
+  "id": "S020",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «активность» (aktivnost_silnyi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "adb7caccfe275f566b2fd55cece55e12e3d8901715d7ef167c3257f316143cd1",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:55:00",
+  "method": "расчёт",
+  "ready": "активность",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/aktivnost_silnyi.json",
+      "sha256": "abd0f650d0d753f286f7e6aaca366e50fdf7630c250c54c69de285ac5f566af1"
+    }
+  ],
+  "rests_on": [
+    "C004",
+    "C005",
+    "C031"
+  ]
+}

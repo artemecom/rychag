@@ -1,0 +1,42 @@
+What do mobile app users complain about? - SWAG Lab
+ Home
+ Members
+ Publications
+ Teaching
+ Tools
+ Funding Partners
+What do mobile app users complain about?
+Authors:
+ Hammad Khalid
+ Emad Shihab
+ Meiyappan Nagappan
+ Ahmed E. Hassan
+Venue:
+ IEEESW
+ IEEE Software, Vol. 32, No. 3, pp. 70-77, 2014
+Year:
+ 2014
+Abstract: Mobile-app quality is becoming an increasingly important issue. These apps are generally delivered
+ through app stores that let users post reviews. These reviews provide a rich data source you can leverage to
+ understand user-reported issues. Researchers qualitatively studied 6,390 low-rated user reviews for 20
+ free-to-download iOS apps. They uncovered 12 types of user complaints. The most frequent complaints were
+ functional errors, feature requests, and app crashes. Complaints about privacy and ethical issues and hidden
+ app costs most negatively affected ratings. In 11 percent of the reviews, users attributed their complaints
+ to a recent app update. This study provides insight into the user-reported issues of iOS apps, along with
+ their frequency and impact, which can help developers better prioritize their limited quality assurance
+ resources.
+Preprint: PDF
+BibTeX:
+ @article{hammadkhalid2014wdmauca,
+ author = "Hammad Khalid and Emad Shihab and Meiyappan Nagappan and Ahmed E. Hassan",
+ title = "What do mobile app users complain about?",
+ year = "2014",
+ pages = "70-77",
+ journal = "IEEE Software",
+ volume = "32",
+ number = "3"
+}
+Plain Text:
+ Hammad Khalid, Emad Shihab, Meiyappan Nagappan, and Ahmed E. Hassan, "What do mobile app users complain about?," IEEE Software, pp. 70-77
+ Designed and built by Vishnu Satish
+ Copied text.

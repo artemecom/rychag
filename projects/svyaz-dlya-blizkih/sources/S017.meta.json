@@ -1,0 +1,29 @@
+{
+  "id": "S017",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «сведение» (svedenie_slabyi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "6fcbbd6e6230b4cb0d67b3678237ba0aeb25e9dfbbca139e69f8ff69b374dedd",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:55:00",
+  "method": "расчёт",
+  "ready": "сведение",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/svedenie_slabyi.json",
+      "sha256": "db48dc1968e7ca2fc566b0a043d810068e6b54754bbfd137492175786d4e2b05"
+    }
+  ],
+  "rests_on": [
+    "C005",
+    "C030",
+    "C035"
+  ]
+}

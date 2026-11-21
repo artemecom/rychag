@@ -1,0 +1,147 @@
+Understand how search works in Google Play - Google Play Help Skip to main content
+Google Play Help
+Sign in
+Google Help
+Help Center
+Community
+Google Play
+Privacy Policy
+Google Play Terms of Service
+Submit feedback
+Send feedback on...
+This help content & information
+General Help Center experience
+CloseNext
+Help Center
+Community
+Get started with Google Play
+Google Play
+Notification
+Due to payment system disruption, Google Play has paused paid services in Russia as of March 10, 2022. Your experience on the Play Store may change. Learn more here.
+Understand how search works in Google Play
+You can discover apps on Google Play across devices in several ways:
+Search for an app or type of app
+Browse the home page and other pages
+Browse editorial selections made by the Google Play team
+Read an app’s detail page
+To help you find apps you’ll have a good experience with, Google Play aims to show you the most relevant results. We first show high-quality apps that many people might use.
+We consider multiple factors to decide which apps show when you search. We are always working to improve the discovery experience and how we rank apps on Google Play.
+How Google Play search results work
+Google Play uses details about apps to decide which ones show up when you search. For example, we use details provided by the app developer, such as:
+App title
+Description
+Category
+Images
+App content
+Functionality
+We also use details like:
+App characteristics (for instance, if the app is a multiplayer or single player game)
+User feedback (such as ratings, reviews, and engagement)
+How we organize and rank apps in Google Play
+To make it easy for you to find apps, we choose which apps show on a page, how many apps show, and how they appear. We consider many factors when we organize apps, including:
+Relevance: We show apps that are relevant to the page you’re on or what you searched.
+Quality of the app experience: We show apps that have a good in-app user experience.
+Editorial value: We curate recommendations based on what’s noteworthy and interesting.
+Ads: When developers advertise their apps, we make sure the ads are well marked.
+User experience: We show apps that perform well in the Play Store and that users continue to enjoy after installation.
+These factors are weighted differently depending on your device, your preferences, and where you’re looking in Google Play. For example, apps shown in Google Play search prioritize relevance, engagement, and quality, and the influence of these three factors varies based on the type of search.
+Learn what we consider when organizing apps
+Relevance
+We show you the most relevant apps first. To determine an app’s relevance, we consider:
+What device you’re using. We recommend apps that are available and work well on your device.
+Your location. We only recommend apps that are available in your country/region.
+The page you’re on. For example, when you visit the “Kids” tab, we recommend apps for kids.
+What you searched for. We use the words in your search and synonyms to determine if you’re looking for a specific app or a type of app (such as “racing games”). Then we use data and other signals about apps to determine which ones best meet your search.
+When your search is narrow, like the name of an app, we try to show that app.
+When your search is broader, like a search for “photo editing,” we show multiple apps. We use the other factors described here to show ones we think you’ll have a good experience with. We may also show suggestions from Play Books.
+The app’s relevance to a broad audience. For apps with a narrow audience, we may only show the app if we’re confident it’s what you’re looking for.
+We may also personalize your results after your search. Learn more about Play personalization.
+App experience
+We show you high-quality apps that perform well and give you a good user experience. To evaluate an app’s experience, we consider:
+The experience within the app itself
+Its appearance in the Play Store, such as the app’s icon, title, screenshots, videos, description, and links
+The customer support the developer provides
+The app’s visual design and user interaction patterns
+The ads experience inside the app (if applicable)
+If the app provides the expected functional behavior, content, and features
+If the app provides the expected compatibility, performance, stability, and responsiveness
+Suggested searches
+To help you find apps, we suggest search terms that will give you good results.
+Before you start to type, suggestions are based on your recent search history in the Play Store.
+As you type, we offer search suggestions to help you search effectively. These suggestions are based on search query patterns of all of Google Play’s users.
+Ads
+Developers can pay for their app to show in clearly marked sections of Google Play through advertising. Ads are always marked with a label like “Ads” or “Sponsored.”
+Other factors
+In addition to the factors described here, we consider:
+Mature content: Google Play may filter out mature apps from non-mature search queries.
+Standards review: Some searches may show results that are specific to your location and have been reviewed for certain standards. For example, for searches containing “Covid 19,” “coronavirus,” and other related keywords, the app’s content is vetted in concert with Trust & Safety and Global Affairs & Public Policy and partner governments and non-governmental organizations around the globe.
+Understand searches in Play Books
+How searches work for Play Books
+Google Play uses details about ebooks and audiobooks to decide which ones show up when you search. For example, we use details from the publisher, such as:
+The name of the book
+The language in which the book is published
+Maturity scores
+Genre
+Content of the book
+We also use details like:
+Format (for instance, audiobook or ebook)
+Book characteristics
+User feedback (such as ratings and reviews)
+How we organize and rank books
+To make it easy for you to find books, we choose which books show on a page, how many books show, and how they appear. We consider many factors when we organize books, including:
+Relevance: We show books that are relevant to the page you’re on or what you searched.
+Quality of the title: We show books that have high-quality content and get good feedback from other users.
+Editorial value: We curate recommendations based on what’s noteworthy and interesting.
+Ads: When publishers advertise their books on Google Play, we make sure the ads are well marked.
+User experience: We show books that users have a good experience with.
+Series: For book series, we group titles in the series together. The order might change based on what you searched. Books in a series are also grouped by format.
+Genre groups: When you search for a genre, we group results based on popularity, novelty, or sub-genre
+Manage your Play personalization setting
+To manage your Play personalization setting:
+Go to Google Play Personalization in Play.
+Turn Personalize Play on or off.
+When Play personalization is on, Google Play can use information in your Google Account, like your Play History, items you purchase and download, and data from other Google services, to make your experience more personalized. For example, Google Play can learn from the apps you use and the videos you watch to better recommend apps, games, and books for you.
+When Play personalization is off, Google Play will still adjust your experience based on info such as the device you’re using and the country you’re in, but it won’t be based on insights about you.
+Manage your Play History setting
+To manage your Play History setting:
+Go to Google Play Personalization in Play Play History.
+Go to the Controls tab.
+Turn Play History on or off.
+Tip: You can also turn on and off history settings that include your activity on Play and your app usage, but only if the Play History setting is turned on.
+To delete your Play History:
+Sign in to your Google Account.
+Go to Personalization in Play Play History.
+Scroll down to your history and use the controls to delete a single event or multiple at once.
+Even when Play History is off, Google still collects, uses, and processes data, including Google Play activity and app usage data, in accordance with the Google Privacy Policy. For example, Google will keep certain information in your account, like items you purchase and download and features you interact with. Some information is collected because you've enabled other settings or features, like Play Pass, Play Quests, and stats displayed in your Play Games Profile. Google also collects and uses data that is not associated with your account.
+Learn more about deleting Play History.
+Tip: If you turn off Play History or delete past history, it may impact your experience in other Google services, like Google Search and Google Assistant. You can always turn your Play History setting back on but deleted history can’t be restored.
+Learn more about Play History.
+Need more help?
+Try these next steps:
+ Post to the help community Get answers from community members
+false
+ ©2026 Google
+ Privacy Policy
+ Google Play Terms of Service Language Afrikaans‎azərbaycan‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏اردو‏العربية‏فارسیमराठी‎हिन्दी‎বাংলা‎ગુજરાતી‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎ไทย‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎
+Enable Dark Mode
+Send feedback on... This help content & information General Help Center experience
+Search
+Clear search
+Close search
+Google apps
+Main menu
+2681100415562658830
+true
+Search Help Center
+false
+true
+true
+true
+true
+true
+84680
+true
+false
+false
+false
+false

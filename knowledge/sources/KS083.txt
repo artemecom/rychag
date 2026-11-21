@@ -1,0 +1,670 @@
+Google Play In-App Reviews API | Other Play guides | Android Developers
+ Skip to main content
+ Essentials
+Build AI experiences
+Build AI-powered Android apps with Gemini APIs and more.
+ Get started
+Get started
+Create your first app. Use Compose for UI and adaptive app development to support multiple device form factors.
+ Hello, world!
+ Adaptive apps
+ Compose for UI
+ AI-powered IDE
+ Monetization with Play ↗️
+ Developer Verification
+ Registered App Stores
+Optimize by form factor
+Build apps that optimize the user experience on phones, tablets, foldables, cars, XR, and more.
+ Phones, tablets, foldables
+ Android for Cars
+ Android TV
+ Android XR
+ Googlebook
+ ChromeOS
+ Wear OS
+Build by category
+Learn to build for your use case by following Google's prescriptive and opinionated guidance.
+ Games
+ Camera & media
+ Social & messaging
+ Health & fitness
+ Productivity
+ Enterprise apps
+Get the latest
+Stay in touch with the latest releases throughout the year, join our preview programs, and give us your feedback.
+ Latest updates
+ Experimental updates
+ Android Studio preview
+ Jetpack & Compose libraries
+ Wear OS releases
+ Privacy Sandbox ↗️
+ Design & Plan
+Excellent Experiences
+Build the best experiences for your best users.
+ Learn more
+UI Design
+Design a beautiful user interface using Android best practices.
+ Design for Android
+ Mobile
+ Desktop experiences
+ XR Headsets & XR Glasses
+ AI Glasses
+ Widgets
+ Wear OS
+ Android TV
+ Android for Cars
+Architecture
+Design robust, testable, and maintainable app logic and services.
+ Introduction
+ Libraries
+ Navigation
+ Modularization
+ Testing
+ Kotlin Multiplatform
+Quality
+Plan for app quality and align with Play store guidelines.
+ Overview
+ Core value
+ User experience
+ Accessibility
+ Technical quality
+ Excellent Experiences
+Security
+Safeguard users against threats and ensure a secure Android experience.
+ Overview
+ Privacy
+ Permissions
+ Identity
+ Fraud prevention
+ Develop
+Build more with agents in Android
+Turn prompts into real Android experiences using your favorite agents.
+ Learn more
+ Get Android CLI
+Core areas
+Get the samples and docs for the features you need.
+ Samples
+ Multidevice support
+ User interfaces
+ Background work
+ Data and files
+ Connectivity
+ All core areas ⤵️
+Tools and workflow
+Use the IDE to write and build your app, or create your own pipeline.
+ Write and debug code
+ Build projects
+ Test your app
+ Performance
+ Command-line tools
+ Gradle plugin API
+ Android Bench
+ Build with agents
+Device tech
+Write code for form factors. Connect devices and share data.
+ Phones, tablets, foldables
+ Googlebook
+ ChromeOS
+ Android for Cars
+ Android TV
+ Android XR
+ Wear OS
+ Android Health
+ Better Together
+ All devices ⤵️
+Libraries
+Browse API reference documentation with all the details.
+ Android platform
+ Jetpack libraries
+ Compose libraries
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ Google Play
+Play Console
+Publish your app or game and grow your business on Google Play.
+ Learn more ↗️
+ Go to Play Console
+Fundamentals
+Learn how to engage users, monitize, and secure your app.
+ Play Monetization
+ Play Integrity
+ Android vitals
+ Play Policies
+ Play Programs ↗️
+Games Dev Center
+Develop and deliver games. Get tools, downloads, and samples.
+ Overview
+ Play Asset Delivery
+ Play Games Services
+ Play Games on PC
+ Level Up guidelines
+ All Play guides ⤵️
+Libraries
+Browse API reference documentation with all the details.
+ Play Feature Delivery
+ Play In-app Updates
+ Play In-app Reviews
+ Play Install Referrer
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ All Play libraries ⤵️
+Tools & resources
+Tools for publishing, promoting, and managing your app.
+ Android App Bundles
+ Brand & marketing
+ Play Console APIs ↗️
+ Blog
+the Android Developer's Blog
+ Read the latest
+ Explore the authors →
+Explore categories
+ Product News
+ Stay in the loop with the latest updates, feature releases, and behind-the-scenes looks at how we’re evolving.
+ Community
+ Discover stories from our users, spotlight features, and the collaborative projects that bring us all together.
+ How-tos
+ From quick tips to deep-dive tutorials, these step-by-step guides are designed to help you work smarter and faster.
+ Case Studies
+ Real-world results from real-world users. Explore how different teams use our tools to achieve their goals.
+ Events & Programs
+ Get the details on upcoming webinars, workshops, meetups, and special initiatives designed to help you grow.
+ Documentation
+ Access detailed manuals, API references, and technical specifications to help you build and integrate with confidence.
+ /
+ English
+ Deutsch
+ Español – América Latina
+ Français
+ Indonesia
+ Italiano
+ Polski
+ Português – Brasil
+ Tiếng Việt
+ Türkçe
+ Русский
+ עברית
+ العربيّة
+ فارسی
+ हिंदी
+ বাংলা
+ ภาษาไทย
+ 中文 – 简体
+ 中文 – 繁體
+ 日本語
+ 한국어
+ Android Studio
+ Sign in
+ Google Play
+ Other Play guides
+ Essentials
+ More
+ Design & Plan
+ More
+ Develop
+ More
+ Google Play
+ More
+ Blog
+ More
+ Android Studio
+ Android App Bundles
+About app bundles
+Configure the base module
+Build and test your app bundle
+Device targeting
+Add code transparency
+About the app bundle format
+Frequently asked questions
+APK expansion files
+ Multiple APK support
+About multiple APKs
+Create multiple APKs for different API levels
+Create multiple APKs for different screen sizes
+Create multiple APKs for different GL textures ⍈
+Create multiple APKs with several dimensions
+ Engage SDK
+About Engage SDK
+Eligibility, reach, and surfaces
+Engage SDK Watch integration guide
+Engage SDK Listen integration guide
+Engage SDK Read integration guide
+ Engage SDK TV integration guide
+About Engage SDK TV
+ Publish continue watching data
+Overview
+Integrate on device
+Integrate with REST API
+Publish device entitlements
+ Publish recommendations
+Integrate on device
+Integrate with REST API
+Publish to the featured carousel
+Engage SDK Shopping integration guide
+Engage SDK Food integration guide
+Engage SDK Social integration guide
+Engage SDK Travel integration guide
+Engage SDK Health & Fitness integration guide
+Engage SDK Other Verticals integration guide
+Engage SDK integration workflow
+Engage SDK Cluster publishing guidelines
+Engage SDK Frequently asked questions
+Engage SDK Release Notes
+Engage SDK Sample Apps
+ Play app distribution
+How app updates work
+Filters on Google Play
+Release audience restriction
+ Play as you Download
+About Play as you Download
+Best practices
+ Play Instant
+About Google Play Instant
+ Get started with instant apps
+Create an instant-enabled app bundle
+UX best practices for apps
+ Get started with instant games
+About instant games
+Unity plugin
+UX best practices for games
+Migrate to Android App Bundles
+Implement cloud delivery of assets
+Support Google Play Games Services
+Instant Play games
+Instant Play games checklist
+Reduce the size of your instant app or game
+Add ads to your instant app or game
+Provide multiple entry points
+ Integrate with Firebase
+Add Google Analytics for Firebase to your instant app
+Use Firebase Dynamic Links with instant apps
+Technical requirements checklist
+Google Play Instant policy
+ Resources
+Reference
+Code samples
+SDK release notes
+Instant App Intents
+ Support
+Known issues
+StackOverflow
+ Application licensing
+About application licensing
+Licensing overview
+Setting up licensing
+Adding server-side verification
+Adding client-side verification
+Licensing reference
+ Play Asset Delivery
+About Play Asset Delivery
+Integrate asset delivery (Kotlin and Java)
+Integrate asset delivery (Native)
+Integrate asset delivery (Unity)
+Device targeting for asset delivery
+Target texture compression formats
+Test asset delivery
+Play Core libraries
+Play Developer APIs
+ Play Feature Delivery
+About Play Feature Delivery
+Configure install-time delivery
+Configure conditional delivery
+Configure on-demand delivery
+On-demand delivery best practices
+Configure instant delivery
+Additional resources
+Play for on-device AI
+Play Games ⍈
+ Play in-app reviews
+About in-app reviews
+Integrate in-app reviews (Kotlin or Java)
+Integrate in-app reviews (Native)
+Integrate in-app reviews (Unity)
+Integrate in-app reviews (Unreal Engine)
+Test in-app reviews
+ Play in-app updates
+About in-app updates
+Support in-app updates (Kotlin or Java)
+Support in-app updates (Native)
+Support in-app updates (Unity)
+Support in-app updates (Unreal Engine)
+Test in-app updates
+ Play in-app install prompts
+About in-app install prompts
+Integrate in-app install prompts (Kotlin or Java)
+Test in-app install prompts
+ Play Install Referrer
+About Play Install Referrer
+ Play Install Referrer Library
+Overview
+Reference
+Release notes
+Play Install Referrer API
+ Play Points
+About Play Points
+ In-app products
+Create in-app products and promotions
+Detect and deliver in-app products
+Test in-app products
+ One-time products
+Create one-time products and promotions
+Detect and deliver one-time products
+Test one-time products
+ Play requirements
+Target API level requirement
+Support 64-bit architectures
+Capture app screenshots for Google Play
+ Build AI experiences
+ Get started
+ Get started
+ Hello, world!
+ Adaptive apps
+ Compose for UI
+ AI-powered IDE
+ Monetization with Play ↗️
+ Developer Verification
+ Registered App Stores
+ Optimize by form factor
+ Phones, tablets, foldables
+ Android for Cars
+ Android TV
+ Android XR
+ Googlebook
+ ChromeOS
+ Wear OS
+ Build by category
+ Games
+ Camera & media
+ Social & messaging
+ Health & fitness
+ Productivity
+ Enterprise apps
+ Get the latest
+ Latest updates
+ Experimental updates
+ Android Studio preview
+ Jetpack & Compose libraries
+ Wear OS releases
+ Privacy Sandbox ↗️
+ Excellent Experiences
+ Learn more
+ UI Design
+ Design for Android
+ Mobile
+ Desktop experiences
+ XR Headsets & XR Glasses
+ AI Glasses
+ Widgets
+ Wear OS
+ Android TV
+ Android for Cars
+ Architecture
+ Introduction
+ Libraries
+ Navigation
+ Modularization
+ Testing
+ Kotlin Multiplatform
+ Quality
+ Overview
+ Core value
+ User experience
+ Accessibility
+ Technical quality
+ Excellent Experiences
+ Security
+ Overview
+ Privacy
+ Permissions
+ Identity
+ Fraud prevention
+ Build more with agents in Android
+ Learn more
+ Get Android CLI
+ Core areas
+ Samples
+ Multidevice support
+ User interfaces
+ Background work
+ Data and files
+ Connectivity
+ All core areas ⤵️
+ Tools and workflow
+ Write and debug code
+ Build projects
+ Test your app
+ Performance
+ Command-line tools
+ Gradle plugin API
+ Android Bench
+ Build with agents
+ Device tech
+ Phones, tablets, foldables
+ Googlebook
+ ChromeOS
+ Android for Cars
+ Android TV
+ Android XR
+ Wear OS
+ Android Health
+ Better Together
+ All devices ⤵️
+ Libraries
+ Android platform
+ Jetpack libraries
+ Compose libraries
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ Play Console
+ Learn more ↗️
+ Go to Play Console
+ Fundamentals
+ Play Monetization
+ Play Integrity
+ Android vitals
+ Play Policies
+ Play Programs ↗️
+ Games Dev Center
+ Overview
+ Play Asset Delivery
+ Play Games Services
+ Play Games on PC
+ Level Up guidelines
+ All Play guides ⤵️
+ Libraries
+ Play Feature Delivery
+ Play In-app Updates
+ Play In-app Reviews
+ Play Install Referrer
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ All Play libraries ⤵️
+ Tools & resources
+ Android App Bundles
+ Brand & marketing
+ Play Console APIs ↗️
+ the Android Developer's Blog
+ Read the latest
+ Explore the authors →
+ Explore categories
+ Product News
+ Community
+ How-tos
+ Case Studies
+ Events & Programs
+ Documentation
+ Android Developers
+ Google Play
+ Other Play guides
+ Google Play In-App Reviews API
+ Stay organized with collections
+ Save and categorize content based on your preferences.
+The Google Play In-App Review API lets you prompt users to submit Play Store
+ratings and reviews without the inconvenience of leaving your app or game.
+Generally, the in-app review flow (see figure 1) can be triggered at any time
+throughout the user journey of your app. During the flow, the user has the
+ability to rate your app using the 1 to 5 star system and to add an optional
+comment. Once submitted, the review is sent to the Play Store and eventually
+displayed.
+Note: To protect user privacy and avoid API misuse, there are strict guidelines
+that your app should follow about when to request in-app reviews and the
+design of the review prompt.
+ Figure 1. In-app review flow for a user
+Device requirements
+In-app reviews only work on the following devices:
+Android devices (phones, tablets, and TVs with Google TV) running Android
+5.0 (API level 21) or higher that have the Google Play Store installed.
+ChromeOS devices that have the Google Play Store installed.
+Play Core library requirements
+To integrate in-app reviews in your app, your app must use version 1.8.0 or
+higher of the Play Core library.
+When to request an in-app review
+Follow these guidelines to help you decide when to request in-app reviews from
+users:
+Trigger the in-app review flow after a user has experienced enough of your
+app or game to provide useful feedback.
+Don't prompt the user excessively for a review. This approach helps
+minimize user frustration and limit API usage (see the
+section on quotas).
+Your app shouldn't ask the user any questions before or while presenting the
+rating button or card, including questions about their opinion (such as "Do
+you like the app?") or predictive questions (such as "Would you rate this
+app 5 stars").
+Design guidelines
+Follow these guidelines as you determine how to integrate in-app reviews in your
+app:
+Surface the card as-is, without tampering or modifying the existing design
+in any way, including size, opacity, shape, or other properties.
+Don't add any overlay on top of the card or around the card.
+The card and the card's background should be on the topmost layer. Once the
+card has surfaced, don't programmatically remove the card. The card is
+removed automatically based on either the user's explicit action, or an
+internal Play Store mechanism.
+Quotas
+To provide a great user experience, Google Play enforces a time-bound quota on
+how often a user can be shown the review dialog. Because of this quota, calling
+the launchReviewFlow method more than once during a short period of time (for
+example, less than a month) might not always display a dialog.
+Note: The specific value of the quota is an implementation detail, and it can be
+changed by Google Play without any notice.
+Because the quota is subject to change, it's important to apply your own logic
+and target the best possible moment to request a review. For example, you
+should not have a call-to-action option (such as a button) to trigger the API,
+as a user might have already hit their quota and the flow won't be shown,
+presenting a broken experience to the user. For this use case, redirect the user
+to the Play Store instead.
+Integrate in-app reviews in your app
+Learn how to integrate in-app reviews in your app, depending on your development
+environment:
+Kotlin or Java
+Native (C++)
+Unity
+Unreal Engine
+Terms of service and data safety
+By accessing or using the Play In-App Reviews Library, you agree to the Play
+Core Software Development Kit Terms of Service. Read and understand all
+applicable terms and policies before accessing the library.
+Data Safety
+The Play Core libraries are your app's runtime interface with the Google Play
+Store. As such, when you use Play Core in your app, the Play Store runs its own
+processes, which include handling data as governed by the Google Play Terms of
+Service. The following information describes how the Play Core libraries
+handle data to process specific requests from your app.
+In-app Reviews
+Data collected on usage
+User-entered data (rating and free-text review)
+Purpose of data collection
+The data collected is used to leave a review on the Play Store.
+Data encryption
+Data is encrypted.
+Data sharing
+The data collected is used in a public review on the Play Store or, if the
+app is in a closed test track, the data collected is shared privately with the
+app developer.
+Data deletion
+Users can delete their reviews in their Google Play Store account or Google Account.
+While we aim to be as transparent as possible, you are solely responsible for
+deciding how to respond to Google Play's data safety section form regarding your
+app's user data collection, sharing, and security practices.
+Content and code samples on this page are subject to the licenses described in the Content License. Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates.
+Last updated 2026-01-30 UTC.
+ [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-01-30 UTC."],[],[]]
+ X
+Follow @GooglePlayBiz for news and support
+ Medium
+Read articles and industry thoughts from the Play team
+ LinkedIn
+Connect with Google Play business community
+ Developer Help
+Get help from the Google Play Developer Help Community
+More Android
+ Android
+ Android for Enterprise
+ Security
+ Source
+ News
+ Blog
+ Podcasts
+Discover
+ Gaming
+ Machine Learning
+ Health & Fitness
+ Camera & Media
+ Privacy
+ 5G
+Android Devices
+ Large screens
+ Wear OS
+ ChromeOS devices
+ Android for cars
+ Android TV
+Releases
+ Android 17
+ Android 16
+ Android 15
+ Android 14
+ Android 13
+ Android 12
+ Android 11
+Documentation and Downloads
+ Android Studio guide
+ Developers guides
+ API reference
+ Download Studio
+ Android NDK
+Support
+ Report platform bug
+ Report documentation bug
+ Google Play support
+ Join research studies
+ Android
+ Chrome
+ Firebase
+ Google Cloud Platform
+ All products
+ Privacy
+ License
+ Brand guidelines
+ Manage cookies
+ Get news and tips by email
+ Subscribe
+ English
+ Deutsch
+ Español – América Latina
+ Français
+ Indonesia
+ Italiano
+ Polski
+ Português – Brasil
+ Tiếng Việt
+ Türkçe
+ Русский
+ עברית
+ العربيّة
+ فارسی
+ हिंदी
+ বাংলা
+ ภาษาไทย
+ 中文 – 简体
+ 中文 – 繁體
+ 日本語
+ 한국어

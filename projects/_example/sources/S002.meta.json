@@ -1,0 +1,14 @@
+{
+  "id": "S002",
+  "kind": "файл",
+  "url": null,
+  "path": "materials/support-summary.txt",
+  "title": "Сводка обращений в поддержку (вымышленная)",
+  "published": "2026-09-10",
+  "accessed": "2026-11-18",
+  "sha256": "751d5d7343ce21ebd69c7e47aab0798ae2cacb023de8f778531e0feef59bd8aa",
+  "question": "причина падения",
+  "stale_accepted": false,
+  "added": "2026-11-18T22:20:34",
+  "layer": 1
+}

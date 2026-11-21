@@ -1,0 +1,29 @@
+{
+  "id": "S019",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «активность» (aktivnost_slabyi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "53920bf31dea82bf3c56217cc325e918041be34862b2cee6b0a3d630ec1dec48",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:55:00",
+  "method": "расчёт",
+  "ready": "активность",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/aktivnost_slabyi.json",
+      "sha256": "289a4e704ee1d29b2475c2bcf300289b9a96a348805191993ac6971ff8ffed42"
+    }
+  ],
+  "rests_on": [
+    "C004",
+    "C005",
+    "C031"
+  ]
+}

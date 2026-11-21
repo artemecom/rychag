@@ -1,0 +1,23 @@
+{
+  "id": "S002",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 2,
+  "title": "Расчёт eva_razmetka.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "23478c948086b884bb797129a1d89524124e74f01fbcf90d11ee13b22294fb38",
+  "question": "5",
+  "stale_accepted": false,
+  "added": "2026-11-19T00:36:36",
+  "method": "разметка",
+  "script": "analysis/eva_razmetka.py",
+  "script_sha256": "74eddce657031b313890eb24a3bd07099810a98d41caf32ee3f0bfbf3608f0f2",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews_full.csv",
+      "sha256": "4bc771bf94f027b418ed82e9ab4329dd74e4448ec984b3513f71c16c86283815"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "S009",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (okupaemost-osn.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "9415ca645fb6ffb4406b030ae2817683bb7207e4caf64e3ece409597f76bfc97",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:25:59",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/okupaemost-osn.json",
+      "sha256": "38f8af04f1d79e403e10b77fe09611aa5464f4729161e3dd88d8c533e4dd9b63"
+    }
+  ],
+  "rests_on": [
+    "C051",
+    "C025"
+  ]
+}

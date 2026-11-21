@@ -1,0 +1,17 @@
+{
+  "id": "S025",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт corrected_full.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "acc8db638adeb73673e42fb6a870550cfaab61d355c4bfa8d9c316e3a881cc0b",
+  "question": "доли с поправкой, весь период",
+  "stale_accepted": false,
+  "added": "2026-11-19T00:06:55",
+  "script": "analysis/corrected_full.py",
+  "script_sha256": "5403466f5b4170e946714c65741e91c1a06f1ed0a45c1fce651e949abd516a1f",
+  "inputs": []
+}

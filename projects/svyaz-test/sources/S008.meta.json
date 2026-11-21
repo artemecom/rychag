@@ -1,0 +1,28 @@
+{
+  "id": "S008",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (okupaemost-silny.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "057b55c1771a35649214596dd74e53ceb82e6503fd5a9a3a03b02d4b2558b389",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:25:44",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/okupaemost-silny.json",
+      "sha256": "3c2a9cf29894e2053e1232f3512f3d3bfc3a683b2405cd49db23cd4ab77c3780"
+    }
+  ],
+  "rests_on": [
+    "C052",
+    "C025"
+  ]
+}

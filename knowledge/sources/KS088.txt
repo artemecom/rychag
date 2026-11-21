@@ -1,0 +1,74 @@
+Citizens Advice calls for a right to a human over chatbots
+Skip to main content
+ Resultsense Making sense of AI in the UK
+ News Insights Videos Podcast AI Glossary About
+ Open main menu
+ News Insights Videos Podcast AI Glossary About Search
+Search
+ Esc to close
+ Home
+ News
+ Citizens Advice wants a guaranteed right to a huma...
+ Industry News 22 September 2026 3 min read Resultsense via The Guardian
+ Citizens Advice wants a guaranteed right to a human, not a bot
+ The charity says AI chatbots in energy, banking and telecoms cost over half their users time or stress, and asks firms to guarantee customers can reach a person.
+ Citizens Advice Chatbots Customer service Digital exclusion Consumer protection
+TL;DR
+Citizens Advice is asking energy suppliers, banks and phone and broadband providers to guarantee a “right to talk to a human”, after research found their AI chatbots left over half their users losing time, facing stress or waiting longer for a fix. The charity links the problem to digital exclusion, which it puts at a minimum of 14 million people in the UK. The government’s response points to an existing legal duty on businesses to publish clear contact details.
+What the charity found
+The findings draw on evidence from frontline advisers and several hundred case summaries. Almost half of those who were made to use a chatbot said it did not help, and some told advisers it felt built to “make me give up”. Among people who could not reach a person, or found it hard to, 49% reported stress or frustration and 44% a slower resolution. A further 27% said they felt powerless, and 14% abandoned the problem entirely.
+The practical gap can be large. Correcting a wrong energy bill by sending a meter reading may take under an hour on a working website, but Citizens Advice says the offline route can stretch to six weeks. In some areas even applications for social tariff broadband, a scheme meant to help people get online, can only be made online.
+Tom MacInnes, the charity’s policy director, said “there’s a role for chatbots”, but warned that “the quiet erosion of face-to-face and telephone services is letting too many people fall through the cracks.” A July poll for the charity found only 20% of UK adults named chatbots as the channel they would choose.
+Why it matters beyond consumer policy
+The report lands days after JUSTICE found one in six people in a legal dispute turning to a chatbot, filling gaps that legal aid does not cover. The Citizens Advice evidence points the other way round: here it is the provider, not the customer, choosing automation, and those least able to use it absorb the cost.
+For UK firms deploying AI in customer service, the charity’s framing matters. It describes a “two-tier support system”, in which people who struggle online get slower, less reliable help. In our view, that is language likely to reach regulators, and energy, telecoms and financial services each already have one.
+Looking forward
+The government has previously pointed to £11.9m for a digital inclusion innovation fund, while about 1.7m UK households still have no computer or tablet. Its statement this time did not address the proposed right. Whether Ofgem, Ofcom or the FCA pick up the recommendation will decide if it becomes more than a campaign ask. For businesses, the safer design choice is a visible route to a person rather than a chatbot that has no exit.
+Next Monday's briefing, in your inbox
+Latest issue, 16 November: Claude goes on by default in UK Copilot.
+ The week's UK AI stories, the analysis behind them, and the podcast. Free, one email a week,
+ unsubscribe any time.
+ Email address
+Subscribe
+Double opt-in: we only add you to our list after you confirm via email. See our
+privacy policy.
+Share this article
+ Share
+ Twitter WhatsApp
+ Share Twitter LinkedIn Bluesky Facebook WhatsApp
+ Back to News
+Related Articles
+ Industry News 2 Oct 2026
+ South Yorkshire Police adds Bobbi AI assistant to cut 101 calls
+ South Yorkshire Police has put the Bobbi chatbot on its website to answer non-emergency questions, joining several forces already using it to ease 101 demand.
+ Chatbots
+ Read article
+ Industry News 28 Sept 2026
+ AI-made 'injured veteran' videos are selling fake handmade goods
+ A BBC investigation found 45 TikTok accounts using AI videos of wounded ex-soldiers to sell products online. A Wiltshire veteran paid £154.99 for one.
+ Consumer protection
+ Read article
+ Industry News 25 Sept 2026
+ Google gives Gemini 3.8 Live a talking video avatar for businesses
+ Live Avatar pairs Gemini's live voice model with near real-time video of a speaking face in 97 languages. It is out now in Gemini Enterprise, with SynthID on all output.
+ Customer service
+ Read article
+ View all News & Insights
+ Resultsense
+ Making sense of AI in the UK
+ UK-focused AI news, analysis, and insights. Making sense of artificial intelligence developments for businesses and professionals.
+© 2026 Resultsense Limited. All rights reserved.
+Company Registration Number: 16733701
+Cookie Settings
+Quick Links
+Home
+Podcast
+News
+Insights
+AI Glossary
+Newsletter
+About
+Privacy Policy
+Get In Touch
+ hello@resultsense.com
+Follow Us

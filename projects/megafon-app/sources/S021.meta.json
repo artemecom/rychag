@@ -1,0 +1,22 @@
+{
+  "id": "S021",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт themes.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "4565bed067095ab02558e0496755ed55e4cc54125c3ed82e9ba824dc8f865dfb",
+  "question": "темы жалоб 1-2, полная выгрузка",
+  "stale_accepted": false,
+  "added": "2026-11-19T00:04:50",
+  "script": "analysis/themes.py",
+  "script_sha256": "115310a17773fca53ee0cfedc43d39050ea7ff16c1c06bd5f889edd039ea08d0",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews_full.csv",
+      "sha256": "4bc771bf94f027b418ed82e9ab4329dd74e4448ec984b3513f71c16c86283815"
+    }
+  ]
+}

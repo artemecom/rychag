@@ -1,0 +1,29 @@
+{
+  "id": "S005",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «удержание» (uderzhanie_slabyi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "cac749d2cb65285f5bc64ab9c2b33b42f626dea4d28ed8ff7317c44e9b6d5346",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:53:56",
+  "method": "расчёт",
+  "ready": "удержание",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/uderzhanie_slabyi.json",
+      "sha256": "8cd28efdc60523165689ba76fdbca09ff60e20c942ffb80106ce35ed5c5cb4cc"
+    }
+  ],
+  "rests_on": [
+    "C008",
+    "C027",
+    "C028"
+  ]
+}

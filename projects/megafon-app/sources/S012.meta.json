@@ -1,0 +1,22 @@
+{
+  "id": "S012",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт botshare2.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "bdada96b0f1e0860001ba644225df4b9d99587b3bcc3220ea1ce38ff1d30002e",
+  "question": "6",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:36:41",
+  "script": "analysis/botshare2.py",
+  "script_sha256": "04e0a9874f1def7dc08bb04a49c0900d70456da49723e3e5ab5648b985542c92",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews.csv",
+      "sha256": "9ea47f0f871e4694c3738f8582b40dea8fc7e6dab7c078d456968b8a4e27f424"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "S014",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «сведение» (svedenie-vladeltsy.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "74686ff444c1d3b1534810f84f3b7784a5b95d9264f03bd008b26f36fefb5617",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:26:34",
+  "method": "расчёт",
+  "ready": "сведение",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/svedenie-vladeltsy.json",
+      "sha256": "3adb80aca1922dba51c42e99f5ad414c744d80ff3e290cbbd94ccf065602c26e"
+    }
+  ],
+  "rests_on": [
+    "C037",
+    "C038"
+  ]
+}

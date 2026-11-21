@@ -1,0 +1,31 @@
+{
+  "id": "S010",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «удержание» (uderzhanie_osnovnoi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "92554d866dc29ec4c73ff3231f19164c17cbea81f8568c40c02029bbd3c69cd4",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:54:33",
+  "method": "расчёт",
+  "ready": "удержание",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/uderzhanie_osnovnoi.json",
+      "sha256": "c0ca0872000200fc3d382a2773031828733a6be64526968bb8e5a85182e72862"
+    }
+  ],
+  "rests_on": [
+    "C008",
+    "C027",
+    "C028",
+    "C033",
+    "C034"
+  ]
+}

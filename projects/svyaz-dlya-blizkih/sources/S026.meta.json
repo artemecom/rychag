@@ -1,0 +1,23 @@
+{
+  "id": "S026",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт cennost.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "b1ef40ad49ae12d0bd46ada77e363ea9d87c7e9a57b29bd70f807fcf17910723",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T18:22:50",
+  "method": "расчёт",
+  "script": "analysis/cennost.py",
+  "script_sha256": "b6dee730895f48318ab003fec93fa82d74aa923b6c2eb56805e3685d3b81f4b4",
+  "inputs": [],
+  "rests_on": [
+    "C008",
+    "C033",
+    "C039"
+  ]
+}

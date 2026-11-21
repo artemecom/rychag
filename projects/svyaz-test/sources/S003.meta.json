@@ -1,0 +1,31 @@
+{
+  "id": "S003",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «удержание» (uderzhanie-slab.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "93032f8e8b2df6d747b1863a4a9dbe59c52d5740418d5388897b82813115959c",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:25:13",
+  "method": "расчёт",
+  "ready": "удержание",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/uderzhanie-slab.json",
+      "sha256": "299ce5fc7963fed4bf75be0f92c870e58090fb1952d423fa63d4460325208216"
+    }
+  ],
+  "rests_on": [
+    "C005",
+    "C022",
+    "C045",
+    "C046",
+    "C047"
+  ]
+}

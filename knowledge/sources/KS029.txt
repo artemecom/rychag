@@ -1,0 +1,214 @@
+Optus faces $10m fine, pays millions in refunds - iTnews
+ Latest News
+Curtin Uni strikes deal on cubesat comms for next three missions
+Hijacked website testing tool plants card skimmer on Australian brands’ sites
+Huang open to Nvidia return
+Microsoft unveils AI models for coding and cyber security
+US Federal Aviation Administration pauses Juniper router deployment
+ LOG IN
+ SUBSCRIBE
+ NEWS
+GOVERNMENT
+SECURITY
+AI
+ DIGITAL NATION
+ REPORTS
+ RESOURCES
+PODCAST
+ EVENTS
+ADVERTISE
+ Search
+ BUSINESS
+ CLOUD
+ DATA CENTRE
+ EDUCATION
+ FINANCIAL SERVICES
+ HARDWARE
+ HEALTHCARE
+ INDUSTRIAL
+ NETWORKING
+ PROJECTS
+ SOFTWARE
+ STORAGE
+ STRATEGY
+ TECHNOLOGY
+ TELCO/ISP
+ HR
+ MARKETING
+ FINANCE
+ LEADERSHIP
+ GOVERNANCE
+ EMERGING TECH
+ State of MarTech
+ Public Sector Tech Report
+ State of Data & AI
+ State of Security
+ Cloud Covered
+ State of Finance Tech
+ Special Reports
+ Focal Points
+ MEDIA HUB
+ PARTNER CONTENT
+ PARTNER HUBS
+ RESEARCH
+ Tech Partner Views
+ iTnews TV
+ Security Breakfast Sydney
+ Security Retreat VIC
+ Benchmark Awards 2027
+ NEWS
+ BUSINESS
+ CLOUD
+ DATA CENTRE
+ EDUCATION
+ FINANCIAL SERVICES
+ HARDWARE
+ HEALTHCARE
+ INDUSTRIAL
+ NETWORKING
+ PROJECTS
+ SOFTWARE
+ STORAGE
+ STRATEGY
+ TECHNOLOGY
+ TELCO/ISP
+ GOVERNMENT
+ SECURITY
+ AI
+ DIGITAL NATION
+ HR
+ MARKETING
+ FINANCE
+ LEADERSHIP
+ GOVERNANCE
+ EMERGING TECH
+ REPORTS
+ State of MarTech
+ Public Sector Tech Report
+ State of Data & AI
+ State of Security
+ Cloud Covered
+ State of Finance Tech
+ RESOURCES
+ Special Reports
+ Focal Points
+ MEDIA HUB
+ PARTNER CONTENT
+ PARTNER HUBS
+ RESEARCH
+ Tech Partner Views
+ iTnews TV
+ PODCAST
+ EVENTS
+ Security Breakfast Sydney
+ Security Retreat VIC
+ Benchmark Awards 2027
+ ADVERTISE
+ Appearance
+Log In
+Email:
+Password:
+ Remember me
+ | Forgot password?
+Don't have an account? Register now!
+ Home
+ News
+ Technology
+ Telco/ISP
+ Optus faces $10m fine, pays millions in refunds
+ By
+ Ry Crozier
+Oct 17 2018 12:20PM
+Third-party content subscription scandal widens.
+Optus has handed millions of dollars back to more than 240,000 customers and could pay at least $10 million in fines over “premium content” charged to users who didn’t sign up for it or want it.
+The telco has agreed with the Australian Competition and Consumer Commission (ACCC) to jointly apply for orders from the Federal Court.
+“The Federal Court will decide at a later date whether the orders sought, including the proposed penalties, are appropriate,” the ACCC said in a statement.
+Optus has committed to offer refunds for affected customers, estimated to be “more than 240,000”. Optus has directly forked out $12 million and content providers $19 million in the refund process.
+According to the ACCC, “Optus has admitted that it was aware, from at least April 2014 … [that] a significant number of customers [were] charged by Optus for premium content such as ringtones, games, horoscopes, etc. that they did not want and had not agreed to buy.”
+Optus also admitted that it didn’t inform customers that they would be billed for these add-ons by default “and that if customers received premium content via their phone, even unintentionally, they would be billed by Optus for it.”
+“A substantial number of Optus customers were signed up to subscriptions for expensive, often unwanted content without being required to enter payment details or verify their identity, as occurs with many other online purchases,” ACCC chair Rod Sims said.
+“Many customers didn’t realise they were signing up to anything at all, and in some cases family members such as children incurred these charges without the account holder’s knowledge.
+“Despite over 600,000 direct enquiries Optus received over a number of years about this, Optus chose to continue to generate major profits at the expense of basic consumer protections.”
+Optus dumped third-party content subscriptions at the end of last year.
+Rival Telstra was fined $10 million for a similar operation and has so far issued $14.3 million in refunds to affected customers. It, too, shut down third-party content subscriptions.=
+Sims said the ACCC “is continuing its investigation into third party billing services by other carriers, and further enforcement action may well follow.”
+Add iTnews as your trusted source
+ Got a news tip for our journalists? Share it with us anonymously here.
+ Copyright © iTnews.com.au . All rights reserved.
+Tags:
+ acccfineoptustelcotelco/isptelstra
+Related Articles
+ Curtin Uni strikes deal on cubesat comms for next three missions
+ TPG Telecom wants customer-triggered AI agents
+ Telstra deploys billing reconciliation AI agent
+ US has for years asked Musk to turn Starlink on or off in various countries
+ Join our WhatsApp Channel
+Partner Content
+ Partner Content
+ From data overload to decisive action – accelerating decisions with AI agents
+ Promoted Content
+ Australian mid-market businesses to access deeper AI and security expertise with First Focus-Integris partnership
+ Promoted Content
+ The AI era demands a new kind of network
+ Partner Content
+ Who owns your brand’s AI reputation?
+SPONSORED RESOURCES
+AI agents are multiplying. But who's in control?
+Data integrity: the foundation for secure analytics, cloud and AI.
+AI Spend Management
+Closing the cyber security execution gap: How IT leaders are building cyber resilience
+Tech Skills Report
+Events
+ iTnews State of Security Breakfast Sydney
+ iTnews Executive Retreat - Security Leaders Edition - VIC
+ Mid-Market Summit
+Most Read Articles
+TPG Telecom wants customer-triggered AI agents
+Mobile porn set to explode over next five years
+Curtin Uni strikes deal on cubesat comms for next three missions
+Vocus hit by Australia Singapore Cable break
+ Microsoft outage raises questions around sovereignty, resilience and over-reliance on a single provider
+ Platinum Technology a three-time winner at 2026 Benchmark Security Awards
+ Cisco and NIIN launch sovereign AI cloud prototype for Australian universities
+ Microsoft overhauls Microsoft 365 Education portfolio
+ Vocus looks to build out AI team
+Most popular tech stories
+ Virgin Australia identifies 11 AI agents for finance and procurement
+ News Corp Australia brings in two AI and data leaders
+ State of HR Tech
+ Westpac hires CBA's data chief to lead AI, data and digital
+ Toyota Finance Australia upgrades its ERP
+ HamiltonJet partners with digital services provider Fortude
+ SentinelOne signs distribution agreement with Sektor
+ Rapid7’s new SIEM combines exposure management with threat detection
+ The techpartner.news podcast, episode 3: Why security consultancy founder Kat McCrabb started with the hard stuff
+ Bluechip Infotech enters final stage of Goodson Imports acquisition
+ Photos: Australian industry explores data for net zero
+ Blackberry celebrates "giant step forward"
+ Govt launches consumer tech label program for smart devices
+ Telstra Purple acquires IoT specialists Alliance Automation, Aqura Technologies
+ 'Touch-free' smartphone controlled with head movements
+ Contact Us
+ About Us
+ Editorial Guidelines
+ Authors
+ Feedback
+ Advertise
+ Newsletter Archive
+ Site Map
+ RSS
+ © 2026 nextmedia Pty Ltd.
+ OTHER TECH SITES:
+ techpartner.news |
+ Digital Nation |
+ IoT Hub
+ All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.
+Your use of this website
+ constitutes acceptance of nextmedia's Privacy Policy and
+ Terms & Conditions.
+ Powered By
+Log In
+Don't have an account? Register now!
+Email:
+Password:
+ Remember me | Forgot your password?

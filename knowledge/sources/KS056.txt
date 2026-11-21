@@ -1,0 +1,233 @@
+Update: Swisscom verstärkt den Schutz vor unerwünschten Anrufen | Netzwoche
+ Direkt zum Inhalt
+ Header menu
+ Kontakt
+ Best of Swiss Web
+ Best of Swiss Apps
+ Best of Swiss Software
+ E-Paper
+ Abo
+ Shop
+ Mediadaten
+ » Newsletter
+ Main navigation
+ News
+ Live
+ Wild Card
+ Studien
+ Meinungen
+ Hands-on
+ » alle News
+ Storys
+ Dossiers
+ Best of Swiss Apps
+ Best of Swiss Software
+ Best of Swiss Web
+ SAP S/4 Hana
+ Arbeitswelten
+ Gesundheit wird digital
+ Blockchain
+ EU-DSGVO
+ XaaS, Managed Services & Co.
+ Digital Banking
+ » alle Dossiers
+ Video
+ Specials
+ Digitale Souveränität 2026
+ IT for Health
+ Artificial Intelligence
+ Swiss Digital Ranking
+ Datacenter
+ Cybersecurity
+ IT for Gov
+ Cloud & Managed Services
+ Finance 2030
+ Fintech & Insurtech
+ Professional AV & Digital Signage
+ » alle Specials
+ Events
+ Best of Swiss Web
+ Best of Swiss Apps
+ Best of Swiss Software
+ Netzwitzig
+ E-Paper Login
+ Schlüsselwörter
+ Webcode
+ News
+ Für Wingo, Migros Mobile und Coop Mobile ab 2026
+ Update: Swisscom verstärkt den Schutz vor unerwünschten Anrufen
+ Do 20.11.2025 - 15:40
+ Uhr
+ von
+ Chiara Binder
+ und
+ Joël Orizet
+ und
+ fsi, dwi
+ Swisscom führt ab 2026 auch bei seinen Zweit- und Drittmarken Wingo, Migros Mobile und Coop Mobile den standardmässigen Callfilter ein. Zudem stehen seit Oktober neue Sperroptionen für Handy-Abos bereit, die bisher nur im Festnetz verfügbar waren.
+ (Source: rcfotostock / stock.adobe.com)
+ (Source: rcfotostock / stock.adobe.com)
+ Update vom 20.11.2025: Der von Swisscom eingeführte Callfilter hat im Oktober 2025 bereits doppelt so viele Anrufe blockiert wie noch im März. Nun beginnt Swisscom ab dem ersten Quartal 2026 auch mit der automatischen Aktivierung des Filters bei seinen Zweit- und Drittmarken Wingo, Migros Mobile sowie Coop Mobile. Der Schutz soll laut dem Telko auch für Prepaid-Abos aktiviert werden.
+Zudem führt Swisscom neue Sperr-Optionen für Mobilfunkkundinnen und -kunden ein, wie es in der Mitteilung heisst. Bisher seien die Funktionen "anonyme Anrufe blockieren" sowie "Anrufe ohne Ursprungsnummer blockieren" nur für Festnetzkundinnen und -kunden verfügbar gewesen. Seit Oktober seien die Funktionen nun ebenfalls für Mobile-Abos verfügbar.
+Auch Sunrise und die beiden Marken Yallo und Lebara haben unterdessen den Callfilter für alle Kundinnen und Kunden standardmässige aktiviert, wie die Stiftung für Konsumentenschutz schreibt. Die Telkos Salt und Quickline hätten bereits bei der Einführung den Callfilter für alle Kundinnen und Kunden aktiviert.
+Originalmeldung vom 31.03.2025:
+Swisscom und Sunrise aktivieren Werbeanruf-Filter für alle
+Die Swisscom führt einen Filter gegen Werbe- und Betrugsanrufe standardmässig für die gesamte Festnetz-Kundschaft ein. Bei Sunrise steht die Umstellung kurz bevor.
+Mehr Schutz vor lästigen Werbeanrufen - dies verspricht die Swisscom mit der Aufschaltung eines standardmässigen Callfilters. Seit 2016 bietet der Telko einen solchen Filter gegen unerwünschte Anrufe an. Bis anhin mussten bestehende Kundinnen und Kunden das Feature allerdings aktivieren. Ab Ende März ist es für den gesamten Festnetz-Kundenbestand automatisch aktiviert, wie die Swisscom mitteilt. Im Verlauf dieses Jahres soll dies auch für die Mobilfunk-Privatkundschaft der Fall sein.
+Auch bei Sunrise und seinen beiden Tochterfirmen Yallo und Lebara steht die automatische Aktivierung eines Callfilters kurz bevor, wie die Stiftung für Konsumentenschutz mitteilt. Somit schliessen die zwei grössten Telkos hierzulande zu Salt und Quickline auf, die den Filter bereits standardmässig eingeführt haben.
+Schutz vor Werbung und Betrug
+Callfilter funktionieren ähnlich wie E-Mail-Spam-Filter. Sie würden nicht nur vor unerwünschten Werbeanrufen schützen, sondern auch gegen telefonische Betrugsversuche mit Maschen wie dem Enkeltrick, falschen Polizisten oder Schockanrufen, teilt der Konsumentenschutz weiter mit. Unerwünschte oder betrügerische Anrufe würden bereits vom Telekom-Anbieter blockiert und gar nicht mehr zur Kundschaft durchgestellt. "Die automatische Aktivierung der Anruf-Filter ist ein Meilenstein im Kampf gegen unerwünschte Werbe- und Betrugsanrufe", lässt sich Sara Stalder, Geschäftsleiterin des Konsumentenschutzes, in der Mitteilung zitieren.
+Der Callfilter der Swisscom blockierte im vergangenen Februar rund vier Millionen unerwünschte Spamanrufe, wie die Swisscom schreibt. Der Filter verwende "fortschrittliche Algorithmen und eine umfangreiche Datenbank", um lästige Werbeanrufe präzise zu identifizieren und zu blockieren. Zudem würden kontinuierlich neue Telefonnummern und Anrufmuster analysiert und aktualisiert, um unerwünschte Anrufe abzuwehren. Kundinnen und Kunden hätten zudem die Möglichkeit, bis zu 200 Rufnummern auf eine eigene Blacklist zu setzen. Auf Wunsch lässt sich der Callfilter in "My Swisscom" auch deaktivieren.
+Sunrise hat übrigens Anfang März eine Partnerschaft mit der KI-Suchmaschine Perplexity vereinbart - mehr dazu lesen Sie hier.
+ Artikel teilen:
+ Zum Thema
+ Mobilfunk-Shop-Test von "Connect"
+ Deutsche Telekom verdrängt Swisscom von der Spitze im Shop-Ranking
+ Dreimal "überragend" und zweimal "sehr gut" für die Schweiz
+ Swisscom und Salt siegen im Festnetztest von "Connect"
+ "MyAI"
+ Update: Swisscom enthüllt mehr Details zu seiner KI-Lösung
+ Nach Lettland und in die Niederlande
+ Swisscom will womöglich Hunderte IT-Jobs ins Ausland verlagern
+ Swiss Payment Forum 2026
+ Die Payment-Zukunft gehört KI-Agenten und Stablecoins. Oder?
+ 18.11.2026 - 15:52
+ Uhr
+ Partner-Post
+ Zusammenarbeit von PwC und Microsoft
+ KI schafft Potenzial. Transformation schafft Geschäftswert.
+ 16.11.2026 - 08:00
+ Uhr
+ Partner-Post
+ Success Story SOWARIS | hosttech
+ SOWARIS setzt auf Schweizer Cloud: Virtual Datacenter als IT-Fundament
+ 30.11.2026 - 07:00
+ Uhr
+ Übernahme von Allnet Solutions
+ IT-S expandiert nach Zürich
+ 18.11.2026 - 15:39
+ Uhr
+ Partner-Post
+ Fachbeitrag von TrendAI
+ Pandoras Büchse ist geöffnet: Die Schwachstellenflut der KI-Ära
+ 16.11.2026 - 07:00
+ Uhr
+ Zahlen von Check Point
+ Cyberangriffe auf Schweizer Unternehmen steigen im Oktober um 49 Prozent
+ 18.11.2026 - 15:26
+ Uhr
+ Partner-Post
+ Experteninterview mit Lukas Hebeisen, Swisscom
+ "Entscheidend ist, sich heute nicht ­unnötig festzulegen"
+ 11.11.2026 - 08:00
+ Uhr
+ Philippe Catirane
+ Lausanne ernennt neuen IT-Leiter
+ 18.11.2026 - 15:36
+ Uhr
+ Partner-Post
+ Advertorial von Swisscom
+ Falscher Klick – Passwort weg
+ 16.11.2026 - 08:00
+ Uhr
+ Partner-Post
+ Company Profile
+ iRIX: Unabhängig seit 1999. Erfahren in Software, Daten und Energie.
+ 16.11.2026 - 07:00
+ Uhr
+ Tags
+ swisscom
+ sunrise
+ salt
+ Konsumentenschutz
+ Festnetz
+ migros
+ Coop Mobile
+ telko
+ Webcode
+ 86iAYCV7
+ Meist gelesen
+ » Mehr News
+ Trotz Debatte um digitale Souveränität
+ Die Public Cloud ist noch lange nicht am Ende
+ 17.11.2026 - 10:16
+ Uhr
+ Cloud-Strategie des Kantons Zürich
+ Zürich sieht globale Clouds auch für sensible Daten vor
+ 17.11.2026 - 10:23
+ Uhr
+ Nach Hackerangriff
+ Über 8000 Reka-Kunden von Whatsapp-Phishing betroffen
+ 17.11.2026 - 10:01
+ Uhr
+ Events
+ » Mehr Events
+ Open-i 2026 | The Swiss Innovation Platform
+ 26. November 2026
+ - 8:00
+ bis 18:00
+ Kongresshaus Zürich
+ Premium Event
+ SWISS Pavilion GITEX Global 2026
+ 07. Dezember 2026
+ - 11. Dezember 2026
+ 10:00 bis 17:00
+ Expo City Dubai
+ Premium Event
+ Swiss Cyber Security Days
+ 23. Februar 2027
+ - 24. Februar 2027
+ 9:00 bis 17:00
+ Mingerstrasse 6, 3014 Bern
+ Premium Event
+ Trendtage Gesundheit Luzern
+ 10. März 2027
+ - 11. März 2027
+ 9:00 bis 19:15
+ KKL Luzern
+ Premium Event
+ Previous
+ Next
+ Dossiers
+ » Mehr Dossiers
+ Dossier
+ Fintech, Insurtech & Digital Banking
+ 16.11.2026 - 12:25 Uhr
+ Dossier
+ DevOps
+ 24.06.2025 - 11:15 Uhr
+ Dossier
+ SAP S/4 Hana - Was bis 2027 zu tun ist
+ 21.05.2025 - 10:55 Uhr
+ Aktuelle Ausgabe
+ Netzwoche Nr. 12/2026
+Wie die Schweiz ihre KI-Infrastruktur besser koordinieren kann
+User Experience mit KI messen: ­Warum der Mensch unverzichtbar bleibt
+Die neue Netzwoche und das Special "Digitale Souveränität" sind da
+ » Mehr Beiträge
+ Direkt in Ihren Briefkasten
+ CHF 139.-
+ » Magazin Abonnieren
+ » Zum shop
+ » Newsletter
+ Netzwoche
+ Mediadaten
+ Magazin
+ Shop
+ Abo
+ Services
+ E-Paper Login
+ Kontakt
+ Event-Plus-Eintrag
+ Login
+ Partner-Websites
+ ICTjournal
+ IT-Markt.ch
+ netzmedien.ch
+ Swisscybersecurity.net
+ © Netzmedien AG 2026
+ Impressum
+ AGB
+ Nutzungsbestimmungen
+ Datenschutzerklärung
+ Back to top

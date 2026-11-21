@@ -1,0 +1,23 @@
+{
+  "id": "S027",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт vklad_sreza.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "22ea5863ed24950947c4471961b89d918d0bdca83035f7d0476f300e41fc9d55",
+  "question": "вклад тем и контрольный срез",
+  "stale_accepted": false,
+  "added": "2026-11-19T02:25:16",
+  "method": "словарь",
+  "script": "analysis/vklad_sreza.py",
+  "script_sha256": "520869c7e7c678f132a86f07ca72b34a3227853b1bab6f949648a9e467e4d8ad",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews_full.csv",
+      "sha256": "4bc771bf94f027b418ed82e9ab4329dd74e4448ec984b3513f71c16c86283815"
+    }
+  ]
+}

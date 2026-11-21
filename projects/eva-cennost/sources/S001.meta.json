@@ -1,0 +1,16 @@
+{
+  "id": "S001",
+  "kind": "файл",
+  "url": null,
+  "path": "materials/rustore_megafon_reviews_full.csv",
+  "title": "Выгрузка отзывов RuStore на приложение МегаФон",
+  "published": "2026-11-18",
+  "accessed": "2026-11-19",
+  "sha256": "3306791c361f268d5cb19c19154b0950712043bda90c51f79a8aad7c1f6cefba",
+  "question": "2",
+  "layer": 2,
+  "stale_accepted": false,
+  "added": "2026-11-19T00:35:34",
+  "period_from": "2022-08-23",
+  "period_to": "2026-11-18"
+}

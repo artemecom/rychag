@@ -1,0 +1,283 @@
+Vonage to pay $100M to settle FTC "dark patterns" lawsuit
+Skip to content
+News
+Channels
+5G
+6G
+BSS OSS
+Carriers
+IoT
+Network Infrastructure
+Open RAN
+Private 5G
+Telco AI
+Telco Cloud
+Test & Measurement
+Resources
+Reports
+Webinars
+White papers
+AI Fundamentals
+Analyst Angle
+Editorial Calendar
+Fundamentals
+5G NR Release 17
+AI
+Telco AI in 2025
+Podcasts
+Let’s Get Digital with Carrie Charles
+Wireless Connectivity to Enable Industry 4.0 for the Middleprise
+Well Technically…
+Will 5G Change the World
+Accelerating Industry 4.0 Digitalization
+AI Infrastructure
+Programs
+Events
+RCRtv
+Advertise
+Subscribe
+ Search
+ Wednesday, November 18, 2026
+News
+Channels
+5G
+6G
+BSS OSS
+Carriers
+IoT
+Network Infrastructure
+Open RAN
+Private 5G
+Telco AI
+Telco Cloud
+Test & Measurement
+Resources
+Reports
+Webinars
+White papers
+AI Fundamentals
+Analyst Angle
+Editorial Calendar
+Fundamentals
+5G NR Release 17
+AI
+Telco AI in 2025
+Podcasts
+Let’s Get Digital with Carrie Charles
+Wireless Connectivity to Enable Industry 4.0 for the Middleprise
+Well Technically…
+Will 5G Change the World
+Accelerating Industry 4.0 Digitalization
+AI Infrastructure
+Programs
+Events
+RCRtv
+Advertise
+Subscribe
+ Search
+Qualcomm 6G Insights
+Huawei Content Hub
+Qualcomm – 6G Vision
+OSS/BSS Channel
+RCRTech Roundtable: AI Infrastructure
+ Search
+ Search
+News
+Channels
+5G
+6G
+BSS OSS
+Carriers
+IoT
+Network Infrastructure
+Open RAN
+Private 5G
+Telco AI
+Telco Cloud
+Test & Measurement
+Resources
+Reports
+Webinars
+White papers
+AI Fundamentals
+Analyst Angle
+Editorial Calendar
+Fundamentals
+5G NR Release 17
+AI
+Telco AI in 2025
+Podcasts
+Let’s Get Digital with Carrie Charles
+Wireless Connectivity to Enable Industry 4.0 for the Middleprise
+Well Technically…
+Will 5G Change the World
+Accelerating Industry 4.0 Digitalization
+AI Infrastructure
+Programs
+Events
+RCRtv
+Advertise
+Subscribe
+ Copyright 2021 - All Right Reserved
+Latest newsSearch RCR WirelessSearch
+Home - Business - Vonage to pay $100M to settle FTC ‘dark patterns’ lawsuit
+BusinessFeatured
+Vonage to pay $100M to settle FTC ‘dark patterns’ lawsuit
+ by RCR Wireless News
+ November 4, 2022
+ written by RCR Wireless News
+ November 4, 2022
+ Share
+ LinkedinEmail
+ Share
+ 0LinkedinEmail
+ 305
+Vonage made it too hard for customers to cancel service and charged excessive fees, said the agency
+On Thursday, the U.S. Federal Trade Commission (FTC) announced the settlement of pending litigation against VoIP pioneer Vonage. The lawsuit accused Vonage of creating an unnecessarily difficult process for customers to cancel their service. Vonage, which was acquired by Ericsson in July, agreed to pay the FTC $100 million, which will be distributed to customers as refunds, and also agreed to change its business practices going forward.
+“Since at least 2015, Vonage has failed to provide a simple method for customers to cancel their telephone services, employing a panoply of hurdles, sometimes referred to as ‘dark patterns,’ which compound to deter and prevent customers from stopping recurring charges,” said the FTC in its complaint.
+The FTC said that Vonage offered customers a variety of methods to sign up for the service. Yet, Vonage restricted cancellation specifically to the sole purview of live “retention agents,” refusing to use any other method to allow customers to stop their service. What’s more, the FTC accused Vonage of deliberately making customer service numbers difficult to find and even more difficult to use. The FTC said that Vonage charged customers previously undisclosed or obfuscated early termination feeds, sometimes totaling hundreds of dollars, before cancelling the service.
+Under the terms of the agreement, Vonage will pay the FTC $100 million, which will be used for customer refunds. What’s more, Vonage must implement a simple cancellation process that’s easy to find, easy to use, and available through multiple channels.
+“Vonage also must clearly explain the terms of its negative option programs up front, including an understandable explanation of what people need to do to avoid those charges, the total cost they’ll have to pay if they don’t take those steps, and a timeline for when they have to take those actions. The proposed order further requires the company to stop charging people without their express, informed consent,” said Lesley Fair, writing for the FTC’s business blog.
+Fair noted that Vonage’s conduct violated the FTC Act and ROSCA, the Restore Online Shopper’s Confidence Act. ROSCA is 2010 legislation that prohibits online sellers from charging customers unless it’s clearly disclosed all charges and received consent from the customer.
+The FTC settlement reflects a broader initiative by the Biden administration to crack down on so-called “junk fees” that banks and other companies charge customers, a centerpiece of recent administration talking points in the lead-up to the November midterm elections. The Consumer Financial Protection Bureau (CFPB), a federal agency created following the Great Recession, is central to the Biden administration’s efforts. Much of the initial focus and attention has been drawn to banks which charge excessive fees for overdrafts and bounced checks. But the administration’s efforts also extend to private companies that charge customers what the administration considers excessive, such as concert ticket processing fees and airline rebooking fees.
+Ericsson first announced plans to acquire Vonage for $6.2 billion in 2021, touting the acquisition as fundamental to creating a cloud-focused platform centered on “open innovation” and the ability for its customers to monetize 5G in the enterprise. Ericsson’s specific interest in Vonage surrounded Vonage Communications Platform (VCP), and its efforts to build Communications Platform as a Service (CPaaS), unified communications-as-a-service (UCaaS) and contact-center-as-a-service (CCaaS) capabilities. Ericsson completed its acquisition of Vonage in July 2022, following the requisite regulatory and shareholder approvals.
+ You Might Also Like
+ Wi-Fi Forum 2027
+ Webinar: Deterministic Networks by Design: Why operators can’t let AI guess on live networks
+ AI Infrastructure Forum 2026
+ RCRTech Roundtables AI Infrastructure
+ 6G Forum 2026
+ Intelligent RAN Forum 2026
+ Share
+ 0
+ LinkedinEmail
+ RCR Wireless News
+ previous post
+ Test and Measurement: R&S reports increased revenues, ‘strong demand’
+ next post
+ How can startups innovate Open RAN?
+White Papers
+ Enea Fraud White Paper: Handbook for Fraud, Revenue Assurance & Network Teams
+ VIAVI Solutions White Paper: Building the Self-Aware Agentic RAN
+ Norton eBook: The 2026 Telco Playbook
+ Enea White Paper: Why Intelligent AAA is the Swiss Army Knife of Telecom
+ CSG White Paper: Telco AI Enabler: Mediation’s Defining Role
+Editorial Reports
+ GSMA Cogeco Case Study: Looking to deliver a seamless BYOD mobile experience?
+ Market Pulse Report: Intelligent RAN
+ NTN Integration Market Pulse Report
+Webinars
+ Webinar: Deterministic Networks by Design: Why operators can’t let AI guess on live networks
+ Qualcomm Webinar: AI-Native 6G: Keeping Pace with Agentic AI and Multimodal Experiences
+ Appledore Webinar: Closing the Agent-Ready Data Gap for Autonomous Networks
+ Mimosa Webinar – Build the Right Network
+ Webinar: Building 6G — aligning technology, policy and purpose
+Since 1982, RCR Wireless News has been providing wireless and mobile industry news, insights, and analysis to mobile and wireless industry professionals, decision makers, policy makers, analysts and investors.
+ Facebook
+ Twitter
+ Youtube
+ Linkedin
+ Envelope
+ Rss
+ Useful Links
+Subscribe
+About RCR Wireless News
+Contact Us
+Advertise
+Editorial Calendar
+Archive
+RSS
+Wireless News Archive
+Subscribe
+About RCR Wireless News
+Contact Us
+Advertise
+Editorial Calendar
+Archive
+RSS
+Wireless News Archive
+ Editor's Picks
+ VodafoneThree joins Nokia/Nvidia test squad as carriers kick tires on AI-RAN
+ 6G, AI-RAN will drive longer-term wireless recovery, says Viavi
+ AI exposes Industry 4.0 connectivity gap – private 5G is already part of...
+ Latest Articles
+ VodafoneThree joins Nokia/Nvidia test squad as carriers kick tires on AI-RAN
+ 6G, AI-RAN will drive longer-term wireless recovery, says Viavi
+ AI exposes Industry 4.0 connectivity gap – private 5G is already part of the answer
+ Private 5G, optical highways, satellite IoT – and a big Canadian takeover (Telco Diary)
+© 2026 RCR Wireless News All Right Reserved. Developed by Eight Hats.
+Cookie Policy | Privacy Policy
+News
+Channels
+5G
+6G
+BSS OSS
+Carriers
+IoT
+Network Infrastructure
+Open RAN
+Private 5G
+Telco AI
+Telco Cloud
+Test & Measurement
+Resources
+Reports
+Webinars
+White papers
+AI Fundamentals
+Analyst Angle
+Editorial Calendar
+Fundamentals
+5G NR Release 17
+AI
+Telco AI in 2025
+Podcasts
+Let’s Get Digital with Carrie Charles
+Wireless Connectivity to Enable Industry 4.0 for the Middleprise
+Well Technically…
+Will 5G Change the World
+Accelerating Industry 4.0 Digitalization
+AI Infrastructure
+Programs
+Events
+RCRtv
+Advertise
+Subscribe
+News
+Channels
+5G
+6G
+BSS OSS
+Carriers
+IoT
+Network Infrastructure
+Open RAN
+Private 5G
+Telco AI
+Telco Cloud
+Test & Measurement
+Resources
+Reports
+Webinars
+White papers
+AI Fundamentals
+Analyst Angle
+Editorial Calendar
+Fundamentals
+5G NR Release 17
+AI
+Telco AI in 2025
+Podcasts
+Let’s Get Digital with Carrie Charles
+Wireless Connectivity to Enable Industry 4.0 for the Middleprise
+Well Technically…
+Will 5G Change the World
+Accelerating Industry 4.0 Digitalization
+AI Infrastructure
+Programs
+Events
+RCRtv
+Advertise
+Subscribe
+@2020 - All Right Reserved. Designed and Developed by PenciDesign
+×

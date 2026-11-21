@@ -1,0 +1,338 @@
+Gartner Survey Finds 64% of Customers Would Prefer That Companies Didn’t Use AI For Customer Service
+ Sign In
+ About
+ Newsroom
+ Careers
+ Who We Serve
+ For the C-Suite
+ Chief Information Officer
+ Chief Financial Officer
+ Chief Human Resources Officer
+ Chief Marketing Officer
+ Chief Marketing Officer (High Tech)
+ Chief Sales Officer
+ Chief Supply Chain Officer
+ General Counsel
+ General Manager (High Tech)
+ For IT & Tech Leaders
+ Cybersecurity
+ Data & Analytics
+ Enterprise Architecture
+ Information Technology
+ Infrastructure & Operations
+ Product Management
+ Software Engineering
+ Tech Marketing
+ Technical Professional
+ For Business Leaders
+ Audit & Risk
+ Corporate Communications
+ Customer Service & Support
+ Finance
+ Human Resources
+ Legal & Compliance
+ Marketing
+ Research & Development
+ Sales
+ Supply Chain
+ Industries
+ Education
+ Energy & Utilities
+ Financial Services
+ Government & Public Sector
+ Healthcare
+ High Tech
+ Investment Services
+ Manufacturing
+ Retail
+ Our Solutions
+ Ways We Help Clients
+ Expert GuidanceActionable insight from Gartner leaders
+ ConferencesBe inspired at world-class events
+ ToolsBuild your plans to execute
+ Peer CommunityConnections, chats and advice
+ Peer InsightsTech & services ratings and reviews
+ ConsultingOn-the-ground support
+ Our Most Popular Tools
+ Magic QuadrantActionable advice on tech providers
+ Hype CycleManage tech portfolio risk
+ BuySmartManage the tech-evaluation process
+ Gartner ScoreGauge function performance/maturity
+ Product DecisionsRoadmaps for product managers
+ Digital IQBenchmark your digital brand
+ CIO Initiative AcceleratorsSelf-service guides for key actions
+ Client Stories
+ All Client Stories
+ Cybersecuity
+ Finance
+ High Tech
+ Human Resources
+ Information Technology
+ Legal
+ Marketing
+ Sales
+ Supply Chain
+ Latest Insight
+ Popular Across the C-Suite
+ Strategic Planning
+ Generative AI Resources
+ Excel in a New Executive Role
+ Top Executive Priorities
+ Top Business Insights & Trends
+ Podcast: Gartner ThinkCast
+ Topic Guides
+ Popular Among CIOs & Their Teams
+ AI Readiness Guide
+ AI Strategy Workbook
+ Top Strategic Technology Trends
+ CIO Top Priorities
+ Pressing CIO Challenges
+ Conferences
+ Opportunities to Connect
+ About Gartner Conferences
+ Conferences Calendar
+ Webinars
+ Evanta: Connecting C-Level Executives
+ Conference Roles and Topics
+ Applications
+ CIO
+ Cloud
+ Data & Analytics
+ Digital Workplace
+ Finance
+ Human Resources
+ Identity & Access Management
+ Marketing
+ Sales
+ Security
+ Supply Chain
+ Conference Locations
+ Americas
+ Asia/Pacific & Japan
+ Europe, Middle East & Africa
+ About
+ Newsroom
+ Careers
+ Become a Client
+ or call jsbacContact
+ Newsroom
+ Topics
+ Audit & Risk
+ Customer Service & Support
+ Finance
+ Human Resources
+ Information Technology
+ Legal & Compliance
+ Marketing
+ Sales
+ Supply Chain
+ Media Contacts
+ Media Resources
+ Media Registration
+ Attribution Guide
+ Investor Relations
+ Public Relations Policy
+ Gartner Conferences
+ Insights
+ Select Insights
+ Webinars
+ Podcasts
+ Archive
+ Become a Client
+ or call jsbacContact
+ Menu
+ Newsroom
+ Topics
+ Audit & Risk
+ Customer Service & Support
+ Finance
+ Human Resources
+ Information Technology
+ Legal & Compliance
+ Marketing
+ Sales
+ Supply Chain
+ Media Contacts
+ Media Resources
+ Media Registration
+ Attribution Guide
+ Investor Relations
+ Public Relations Policy
+ Gartner Conferences
+ Insights
+ Select Insights
+ Webinars
+ Podcasts
+ Archive
+ About
+ Newsroom
+ Careers
+Gartner client? Log
+ in for personalized search results.
+Press Release
+Newsroom
+ STAMFORD, Conn. July 9, 2024
+ Gartner Survey Finds 64% of Customers Would Prefer That Companies Didn’t Use AI For Customer Service
+ Customers’ Top Concerns Include Difficulty Reaching an Agent and AI Displacing Jobs
+Sixty-four percent of customers would prefer that companies didn’t use artificial intelligence (AI) in their customer service, according to a survey by Gartner, Inc. Furthermore, 53% of customers would consider switching to a competitor if they found out a company was going to use AI for customer service.
+A Gartner survey of 5,728 customers conducted in December 2023 revealed that while customer service leaders are eager to adopt AI, customers remain concerned about its use within the customer service function.
+“Sixty percent of customer service and support leaders are under pressure to adopt AI in their function,” said Keith McIntosh, Senior Principal, Research, in the Gartner Customer Service & Support practice. “But they can’t ignore concerns about AI use, especially when it could mean losing customers.”
+Difficulty Reaching a Person is Customers’ Top AI Concern
+The top concern that consumers have about AI in customer service is that it will get more difficult reaching a person (see Figure 1), followed by AI displacing jobs, and AI providing the wrong answers.
+“Once customers exhaust self-service options, they’re ready to reach out to a person,” said McIntosh. “Many customers fear that GenAI will simply become another obstacle between them and an agent. The onus is on service and support leaders to show customers that AI can streamline the service experience.”
+ Figure 1. Customer Concerns About AI in Customer Service
+Source: Gartner (July 2024)
+“Service organizations must build customers’ trust in AI by ensuring their GenAI capabilities follow the best practices of service journey design,” said McIntosh. “Customers must know the AI-infused journey will deliver better solutions and seamless guidance, including connecting them to a person when necessary.
+“For example, AI-infused chatbots must communicate to the customer that they will connect them to an agent in the event that the AI cannot provide a solution. It must then seamlessly transform into an agent chat that picks up where the chatbot left off. This way, the customer can trust that they will be able to efficiently find their solution while using the AI-infused channel.”
+Gartner clients can read more in: “4 Customer Insights to Improve the Service Experience”.
+About Gartner for Customer Service & Support Leaders
+The customer service and support function is vital to maintaining customer loyalty and influencing brand perceptions. Gartner for Customer Service & Support Leaders provides indispensable insights, advice and tools needed to achieve service and support leaders’ mission-critical priorities, specifically improving the customer experience while managing costs; designing an optimal service channel strategy; measuring and reducing customer effort; and how to hire, develop and retain high-potential frontline talent.
+Follow news and update from the Gartner Customer Service & Support Practice on X and LinkedIn using #GartnerCSS. Members of the media can find additional information and insights in the Gartner Customer Service & Support Newsroom.
+ Media Contacts
+Jordan Brackenbury
+Gartner
+jordan.brackenbury@gartner.com
+Juliette Dixon
+Gartner
+juliette.dixon@gartner.com
+Share this:
+Newsroom
+View all press releases
+ Latest Releases
+ Select a year
+ 2024
+ Reset
+ Show Filters
+ Hide Filters
+ Gartner Predicts Unofficial Third-Party Tools Powered by GenAI Will Resolve 40% of Customer Service Issues by 2027
+December 16 2024
+ Gartner Predicts that 30% of Fortune 500 Companies Will Offer Service Through Only a Single, AI-Enabled Channel by 2028
+December 11 2024
+ Gartner Survey Reveals 85% of Customer Service Leaders Will Explore or Pilot Customer-Facing Conversational GenAI in 2025
+December 09 2024
+ Sorry, No data match for your criteria. Please refine your filters to display data.
+Related Gartner Research
+ Insight
+Latest Trends & Insights in Customer Service Technologies
+ Read Now
+ Insight
+Gartner Customer Service Operations insights to drive business
+ Read Now
+ Insight
+Modernizing Quality Assurance
+ Read Now
+ Insight
+Latest Trends & Insights in Customer Service Technologies
+ Read Now
+ Sorry, No data match for your criteria. Please refine your filters to display data.
+About Gartner
+Gartner, Inc. (NYSE: IT) delivers actionable, objective insight that drives smarter decisions and stronger performance on an organization’s mission-critical priorities. To learn more, visit gartner.com.
+ About Gartner
+ Who We Are
+ About Us
+ Corporate Responsibility
+ Investor Relations
+ Newsroom
+ What We Do
+ Research & Advisory
+ Conferences
+ Consulting
+ Digital Markets
+ Get in Touch
+ Contact
+ Contact Us
+ Become a Client
+ Office Locations
+ Technical Support
+ Careers
+ Why Gartner
+ Search Careers
+ Our Culture
+ Careers Blog
+ Latest Insights
+ Resources
+ Featured Insights
+ Webinars
+ Glossary
+ Client Stories
+ About Gartner
+ Who We Are
+ About Us
+ Corporate Responsibility
+ Investor Relations
+ Newsroom
+ What We Do
+ Research & Advisory
+ Conferences
+ Consulting
+ Digital Markets
+ Get in Touch
+ Contact
+ Contact Us
+ Become a Client
+ Office Locations
+ Technical Support
+ Careers
+ Why Gartner
+ Search Careers
+ Our Culture
+ Careers Blog
+ Latest Insights
+ Resources
+ Featured Insights
+ Webinars
+ Glossary
+ Client Stories
+ Policies
+ Privacy Policy
+ Terms of Use
+ Ombuds
+ ©2025 Gartner, Inc. and/or its affiliates. All rights reserved.
+ ©2025 Gartner, Inc. and/or its affiliates. All rights reserved.
+ bacform
+Become a Client
+Become a Client
+Clients receive 24/7 access to proven management and technology research, expert advice, benchmarks, diagnostics and more. Fill out the form to connect with a representative and learn more.
+ Or give us a call
+ jsbacContact
+ jsbacContact
+ 8 a.m. – 7 p.m. ET
+ 8 a.m. – 5 p.m. GMT
+ Monday through Friday
+ Work Email
+ First Name
+ Last Name
+ Phone
+ Person Type
+ Job Title
+ Company Name
+ Job Function
+ Audit and Risk
+ Customer Service and Support
+ Finance
+ Technology/Service Providers
+ Human Resources
+ Information Technology Professional
+ Investment Professional
+ Legal and Compliance
+ Marketing and Communications
+ Marketing at a Technology/Service Provider
+ Procurement
+ Research and Development
+ Sales
+ Supply Chain
+ Country
+Please provide the consent below
+ I have read, understood and accepted Gartner
+ Separate Consent Letter
+ , whereby I agree (1) to provide Gartner with my personal information, and understand that information will be transferred outside of mainland China and processed by Gartner group companies and other legitimate processing parties and (2) to be contacted by Gartner group
+ companies via internet, mobile/telephone and email, for the purposes of sales, marketing and research.
+ Submit
+ By clicking the "Submit" button, you are agreeing to the
+ Gartner Terms of Use
+ and
+ Privacy Policy.
+ By clicking the "" button, you are agreeing to the
+ Gartner Terms of Use
+ and
+ Privacy Policy.

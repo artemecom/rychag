@@ -1,0 +1,33 @@
+{
+  "id": "S046",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (kv6_slabyi.json)",
+  "published": "2026-11-21",
+  "accessed": "2026-11-21",
+  "sha256": "dbe1692ff39dc286adf03fd2a6d5a15255bdbfa83ae2b9213e1e0126426cb35a",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-21T17:36:06",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/kv6_slabyi.json",
+      "sha256": "6edea123b38b33cdb05cf9c4fdc314c4a00ab78880638cb457c7cea65d4dcbb8"
+    }
+  ],
+  "rests_on": [
+    "C198",
+    "C195",
+    "C197",
+    "C196",
+    "C268",
+    "C269",
+    "C270"
+  ]
+}

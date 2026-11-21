@@ -1,0 +1,24 @@
+{
+  "id": "S027",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт dopolnenie.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "c3c72e4aa41de2d6de2f83c0293f5e7abb5ad0605b44c141d95bc1bbb6bd6cf8",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T18:26:59",
+  "method": "расчёт",
+  "script": "analysis/dopolnenie.py",
+  "script_sha256": "05e0147f8bf655757183202c4405f3dc9f97e96f4716cedfede9e1b3d2956022",
+  "inputs": [],
+  "rests_on": [
+    "C008",
+    "C009",
+    "C097",
+    "C109"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "S014",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «активность» (aktivnost_osnovnoi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "93716caeef4c224b15177ca52f0b1034f1525ee9889365efe1eac1c7d1da8384",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:54:33",
+  "method": "расчёт",
+  "ready": "активность",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/aktivnost_osnovnoi.json",
+      "sha256": "152e1ce12b496ee560f57bd8143d3218b5bbe1afa0f5a8ee211758522f2b4e29"
+    }
+  ],
+  "rests_on": [
+    "C004",
+    "C005",
+    "C031"
+  ]
+}

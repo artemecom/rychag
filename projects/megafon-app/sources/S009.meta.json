@@ -1,0 +1,17 @@
+{
+  "id": "S009",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт silent.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "8390bbf50fca620a16f0f03b2aa9fc82d1228c690ed0b762a2529da7e802e212",
+  "question": "5",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:26:59",
+  "script": "analysis/silent.py",
+  "script_sha256": "04c093a5a0c3f48cc332637cd6faf22805be55d06841b8beeb4668a1858eb3d1",
+  "inputs": []
+}

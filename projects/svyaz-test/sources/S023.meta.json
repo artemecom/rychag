@@ -1,0 +1,28 @@
+{
+  "id": "S023",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (okup-kab-osn.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "66315d6d94f5b60f2aef213e384fb3cc0ae1532f1bc99c1534572b84752c1aff",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:32:11",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/okup-kab-osn.json",
+      "sha256": "af39d7b445f90b76eaf0189151f396e2dd19407f1191dd327d22c858d2e62860"
+    }
+  ],
+  "rests_on": [
+    "C048",
+    "C025"
+  ]
+}

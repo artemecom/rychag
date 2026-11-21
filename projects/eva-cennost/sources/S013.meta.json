@@ -1,0 +1,18 @@
+{
+  "id": "S013",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт razmer_gruppy.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "30fe3e869cb8306782c7b7fdb4ce1d03296f70dd2fb86bc06edf6bee488eda4d",
+  "question": "5",
+  "stale_accepted": false,
+  "added": "2026-11-19T00:44:48",
+  "method": "расчёт",
+  "script": "analysis/razmer_gruppy.py",
+  "script_sha256": "7860055d30d7f883c281905efe38b8c013060b6ed076e7775442f0e8a1e792fb",
+  "inputs": []
+}

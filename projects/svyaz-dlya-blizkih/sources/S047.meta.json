@@ -1,0 +1,22 @@
+{
+  "id": "S047",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт udergh.py",
+  "published": "2026-11-21",
+  "accessed": "2026-11-21",
+  "sha256": "4b7c687e17f592b502e5023282eab758ba1fede7fc101921185b7ccacf5b8365",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-21T17:44:02",
+  "method": "расчёт",
+  "script": "analysis/udergh.py",
+  "script_sha256": "93c235290ce3b19684e60e026049250df7b419195d0013a66042d5524af7748a",
+  "inputs": [],
+  "rests_on": [
+    "C003",
+    "C093"
+  ]
+}

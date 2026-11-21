@@ -1,0 +1,152 @@
+Vodafone pumps €140m into GenAI-fuelled CX revamp, The AI-Native Telco | TelecomTV
+ News
+ Videos
+ ANTA
+ DSP Leaders
+ Events
+ Reports
+ Webinars
+ Ecosystem
+ Newsletters
+ Directory
+ Topics
+ Digital Platforms & Services
+ Intelligent RAN
+ Cloud-Native Telco
+ AI-Native Telco
+ Network APIs
+ The Green Network
+ Asia
+ Next-Gen Telco Infra
+ Telcos and Public Cloud
+ 5G Evolution
+ Telcos & Autos
+ Access Evolution
+ Network Automation
+ Defining 6G Networks
+ Private Networks
+ Security
+ More Topics
+ Events
+ Reports
+ Webinars
+ Ecosystem
+ Directory
+ Newsletters
+ |
+ About
+ |
+ Contact
+ |
+ Connect with us
+ Intelligent RAN
+ Cloud-Native Telco
+ AI-Native Telco
+ Network APIs
+ The Green Network
+ Asia
+ Next-Gen Telco Infra
+ Telcos and Public Cloud
+ 5G Evolution
+ Telcos & Autos
+ Access Evolution
+ Network Automation
+ 6G Research and Innovation
+ Private Networks
+ Security
+ Connect with TelecomTV
+ About
+ Privacy
+ Help
+ Contact
+ Sign In
+ Register
+ Subscribe
+ Subscribe
+ Sign In
+ Register
+ Search
+ Search
+ Search
+ The AI-Native Telco
+ Telcos & AI
+ Vodafone pumps €140m into GenAI-fuelled CX revamp
+ By Ray Le Maistre
+ Jul 4, 2024
+ Vodafone Group has reallocated €140m towards a revamp of its customer experience (CX) capabilities
+ At the heart of the revamp is a GenAI-enabled chatbot, SuperTOBi
+ Microsoft’s GenAI platform is underpinning the upgraded chatbot and aiding Vodafone’s customer care staff
+ By building on its wide-ranging and strategic relationship with Microsoft, unveiled in January this year, and reallocating €140m of investments, Vodafone Group is aiming to put generative AI (GenAI) technology to good use and do something that a lot of telcos talk about but rarely deliver – improve the experience of its customers.
+Vodafone has announced a “wide-reaching transformation of the customer experience” that will largely rely on the capabilities of Microsoft’s GenAI platform, Azure OpenAI, which will underpin the functionality of SuperTOBi, an updated version of its already widely used chatbot, as well as aid the telco’s customer care staff.
+Vodafone noted in January that Azure OpenAI would be used to enhance and underpin its consumer and enterprise customer experience interactions, including those via the telco’s existing digital assistant TOBi, to “provide a highly personalised and differentiated customer experience across multiple channels”.
+TOBi, which is currently deployed as a virtual customer care agent in 13 countries across Europe and Africa and understands 11 different languages, was launched as long ago as 2017 and was initially underpinned by IBM’s Watson platform and software from conversational commerce specialist LivePerson.
+With Azure OpenAI’s GenAI capabilities, Vodafone’s new version of the chatbot, SuperTOBi, can “understand and respond faster to complex customer enquiries better than traditional chatbots… [SuperTOBi] can interpret entire sentences and phrases, overcoming the limitations of existing chatbot technologies which typically can answer only simple questions based on a few key words. It also engages in more natural conversation with customers for a more personalised experience, rather than one- or two-word answers, and it will automatically transfer a question it can’t answer to a person that can,” according to Vodafone.
+SuperTOBi is already engaging with customers in Italy and Portugal. “Customers of Vodafone Portugal are already benefitting from SuperTOBi when booking appointments… the first-time resolution rate has increased from 15% to 60% and Vodafone’s online net promoter scores (where respondents are asked to rate their experience) improved by 14 points to 64 points – anything above 50 points is considered a strong result,” noted the telco, which is set to put SuperTOBi to work soon on answering billing queries.
+The GenAI-fuelled chatbot will be introduced in Germany and Turkey this month, with other markets to follow later in the year.
+But even with the help of GenAI, a chatbot’s capabilities are still limited. Now, though, when interactions are passed on to human operatives, the customer care staff are also aided by GenAI in the form of a tool dubbed SuperAgent: It is based on Azure OpenAI’s Agent Copilot solution and helps staff to “quickly search and locate answers to complex queries or multiple questions.” At Vodafone Ireland, SuperAgent is being used to send customer care staff a summary of the interaction that a customer has already had with a chatbot so that customers don’t need to repeat themselves. The operator notes that the tool only uses information from Vodafone’s databases, “ensuring that the information is more reliable than public sources.”
+Microsoft’s GenAI platform is also sitting behind SuperSearch, a new search tool on Vodafone’s customer-facing websites.
+The news that Vodafone is upgrading its customer experience interactions with the use of GenAI capabilities comes hot on the heels of a report from Vodafone and the London School of Economics, which suggests that businesses using AI could see a boost in customer trust scores if the technology is deployed with a human touch – Can AI help build customer trust? Vodafone reckons so.
+- Ray Le Maistre, Editorial Director, TelecomTV
+ Related Topics
+ AI & ML,
+ Analysis & Opinion,
+ Digital Platforms and Services,
+ Europe,
+ Microsoft,
+ Middle East & Africa,
+ News,
+ Telco & CSP,
+ The AI-Native Telco,
+ Vodafone
+ More Like This
+ Unthinkable
+A preview of the Unthinkable Labs session on AI voice for telcos
+ Oct 8, 2026
+ The AI-Native Telco Forum - Live Broadcast
+The AI-Native Telco Forum 2026 - Live Broadcast
+ Aug 28, 2026
+ VMware
+Telco Cloud – strengthening zero trust security and resilience with VMware Cloud Foundation 9.1
+ Aug 7, 2026
+ VMware
+What’s new in VMware Telco Cloud Platform 5.2
+ Aug 7, 2026
+ DSP Leaders World Forum
+6G standardisation begins as operators seek AI-native networks
+ Jun 3, 2026
+ Email Newsletters
+ Sign up to receive TelecomTV's top news and videos, plus exclusive subscriber-only content direct to your inbox.
+ Subscribe
+Latest Videos
+ 4:38
+ Digital Platforms and Services
+ Why telcos need regulatory clarity on digital sovereignty
+ 4:36
+ Ericsson OSS/BSS Summit 2026
+ Swisscom on its approach to network autonomy
+ 3:28
+ Spotlight on 5G
+ How to turn telecom operations into autonomous operations with AI and closed-loop automation
+ Ericsson: From rApps to autonomous networks
+ From rApps to autonomous networks: Making open ecosystems work
+ Company
+ About Us
+ Media Kit
+ Careers
+ Contact Us
+ Our Brands
+ DSP Leaders World Forum
+ Great Telco Debate
+ TelecomTV Events
+ The AI-Native Telco Accelerator (ANTA)
+ Get In Touch
+ [email protected]
+ +44 (0) 207 448 1070
+ Connect With Us
+ Privacy
+ Cookies
+ Terms of Use
+ Legal Notices
+ Help
+ TelecomTV is produced by the team at Decisive Media.
+ © Decisive Media Limited 2026. All rights reserved. All brands and products are the trademarks of their respective holder(s).

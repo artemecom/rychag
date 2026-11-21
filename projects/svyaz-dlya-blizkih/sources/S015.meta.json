@@ -1,0 +1,31 @@
+{
+  "id": "S015",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «граница» (granica.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "68a67b1194b76fb829f23adb5edbd41dc7bf05da89e6df1859460ccc4c46d774",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:54:33",
+  "method": "расчёт",
+  "ready": "граница",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/granica.json",
+      "sha256": "19313b1bacb5ffc80f2f108485016a4de68447ac5f7ba1a063c21b12081fbef7"
+    }
+  ],
+  "rests_on": [
+    "C003",
+    "C008",
+    "C009",
+    "C028",
+    "C036"
+  ]
+}

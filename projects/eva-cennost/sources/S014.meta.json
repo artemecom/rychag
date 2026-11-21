@@ -1,0 +1,23 @@
+{
+  "id": "S014",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 2,
+  "title": "Расчёт prosadka_2025.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "d9ea8d1f6c956b36ede6b2d5ea6578cdda1e82b9d1993a2b7a0d7c011eb5ca2c",
+  "question": "Вклад тем в изменение доли плохих отзывов до и после перелома июля 2025 и проверка на срезе без связи с причиной",
+  "stale_accepted": false,
+  "added": "2026-11-19T02:22:08",
+  "method": "словарь",
+  "script": "analysis/prosadka_2025.py",
+  "script_sha256": "e8ae504bfceee12c3ab1fafca69f60a8a904988f99fb485a3a224cb13a57d99d",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews_full.csv",
+      "sha256": "4bc771bf94f027b418ed82e9ab4329dd74e4448ec984b3513f71c16c86283815"
+    }
+  ]
+}

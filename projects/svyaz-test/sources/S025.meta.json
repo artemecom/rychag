@@ -1,0 +1,25 @@
+{
+  "id": "S025",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт razryvy.py",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "8459d01367a3647054def45c4897e38f9b4a27e5100d8b3bb11b753b6d3b0b37",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:33:00",
+  "method": "расчёт",
+  "script": "analysis/razryvy.py",
+  "script_sha256": "54516969daabcdc5779848b674cf6e67bfc26178fe675ae35996353003a0385b",
+  "inputs": [],
+  "rests_on": [
+    "C072",
+    "C001",
+    "C011",
+    "C004",
+    "C066"
+  ]
+}

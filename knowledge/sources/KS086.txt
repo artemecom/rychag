@@ -1,0 +1,330 @@
+Gartner Survey Finds Only 14% of Customer Service Issues Are Fully Resolved in Self-Service
+ Sign In
+ About
+ Newsroom
+ Careers
+ Who We Serve
+ For the C-Suite
+ Chief Information Officer
+ Chief Financial Officer
+ Chief Human Resources Officer
+ Chief Marketing Officer
+ Chief Marketing Officer (High Tech)
+ Chief Sales Officer
+ Chief Supply Chain Officer
+ General Counsel
+ General Manager (High Tech)
+ For IT & Tech Leaders
+ Cybersecurity
+ Data & Analytics
+ Enterprise Architecture
+ Information Technology
+ Infrastructure & Operations
+ Product Management
+ Software Engineering
+ Tech Marketing
+ Technical Professional
+ For Business Leaders
+ Audit & Risk
+ Communications
+ Customer Service & Support
+ Finance
+ Human Resources
+ Legal & Compliance
+ Marketing
+ Research & Development
+ Sales
+ Supply Chain
+ Industries
+ Education
+ Energy & Utilities
+ Financial Services
+ Government & Public Sector
+ Healthcare
+ High Tech
+ Investment Services
+ Manufacturing
+ Retail
+ Our Solutions
+ Ways We Help Clients
+ Expert GuidanceUnique expertise, when you need it
+ Executive FastStartProven approach for your new role
+ ConferencesInspired events around the world
+ ToolsPractical ways to tackle problems
+ Peer InsightsTech & services ratings and reviews
+ ConsultingOn-the-ground support
+ Our Most Popular Tools
+ Magic QuadrantCompare tech solutions
+ Hype CycleTrack emerging tech
+ BuySmartBuy tech with confidence
+ Proposal ReviewsOptimize vendor negotiations
+ Gartner ScoreBenchmark your function
+ Accelerators for CIOsFast-track critical decisions
+ Conferences
+ Opportunities to Connect
+ About Gartner Conferences
+ Conferences Calendar
+ Gartner C-level Communities
+ Exhibit With Us
+ Conference Roles and Topics
+ Applications & Software Engineering
+ CIO & IT Executives
+ Data & Analytics
+ Digital Workplace
+ Enterprise Risk, Audit & Compliance
+ Finance
+ Human Resources
+ Identity & Access Management
+ IT Infrastructure, Operations & Cloud
+ Marketing
+ Sales
+ Security & Risk Management
+ Supply Chain
+ Technology & Service Providers
+ Conference Locations
+ Americas
+ Asia/Pacific & Japan
+ Europe, Middle East & Africa
+ Webinars
+ Upcoming Webinars
+ On-Demand Webinars
+ AI Webinars
+ For the C-Suite
+ For All Leadership
+ Public Sector Webinars
+ AI Hub
+ AskGartnerAI-powered access to our insights
+ Drive Positive ROI on AISolutions for your AI journey
+ Win the AI Vendor RaceCompeting in the $1T AI market
+ AI Use CasesEvaluate and prioritize AI initiatives
+ AI Maturity ModelGauge your AI readiness
+ 2025 AI Hype CycleTrack AI innovations
+ New To Role
+ About
+ Newsroom
+ Careers
+ Become a Client
+ or call jsbacContact
+ Newsroom
+ Topics
+ Audit & Risk
+ Customer Service & Support
+ Finance
+ Human Resources
+ Information Technology
+ Legal & Compliance
+ Marketing
+ Sales
+ Supply Chain
+ Media Contacts
+ Media Resources
+ Media Registration
+ Attribution Guide
+ Investor Relations
+ Public Relations Policy
+ Gartner Conferences
+ Insights
+ Business and Technology Insights
+ Webinars
+ Podcasts
+ Archive
+ Become a Client
+ or call jsbacContact
+ Menu
+ Newsroom
+ Topics
+ Audit & Risk
+ Customer Service & Support
+ Finance
+ Human Resources
+ Information Technology
+ Legal & Compliance
+ Marketing
+ Sales
+ Supply Chain
+ Media Contacts
+ Media Resources
+ Media Registration
+ Attribution Guide
+ Investor Relations
+ Public Relations Policy
+ Gartner Conferences
+ Insights
+ Business and Technology Insights
+ Webinars
+ Podcasts
+ Archive
+ About
+ Newsroom
+ Careers
+Gartner client? Log
+ in for personalized search results.
+Press Release
+Newsroom
+ STAMFORD, Conn. August 19, 2024
+ Gartner Survey Finds Only 14% of Customer Service Issues Are Fully Resolved in Self-Service
+ Customers Struggle to Resolve Even Simple Issues Without Turning To Assisted Channels
+Only 14% of customer service and support issues are fully resolved in self-service, according to a survey by Gartner, Inc. Even for issues that customers describe as “very simple”, only 36% resolve fully in self-service.
+While many organizations have made considerable investments in self-service capabilities, a Gartner survey of 5,728 customers conducted in December 2023 revealed that resolution rates remain low.
+“While 73% of customers use self-service at some point in their customer service journey, it’s concerning to see that so few fully resolve there,” said Eric Keller, Senior Director, Research in the Gartner Customer Service & Support Practice. “It’s imperative that customer service and support leaders work to resolve the issues customers face in order to fully realize the value of their self-service investments.”
+Customers Frustrated by Ineffective Self-Service Solutions
+Customers feel a disconnect between the issues they want to solve and the capabilities that self-service can offer. Forty-five percent of customers who started in self-service said the company didn’t understand what they were trying to do. Furthermore, the most common reason for self-service failure was that in 43% of cases, customers couldn’t find content relevant to their issue.
+“Customers feel frustrated by self-service journeys that feel too rigid to deal with the complexities of their service issues,” said Keller. “Self-service can offer substantial benefits for organizations and customers, but work is required to ensure that customers' needs are understood and responded to.”
+In order to improve self-service resolution, customer service and support leaders should:
+Scale and maintain self-service content by expanding content creation responsibilities to reps, enabling them to create knowledge as part of the issue resolution workflow, rather than as a separate process.
+Invest in proactive delivery of self-service solutions by using customer account, interaction and product usage data to predict customer needs.
+Simplify the resolution path on their website with a single digital concierge, such as a GenAI chatbot, positioned as the most prominent entry point to the customer journey.
+Assess and improve the performance of self-service content continuously — for example, by allowing both customers and reps to flag ineffective content and establishing ongoing processes for improving content quality.
+“The realities of self-service journeys, which have many potential paths to a solution, varying expectations for content, and constantly evolving issue types — have limited the success of organizations’ self-service investments,” said Keller. “Organizations need to capture, diagnose and predict customer intent in self-service, and match them with the best-fit solution.”
+Gartner clients can read more in: “Accelerate Self-Service Success by Diagnosing Customer Needs”. Additional information can be found in the associated eBook.
+About Gartner for Customer Service & Support Leaders
+The customer service and support function is vital to maintaining customer loyalty and influencing brand perceptions. Gartner for Customer Service & Support Leaders provides indispensable insights, advice and tools needed to achieve service and support leaders’ mission-critical priorities, specifically improving the customer experience while managing costs; designing an optimal service channel strategy; measuring and reducing customer effort; and how to hire, develop and retain high-potential frontline talent.
+Follow news and update from the Gartner Customer Service & Support Practice on X and LinkedIn using #GartnerCSS. Members of the media can find additional information and insights in the Gartner Customer Service & Support Newsroom.
+ Media Contacts
+Jordan Brackenbury
+Gartner
+jordan.brackenbury@gartner.com
+Juliette Dixon
+Gartner
+juliette.dixon@gartner.com
+Share this:
+Newsroom
+View all press releases
+ Latest Releases
+ Select a year
+ 2025
+ Reset
+ Show Filters
+ Hide Filters
+ Gartner Says the Most Valuable AI Use Cases for Customer Service and Support Fall into Four Areas
+October 08 2025
+ Gartner Predicts None of the Fortune 500 Companies Will Have Fully Eliminated Human Customer Service by 2028
+September 10 2025
+ Gartner Survey Finds Self-Service and Live Chat Will Surpass Traditional Channels as Top Customer Service Technologies By 2027
+August 27 2025
+ Sorry, No data match for your criteria. Please refine your filters to display data.
+Related Gartner Research
+ Article
+Customer Service Technology Must Prioritize Business Requirements
+ Read Now
+Support Long-Term Improvements with Operations & Digital Efficiency Benchmarking
+ Read Now
+ eBook
+Value-Driven Strategies for The Future Customer Service
+ Download eBook
+ Article
+Customer Service Technology Must Prioritize Business Requirements
+ Download eBook
+ Sorry, No data match for your criteria. Please refine your filters to display data.
+About Gartner
+Gartner, Inc. (NYSE: IT) delivers actionable, objective insight that drives smarter decisions and stronger performance on an organization’s mission-critical priorities. To learn more, visit gartner.com.
+ About Gartner
+ Who We Are
+ About Us
+ Corporate Responsibility
+ Investor Relations
+ Newsroom
+ What We Do
+ Insights
+ Conferences
+ Consulting
+ Digital Markets
+ Get in Touch
+ Contact
+ Contact Us
+ Become a Client
+ Office Locations
+ Technical Support
+ Careers
+ Why Gartner
+ Search Careers
+ Our Culture
+ Careers Blog
+ Latest Insights
+ Resources
+ Featured Insights
+ Webinars
+ Newsletter
+ Client Stories
+ About Gartner
+ Who We Are
+ About Us
+ Corporate Responsibility
+ Investor Relations
+ Newsroom
+ What We Do
+ Insights
+ Conferences
+ Consulting
+ Digital Markets
+ Get in Touch
+ Contact
+ Contact Us
+ Become a Client
+ Office Locations
+ Technical Support
+ Careers
+ Why Gartner
+ Search Careers
+ Our Culture
+ Careers Blog
+ Latest Insights
+ Resources
+ Featured Insights
+ Webinars
+ Newsletter
+ Client Stories
+ Policies
+ Privacy Policy
+ Terms of Use
+ Ombuds
+ Site Map
+ Glossary
+ ©2025 Gartner, Inc. and/or its affiliates. All rights reserved.
+ ©2025 Gartner, Inc. and/or its affiliates. All rights reserved.
+ bacform
+Become a Client
+Become a Client
+Clients receive 24/7 access to proven management and technology research, expert advice, benchmarks, diagnostics and more. Fill out the form to connect with a representative and learn more.
+ Or give us a call
+ jsbacContact
+ jsbacContact
+ 8 a.m. – 7 p.m. ET
+ 8 a.m. – 5 p.m. GMT
+ Monday through Friday
+ Work Email
+ First Name
+ Last Name
+ Phone
+ Person Type
+ Job Title
+ Company Name
+ Job Function
+ Audit and Risk
+ Customer Service and Support
+ Finance
+ Technology/Service Providers
+ Human Resources
+ Information Technology Professional
+ Investment Professional
+ Legal and Compliance
+ Marketing and Communications
+ Marketing at a Technology/Service Provider
+ Procurement
+ Research and Development
+ Sales
+ Supply Chain
+ Country/Region/Territory
+Please provide the consent below
+ I have read, understood and accepted Gartner
+ Separate Consent Letter
+ , whereby I agree (1) to provide Gartner with my personal information,
+ and understand that information will be transferred outside of mainland China
+ and processed by Gartner group companies and other legitimate processing parties
+ and (2) to be contacted by Gartner group companies via internet, mobile/telephone and email,
+ for the purposes of sales, marketing and research.
+ Submit
+ By proceeding, you agree to the
+ Gartner Terms of Use
+ and
+ Privacy Policy.

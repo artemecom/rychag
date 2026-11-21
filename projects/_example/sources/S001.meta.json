@@ -1,0 +1,14 @@
+{
+  "id": "S001",
+  "kind": "файл",
+  "url": null,
+  "path": "materials/pricing-changelog.txt",
+  "title": "Журнал изменений тарифов (вымышленный)",
+  "published": "2026-07-01",
+  "accessed": "2026-11-18",
+  "sha256": "93af06a7e583f220e56f2dc5ef0f8628b525a6dea76f4c1474f5832a9bd01cf0",
+  "question": "причина падения",
+  "stale_accepted": false,
+  "added": "2026-11-18T22:20:34",
+  "layer": 1
+}

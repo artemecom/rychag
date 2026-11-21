@@ -1,0 +1,113 @@
+Deutsche Telekom is replacing phone menus with AI agents, its AI chief says
+ Skip to content
+ Toggle Navigation
+ News
+ Events
+ TNW Conference
+ All Events
+ Newsletters
+ Advertise with us
+ Jobs
+ Contact
+ News
+ News
+ News
+ News
+ Latest
+ Deep tech
+ Sustainability
+ Ecosystems
+ Data and security
+ Fintech and ecommerce
+ Future of work
+ More
+ Startups and technology
+ Investors and funding
+ Government and policy
+ Corporates and innovation
+ This article was published on September 24, 2026
+ Artificial Intelligence
+ Deutsche Telekom is replacing phone menus with AI agents, its AI chief says
+ Deutsche Telekom chief AI officer Kartik Sheth told HumanX that AI agents are replacing its phone menus. Calls handled without a human rise by one to two points a month.
+ September 24, 2026 - 4:32 pm
+ Deutsche Telekom chief AI officer Kartik Sheth at HumanX in Amsterdam, 24 September 2026.
+ Credit: Sam Pinto / HumanX
+ Deutsche Telekom is replacing the automated phone menus on its customer service lines with AI agents, chief AI officer Kartik Sheth said. The share of customer interactions that never reach a human grows by one or two percentage points every month, he said.
+Sheth spoke on Thursday at HumanX in Amsterdam with Business Insider senior correspondent Hugh Langley. Deutsche Telekom operates in 10 European countries, from Poland to Greece, with Germany the largest. Each has its own tech stack, languages, accents and regulations, he said.
+“There is no argument that replacing an IVR with AI gives you better experience,” Sheth said.
+An AI agent answers 24 hours a day, in 40 to 60 languages, with no hold time, he said. It also classifies calls better. In some countries callers already no longer reach the menu, and in others that will be true within months. Calls an AI agent can handle go to one first.
+From 20% to 40%, then the hard part
+When Deutsche Telekom switches AI on for a new use case, the agent handles no more than 20% of those calls, Sheth said. A week later it is 24% or 25%, then 28%. It reaches 40% within a couple of months.
+Going from 40% to 60% is harder, 60% to 80% is really hard, and anything above 80% is really, really hard, he said. At that point the company is solving edge cases that combine several problems and need an experienced human handler.
+Simple actions, such as checking and rebooting a router or explaining a high bill, now go to AI agents. Complex calls go to humans. Older systems were not built for this, so the company adds adapters and caching. A router reboot can take 30 to 60 seconds, which would once have meant hold music.
+Next, Sheth expects the agent to become a personal relationship manager. It would act for the customer, for example by switching off roaming.
+Evals over features
+“We’ve gone from features as the primary currency to evals as the primary currency and guardrails,” Sheth said.
+A product goal might now be to raise voice quality from 70 to 75, he said. Guardrails set what the agent may and may not do. As trust builds, the guardrails get sharper and the agent gets more control within them. Adding guardrails later gets messy, he said.
+Deutsche Telekom works with Decagon and other AI startups. It provides infrastructure, sometimes sells jointly to small businesses and consumers, and invests in its partners, Sheth said. That buys the attention of founders and their best teams, and speed the company could not match internally, he said.
+To avoid lock-in, Deutsche Telekom builds the tooling layer and its own evals. It exposes an MCP layer rather than raw APIs, so it can switch if the technology changes. Partners also bring practices from other markets, he said. Faced with a system without APIs, the old approach was to spend six months building one. Now the agent can use computer use instead.
+The company measures network, operations and marketing agents in euros. For customer care, the leading indicator is the share of interactions AI handles without a human. Sheth expects it to keep rising for the next year or two. Customers accept AI more, models improve and the company exposes more endpoints to agents, he said.
+Translation on the phone network
+Deutsche Telekom announced a call assistant in Barcelona and is on track to launch it this calendar year, Sheth said. It translates calls in real time with no special hardware, as long as one of the two callers is on its network. It can also transcribe calls, as note-taking apps like Granola do, and take web actions such as booking a meeting slot.
+Users must give consent and credentials, and Deutsche Telekom also asks the other party for consent before transcription or translation, he said. He argued that customers trust a regulated telco more than a company they have not heard of.
+Outside the company, Sheth singled out a demo by Listen Labs. Consumer research that took him months at Unilever and McKinsey can now be done overnight, and Deutsche Telekom is running pilots with the startup. Deutsche Telekom has also built more than 2,000 apps on Lovable, that company’s co-founder told HumanX.
+“When the first time you do a real time translation on the phone network, it’s goosebumps,” Sheth said.
+ Story by
+ Cristian Dina
+ Cristian Dina is the CRO at The Next Web. He has interviewed 300+ industry leaders and authored the book King of Networking, establishing hi (show all)
+ Cristian Dina is the CRO at The Next Web. He has interviewed 300+ industry leaders and authored the book King of Networking, establishing himself as one of the most connected and respected voices in the ecosystem. At just 23 years old, Cristian was included in the Forbes 30 Under 30 2025 list, representing a new generation of tech builders, bold thinkers who move fast, build with purpose, and create real impact.
+ Get the TNW newsletter
+ Get the most important tech news in your inbox each week.
+ Email address
+ Subscribe
+ Website
+ Thanks! Check your inbox to confirm your subscription.
+ By subscribing you agree to our Privacy Statement.
+ Published September 24, 2026 - 4:32 pm UTC
+ Back to top
+ Story by a
+ Cristian Dina
+ Popular articles
+ 1
+ OpenAI’s discounts win Anthropic customers, The Information reports
+ 2
+ Apollo’s Slok says US companies now treat AI spending as a cost, not growth
+ 3
+ American Express cuts 5% of staff and won’t let AI agents ‘run rogue’
+ 4
+ Goldman Sachs puts $500M into small-business AI with four AI labs
+ 5
+ Sam Altman says AI means we can no longer just patch all the bugs
+ Get the TNW newsletter
+ ✕ Close
+ Get the TNW newsletter
+ Get the most important tech news in your inbox each week.
+ Email address
+ Subscribe
+ Website
+ Thanks! Check your inbox to confirm your subscription.
+ By subscribing you agree to our Privacy Statement.
+ Related Articles
+ openai
+ OpenAI’s discounts win Anthropic customers, The Information reports
+ artificial-intelligence
+ Apollo’s Slok says US companies now treat AI spending as a cost, not growth
+ future-of-work
+ American Express cuts 5% of staff and won’t let AI agents ‘run rogue’
+ artificial-intelligence
+ Goldman Sachs puts $500M into small-business AI with four AI labs
+ openai
+ Sam Altman says AI means we can no longer just patch all the bugs
+ The heart of tech
+ More TNW
+ Media
+ Events
+ Newsletters
+ About TNW
+ Advertise with us
+ Terms & Conditions
+ Cookie Statement
+ Privacy Statement
+ Consent Preferences
+ A Tekpon Company
+ Copyright © 2006—2026, Cogneve, INC. Made with <3 in Amsterdam.

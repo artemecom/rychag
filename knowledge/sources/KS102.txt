@@ -1,0 +1,147 @@
+How mobile network experience affects churn in US wireless carriers | Opensignal
+Skip to main content
+Download the app
+Market Insights
+All Insights
+Global
+filler
+Afghanistan
+Albania
+Algeria
+Argentina
+Australia
+Austria
+Bahrain
+Bangladesh
+Belgium
+Bolivia
+Brazil
+Bulgaria
+Cambodia
+Canada
+Chile
+Colombia
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+Estonia
+Finland
+France
+Germany
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Kuwait
+Latvia
+Libya
+Lithuania
+Malaysia
+Maldives
+Mexico
+Morocco
+Myanmar
+Netherlands
+New Zealand
+Nicaragua
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Tunisia
+Türkiye
+UAE
+UK
+Uruguay
+USA
+Vietnam
+All Reports
+Other Analysis and Insights
+Solutions
+Operators
+Regulators
+Analysts
+App Developers
+Opensignal Manifesto
+Independence Charter
+Analytics Charter
+Experience Charter
+Apps
+Opensignal app
+Meteor app
+About
+Careers
+DEI&B
+Newsroom
+Contact
+Blog
+How mobile network experience affects churn in US wireless carriers
+October 20, 2022 by
+Robert Wyrzykowski and Ian Fogg
+In this new analysis Opensignal uncovers that users who switched wireless carriers in the U.S. had a weaker mobile network experience than the average for all users on their original carrier. Retaining customers is critical for business success. Verizon CEO Hans Vestberg has warned wireless postpaid adds will likely decline again in the company’s upcoming Q3 2022 results. While financial analysts are more upbeat on T-Mobile, AT&T had a strong second quarter on which to build. In this insight we identify opportunities and risks for all three carriers.
+Opensignal data demonstrates there is a strong correlation between users that saw more time spent without cellular signal and relatively worse 5G Availability and those users that switched carrier. This relationship holds true for AT&T and T-Mobile. When we compare the multiplayer gaming experience of Leavers, we see a large difference for T-Mobile, but smaller ones for AT&T and Verizon. On average download speed, both T-Mobile and AT&T Leavers saw significantly slower speeds than the all user average.
+Those users that switched wireless carrier, who we call Leavers, spent approximately twice the amount of time with no signal on AT&T and Verizon compared with the average for all users on those carriers. On T-Mobile the difference was even greater, with Leavers spending over three fold more time with no signal (4.1% versus 1.2%). This strong correlation provides carriers’ retention teams with a new way to identify potential churners and provides acquisition teams with a new way to segment target users.
+5G Availability shows a similar correlation for AT&T and T-Mobile Leavers. Leavers spent significantly less time with an active 5G connection than the average for all users on their original carrier. However, the difference between the segments is not significant for Verizon users.
+But national data only goes so far. It’s important to analyze local and regional market differences to boost customer retention by tackling mobile network experience weaknesses. Opensignal has analyzed the mobile experience across 379 metropolitan statistical areas (MSAs) to understand what proportion of each carriers’ users are at risk of churn because they spent more time with no signal.
+The U.S. national average was 1.1% of time with no signal in the period analyzed. When we look at the proportion of each carriers’ users that spent at least 2% of their time with no signal — which was the average value for Leavers we saw on AT&T and Verizon’s networks nationally — we found large differences across U.S. cities. While in 164 MSAs, over 15% of our T-Mobile users exceeded this potential churn risk threshold, the number was 50 MSAs for Verizon and just 35 MSAs for AT&T. These are the cities with the most users at risk of churn because of more time spent with no signal.
+If we take a higher potential churn risk threshold — users that spent over 4% of time without cellular signal, which was the average for T-Mobile Leavers nationally. Again, T-Mobile had the most and AT&T had the fewest MSAs where a sizeable minority of users exceeded this risk threshold: at least 5% of users had over 4% of time with no signal on 152 MSAs on AT&T, compared with 176 for Verizon and 337 for T-Mobile.
+Opensignal analyzes the mobile experience across a wide range of measures. Many, like Games Experience, focus on specific application or service experiences rather than looking purely at technical measurements. This is because no single test fully represents the real-world mobile experience of all users all of the time. Games Experience is extremely important for players of multiplayer mobile games but is less so for other users which likely explains why there is less difference in Games Experience scores between Leavers and all users compared with no signal time.
+When we analyze the Download Speed Experience and Games Experience of users, we see a large difference between T-Mobile Leavers and all users. However, for AT&T Leavers there is a smaller but still significant difference nationally. For Verizon, Leavers only see a decline in Games Experience. As with the no signal analysis above, where we looked across hundreds of MSAs to spot regional opportunities, these national trends do not hold true everywhere.
+Retaining subscribers is a key challenge for mobile operators
+T-Mobile continues to win numerous 5G awards both in the U.S., as well as global 5G awards. However, this initial Opensignal analysis of T-Mobile Leavers highlights areas of weakness that AT&T and Verizon teams could identify and exploit across different regional markets. For example, by analyzing local experience carrier acquisition teams could target T-Mobile users that are likely to have more time spent with no signal or significantly slower download speeds to the T-Mobile average.
+Analyzing mobile network experience at a local level helps carrier engineering teams to boost business as well as technical performance, and build the case for increased network investment to support company-wide wireless subscriber objectives. It also creates areas for collaboration between commercial, marketing and network teams charged with responsibility for a regional market. Opensignal will continue to analyze the Leavers’ experience to provide further local insights in future.
+©2024 Opensignal, Limited - All rights reserved.
+Opensignal Limited retains ownership of this insight including all intellectual property rights, data, content, graphs & analysis. Reports and insights produced by Opensignal Limited may not be quoted, reproduced, distributed, published for any commercial purpose (including use in advertisements or other promotional content) without prior written consent. Journalists are encouraged to quote information included in Opensignal reports and insights provided they include clear source attribution. For more information, contact [email protected].
+Previous
+Next
+Sign up to our newsletter to receive the latest Opensignal reports in your inbox
+Market Insights
+Newsroom
+Contact
+Methodology Overview
+Independence Charter
+Experience Charter
+Analytics Charter
+Data Privacy Charter
+Opensignal Apps
+Coverage Maps
+App Partner Program
+© 2024 Opensignal Limited - All rights reserved
+Privacy Policy : Apps & Connectivity Assistant
+Privacy Policy : Services & Web
+Terms & Conditions

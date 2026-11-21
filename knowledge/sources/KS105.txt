@@ -1,0 +1,115 @@
+Russia’s internet censorship in 2026: VPN crackdowns, mobile shutdowns, Telegram blocks and the state messenger Max
+Donate
+Article
+7 April 2026, 18:09
+Alexander Borodikhin
+Behind the curtain. A comprehensive guide to Russia’s internet censorship in 2026—and what life feels like inside it
+Photo: Getty Images
+Over the past few months, Russia has rapidly enacted a barrage of measures to build the most comprehensive system of internet censorship the Kremlin has long yearned for—and kept failing to construct. What began with the crude blocking of individual websites, like Mediazona’s, and attempts to shut down Telegram that famously broke water boilers by knocking out their IP addresses, has evolved into an interlocking apparatus of deep packet inspection (DPI), mass mobile internet shutdowns, enforced state-controlled messaging, systematic restrictions on circumvention tools, and growing pressure on those who use them. It is easy to get lost in the avalanche of daily reports on each individual step, so here is a comprehensive account of how ordinary Russians came to find themselves “living by running from Wi-Fi to Wi-Fi.”
+The boxes
+The foundation of Russia’s modern censorship regime are TSPUs (Technical Means of Countering Threats), deep packet inspection “boxes” installed on the network of every internet service provider in Russia under the 2019 “Sovereign Internet” law. Unlike earlier blacklist-based approaches, which relied on ISPs themselves to enforce blocks on specific addresses, TSPU equipment is controlled exclusively by Roskomnadzor, the state censorship agency. Individual providers have no control over these filtering devices.
+The first attempt to block Telegram, in 2018, failed spectacularly. At the time, the messenger’s team evaded blocking by rapidly cycling IP addresses, distributing server locations major international infrastructure. Roskomnadzor was forced into an embarrassing chase, blacklisting millions of IP addresses belonging to major cloud providers such as Amazon and Hetzner, before abandoning the effort altogether.
+Since then, Moscow has dedicated tremendous effort and financial backing to installing TSPU filtering equipment across the country to read traffic in real time and identify not merely the destination of a connection but the nature of the traffic itself. Now, any messenger’s distinctive traffic signature makes it easily identifiable. Connections can be throttled by any desired percentage or blocked outright.
+In March, Kommersant daily reported that the Ministry of Digital Development plans to increase TSPU capacity two-and-a-half times by 2030, to 954 terabits per second, at a cost of about $186 million from the federal budget. A source on the telecoms market told the newspaper that current TSPU infrastructure does not always cope with the volume of traffic, meaning that blocked resources can occasionally become accessible. One cybersecurity executive was quoted as saying that the target capacity would be sufficient to “analyse all Runet traffic with a margin for growth and the increasing complexity of filtering rules.”
+TSPU works as part of a unified stack with SORM (System for Operative Investigative Activities), the long-established system of intercept equipment that obliges telecoms operators and, increasingly, other digital services to store communications metadata and content for years and provide it to the FSB and other agencies on demand. In February 2026, RBC reported that the FSB demanded from several major banks to install SORM equipment, arguing that their apps qualified them as “organisers of the distribution of information” under Russian law. Banks that failed to comply were excluded from the “whitelist” of services permitted to function during mobile internet shutdowns.
+ArticleYouTube access fines. Moscow and St Petersburg courts penalise internet providers for letting Russians reach YouTube by bypassing state blocks
+In March 2026, Mediazona discovered that magistrates’ courts in Moscow and St Petersburg had started handing down convictions against internet providers for allowing traffic to bypass TSPU (the reasons for these bypasses remain unclear—whether individual providers were trying to keep customers happy, showing technical malpractice, or negligence). The cases followed a uniform pattern: a Roskomnadzor monitoring centre would test whether a provider’s traffic was passing through TSPU; if a blocked site (typically YouTube) was found accessible without a corresponding record on the TSPU equipment, a report was drawn up. In every case where a verdict was recorded, the provider was found guilty and fined.
+The shutdowns
+Over the course of the year, mass mobile internet shutdowns have become a routine feature of life across Russia. The authorities’ stated justification is the threat of Ukrainian drone attacks. The shutdowns affect regions far from any front line—Omsk, Tyumen, Arkhangelsk, and even, in March 2026, central Moscow.
+In the capital, The Bell reported, the shutdowns were ordered not by the Ministry of Digital Development but by the FSB’s research and technical department, which supplied telecoms operators with lists of specific base stations to disable. One government source told the outlet that the official rationale was “countering threats,” though earlier reporting had suggested the ministry was testing its whitelist infrastructure. Another source said that security officials had “hinted in every way” that the decision had been “passed down from above.” Mobile internet in central Moscow was out for nearly three weeks in March.
+In February 2026, the State Duma approved a bill empowering the FSB to demand that mobile operators shut down cellular communications. In an amendment introduced between readings, the word “requests” was changed to “demands,” and the reference to “security threats” as a precondition was removed entirely. The only regulatory document governing the FSB’s new power became presidential decree.
+Mobile internet shutdowns have reshaped daily life dramatically across Russia. In Rostov-on-Don, southern Russia, a young woman described how shutdowns that had once begun at seven or eight in the evening were now striking as early as four in the afternoon. Taxis could not be ordered; bus-tracking apps went dark; messages failed to send. Taxi drivers developed “spawn points” near open Wi-Fi hotspots.
+ArticleRunning from Wi‑Fi to Wi‑Fi. How Russian regions live under mobile internet shutdowns
+In Bryansk, another region bordering Ukraine, a teenager posted a TikTok video of himself shouting into the darkness: “Give us back our internet, you bitches!” He told Mediazona that by September there was almost no connection at all, and most shops had stopped accepting card payments.
+In Krasnodar, another southern city, a man described a friend who was stranded ten kilometres, or six miles, from home after a gym session when the shutdown hit, forced to walk through the night before finding a relative with enough signal to call an extortionately priced taxi.
+The whitelist system, which ensures that only state-approved services function during shutdowns, was first introduced in September 2025 as a “registry of socially significant services.” It initially comprised 57 websites, including state news agency RIA Novosti, major banks and telecoms operators, government portal Gosuslugi, VKontakte, Odnoklassniki, Mail.ru, the state messenger Max, Yandex services, and marketplaces Ozon, Wildberries and Avito. The list has been periodically expanded to include regional government sites, the Maxim taxi service and the weather app Gismeteo.
+The messengers
+In August 2025, Roskomnadzor began blocking voice calls within Telegram and WhatsApp, officially in the name of combating phone fraud. By October, it was fully restricting both messengers in southern Russian regions. By late November, WhatsApp was being throttled nationwide. In December, Roskomnadzor acknowledged it was “taking measures” and was prepared to block WhatsApp entirely.
+WhatsApp’s parent company Meta, itself labelled an “extremist organisation” in Russia since 2022, issued an unusually direct statement, accusing the Russian government of seeking to strip more than 100 million people of their right to private, end-to-end encrypted communication. It warned that forcing users onto “less secure and state-imposed applications” would only reduce safety for Russian citizens.
+ArticleMeta‑moderation. Moscow court opens trial against Meta spokesman Andy Stone, accused of “justifying terrorism”
+Telegram received harsher treatment still. On February 10, Roskomnadzor announced an intensification of restrictions on the messenger, citing “non-compliance” with Russian law and a failure to protect personal data. The same month, Komsomolskaya Pravda and Rossiyskaya Gazeta, both citing “FSB materials,” reported that the security service had opened a criminal case for “aiding terrorism” in which the actions of Telegram founder Pavel Durov were being investigated.
+Durov responded by saying that “each day, the authorities fabricate new pretexts to restrict Russians’ access to Telegram as they seek to suppress the right to privacy and free speech” and calling it “a sad spectacle of a state afraid of its own people.” While he later promised that his team will “keep adapting—making Telegram’s traffic harder to detect and block”, so far he has not announced any concrete steps to bypassing the blocks.
+Designed to replace Telegram, the new state-backed “national messenger” Max, built on VK’s platform, was conceived as Russia’s answer to Chinese WeChat. Following a presidential decree signed by Vladimir Putin in June 2025, Max has been systematically embedded into Russian official life. In December 2025, the State Duma passed legislation requiring the managers of all apartment buildings outside Moscow to communicate with residents through Max. In the same month, Kommersant reported that the Ministry of Digital Development was discussing the transfer of bank SMS notifications (transaction alerts and confirmation codes) to the messenger, with a partial launch possible before the year’s end.
+Adoption has been promoted through coercion at every level, with students and schoolchildren being threatened if they refused to install the new app. Distrust of Max is, naturally, pervasive, even among those closest to power: Faridaily reported in March, citing roughly a dozen sources among officials and state-company employees, that bureaucrats, deputies and managers were purchasing separate SIM cards and additional “clean” phones solely for the purpose of installing the messenger. A source close to the government said that “everyone considers” installing Max on one’s phone to be the equivalent of handing the device to the FSB.
+The Russian military, too, rejected the messenger. In February, the pro-war Telegram channel “Fighterbomber” reported, and Mediazona independently confirmed, that units fighting in Ukraine had received instructions not to use Max on the grounds that it was insufficiently secure.
+In March, a detailed technical analysis published on the Russian tech forum Habr revealed that the Android version of Max had, since January, been sending traffic to third-party servers unrelated to its core functionality. The messenger was found to be probing the accessibility of a range of domains, including subdomains of Telegram, WhatsApp, Odnoklassniki, Google, and the government portal Gosuslugi, and reporting the results back to its own servers. It also cycled through several IP-checking services to determine the user’s real IP address and transmitted, alongside this, a system parameter indicating whether a VPN was active on the device.
+Max’s press service denied the behaviour, claiming the IP address was needed for voice calls. This explanation was clearly misleading: Max’s calls use WebRTC, a standard technology that does not require a separate IP-address lookup. Most of the probed domains had no connection to voice calling. Which leads us to the next attack vector: VPNs.
+The tunnels
+Russia’s campaign against VPN services has been waged across multiple fronts simultaneously.
+On the technical level, Roskomnadzor has used TSPU to disrupt specific VPN transport protocols. In late 2025, reports circulated that the agency had blocked VLESS, one of the most advanced circumvention protocols. The reality was more nuanced. Most VPN providers responded by issuing new configurations to their users.
+ArticleThe 16‑kilobyte curtain, confirmed. Cloudflare accuses Russia of throttling its traffic
+In February, domains belonging to YouTube, Facebook, WhatsApp, and major foreign news outlets were removed from Russia’s National Domain Name System (NSDI), meaning that users relying on this server would receive a “does not exist” response. Mediazona queried NSDI against the ten thousand most popular domains from Cloudflare’s public DNS and found that the vast majority of removed domains belonged to sites already blocked by other means. The practical impact was limited: foreign public DNS servers such as 1.1.1.1 and 8.8.8.8 remained unblocked in Russia, and users could bypass the NSDI simply by changing their device’s DNS settings.
+The institutional and commercial pressure proved most consequential. Apple, complying with Roskomnadzor demands, continued to remove VPN applications from its Russian App Store on a near-monthly basis. By publication date, the Apple Censorship project recorded 761 apps censored in the “Utilities” category, which includes VPN clients.
+In 2024, the company stated that it complies with censorship requests because “failure to comply with lawful orders could mean that Apple would no longer be able to operate an App Store or distribute content in the country.” “The United States government has encouraged companies to continue to make communications services available to the Russian people because democratic principles are best aided through the availability of these services,” said the company’s representative.
+ArticleApple's “LGBT propaganda” hearings in Moscow court. Live updates
+The ultimatum
+The most dramatic escalation came at the end of March. RBC, Forbes and Kommersant, citing multiple sources in government and the technology industry, reported that Digital Development Minister Maksut Shadayev had convened two meetings, one with telecoms operators, another with more than twenty major internet companies, at which he set an effective deadline of April 15 for new restrictions.
+Telecoms operators were instructed to introduce charges for the use of more than 15 gigabytes of international mobile traffic per month—a measure aimed squarely at VPN users—by May 1. They were also ordered to block the ability to top up Apple ID balances from mobile phone accounts by April 1, partly to prevent the purchase of VPN services through the App Store. Indeed, by April 1, this restriction was in effect across all four major operators.
+Internet companies (IT giants Yandex and VK, Sberbank, Ozon, Lamoda and Wildberries marketplaces, Avito classifieds app, X5 grocery chain operator, Gazprom-Media, HeadHunter HR service, CIAN apartment search) were instructed to block access to their platforms for users detected to be using VPNs by April 15. Those that failed to comply risked losing their IT accreditation and their place on the whitelist. Later, the ministry had distributed a detailed technical manual to the companies, outlining methods for detecting VPN use on users’ devices: first, they are to compare a user’s IP address against databases of Russian and blacklisted addresses, then to carry out a second-stage check through the company’s own application, sending parallel requests to a Russian and a foreign domain and comparing the responses to establish whether a VPN was routing traffic selectively. A third stage would extend detection to desktop operating systems.
+Companies were told to block access if a user’s IP-derived location did not match Russia, if it matched a blacklisted address, or if the user’s apparent country changed frequently. For cases involving suspected corporate VPNs, which are used legitimately by remote workers, the manual proposed a new whitelist, with companies required to monitor whether VPN use occurred during working or non-working hours and, in ambiguous cases, to cross-reference GPS and mobile base-station data.
+The methods are identical to techniques already observed in the Max messenger, but their effectiveness would be limited. iOS devices do not readily expose VPN status to applications; VPN service developers would quickly identify and whitelist the third-party domains used for detection; and Android’s split-tunnelling feature already allows users to exempt specific applications from VPN routing.
+The cost
+The cumulative effect of the shutdowns, the blocks and the push for a state-controlled platform transformed daily life in ways that reach well beyond the internet. People describe the fear of being on the street at night without any means of communication, particularly in southern cities where soldiers returning from the front with post-traumatic stress are a constant presence. Stores stop accepting credit card payments. Taxi and map apps are unreliable at best.
+The shutdowns do not appear to protect against the threat they are supposed to counter: in southern Russia, drone strikes continue, while the military is growing frustrated with the possibility of crippled communication. Most importantly, people across political leanings are learning to use VPNs.
+While the Russian authorities already possess every tool necessary to impose the most brutal whitelist restrictions, it is so far hard to predict if it will be implemented—or perhaps it is enough that the gradual pressure makes circumvention so inconvenient that most people simply give up.
+Mediazona won’t survive without you
+We are in a difficult position: we still haven’t recovered our pre-war funding levels. Our goal right now is to reach 7,500 subscriptions from international supporters. Only you, our readers, can save MediazonaDonate now
+Contact us
+Contact us
+“Mommy, they raped me real bad.” How the war and security forces shattered the life of a Ukrainian tobacco vendor from Nova Kakhovka
+Article 17 November 2026, 18:19
+Searched and now in court. Two Makhachkala men charged under Russia’s “searching for extremism” law over YouTube videos and a banned song
+Article 16 November 2026, 21:27
+“I have a dream.” Opposition politician Lev Shlosberg on good and evil in his final plea at the appeal hearing before his 11‑year prison sentence was upheld
+Article 12 November 2026, 22:42
+Treason season. Russia upgrades charges against lawyer Maria Bonzler and activist Alexei Sokolov over their human rights work
+Article 10 November 2026, 22:26
+“This is not the end of the world; it’s just a technical break”. The prison diary of businessman Oleg Varyukhin, accused of “treason” by Russia over Ukrainian taxes
+Article 9 November 2026, 10:40
+A foreigner is arrested in Moscow on charges of mercenarism. His namesake served in the Armed Forces of Ukraine
+Article 6 November 2026, 22:02
+At least 350 Russian conscripts have been killed in the war with Ukraine. Here is the list of their names
+Article 6 November 2026, 20:47
+Russian losses in the war with Ukraine. Mediazona count, updated
+286,000 deaths confirmed by November 6
+Article 6 November 2026, 9:00
+Listening comprehension. Moscow authorities remotely install hidden audio‑surveillance software across city classrooms
+Article 3 November 2026, 17:52
+“Taking down our fallen friends”. Raided and defunded, Novaya Gazeta is evicted from its longtime Moscow headquarters and dismantles its Politkovskaya museum
+Article 29 October 2026, 21:38
+“Homos‑masturbators” strike back. Homophobes in Russia are also being punished for “LGBT extremism”
+Article 28 October 2026, 20:14
+77‑year‑old Crimean activist sentenced to 18 years by Russia. He was charged with “terrorism” and calls this a “death sentence”
+Article 23 October 2026, 14:07
+Unlikely plot. A tortured Ukrainian and two Russian war criminals face charges over an alleged Rostov prison mutiny aimed to end the war
+Article 22 October 2026, 22:02
+Cast and cane behind bars. Moscow judge questions how political Alexander Kynev broke his leg during arrest, then leaves him in custody
+Article 22 October 2026, 17:51
+Russia turns on its scientists. Donations to Alexei Navalny’s foundation are landing researchers in prison
+Article 20 October 2026, 21:16
+“Bones covered by skin”. Russia jails Ukrainian pensioner with dementia for 12.5 years over a donation to Ukraine’s army; in prison, she can’t feed herself
+Article 19 October 2026, 19:43
+From twenty‑five to life. Four Ukrainians sentenced by Russia over a series of attacks on collaborators in occupied Melitopol
+Article 16 October 2026, 19:50
+75 hours erased
+Inside the censorship of Western TV in Russia. An in‑depth investigation
+Article 12 October 2026, 18:46
+One strike takes out more Russian officers than ever during the entire war. Mediazona reveals 20 KIA officers in the August 26 attack on Donetsk
+Article 9 October 2026, 15:43
+Performative mail. Russia requests the extradition of current and former ICC judges sentenced in absentia over the Putin warrant
+Article 8 October 2026, 20:41
+“We’ll send you to your cozy Gulag”. Russian asylum seekers join hunger strike in Georgia ICE facility describing neglect and threats in long detention
+Article 7 October 2026, 20:56
+“Hollywood or nightmare”. How a Ukrainian refugee accidentally learned of her estranged father’s treason arrest in Russia while scrolling Instagram
+Article 6 October 2026, 21:41
+A rare retreat. Russian investigators suddenly drop “fake news about the army” criminal case against children’s hospice founder Lida Moniava
+Article 6 October 2026, 17:43
+From American detention to Russian prison. After asylum rejection, Leonid Melekhin received a 6‑year sentence in Russia for hanging a Putin mannequin
+Article 5 October 2026, 17:13
+“They are waiting for me to die”. Crimean political prisoner Lenur Khalilov was released because of his cancer—and then returned to prison
+Article 2 October 2026, 13:27
+Load more
+Mediazona. RussiaMediazona. BelarusMediazona. Central Asia
+Contact usAuthorsDonate
+All articles are published under
+Creative Commons license BY SA 4.0

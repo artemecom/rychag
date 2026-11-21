@@ -1,0 +1,37 @@
+{
+  "id": "S012",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «воронка» (voronka.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "c4c697226d5778575e877a083545439399966e00074c9d8b13c66a1f4cbf543c",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:26:21",
+  "method": "расчёт",
+  "ready": "воронка",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/voronka.json",
+      "sha256": "78bdf2a0045331453bd03b8692a7b90f4c0a1158695ece421c0d79008488c193"
+    }
+  ],
+  "rests_on": [
+    "C026",
+    "C027",
+    "C028",
+    "C029",
+    "C030",
+    "C031",
+    "C032",
+    "C033",
+    "C034",
+    "C035",
+    "C036"
+  ]
+}

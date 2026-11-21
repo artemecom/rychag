@@ -1,0 +1,24 @@
+{
+  "id": "S037",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт pilot2.py",
+  "published": "2026-11-20",
+  "accessed": "2026-11-20",
+  "sha256": "e1153b908d65b9cb45e14e92c54b9e4783dd357cb5fabea573467749fcec0849",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-20T14:21:54",
+  "method": "расчёт",
+  "script": "analysis/pilot2.py",
+  "script_sha256": "f7ba394ba303dfb379e56541476bb935ccf64c2ef60664d4e38b48c477974477",
+  "inputs": [],
+  "rests_on": [
+    "C090",
+    "C091",
+    "C023",
+    "C093"
+  ]
+}

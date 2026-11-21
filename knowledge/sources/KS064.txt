@@ -1,0 +1,227 @@
+Scam protection for ISPs and MVNOs: how to close the SMS security gap | F‑SecureSkip to main contentHome
+For partners
+About F‑Secure
+Global
+Verticals
+Operators
+Insurance
+Banks
+Router/Wi‑Fi providers
+Resellers
+Affiliate program
+Solutions
+F-Secure Embedded Security
+F-Secure Total
+F-Secure Horizon
+F-Secure Sense
+Solutions and services
+Scam protection
+Insights
+Illuminate research
+Illuminate Hub
+Consumer AI survey
+Scam Encyclopedia
+AI Harms Taxonomy
+Contact us
+Log in
+Home
+For partners
+Verticals
+Operators
+Insurance
+Banks
+Router/Wi‑Fi providers
+Resellers
+Affiliate program
+Solutions
+F-Secure Embedded Security
+F-Secure Total
+F-Secure Horizon
+F-Secure Sense
+Solutions and services
+Scam protection
+Insights
+Illuminate research
+Illuminate Hub
+Consumer AI survey
+Scam Encyclopedia
+AI Harms Taxonomy
+Contact us
+Log in
+About F‑Secure
+Global
+Choose your country
+Global
+United States
+Home
+Partners
+Insights
+Scam protection for ISPs and MVNOs: how to close the SMS security gap
+Insights
+Article
+Scam Protection for ISPs and MVNOs: How to Close the SMS Security Gap
+F-Secure
+Jul 14, 202612 min read
+Quick answer: what is scam protection as a value‑added service for ISPs and MVNOs?
+Scam protection is a device‑level cyber security service that warns subscribers when they encounter fraudulent SMS links, fake websites, and phishing attempts. ISPs and MVNOs can offer it as a value‑added service through F‑Secure Horizon — an AI‑powered, self‑serve cyber security business platform — without network modification, custom development, or a dedicated security team. Most digital service providers are live within 3–5 business days.
+56% of consumers encounter scam attempts at least monthly. 69% would consider switching provider based on the strength of a security offering. And 93% say it matters that their telecommunications provider offers cyber security (F‑Secure Scam Intelligence and Impacts Report 2026; F‑Secure Digital Trust Report 2026).
+For internet service providers (ISPs) and mobile virtual network operators (MVNOs), that data describes a specific commercial problem. Subscribers are encountering scam attempts every month through the same SMS channel used for billing notifications and service updates. The security product most of those subscribers are paying for was built for a different threat. And the gap between what subscribers expect and what they’re getting is measurable, live, and growing.
+This piece covers how scam protection for digital service providers closes that gap commercially, without network integration, custom development, or a dedicated security team.
+What this article covers
+How frequently subscribers encounter SMS scam attempts and what the financial harm looks like.
+Why network‑level SMS filtering and device‑level scam protection solve different problems.
+The commercial case for adding scam protection as a value‑added service.
+How F‑Secure Horizon enables digital service providers to launch in days.
+The regulatory context across Germany, Austria, and the UK.
+The scale of the threat your subscribers are already facing
+How often subscribers encounter scam attempts
+For internet service providers (ISPs) and mobile virtual network operators (MVNOs), 56% of consumers encounter scam attempts at least monthly. In the UK, that figure is 55%. For a digital service provider with 200,000 subscribers, that’s more than 100,000 customers encountering scam attempts every month.
+56% of consumers encounter scam attempts at least monthly.
+69% would consider switching provider based on the strength of a security offering.
+93% say it matters that their telco offers cyber security.
+Source: F‑Secure Scam Intelligence and Impacts Report 2026; F‑Secure Digital Trust Report 2026
+Why SMS is the channel that matters most
+SMS is the second most common scam delivery channel globally, accounting for 10% of all scam attempts (F‑Secure Global Consumer Market Survey 2026, n = 10,000). For an ISP or MVNO, that has a specific commercial implication: SMS is the same channel used to send billing notifications, service updates, and promotional messages.
+When fraudulent texts arrive through the same channel as legitimate communications, subscribers lose the ability to distinguish between the two reliably. Their confidence in every message sent through that channel erodes. AI‑powered Short Message Service (SMS) scam detection analyzes links in incoming messages before the subscriber engages with them. That is the interaction layer legacy antivirus cannot reach, and where smishing protection operates.
+The fastest growing scams aim for quick money
+The scam types growing most rapidly are those designed to move money directly. Fake invoice and debt scams tripled between 2025 and 2026, rising from 6% to 20% of all attempts. Banking and payment scams more than doubled in the same period, from 5% to 11%. Both are frequently delivered via SMS, impersonating the financial institutions subscribers use daily (F‑Secure Scam Intelligence and Impacts Report 2026).
+For MVNO subscriber bases, the exposure is concentrated. Mobile subscribers manage banking, payments, and transaction alerts on the same device receiving fraudulent messages. Active scam protection warns a subscriber before they engage with a fraudulent link.
+Network‑level protection and device‑level protection solve different problems
+Most digital service provider product leads encounter the same internal question when evaluating scam protection: we already have network‑level SMS filtering in place.
+Network-level SMS filtering and device-level scam protection are not competing solutions for the same problem. They operate at different layers, address different threat surfaces, and serve different commercial purposes.
+Dimension
+Network‑level SMS firewall
+Device‑level scam protection
+Where it operates
+Network protocol layer, before the device
+Device and interaction layer, at the point of use
+What it addresses
+Fraudulent SMS traffic, grey routes, A2P fraud
+SMS links, fraudulent websites, scam messages across multiple channels
+Subscriber experience
+Invisible, subscriber does not know it happened
+Active warnings at the moment of interaction
+Integration required
+Carrier‑grade network modification
+SaaS platform, no network modification required
+Commercial model
+Network security cost reduction and A2P revenue recovery
+Consumer value‑added service revenue and subscriber retention
+Best suited for
+Tier 1 operators with dedicated fraud operations teams
+Tier 2 and Tier 3 digital service providers, MVNOs, IT retailers
+Why network filtering alone cannot generate value‑added service revenue
+A network‑level SMS firewall does what it is designed to do. It intercepts fraudulent traffic at the protocol layer, before a message reaches the device. For a Tier 1 operator with a dedicated fraud operations team, that is a meaningful infrastructure investment.
+However, it does not generate visible value‑add to the consumer. The subscriber whose fraudulent SMS was intercepted at the network layer never knew they were at risk. They never saw a warning. They never experienced protection. Because they never experienced it, they have no reason to value it, pay for it, or associate it with their provider.
+Consumer value‑added service revenue depends entirely on the subscriber perceiving that protection is active and relevant to their daily life. That requires a visible intervention at the moment of risk: a warning when a suspicious link arrives, an alert before the subscriber engages with a fraudulent site. A network firewall cannot deliver that experience by design.
+Why device‑level protection covers channels a network firewall can’t reach
+A network SMS firewall covers one delivery channel: SMS at the network layer. A subscriber protected at that layer is still exposed to scam links arriving through every other channel on the same device.
+Email accounts for 53% of all scam delivery globally. Social media accounts for 9%. Online advertising for 8%. A subscriber protected at the network SMS layer is still exposed to the remaining 90% of the scam threat surface across the same device used for daily financial activity (F‑Secure Global Consumer Market Survey 2026, n = 10,000).
+Device‑level protection operating at the interaction layer addresses scam links wherever they arrive: in SMS, in browsers, in apps, and across all channels. If subscribers already benefit from network‑level filtering, device‑level protection adds the subscriber‑facing, multi‑channel coverage layer the network investment cannot provide. If they do not have network‑level filtering, device‑level protection addresses the SMS threat surface directly without requiring any network modification.
+The commercial case for adding scam protection as a value‑added service
+What consumer demand looks like in your markets
+In a survey conducted by F‑Secure, out of 10,000 consumers across ten markets, 93% of consumers say it is important that their telecommunications provider offers cyber security. 51% say they are willing to pay for scam protection.
+In the UK, willingness to pay for scam protection reaches 58%. In Germany, 52%. For a regional broadband provider competing in either market, that level of documented consumer demand represents an addressable revenue opportunity that does not require creating demand. It requires meeting it.
+51% of consumers globally are willing to pay for scam protection.
+58% in the UK. 52% in Germany.
+Source: F‑Secure Scam Intelligence and Impacts Report 2026
+Churn reduction at subscriber scale
+F‑Secure service provider partners report a 30–60% reduction in core service churn when security is offered as a value‑added service alongside core offerings, figures that are market and partner dependent. 69% of consumers would consider switching provider based on the strength of a security offering.
+For a regional MVNO, that churn reduction applied across a base of 100,000 to 300,000 subscribers produces a retention impact that alone exceeds the cost of the platform. Scam protection as a value‑added service is not simply an additional revenue line. For many partners, the ARPU improvement and churn reduction it delivers makes it a retention instrument for the core business itself.
+Margin, pricing, and the revenue model
+Partners who offer consumer cyber security as a value‑added service through F‑Secure Horizon typically achieve 40–60% margin on those services, depending on pricing and positioning, market and partner dependent. F‑Secure Horizon starts at EUR 99 per month as a minimum commitment with no setup fee and no long‑term contract. Most partners go from sign‑up to live service within 3–5 business days.
+For a Tier 2 or Tier 3 operator without a dedicated security team or development resource, the commercial case can be tested at low investment before any commitment to a scaled rollout. The threshold for establishing whether scam protection works for a subscriber base is low. The threshold for continuing without one as competitor providers add it to their offer is rising.
+What NIS2 and the UK Online Safety Act mean for digital service providers
+What NIS2 requires of telecoms operators
+NIS2, formally Directive (EU) 2022/2555, came into force across EU member states in October 2024 and explicitly includes telecoms operators within its scope. It raises baseline expectations for risk management, incident reporting, and the security of services delivered to end users. It does not mandate a specific product response.
+The relevant framing is directional. In Germany and Austria, national NIS2 implementation has brought cyber security posture to board-level attention in the telecoms sector in a way that was not consistent before 2024. Proactive consumer security investment aligns with the direction the regulation points. This is not a compliance claim. Partners should confirm their specific obligations with their legal teams.
+What the UK Online Safety Act means for broadband and mobile providers
+The UK Online Safety Act 2023 places its primary obligations on platforms rather than connectivity providers. A regional ISP or MVNO is not directly in scope. What the Act has done is elevate provider accountability for consumer safety as a regulatory priority. The National Cyber Security Centre (NCSC) has published specific guidance on telecoms provider responsibilities regarding SMS fraud.
+ISO/IEC 27001 and evaluating a security partner
+F‑Secure Horizon is ISO/IEC 27001 certified and independently audited against the international standard for information security management. For procurement teams that need to demonstrate due diligence when selecting a security partner, this is the relevant reference point. Verification is publicly available at f-secure.com/us-en/partners/insights/f-secure-achieves-iso-iec-27001-certification.
+How F‑Secure Horizon enables digital service providers to launch scam protection
+What the platform does and what partners do not need to build
+F‑Secure Horizon is Europe’s first AI-powered, self-serve cyber security business platform. Partners access the platform to create and manage subscriber subscriptions. F‑Secure Total, the consumer-facing product, is delivered directly to subscribers and includes AI-powered SMS Scam Protection, fake website blocking, and scam link interception.
+No network modification is required. No custom development. No internal security team. The partner creates subscriptions through the F‑Secure Horizon console. F‑Secure manages the product, the protection layer, and consumer-level support.
+What the subscriber experiences and why visible protection drives value
+When a subscriber receives an SMS containing a link associated with fraudulent infrastructure, F‑Secure Total analyzes the link and warns them before they engage. The warning is visible. The subscriber sees protection happening at the moment of risk.
+A subscriber who never sees a warning has no reason to value a security product or associate that protection with their provider. A subscriber who receives a warning at the moment a scam attempt reaches them has a concrete, daily reason to remain a paying customer. Visible protection is what converts a security product into a retention instrument.
+Partners can go from sign-up to live service within 3–5 business days.
+F‑Secure Horizon starts at EUR 99 per month as minimum monthly commitment with no setup fee and no long‑term contract.
+Key takeaways
+For ISP product directors, MVNO commercial leads, and telco partnership teams in Germany, Austria, and the UK:
+Subscribers are encountering SMS scam attempts every month through a channel you manage.
+93% expect their provider to offer cyber security.
+51% are willing to pay for scam protection.
+Network‑level filtering cannot generate value‑added service revenue because the subscriber never experiences the protection.
+Device‑level scam protection through F‑Secure Horizon closes the gap without network modification, custom development, or a long‑term contract. Most partners are live in 3–5 business days.
+Frequently asked questions
+Why are subscribers getting scammed through text messages even though we offer them security?
+Traditional antivirus detects malicious files but has no mechanism to evaluate a link inside a text message. An SMS scam delivers no file, only a URL resolving to a fraudulent site. Because there is no executable payload, antivirus has no detection surface for this threat. F‑Secure’s internal threat research shows 89% of scammers’ AI use now focuses on improving bait quality, making awareness training an insufficient substitute for active technical protection at the interaction layer (F‑Secure Scam Intelligence and Impacts Report 2026).
+Do we need to modify our network infrastructure to offer SMS scam protection?
+No network modification, custom development, or dedicated technical team is required. F‑Secure Total’s SMS Scam Protection operates at the device level, not the network level. Partners access F‑Secure Horizon, create subscriber subscriptions, and the product is delivered to consumers through a self‑serve onboarding process. Most partners go from sign‑up to live service within 3–5 business days.
+What is the commercial return on adding scam protection as a value‑added service?
+Partners typically achieve 40–60% margin on consumer cyber security services, market and partner dependent. F‑Secure service provider partners report a 30–60% reduction in core service churn when security is offered alongside core offerings, figures that are market and partner dependent. Entry investment starts at EUR 99 per month minimum monthly commitment with no setup fee. 51% of consumers globally are willing to pay for scam protection, rising to 58% in the UK and 52% in Germany (F‑Secure Scam Intelligence and Impacts Report 2026). These are directional figures, not guaranteed outcomes for every partner.
+If we already have network‑level SMS filtering, does device‑level scam protection still add value?
+Yes. Network‑level filtering and device‑level scam protection address different threat surfaces. Network filtering reduces fraudulent SMS volume at the protocol layer, invisibly, with no subscriber‑facing experience. Device‑level protection warns subscribers about fraudulent links across all channels: SMS, browsing, messaging apps, and email. A subscriber protected at the network layer is still exposed to scam links arriving through every other channel they access daily. The two layers are complementary, not substitutes.
+Our subscribers are mostly mobile users. Is SMS scam protection relevant for them?
+SMS scam protection is fully relevant for mobile subscriber bases and requires no broadband infrastructure. Mobile users are disproportionately exposed because the device used for daily financial transactions, banking, payments, and shopping, is the same device receiving fraudulent messages. F‑Secure research across 10 markets shows 38% of 18 to 24-year‑olds reported falling victim to a scam, the highest rate of any age group and the demographic most likely to be active MVNO customers.
+The gap is commercial. The decision does not have to be complex.
+SMS scams are reaching subscribers every month through a channel you manage, with a protection layer that was never designed to catch them. The consumer demand to fix this is documented: 51% of consumers are willing to pay for scam protection, and 93% say it matters that their provider offers it.
+F‑Secure Horizon is how regional digital service providers close that gap without network integration, without a development team, and without a long‑term contract. Most partners are live in 3–5 business days.
+In commoditized broadband and mobile markets, the providers who act first build a retention advantage that is difficult to close. Talk to the F‑Secure partner team at f‑secure.com/en/partners/solutions‑and-services/horizon.
+About the author
+F‑Secure Partner Content Team
+Cyber Security Content Specialists, F‑Secure
+This article is produced by the F‑Secure Partner Content Team using insights from the F‑Secure Scam Intelligence and Impacts Report 2026, the F‑Secure Digital Trust Report 2026, the Global Anti-Scam Alliance (GASA) Global State of Scams Report 2025, and partner program data. F‑Secure has more than 37 years of experience in cyber security research and partner services.
+F-Secure Horizon is ISO/IEC 27001 certified
+Last updated: June 2026
+Ready to grow your business?
+Turn AI-powered scam protection into high-margin revenue
+Get F-Secure Horizon
+On this page
+On this page:
+The scale of the threat your subscribers are already facingNetwork‑level protection and device‑level protection solve different problemsThe commercial case for adding scam protection as a value‑added serviceWhat NIS2 and the UK Online Safety Act mean for digital service providersHow F‑Secure Horizon enables digital service providers to launch scam protectionKey takeawaysFrequently asked questionsThe gap is commercial. The decision does not have to be complex.
+Turn AI-powered scam protection into high-margin revenue
+F-Secure Horizon is an effortless, full-service business platform that helps you deliver award-winning cyber security to your customers with zero complexity and maximum impact. Sign up to start reselling F‑Secure Total with a minimum monthly commitment starting from €99.
+Create, distribute, and manage subscriptions with ease — or automate via API
+Drive high-margin recurring revenue growth
+Build customer loyalty through trusted protection
+Calculate your business potentialExplore F-Secure Horizon
+Talk to the F‑Secure Partner team.
+Contact the F‑Secure Partner team
+Thank you for reaching out!
+We've got your details and will be in touch shortly to explore how we can work together.
+We will reach out within the next couple of business days to discuss your specific needs and answer any questions you might have.
+Talk soon!
+F‑Secure makes every digital moment more secure, for everyone.
+Subscribe to newsletter
+Home
+Products
+Renew subscription
+Articles
+Free tools
+My F‑Secure
+Contact support
+For partners
+Why partner with us?
+For operators
+For retail
+For banks
+For insurers
+Affiliate program
+Contact us
+About us
+Our story
+Careers
+For media
+Newsroom
+Sustainability
+Contact us
+For investors
+Global
+Terms of service
+Privacy policy
+Cookies
+Accessibility
+© F-Secure 2026

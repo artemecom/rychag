@@ -1,0 +1,273 @@
+Klarna changes its AI tune and again recruits humans for customer service | CX Dive
+ Skip to main content
+ CONTINUE TO SITE ➞
+ Don't miss tomorrow's customer service industry news
+ Let CX Dive's free newsletter keep you informed, straight from your inbox.
+ By signing up to receive our newsletter, you agree to our
+ Terms of Use and
+ Privacy Policy. You can unsubscribe at anytime.
+ Informa TechTarget
+ |
+ CIO Dive
+ Marketing Dive
+ Explore our brands
+ An Informa TechTarget Publication
+ Deep Dive
+ Library
+ Events
+ Press Releases
+ Topics
+ Sign up
+ Search
+ Sign up
+ Search
+People also ask
+Loading questions...
+ Strategy
+ AI & Automation
+ Technology
+ Loyalty
+ Data & Analytics
+ Customer Service
+ Personalization
+ An article from
+ Klarna changes its AI tune and again recruits humans for customer service
+Over a year after claiming that its AI chatbot could do the work of 700 representatives, Klarna is turning back to people to help with customer service work.
+ Published May 9, 2025
+ Kristen Doerer
+ Senior Editor
+ Share
+ Copy link
+ Email
+ LinkedIn
+ X/Twitter
+ Facebook
+ Print
+ License
+ Add us on Google
+ Co-founder and CEO Klarna Sebastian Siemiatkowski (left) on Dec. 7, 2015, in London, England.
+ John Phillips via Getty Images
+ Listen to the article
+ 6 min
+ This audio is auto-generated. Please let us know if you have feedback.
+A year after claiming that its AI chatbot could do the work of 700 representatives, Klarna is turning back to people to handle more of its customer service work.
+The buy now, pay later firm now wants customers to always have the option to speak with a human, Klarna spokesperson Clare Nordstrom told CX Dive.
+“While Klarna pioneered the use of AI in customer service with groundbreaking results, this strategy will now evolve to the next level,” Nordstrom said in an email. “AI gives us speed. Talent gives us empathy. Together, we can deliver service that’s fast when it should be, and emphatic and personal when it needs to be.”
+It’s a drastic change from a year ago, when the firm went all in on AI, laid off workers and paused hiring. The shift highlights the need for the option to speak to a human in customer service — and to use AI as a supplement, not a replacement, for staff, according to Julie Geller, principal research director at Info-Tech Research Group.
+“The key takeaway is that AI should augment human agents — not replace them,” Geller said in an email. “Automate the routine to drive efficiency, but always ensure customers have a clear, easy path to a human, especially when emotions or complexity come into play.”
+Klarna CEO Sebastian Siemiatkowski said just as much in an interview with Bloomberg Thursday.
+“From a brand perspective, a company perspective … I just think it’s so critical that you are clear to your customer that there will be always a human if you want,” Siemiatkowski said.
+Klarna is now recruiting workers for what Siemiatkowski referred to as an Uber-type customer service setup. Starting with a pilot program, the firm will offer customer service talent “competitive pay and full flexibility to attract the best,” with staff able to work remotely, according to Nordstrom.
+“AI solves the easy stuff — our experts handle the moments that matter,” Nordstrom said. “That’s why we’re running this pilot, bringing in highly educated students, professionals and entrepreneurs for a new kind of role that blends frontline excellence with real-time product feedback.”
+One of the goals is to replace the thousands of workers that Klarna currently outsources, Siemiatkowski told Bloomberg.
+Back in February 2024, Klarna touted impressive figures: The AI assistant had taken over two-thirds of customer service chats — 2.3 million in total — in its first month. Its handling of customer service chats resulted in average resolution times of less than 2 minutes.
+The AI still plays a crucial role, according to Nordstrom. The chatbot still handles two-thirds of all customer inquiries. Since launch, response times have improved by 82%, and Klarna has seen a 25% drop in repeat issues.
+“But in a world of automation, nothing is more valuable than a truly great human interaction. That’s why we’re doubling down — investing in the human side of service: empathy, expertise, and real conversations,” Nordstrom said.
+Like many companies, Klarna had turned to AI as a form of cost-cutting, Siemiatkowski told Bloomberg.
+“Initially, Klarna embraced AI with an eye toward cost savings and efficiency — but perhaps underestimated the tradeoff,” Geller said. “As customers increasingly voiced frustration over impersonal interactions and limited access to human help, it became clear this approach risked undermining the very experience they aimed to improve. That kind of friction doesn’t just erode satisfaction; it carries real financial and reputational consequences.”
+Siemiatkowski acknowledged that Klarna had gone too far in the wrong direction with AI.
+“As cost unfortunately seems to have been a too predominant evaluation factor when organizing this, what you end up having is lower quality,” Siemiatkowski told Bloomberg. “Really investing in the quality of the human support is the way of the future for us.”
+The firm’s shifting customer service strategy is perhaps unsurprising considering consumers’ overall frustrations with chatbots and the technology’s shortcomings.
+A Verint survey released last year found more than two-thirds customers have had a bad chatbot experience, and in that group, the top complaint was inability to answer questions.
+Customers still want to talk to humans, especially for complex or sensitive issues. A Five9 survey from March found that 86% of customers believe empathy and human connection are more important than a quick response in providing excellent customer experience.
+AI can mimic emotional intelligence in simple, routine interactions, Geller said.
+“But when situations get more complex, subtle gaps can start to show,” she said. “AI can also misread customer intent, leading to irrelevant — or worse, misleading — responses that frustrate people instead of solving their issue. And when companies lean too heavily on automation, they risk building rigid systems that make customers feel trapped, with no clear way to reach a human when it matters most.”
+While Klarna has been an early, vocal adopter of AI, Geller is encouraged to see Klarna’s leadership course-correct from its earlier all-or-nothing approach.
+“They recognized that trust and satisfaction aren’t purely transactional — they’re emotional,” she said. “And to sustain loyalty, especially in complex or sensitive moments, customers still expect, and deserve, the option of a human touch.”
+ Add us on Google
+ Share
+ Copy link
+ Email
+ LinkedIn
+ X/Twitter
+ Facebook
+ Print
+ License
+ Filed Under:
+ AI & Automation,
+ Customer Service
+CX Dive news delivered to your inbox
+Get the free daily newsletter read by industry experts
+ Email:
+ Select user consent:
+ By signing up to receive our newsletter, you agree to our
+ Terms of Use and
+ Privacy Policy. You can unsubscribe at anytime.
+ Sign up
+ A valid email address is required.
+ Please select at least one newsletter.
+ Editors' picks
+Getty Images
+ 4 contact center executives on the challenges, and solutions, of implementing AI
+As teams grapple with problems from amplified worker fatigue to disconnects with C-suite leaders, AI implementation can be anything but straightforward.
+ By Bryan Wassel •
+ June 29, 2026
+Getty Images
+ Why pet insurer Pumpkin leaves customer warm calls to its AI agent
+With its voice AI Poppy, the company is achieving a higher rate of customers transferring to a licensed human agent, higher sales conversion rates and improving NPS and CSAT interaction scores.
+ By Matt Vartabedian •
+ Updated Oct. 2, 2026
+Keep up with the story. Subscribe to the CX Dive free daily newsletter
+ Email:
+ Select user consent:
+ By signing up to receive our newsletter, you agree to our
+ Terms of Use and
+ Privacy Policy. You can unsubscribe at anytime.
+ Sign up
+ A valid email address is required.
+ Please select at least one newsletter.
+Get the free newsletter
+Subscribe to CX Dive for top news, trends & analysis
+ Email:
+ Select user consent:
+ By signing up to receive our newsletter, you agree to our
+ Terms of Use and
+ Privacy Policy. You can unsubscribe at anytime.
+ Sign up
+ A valid email address is required.
+ Please select at least one newsletter.
+Take your knowledge further with
+Sign up for the free newsletter.
+ Interested? Explore more of what has to offer.
+ One-click newsletter signup
+You're all set
+ Thanks for signing up!
+ Please keep an eye out for a confirmation email from
+ [email protected]
+ To ensure we make it into your inbox regularly,
+ add us to your allow list, mark us as a safe sender, or add us to your address book.
+ Check out more from
+ Most Popular
+ Home Depot’s incoming CEO emphasizes associate engagement as key to better service
+ CIOs own the CX tech decision. CX leaders own the outcome.
+ Air Canada sold a portion of its loyalty program. Will others follow?
+ Starbucks brings extra personalization, delivery to app
+Library resources
+Trendline
+ Leveraging generative AI in the customer experience
+ Supported by
+ Zoom
+Webinar - on demand
+ How Health Plan Leaders Can Evolve from Firefighting to Strategy: A Candid Conversation on Bringing AI Into the Contact Center
+ Custom content for
+ Scala.Ai
+Webinar - on demand
+ From Black Friday to Holiday Hangover: A Holiday Chargeback Guide for Payment Providers
+ Custom content for
+ Chargebacks911
+ View all
+Company Announcements
+ View all
+ | Post a press release
+What We're Reading
+ TechTarget
+ United Airlines crackdown puts personal AI agents to the test
+ Retail Customer Experience
+ The cost of a broken promise
+ State of Brand
+ Starbucks Wants Its AI to Recognize You at the Drive-Thru. The Internet Heard Surveillance.
+ View all
+Events
+ View all
+ | Promote an event
+Industry Intel
+ The 3 Tenets of Human-AI Collaboration: Building an AI-Centric CX Operation
+ Webinar - on demand
+ •
+ Provided by ASAPP
+ Top 5 Mistakes to Avoid When Deploying Conversational AI into Contact Centers
+ Webinar - on demand
+ •
+ Provided by Eckoh Inc
+CX Dive news delivered to your inbox
+Get the free daily newsletter read by industry experts
+ Email:
+ Select user consent:
+ By signing up to receive our newsletter, you agree to our
+ Terms of Use and
+ Privacy Policy. You can unsubscribe at anytime.
+ Sign up
+ A valid email address is required.
+ Please select at least one newsletter.
+Company Announcements
+ View all
+ | Post a press release
+ Yahoo and HTS (Hopper Technology Solutions) team up to make travel booking more rewarding
+From HTS (Hopper Technology Solutions)
+November 18, 2026
+ Customer journey blind spots undermine AI investment in customer experience, as 59% of compani…
+From ZOHO
+November 12, 2026
+ Zingtree Launches First Agentic Governance and Orchestration Platform Built for Contact Center…
+From Zingtree
+November 10, 2026
+ Loyalty Investment Is Rising, but U.S. Consumers Want More From Their Rewards Programs
+From Arrivia
+November 09, 2026
+ Editors' picks
+Getty Images
+ 4 contact center executives on the challenges, and solutions, of implementing AI
+As teams grapple with problems from amplified worker fatigue to disconnects with C-suite leaders, AI implementation can be anything but straightforward.
+ By Bryan Wassel •
+ June 29, 2026
+Getty Images
+ Why pet insurer Pumpkin leaves customer warm calls to its AI agent
+With its voice AI Poppy, the company is achieving a higher rate of customers transferring to a licensed human agent, higher sales conversion rates and improving NPS and CSAT interaction scores.
+ By Matt Vartabedian •
+ Updated Oct. 2, 2026
+ Latest in AI & Automation
+ How a healthcare clinic chain uses conversational AI to improve patient experience
+ By Matt Vartabedian
+ How brands can welcome AI users onto their sites this holiday season
+ By Bryan Wassel
+ CX vendor consolidation: A wake-up call for CX leaders
+ By Matt Vartabedian
+ Airbnb reduces customer support cost per booking 17%
+ By Kristen Doerer
+Explore
+ About
+ Editorial Team
+ Contact Us
+ Newsletter
+ Purchase Licensing Rights
+ Press Releases
+ What We're Reading
+Reach our audience
+ Advertising
+ Post a press release
+ Promote an event
+Related Publications
+ CIO Dive
+ Marketing Dive
+ This website is owned and operated by
+ Informa TechTarget,
+ a global network that informs, influences and connects the world's technology buyers and sellers.
+ © 2026 TechTarget, Inc. or its subsidiaries. All rights reserved. An Informa PLC company.
+ Privacy policy
+ | Terms of use
+ | Take down policy
+ | Cookie Preferences / Do Not Sell
+ Search
+ Home
+ Topics
+ Strategy
+ AI & Automation
+ Technology
+ Loyalty
+ Data & Analytics
+ Customer Service
+ Personalization
+ Deep Dive
+ Library
+ Events
+ Press Releases
+Get CX Dive in your inbox
+The free newsletter covering the top industry headlines
+ Email:
+ Select user consent:
+ By signing up to receive our newsletter, you agree to our
+ Terms of Use and
+ Privacy Policy. You can unsubscribe at anytime.
+ Sign up
+ A valid email address is required.
+ Please select at least one newsletter.

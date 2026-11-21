@@ -1,0 +1,26 @@
+{
+  "id": "S004",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "title": "Расчёт retention.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "7484e144e006acebbffc4b997e82257929be8b35da02f6fbe05ba473f75c9280",
+  "question": "причина падения",
+  "stale_accepted": false,
+  "added": "2026-11-18T22:20:34",
+  "script": "analysis/retention.py",
+  "script_sha256": "169e3ab1242248f68915394a852db3ed77b9c2bb6ca3cdb42314ee37d5801c63",
+  "inputs": [
+    {
+      "path": "materials/cohorts.csv",
+      "sha256": "cc418b4627ee753b8b1e6a781faf8d3e96f2a00cfb3f136dfe1881218ed10adf"
+    },
+    {
+      "path": "materials/segments.csv",
+      "sha256": "f5a93e29aa7e68c11a423d8e6a6cd9069373441ababbab9ae919d96f888438a2"
+    }
+  ],
+  "layer": 1
+}

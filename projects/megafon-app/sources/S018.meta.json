@@ -1,0 +1,17 @@
+{
+  "id": "S018",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт corrected.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "bc0c5f86a0c78b3ee4ac7a4bccfcbeca4f74bed7d0c62166f5e18dd23ff47dad",
+  "question": "доли с поправкой на точность словаря",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:59:08",
+  "script": "analysis/corrected.py",
+  "script_sha256": "08144b571114a7192ba427beb5f75ae2e63155e02e6bec249b9728ee68dfed50",
+  "inputs": []
+}

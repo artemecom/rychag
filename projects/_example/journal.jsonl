@@ -1,0 +1,65 @@
+{"ts": "2026-11-18T22:20:16", "cmd": "new", "detail": {"question": "Почему в третьем квартале 2026 года упало продление подписки на сервис «Читалка» и что с этим делать?"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "source add", "detail": {"id": "S001", "kind": "файл", "question": "причина падения"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "source add", "detail": {"id": "S002", "kind": "файл", "question": "причина падения"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "source add", "detail": {"id": "S003", "kind": "страница", "question": "причина падения"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "calc run", "detail": {"id": "S004", "script": "analysis/retention.py", "inputs": ["materials/cohorts.csv", "materials/segments.csv"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C001", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C002", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C003", "type": "fact", "source": "S002"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C004", "type": "fact", "source": "S003"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C005", "type": "calc", "source": "S004"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C006", "type": "calc", "source": "S004"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C007", "type": "calc", "source": "S004"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C008", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C009", "type": "synthetic", "source": null}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C010", "type": "forecast", "source": null}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim add", "detail": {"id": "C011", "type": "fact", "source": "S003"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "claim reject", "detail": {"id": "C011", "reason": "мобильное приложение не относится к причине просадки"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K001", "kind": "finding", "rests_on": ["C005", "C006", "C007"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K002", "kind": "cause", "rests_on": ["C001", "C002", "C003", "K001"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K003", "kind": "option", "rests_on": ["C004", "C005"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K004", "kind": "option", "rests_on": ["C002", "K002"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K005", "kind": "option", "rests_on": ["C001", "C003"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K006", "kind": "recommendation", "rests_on": ["K002", "K004"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "conclusion add", "detail": {"id": "K007", "kind": "promise", "rests_on": ["C002"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "lever add", "detail": {"id": "L001", "rests_on": ["C002", "C006", "K002"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "decision add", "detail": {"id": "DR-001", "rests_on": ["K006", "L001"]}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done add", "detail": {"id": "D1"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done add", "detail": {"id": "D2"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done add", "detail": {"id": "D3"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done add", "detail": {"id": "D4"}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done mark", "detail": {"id": "D1", "met": true}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done mark", "detail": {"id": "D2", "met": true}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done mark", "detail": {"id": "D3", "met": true}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done mark", "detail": {"id": "D4", "met": true}}
+{"ts": "2026-11-18T22:20:34", "cmd": "done budget", "detail": {"usd": 5.0}}
+{"ts": "2026-11-18T22:20:34", "cmd": "cost log", "detail": {"stage": 3, "usd": 0.4}}
+{"ts": "2026-11-18T22:20:34", "cmd": "cost log", "detail": {"stage": 4, "usd": 0.9}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 1, "to": 2}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 2, "to": 3}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 3, "to": 4}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 4, "to": 5}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 5, "to": 6}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 6, "to": 7}}
+{"ts": "2026-11-18T22:20:48", "cmd": "stage next", "detail": {"from": 7, "to": 8}}
+{"ts": "2026-11-18T22:46:33", "cmd": "claim add", "detail": {"id": "C012", "type": "plan", "source": null}}
+{"ts": "2026-11-18T22:46:33", "cmd": "claim add", "detail": {"id": "C013", "type": "plan", "source": null}}
+{"ts": "2026-11-18T22:46:33", "cmd": "conclusion add", "detail": {"id": "K008", "kind": "recommendation", "rests_on": ["K006", "C012", "C013"]}}
+{"ts": "2026-11-18T22:59:47", "cmd": "source set-layer", "detail": {"id": "S001", "from": null, "to": 1}}
+{"ts": "2026-11-18T22:59:47", "cmd": "source set-layer", "detail": {"id": "S002", "from": null, "to": 1}}
+{"ts": "2026-11-18T22:59:47", "cmd": "source set-layer", "detail": {"id": "S003", "from": null, "to": 3}}
+{"ts": "2026-11-18T22:59:47", "cmd": "source set-layer", "detail": {"id": "S004", "from": null, "to": 1}}
+{"ts": "2026-11-18T23:51:10", "h": "d0db0916", "cmd": "req note", "detail": {"chars": 60}}
+{"ts": "2026-11-18T23:51:13", "h": "f82db1cb", "cmd": "req add", "detail": {"id": "R01", "source": "brief"}}
+{"ts": "2026-11-18T23:51:13", "h": "86d8b2c0", "cmd": "req add", "detail": {"id": "R02", "source": "brief"}}
+{"ts": "2026-11-18T23:51:13", "h": "2fa8d60d", "cmd": "req add", "detail": {"id": "R03", "source": "brief"}}
+{"ts": "2026-11-18T23:51:13", "h": "f4690317", "cmd": "req close", "detail": {"id": "R01", "by": "K002"}}
+{"ts": "2026-11-18T23:51:13", "h": "bdea6710", "cmd": "req close", "detail": {"id": "R02", "by": "DR-001"}}
+{"ts": "2026-11-18T23:51:13", "h": "bf4c0bba", "cmd": "req close", "detail": {"id": "R03", "by": "strategy/test-plan.md"}}
+{"ts": "2026-11-19T00:52:20", "h": "c9478670", "cmd": "incident add", "detail": {"id": "I001", "kind": "другое", "what": "Лазейка в проверке итоговой страницы (ошибка сборки, не этой задачи): последний абзац page.md считался списком файлов...", "source": null}}
+{"ts": "2026-11-19T00:52:20", "h": "e353cb20", "cmd": "kb search", "detail": {"query": "оценка продление подписки удержание", "results": 33, "layer": null, "per_layer": {"2": 0, "3": 10, "4": 7, "5": 16}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T00:52:25", "h": "6bd095e0", "cmd": "kb search", "detail": {"query": "подписка на чтение книг продление", "results": 1, "layer": 4, "per_layer": {"2": 0, "3": 0, "4": 1, "5": 2}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T00:52:25", "h": "fe5110f3", "cmd": "kb search", "detail": {"query": "подписка на чтение книг продление", "results": 2, "layer": 5, "per_layer": {"2": 0, "3": 0, "4": 1, "5": 2}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T00:52:29", "h": "0e0ed419", "cmd": "map causes", "detail": {"query": "продление подписки", "results": 0, "node": null, "note": "на карте нет узла под эти слова"}}
+{"ts": "2026-11-19T00:52:37", "h": "e01a4daf", "cmd": "map causes", "detail": {"query": "продление подписки", "results": 0, "node": null, "note": "на карте нет узла под эти слова"}}
+{"ts": "2026-11-19T00:52:50", "h": "ac0a3e10", "cmd": "state receipt", "detail": {"sum": "cf8b01", "line": "Состояние по программе: этап 8 из 8; источников 4; фактов 4; требований закрыто 3 из 3; происшествий 1; замера расхода нет, оценка агента 1,30 USD; проверка этапа пройдена; контрольная сумма cf8b01."}}

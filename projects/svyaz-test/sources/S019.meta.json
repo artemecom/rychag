@@ -1,0 +1,31 @@
+{
+  "id": "S019",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «удержание» (uderzhanie-kab-silny.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "fdfec6e14e099ea2399e2ddd0ccf25bf38d04cc00cfc763af46e7978de5cd45a",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:31:52",
+  "method": "расчёт",
+  "ready": "удержание",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/uderzhanie-kab-silny.json",
+      "sha256": "f28e6463f90ef5647ad24e936b87ee4b364c6bfaffdf8b8fc8e6bf9f7ef94e15"
+    }
+  ],
+  "rests_on": [
+    "C005",
+    "C022",
+    "C048",
+    "C024",
+    "C023"
+  ]
+}

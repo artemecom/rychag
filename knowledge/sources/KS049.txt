@@ -1,0 +1,763 @@
+Price Increase Messaging Can Affect Subscription Churn
+ Home
+ News
+ Subscription Signals
+ Join
+ Events
+ About
+ Go to Member Center
+ Log In
+The Reason You Give for a Price Increase Can Affect Churn
+ churn
+ customer communications
+ pricing strategy
+ subscriber retention
+ subscription pricing
+ Jul 15, 2026
+A real-world test found that a market-based explanation reduced customer attrition by 29.5% compared with giving no reason.
+The message a subscription company uses to explain a price increase may have a measurable effect on churn.
+In a 10-month field experiment involving more than 1,600 customers of a Canadian self-storage company, market-based explanations reduced attrition by 29.5% compared with giving customers no explanation.
+Messages about higher operating costs or planned service improvements performed about the same as saying nothing.
+The findings were published in the Journal of Marketing in May and highlighted this week by the University of Tennessee’s Haslam College of Business.
+What the researchers tested
+Customers received price increases of either 5% or 15% and one of four messages:
+Higher operating costs
+Planned service and quality improvements
+Market conditions, such as higher demand or fewer competing options
+No explanation
+The reasons used in the experiment were accurate.
+Researchers then tracked how long customers stayed after receiving the notice. This allowed them to measure actual cancellations rather than asking people how they thought they might respond.
+More customers stayed when the company gave them a truthful explanation tied to demand or limited choices.
+That result challenged earlier research suggesting customers would view market-based explanations less favorably.
+The researchers found that perceived switching costs helped explain what happened. A message about demand or limited competition may have reminded customers that other options were scarce or inconvenient.
+Insider Take
+Never assume the price increase message your company usually sends is the right one for your customers.
+In this study, a market-based explanation reduced attrition by 29.5% compared with giving customers no reason. That is a meaningful retention result. Familiar messages about higher costs or service improvements performed about the same as saying nothing.
+The study focused on self-storage, which comes with meaningful switching friction, including location, availability and the effort of moving belongings. That context may help explain why the market-based message worked.
+Even so, subscription companies should not rely on assumptions when churn is at stake. Test price increase messages with a smaller customer group before a full rollout. Track what customers actually do after receiving them, including cancellations, downgrades and support contacts.
+This research shows why companies need to get curious about how their customers respond to price increase messaging, then test what works before sending it across the full customer base.
+Sources
+University of Tennessee Haslam College of Business, “UT Haslam Researcher Finds Messaging Matters in Price Increase Notifications,” July 14, 2026
+https://haslam.utk.edu/news/ut-haslam-researcher-finds-messaging-matters-in-price-increase-notifications/
+Journal of Marketing, “Cushioning the Blow: Reducing Customer Attrition in Response to Price Increase Notifications,” published online May 11, 2026
+https://journals.sagepub.com/doi/10.1177/00222429261451752
+Western University, “Cushioning the Blow: Justifying a Price Increase in a Subscription Business Context”
+https://ir.lib.uwo.ca/etd/9927/
+ Reported by:
+ Subscription Insider Editorial Team
+ News, market data, and regulatory updates to stay current on the companies, regulations, technology, and market shifts shaping subscription, memberships, and recurring revenue.
+ Share to…
+ Share to Twitter
+ Share to Facebook
+ Share to LinkedIn
+ Send as email
+ Copy link
+Share this article
+← Back to All Subscription Business News Articles
+ Recent News Coverage
+ NYC Pricing Bill Would Limit Personalized Subscriber Offers
+ Disney's Streaming Profit Climbs as Hulu Integration Nears
+ USPS Plans 2027 Shipping Hike and Permanent Fuel Surcharge
+ Browse Categories
+ 2027 pricing
+ 3pl
+ a1 telekom austria
+ account sharing
+ ach
+ acquisition quality
+ acquisitions
+ ad-supported streaming
+ add-on subscriptions
+ adobe
+ advertising
+ advertising revenue
+ adyen
+ agentic commerce
+ ai
+ ai agents
+ ai commerce
+ ai content rights
+ ai copyright
+ ai customer service
+ ai healthcare
+ ai licensing
+ ai mode
+ ai overviews
+ ai pricing
+ ai search
+ ai shopping
+ ai subscriptions
+ ai travel
+ albertsons
+ alphabet
+ amazon
+ amazon channels
+ amazon leo
+ amazon prime
+ angel
+ angel guild
+ angel studios
+ annual recurring revenue
+ antenna
+ anthropic
+ antitrust
+ app payments
+ app store
+ app subscriptions
+ app tracking transparency
+ apple
+ apple music
+ apple one
+ apple tv
+ applecare one
+ applecare+
+ appliance subscriptions
+ arbitration
+ artificial intelligence
+ assocations
+ at&t
+ atresplayer
+ att
+ audience acquisition
+ audience development
+ audiobooks
+ auto-renewal
+ automatic renewal
+ automotive subscriptions
+ autoship
+ aws marketplace
+ ayments
+ b2b
+ b2b saas
+ b2b subscriptions
+ b2b2c
+ bank of america
+ banking
+ beauty subscriptions
+ beehiiv
+ bending spoons
+ billing
+ bj’s wholesale club
+ bloomberg
+ blue apron
+ boku
+ booking holdings
+ braintree
+ braze
+ broadband
+ bumble
+ bundeskartellamt
+ bundles
+ bundling
+ business media and publishing
+ business model
+ business models
+ business operations
+ business services
+ business strategy
+ butter payments
+ cac
+ california
+ california automatic renewal law
+ california subscription law
+ cancellation
+ cancellations
+ cartrack
+ cboe
+ cboe exchange
+ cbs news
+ chargebacks
+ chartbeat
+ charter communications
+ chatgpt
+ chatgpt wallet
+ chewy
+ churn
+ circana
+ clarion events
+ class action
+ class action lawsuit
+ claude
+ click to cancel
+ click-to-cancel
+ clubs
+ cma
+ cnn
+ comcast
+ compliance
+ compliance & subscriber trust
+ connected car subscriptions
+ connected cars
+ connected devices
+ connected tv
+ connecticut
+ connecticut unfair trade practices act
+ consumer consent
+ consumer data
+ consumer media and publishing
+ consumer protection
+ consumer refunds
+ consumer services
+ consumer spending
+ consumer subscriptions
+ content licensing
+ content strategy
+ contract renewals
+ conversation focus
+ conversion
+ cookunity
+ cooling-off rights
+ copilot
+ coppa
+ copyright
+ costco
+ counsel health
+ coursera
+ creator economy
+ cresta
+ crunchyroll
+ curiositystream
+ cursor
+ customer acquisition
+ customer acquisition cost
+ customer authorization
+ customer communications
+ customer data
+ customer engagement
+ customer experience
+ customer lifetime value
+ customer loyalty
+ customer retention
+ customer service
+ customer trust
+ cybersecurity
+ data and iot
+ data licensing
+ data privacy
+ dazn
+ dcwp
+ deepseek
+ delivery
+ delivery hero
+ delta
+ device leasing
+ device protection
+ digital fairness act
+ digital markets act
+ digital markets competition and consumers act
+ digital news
+ digital publishing
+ digital subscriptions
+ digital wallets
+ direct mail
+ direct-to-consumer
+ direct-to-consumer (dtc)
+ direct-to-device
+ discounted trials
+ discovery+
+ disney
+ disney+
+ distribution
+ dmcca
+ dollar shave club
+ doordash
+ dots
+ doxo
+ dramabox
+ dtc
+ dtc subscriptions
+ duolingo
+ e-commerce
+ early renewal
+ earnings
+ ecommerce
+ edreams
+ eharmony
+ emvco
+ enforcement
+ enterprise distribution
+ enterprise software
+ entertainment and streaming
+ espn
+ eu
+ european union
+ events
+ expansion revenue
+ facebook
+ family subscriptions
+ fcc
+ federal trade commission
+ finance
+ fintech
+ five9
+ ford
+ foru+
+ fox
+ fox corporation
+ fox one
+ fraud
+ fraud deflect
+ fraud prevention
+ free streaming
+ free trial abuse
+ free trials
+ freemium
+ freshpass
+ freshrealm
+ ftc
+ fuel surcharge
+ fulfillment
+ game pass
+ gaming
+ gaming subscriptions
+ geek+
+ gemini
+ gen z
+ general motors
+ getty images
+ giftify
+ global strategy
+ globalstar
+ globavend
+ goodrx
+ google
+ google news
+ google play
+ google search
+ grocery delivery
+ grok
+ gtcr
+ hardware subscriptions
+ harvest
+ hbo max
+ healthcare
+ hims & hers
+ hinge
+ hubspot
+ hulu
+ industry research
+ informa
+ instacart
+ instagram
+ intercom
+ international expansion
+ introductory offers
+ intuit
+ investment
+ investor relations
+ involuntary churn
+ ipsy
+ iracing
+ japan
+ jetblue
+ kayak
+ kimi k3
+ klarna
+ kpi trading
+ lb504
+ learning and training
+ legalzoom
+ lens.com
+ level ai
+ lg electronics
+ lifemd
+ linkedin
+ litigation & enforcement
+ local news
+ logistics
+ lola
+ loyalty
+ loyalty programs
+ lyft
+ m&a
+ magazines
+ mailchimp
+ manus
+ marketing expenses
+ marketing technology
+ marketwise
+ marley spoon
+ marvel unlimited
+ maryland
+ mastercard
+ match group
+ match.com
+ mb docket no. 26-45
+ mcgraw hill
+ meal delivery
+ meal kits
+ media
+ media mergers and acquisitions
+ media subscriptions
+ member pricing
+ member services
+ membership
+ membership benefits
+ membership bundling
+ membership pricing
+ membership revenue
+ memberships
+ memx
+ merchant api
+ merchant center
+ merchant-initiated transactions
+ mergers & acquisitions
+ mergers and acquisitions
+ meta
+ meta ai glasses
+ meta muse
+ meta one
+ meta quest
+ metered paywall
+ mexico
+ microdrama
+ microsoft
+ microsoft 365
+ misfits market
+ monday.com
+ money20/20
+ moonshot ai
+ ms now
+ multichannel fulfillment
+ multiseat subscriptions
+ multiyear subscriptions
+ muse
+ nacha
+ nbcuniversal
+ nebraska
+ negative option
+ negative option marketing
+ netflix
+ nevada
+ new york
+ new york automatic renewal law
+ new york city
+ new york times
+ news media
+ news publishing
+ news subscriptions
+ news/media alliance
+ notion
+ onstar
+ openai
+ orb
+ oura
+ outcome-based pricing
+ paid add-ons
+ paid content
+ paid conversion
+ paid membership
+ paid memberships
+ paramount
+ paramount+
+ partnerships
+ patreon
+ payment authorization
+ payment costs
+ payment operations
+ payment processing
+ payment recovery
+ payment security
+ payments
+ paypal
+ paywalls
+ peacock
+ peloton
+ pennsylvania
+ pennsylvania corporate income tax
+ people inc
+ people incorporated
+ personalization
+ personalized pricing
+ pew research center
+ philo
+ php
+ physical subscriptions
+ planet fitness
+ platform fees
+ platform migration
+ platform policies
+ pluto tv
+ podcast memberships
+ politico
+ postal rates
+ premium tiers
+ price increases
+ pricing
+ pricing strategy
+ pricing technology
+ privacy
+ private equity
+ product development
+ product strategy
+ product subscriptions
+ professional information
+ promotional pricing
+ publisher rights
+ publishers
+ publishing
+ publishing subscriptions
+ quickbooks
+ reach plc
+ reader revenue
+ recharge
+ recurring billing
+ recurring commerce
+ recurring payments
+ recurring revenue
+ reddit
+ reelshort
+ reformed
+ refunds
+ regulation
+ regulation and compliance
+ renewal
+ renewal charges
+ renewal communications
+ renewal notices
+ renewals
+ rent the runway
+ research & benchmarks
+ restaurant.com
+ retail subscriptions
+ retention
+ reuters
+ reuters institute
+ revenue diversification
+ revenue growth
+ revenue management
+ revenue per subscriber
+ revenue recognition
+ revenuecat
+ robinhood
+ robinhood gold
+ robotics
+ rocket money
+ roku
+ rosca
+ rowan
+ rtl
+ saas
+ saas pricing
+ safeway
+ sales navigator
+ sales tax
+ salesforce
+ sam's club
+ sam's club plus
+ sam’s club
+ satellite connectivity
+ scribeup
+ search & discovery
+ search traffic
+ sec
+ securities and exchange commission
+ seo
+ sequence
+ servicenow
+ shipping costs
+ shipping rates
+ short-form video
+ shutterstock
+ sift
+ signifyd
+ similarweb
+ sinclair
+ siriusxm
+ skio
+ skydance
+ snap
+ snatchat
+ social commerce
+ software subscriptions
+ south korea
+ spacex
+ specialty streaming
+ spectrum
+ sponsorships
+ sports pass
+ sports streaming
+ spotify
+ spotify for creators
+ stablecoin payments
+ stablecoins
+ starlink
+ streaming
+ streaming bundles
+ streaming profitability
+ streaming services
+ streaming subscriptions
+ stripe
+ stripe billing
+ stripe radar
+ subscriber acquisition
+ subscriber churn
+ subscriber conversion
+ subscriber data
+ subscriber economics
+ subscriber engagement
+ subscriber experience
+ subscriber growth
+ subscriber loyalty
+ subscriber metrics
+ subscriber migration
+ subscriber reporting
+ subscriber retention
+ subscription acquisition
+ subscription acquisitions
+ subscription analytics
+ subscription apps
+ subscription billing
+ subscription boxes
+ subscription bundles
+ subscription bundling
+ subscription business
+ subscription business models
+ subscription cancellation
+ subscription checkout
+ subscription commerce
+ subscription compliance
+ subscription consent
+ subscription conversion
+ subscription disclosures
+ subscription distribution
+ subscription economics
+ subscription economy
+ subscription finance memberships
+ subscription fraud
+ subscription fulfillment
+ subscription funding
+ subscription growth
+ subscription infrastructure
+ subscription law
+ subscription management
+ subscription marketplace
+ subscription metrics
+ subscription migration
+ subscription monetization
+ subscription offers
+ subscription operations
+ subscription packaging
+ subscription partnerships
+ subscription payments
+ subscription platforms
+ subscription pricing
+ subscription publishing
+ subscription regulation
+ subscription renewals
+ subscription retention
+ subscription revenue
+ subscription services
+ subscription strategy
+ subscription technology
+ subscriptions
+ substack
+ super cruise
+ supergrok
+ supernatural
+ supernatural health
+ surveillance pricing
+ t-mobile
+ tactacam
+ tags: meta
+ tags: walmart
+ taiwan
+ talon.one
+ target
+ taylor & francis
+ technology costs
+ technology partnerships
+ telecom
+ telecommunications
+ telehealth
+ terms of service
+ tesla
+ the guardian
+ the journal
+ the national press
+ the new york times
+ the washington sun
+ thirty madison
+ thomson reuters
+ tiktok
+ tiktok shop
+ timberwolves
+ tlid
+ toast
+ travel subscriptions
+ travelzoo
+ truecaller
+ truecaller premium
+ truly beauty
+ turbotax
+ uber
+ udemy
+ uk
+ unifirst
+ united airlines
+ united kingdom
+ universal music group
+ us department of justice
+ usa today
+ usage-based billing
+ usage-based pricing
+ usps
+ utah
+ vamp
+ vat
+ vendor consolidation
+ vendor management
+ vendor pricing
+ vendor risk
+ verizon
+ vermont
+ versant
+ visa
+ vix
+ vox
+ vox media
+ vr fitness
+ walmart
+ walmart+
+ warner bros. discovery
+ wearables
+ website crawling
+ webtoon
+ whoop
+ wild alaskan company
+ wordpress
+ workday
+ world cup
+ x premium
+ xai
+ xbox
+ xbox game pass
+ yahoo
+ youtube
+ youtube premium
+ zendesk
+ zuora
+ Your Weekly Briefing
+Join over 10,000 subscription professionals who get the Subscription Signals newsletter each week. One clear market signal, the news behind it, and what to watch next.
+Subscribe Free →
+ Explore a Subscription Insider Membership
+Make better subscription business decisions with operational guidance, tools, and resources.
+Learn More →
+Understand what's changing. Know what matters next.
+ For subscription, membership, and recurring revenue leaders.
+ Get Subscription Signals
+ Read Subscription Business News
+ Explore the Member Center
+ See the Event Calendar
+ Member Center Home
+ Member Login
+ Lost Password
+ Manage Your Account
+ About Subscription Insider®
+ Contact Us
+ © 2026 Authority Media Network, LLC
+ All rights reserved. Reproduction without permission is prohibited.
+ Subscription Insider® is a registered trademark of Authority Media Network, LLC.
+ 9 Bartlet Street, Suite 265, Andover, MA 01810
+ †
+ Terms of Use | Disclaimer | Cookie Policy | Privacy Policy

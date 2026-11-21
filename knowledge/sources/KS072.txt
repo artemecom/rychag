@@ -1,0 +1,313 @@
+The Reputational Cost of a Bad Chatbot · Backbase Research
+ResearchPublicationsbackbase.com
+Customer sentiment study - US banking
+The reputational cost of a bad chatbot experience
+Based on an in-depth review of major US banks: digital dead ends top the list of banking customer complaints, with 1 in 6 negative reviews ending in an instruction to visit a branch, mail, or fax, and fracturing decades of brand loyalty that’s near impossible to recover from.
+AuthorRoland Booijen
+Published1 August 2026, updated 18 September 2026
+Reading time16 min
+Corpus6,400 reviews · 57 institutions
+On this page
+The investigation
+Methodology
+Analysis
+01The 2.4★ chasm between challengers and incumbents
+02Sentiment continued to deteriorate
+03Frustration migrated from the phone queue to the digital dead end
+04AI increasingly to blame
+05Challengers win on resolution
+06Escalation intensifies
+07Loyalty, questioned
+08Life-moment failures
+09Small businesses, significant grievances
+10A reply without a resolution path is worthless
+Conclusion: did AI make things worse?
+Steps to improve your reputational standing
+Banks with Trustpilot data
+0
+Major US banks
+Recent reviews (snippets)
+0
+Q1–Q2 2026 snapshot
+Archived reviews (full text)
+0
+January 2023–March 2026
+Avg. incumbent rating, 2025–26
+0.00★
+vs. 4.49★ among challengers
+The investigation
+Since 2024, virtually every large US bank has put an AI layer between its customers and staff. Chatbots drive interactions in the app; voice bots answer the phone lines; and automated verification runs across the whole system.
+We wanted to explore the degree to which banking customers were happy or not with their bot interactions. Specifically, had the number of customer complaints risen as AI presence increased? And, what kinds of interactions caused the most dissatisfaction?
+Methodology
+We analyzed the public review record of 100 large US banks, including 2,672 snippets across 57 institutions with Trustpilot profiles. From archived snapshots of those pages, we reconstructed a time series of 3,735 dated, full-text reviews logged between January 2023 and March 2026.
+For comparison, we also ran two digital challengers from the UK (458,000 combined reviews) through the same process. We chose these two because they are the digital natives that every traditional bank now competes with. Their digital experiences set the benchmark, and part of our hypothesis was that their reviews would reflect a superior experience, which makes them a useful baseline against which to read the incumbents.
+Analysis
+Firstly, the data validated our assumptions that the majority of US digital banking customers were dissatisfied with their AI-driven experiences. Yet, beyond that, the sample turned up patterns we hadn’t expected:
+consumer dissatisfaction can be strong enough to invoke regulators
+decades-long relationships can be cut short due to a single unresolved incident
+automated assistants do their worst work with estate cases and expat lockouts
+small businesses in particular rate their AI-assisted banking activities most poorly.
+Following, we detail five key findings from our research, along with five surprising insights that surfaced in the process.
+Conversational AI that Resolves, Not Deflects.
+Governed conversational banking that anticipates customer needs and completes complex digital workflows without human handoffs.Build my bespoke agent
+01
+The 2.4★ chasm between challengers and incumbents
+Incumbents scored lower on customer reviews, while challengers scored higher overall, and that gap continues to grow.
+Across the 57 banks with Trustpilot profiles, 46 carry a rating, and 24 of those sit below 2 stars. Among the 17 institutions with more than 200 reviews, 13 do. Only two institutions in the whole set, a large credit union and a digital-native lender, score 4 stars or higher. In the dated sample, incumbents averaged 2.10 stars in 2025–26 and were falling, while the two UK challengers averaged 4.49 and were rising.
+Contrast that with the two outliers, which treat the review channel as part of the product.
+Trustpilot rating bandInstitutions (of 46 rated)Of those with 200+ reviews (17)
+4★ and above22
+3★ to 3.9★102
+2★ to 2.9★100
+Below 2★2413
+What customers complained about, and the key thing they praised
+Interestingly, only 9 of 2,672 incumbent review snippets praise the digital experience. At the challengers, the app is the single most praised thing about the company.
+Complaints (count of tagged snippets, n = 2,672)
+Fees & unexpected charges336
+Loans, mortgages & cards296
+Branch & staff problems286
+Payments & transfers delayed240
+Fraud & scam handling failures213
+Support unreachable/long waits197
+App/online banking problems115
+Account frozen or closed without warning109
+Disputes & chargebacks denied57
+Praise (count of tagged snippets, n = 2,672)
+Helpful individual staff67
+Easy app/digital experience9
+Long-term satisfied customer8
+Note the asymmetry: When an incumbent’s customer is happy enough to write a review, it’s almost always about a named staff member: a teller, loan officer, or fraud agent who helped the customer to complete an action or resolve a problem. The insight: A key benefit delivered by incumbents often gets restricted in AI-first service models.
+02
+Sentiment continued to deteriorate
+Incumbents continued to underperform against customer expectations, while challengers were doing a better job of meeting demands.
+Incumbents’ average dated-review rating fell from 2.39 stars (2023) > 2.29 stars (2024) > 2.10 stars (2025–26), while their one-star share climbed from 60% to 69%. Over that same period, challengers moved in the opposite direction, rising from 3.34 to 4.49 stars.
+Avg. rating of new reviews, US incumbents5.03.82.51.30.0202320242025–26
+Avg. rating of new reviews, challengers5.03.82.51.30.0202320242025–26
+Note the share of one-star dated reviews (below)—indicating that anger against incumbents deepened, while challenger detractors thinned out.
+Period1★ share, US incumbents1★ share, challengers
+202360.1%35.6%
+202462.7%12.5%
+2025–2668.7%9.6%
+Two case studies in reversibility
+The recovery case (1.06 stars > 4.2 stars). At one regional incumbent, customers greet tellers by name, and bankers follow up, unprompted, on new accounts. Unlike any other incumbent in the sample, consumers praise the bank, which invites branch customers to say so publicly. It shows that an incumbent can rebuild its review channel within three years.
+The cautionary case (4.48 stars > 2.27 stars). One digital-native lender’s 2023–24 reviews celebrated instant loan approvals, but its more recent record reads like any incumbent’s: deposit holds on payroll checks; disputes denied; fees introduced via email that got lost in cyberspace; loans sold to third-party servicers. This case shows that digital-native status can’t buy immunity. When money mechanics harden, customer ratings are bound to follow.
+Institution2023202420252026
+Regional incumbent (recovery case)1.061.302.534.20
+Digital-native lender (cautionary case)4.484.464.142.27
+Average rating of dated reviews by year. The recovery case (highlighted) is a regional incumbent, the cautionary case a digital-native lender.
+03
+Frustration migrated from the phone queue to the digital dead end
+Customers were spending less time on hold and more trapped in digital loops that ended nowhere, and were increasingly frustrated because of it.
+When we reclassified every negative (≤2 star) dated review against a consistent taxonomy, the complaint mix not only rotated but also grew. (Interestingly, only two themes decreased: branch and staff problems—from 19.4% to 17.0%—and complaints about hold times and unreachable call centers—from 15.3% to 11.3% of negative reviews.)
+Theme20232025–26Direction
+App/online banking/login failures33.5%36.4%▲ rising
+Loans, mortgages & card servicing21.1%23.9%▲ rising
+Payments & transfers delayed11.6%15.3%▲ rising
+Forced offline (branch/mail/fax to resolve)14.5%16.7%▲ rising
+AI, chatbot & automation blame0.8%2.4%▲ rising
+Fees & unexpected charges16.5%17.8%flat
+Fraud & scam handling failures16.9%15.4%flat
+Branch & staff problems19.4%17%▼ falling
+Support unreachable/long hold times15.3%11.3%▼ falling
+Share of negative (≤2★) dated reviews mentioning each theme, US incumbents. A review can carry several themes.
+The largest complaint surface in 2025–26 was the digital channel itself. From app login issues to lockouts, verification loops to bot walls, automated systems “do everything possible not to connect you to a human,” as one reviewer put it.
+When we combined “app/online failures” + “AI/bot complaints” + “no-human-available” themes, digital interaction failures appeared in 38% of negative reviews in 2025–26, a slight increase from 34% in 2023.
+Even so, this understates a bigger problem: a further 16.7% of negative reviews described customers being forced offline entirely—told to visit a branch, mail a form, or send a fax to resolve something the digital channel started.
+Digital interaction failures, % of negative reviews
+202333.9%
+202432.6%
+2025–2638.2%
+App/login/lockout + AI/bot complaints + “no human available”, combined.
+Explicit AI/bot/no-human-available failures, % of negative reviews
+20230.8%
+20243.4%
+2025–263%
+AI/bot complaints (chatbots, voice bots, automated systems) + “no human available”, combined.
+The anatomy of a lockout
+The main digital complaint of 2025–26 follows a script so consistent, it could be a flowchart: A routine trigger, such as a changed phone number, a login from a work computer, or a first-ever large transfer, trips a fraud model and locks the account. Recovery requires a verification code that gets sent to a channel that the customer no longer controls, or a security answer that was set decades earlier. The phone tree can’t override the model, and branch staff say that “only the 800-number can help.” When asked, the 800-number says that “only the branch can help.”
+Meanwhile, the customer isn’t a fraud victim and has lost no money, but the one-star review still arrives because the institution’s own security architecture has no exit for a legitimate user. Such reviews were rare in 2023. They are now the connective tissue of the negative record.
+04
+AI increasingly to blame
+Customers are getting stuck in an unresolvable loop, where AI assistants can’t fix the problem nor can they hand it off to someone who can.
+Explicit blame of AI, chatbots, or automated systems tripled from 0.8% in 2023 to 2.4% in 2025–26. Though a small share, this gives customers a new grievance: “no human available.”
+Why explicit AI blame plateaus while frustration rises
+The main issue is with visibility: machine decisioning moves upstream of the conversation, where customers can’t see it; they know when they’re talking to a branded assistant or an IVR bot, but attribution requires visibility.
+AI also sits behind execution layers and the rules that govern them. So, while they experience their account being frozen, or their access being blocked, or their notarized form being rejected, what’s actually happening is the fraud model, the routing logic, and the document classifier, respectively, just following the rules. And they interpret it as failures—“the app’s broken,” “my account was frozen for no reason,” or “nobody could tell me why.” This is why the reputational degradation continues to grow—explicit AI failures get blamed because they’re the portion of the automation-failure iceberg that’s visible above sea-level, while lack of integration and disconnected processes and services make up the bulk of what’s invisible, below sea-level.
+05
+Challengers win on resolution
+Challengers seemed better prepared to resolve customer issues and meet a wider range of demands than incumbents.
+“Long wait-time” appeared in 2% of the challengers’ negative reviews vs. 11% of incumbents. Remaining complaints focused on risk operations, including fraud handling and account freezes. Meanwhile, customers praised instant execution, app speed, travel and FX handling, and budgeting control.
+How the challengers escaped the shouting
+Customers praised the challengers mainly because their products resolved issues before support was needed. In fact, customer support itself barely featured in the reviews.
+Four self-service outcomes dominated the praise: the app works, money moves instantly and visibly, travel and FX work smoothly, and spending control sits in customers’ hands, with pots, budgets, instant notifications, and one-tap card freezes.
+Praise driverChallenger A (% of 4-5★)Challenger B (% of 4-5★)
+Easy app/UX (“just works”)20%32%
+Speed & instant execution23%20%
+Travel, FX & multi-currency22%9%
+Budgeting, pots & spending control3%15%
+Notifications & self-serve card control2%7%
+Support praised as fast/helpful4%5%
+Share of positive dated reviews mentioning each driver. n = 469 (A), 246 (B).
+Three structural differences explain the gap better than any single feature:
+Failure was visible and self-diagnosable. A challenger customer watching a transfer saw its state in real time. An incumbent customer discovered a deposit hold when a payment bounced. In contrast, half of incumbent “delay” complaints were about opacity: nobody could say where the money was.
+Control sits with the customer. Card freezing, limits, notifications, and disputes are all self-serve. The incumbent equivalents, such as stop payments, travel notices, and limit changes, routinely require the phone queue that gets panned so badly by other customers.
+The company answers. Nearly every negative challenger review carried a personalized public reply that routed into an in-app case thread. And though those replies didn’t fix the problems, they did close the abandonment loop that generated the incumbents’ harshest language.
+Challengers largely escape the reachability complaint that defines the incumbent record. Their unhappy customers describe risk operations: fraud outcomes, KYC freezes, and compliance holds, which are the hard problems every regulated institution shares. The label “long waits/unreachable” appeared in 2.1% of challengers’ negative reviews vs. 11.3% of incumbents, whereas the complaint profiles were almost mirror images.
+Challenger negative reviews by theme, 2025–26
+Fraud & scam handling22.9%
+Payments & transfers delayed20.8%
+Fees & charges18.8%
+Account frozen/closed (KYC & risk ops)14.6%
+AI/chatbot support14.6%
+Support unreachable/long waits2.1%
+Small base (n = 48 negative reviews). Challengers have few detractors relative to review volume.
+Theme (challengers)202320242025–26
+App/online banking problems42.6%36.6%43.8%
+Fraud & scam handling19.7%22.0%22.9%
+Payments & transfers delayed16.4%12.2%20.8%
+Support unreachable/long waits14.8%7.3%2.1%
+Account frozen/closed13.1%4.9%14.6%
+Fees & charges8.2%12.2%18.8%
+AI/chatbot support3.3%4.9%14.6%
+What’s more, as support scaled, reachability complaints collapsed from 14.8% to 2.1%. The remaining complaints converged on risk operations and their own AI support chat, which rose from 3.3% to 14.6% of their recognizably small sample base.
+*Two important caveats: First, both challengers actively solicit reviews, while incumbents don’t, so sampling inflates the gap between them. That being said, nothing is forcing their customers to write “instant,” “easy,” and “abroad” in their reviews. Second, the challengers’ own AI support chat is their fastest-growing complaint line, at 14.6% of 2025–26 negatives on a small base, and the complaint reads like the incumbents’ own: AI answers, no help. In sum, any bank can choose to build a bot wall, and the challengers aren’t immune.
+Conversational AI that Resolves, Not Deflects.
+Governed conversational banking that anticipates customer needs and completes complex digital workflows without human handoffs.Build my bespoke agent
+06
+Escalation intensifies
+Where negative customer reviews were considered a kind of escalation in pre-AI times, legal action is the new escalation, and it has the potential for far greater damage.
+This is where things begin to get very interesting: 15.8% of all negative incumbent reviews (a total of 310) indicated that an escalatory action was taken due to their dissatisfaction with the bank. This reportedly* included filing CFPB complaints, contacting state attorneys general, opening cases with the Better Business Bureau, and invoking class action (“I will pursue legal remedies.”)
+Escalation signals in negative incumbent reviews (n = 1,966)
+Names a regulator, lawsuit or watchdog (CFPB, AG, BBB, class action…)15.8% (310)
+Cites a 15–40+ year relationship being ended6.5% (127)
+Explicitly announces switching banks5.1% (100)
+Fraud victim describing a denied reimbursement1.1% (21)
+Signal202320242025–26
+Regulator/legal escalation15.7%14.4%16.4%
+Switching-bank announcements6.2%5.1%4.9%
+Acquisition/loan-sale fallout5.8%2.4%1.4%
+Escalation signals over time, share of negative reviews. Regulator mentions stay high and steady, while merger fallout fades as the 2021–23 acquisition wave digests.
+*Note: The sample data doesn’t specify if these actions were actually taken, merely that they were reported in the reviews. Therefore, we advise that this be taken as a signal more so than a motion.
+That being said, the sample supports two readings: first, regulator mentions hold stable across all three periods, which is evidence of settled behavior rather than an outlier response. For a meaningful minority of customers, the CFPB is now a standard service step, listed in reviews the way an order number would have been years ago. Second, one escalation category did in fact fall: “acquisition and loan-sale fallout,” from 5.8% to 1.4%. This demonstrates that the record responds to real-world events, and the 2023 wave of integrations and loan sales flooded the channel with conversion complaints that have since been worked through. And so, we can conclude that the record is a functioning sensor. What it senses in 2025–26 is service design rather than merger indigestion.
+07
+Loyalty, questioned
+After decades of silence, one failed incident had the power to change the course of the customer relationship.
+Tenure statements open 6.5% of the negative reviews (127 total): customers of 25 years, accounts held since the early 1980s, four decades of mortgages and car loans.
+Banks should read these twice. The authors are narrating the end of the most profitable relationships the bank has—one that required minimal input of time and investment, and still compounded over time.
+“I just spent 45 minutes trying to reach a human being… Not to solve a complex problem. Just to talk to a person… there is zero difference between a 40-year Platinum client and someone who opened an account yesterday.”
+Tier 1 national bank
+“Banked with them for over 25 years and now, just want to close the account and leave.”
+Tier 1 national bank
+“I have been a customer for over 35 years. Trying to get customer service today was so incredibly frustrating that — for the first time in my life — I screamed into their automate phone line.”
+Tier 1 national bank
+A further 5.1% of negative reviews announced a switch in progress, such as “taking my business to a credit union,” alongside customers closing accounts and moving money. Combined with the tenure citations, roughly 1 in 9 negative reviews described measurable, in-flight attrition rather than mere mud-slinging or venting.
+Such negative ratings, taken en masse, produce a damaging narrative that other consumers can see and act upon, alongside the AI assistants that provide recommendations on “the best bank” for them.
+08
+Life-moment failures
+The smallest categories are the most damning for banks: how they manage bereavement, estate and probate, vulnerable customers, and expat lockout says a lot about how they handle everything.
+Experiences with bereavement, estate, and probate management, dealing with elderly or otherwise vulnerable customers, or customers who get locked out of their assets while abroad, may be the most rare for customers, but they should also be the most routine for banks.
+And while the negative reviews about life moments made up the smallest share of the sample, they also tended to be the longest, most detailed, and most legally threatening overall. What’s more, they were effectively absent from challenger bank records (partly due to a younger customer base, and also its partly digital-first estate workflows).
+Life-moment signals in negative incumbent reviews
+Bereavement, estates, beneficiaries & probate2% (40)
+Elderly, disabled or vulnerable customers1.9% (38)
+Locked out while living or traveling abroad0.4% (8)
+Low shares, high severity. These reviews are the longest, most detailed, and most legally threatening in the corpus.
+One widow describes a two-year, 17-call effort to close a $5 account. Forty reviews describe estates and bereavement, the same story told 40 times. Death certificates are mailed, faxed, and “lost.” Beneficiary departments can’t be called, only awaited. Funds are released only after the CFPB or a lawyer is engaged. Estate handling is a pure process problem, with no credit risk and no fraud ambiguity. It’s also where the gap between automated front doors and back-office reality is widest. A bot can’t process a death, and the humans behind it have been made unreachable.
+Expat lockout, on the other hand, is the same architecture failing in a different way. When security models assume that a US phone number and a domestic IP are the only legitimate signifiers, they treat every American abroad as an attacker. Eight reviews describe multi-month lockouts while overseas—relatively few in number, but sizable in impact.
+“We are just trying to close out a brokerage account that my deceased father-in-law had. Have spent hours on hold, every time you call it is starting over explaining what needs to be done.”
+Tier 1 national bank
+“My husband passed away four months ago… I submitted all of the required paperwork… I was even told two days ago that the problem had been fixed and that I would receive a confirmation call the next morning. The call never came.”
+Tier 1 wealth manager
+“Have kept my late Mother’s money hidden in one of their accounts for almost seven years… If you push them for answers, they end your call.”
+Tier 1 national bank
+“Terrible experience since I left the US to live overseas. My account has been locked for security purposes for months and the client assistance team can’t unlock it because my phone number on file is foreign.”
+Tier 1 national bank
+09
+Small businesses, significant grievances
+What reads as an inconvenience to an everyday consumer may be a life-changing event for small business owners, their staff, suppliers, and creditors.
+The negative reviews from business owners averaged 1.03 stars—the lowest of any segment we could isolate. True, they totaled just 128 reviews, 6.5% of the sample. But frozen or closed accounts and held funds appeared in 35% of them, against roughly 6% of consumer negatives.
+At stake are payroll runs, contractor payments, and a $30,000 wire fraud on a business account with reimbursement denied. Several reviews described companies that were unable to pay staff for weeks while a compliance review continued without explanation, timeline, or a named human taking ownership of the process.
+What business-owner negatives are about
+Support failure during the incident60.9%
+Account frozen, closed or funds held35.2%
+Fraud event mishandled18.8%
+Share of the 128 business-owner negative reviews, multi-label. Average segment rating: 1.03★.
+“I was the victim of credit card fraud and disputed $150 worth of charges. They retaliated by closing my personal checking account, all three of my credit cards, and even my business checking account. My business makes 7 figures annually and they just spit me out without a second thought. And I’m still out the $150.”
+Tier 1 national bank
+“If I could give zero stars I would. They closed my business account without zero notification. Then (hopefully) they sent the balance to me via snail mail to which I haven’t received as of this review.”
+Tier 1 national bank
+“I was a small business customer for several years and never had any issue until they closed my business account without any warning or providing any justification.”
+Tier 1 national bank
+Interestingly, one challenger’s business-banking arm drew the same frozen-funds complaints when its own risk operations backfired. This makes “small business” the segment where our comparisons least-flatter the challenger banks. But the difference is in how cases get resolved.
+10
+A reply without a resolution path is worthless
+The way that banks handle reviews makes a difference: their review pages are themselves a kind of customer service channel. Some banks go the extra mile to address customer concerns, while others hardly bother.
+When banks reply, two patterns emerge in opposite directions:
+Institution typeRating bandResponse behavior observed
+Large credit union4★ and aboveA named team member replies to nearly every review, praise included
+Regional incumbent3★ to 4★Branch-level engagement, with reviewers naming staff and the bank amplifying
+Digital challenger4★ and aboveEvery complaint gets a personalized reply routing to an in-app resolution thread
+Digital challenger4★ and abovePublic apology plus a named complaints channel with a published process
+National direct bankBelow 2★Some 70 boilerplate replies detected, many a variation of ‘please call us’, none with an in-thread resolution
+Regional incumbentBelow 2★Templated empathy paragraphs, with customers directed back to the same phone queue
+Four of the ten largest US banksBelow 2★No visible response program at all
+Response patterns in the Q1–Q2 2026 snapshot. Engagement correlates with rating. Boilerplate does not.
+A templated “we’re sorry, please call us” reply sends the customer back into the queue they’ve already been complaining about, thereby reinforcing the dead end (though politely, this time). One bank in the snapshot posted some 70 such replies while rated below 2 stars.
+In contrast, the credit union’s named-human replies, the regional incumbent’s branch-level engagement, and the challengers’ case-thread routing all do the one thing that the boilerplate response can’t: they move the resolution to a place where it can actually be resolved.
+Conclusion: did AI make things worse?
+The cut-and-dry verdict: Yes, based on the sample data, AI integration among incumbent banks has influenced customer reviews for the worse, not the better. Specifically, explicit blame of AI, bots, and automation, counted together with “no human available” complaints, roughly quadrupled from 0.8% of negative reviews in 2023 to 3.4% in 2024—a much smaller magnitude than our hypotheses at first supposed. What’s more, the share plateaued at around 3% in 2025–2026, even as AI uptake increased. And, taken a step further, when we remove the “no human available” complaints, explicit AI blame decreases again.
+This study makes several conclusions clear:
+Customers who are angry at a bank in 2026 are still mostly dissatisfied with money mechanics (e.g., fees, holds, frozen funds, denied disputes), rather than the role that AI plays in delivering such outcomes.
+The depth of reviews in any given period of time, as well the timing of chatbot deployment, have a recognizable influence on negativity: So, for example, Q3-2023 registered only 40 reviews, and Q1-2026 registered a small, late-arriving sample—both quarters demonstrated a lower-than-average share of negative reviews—while the level-up across 2023–2024 coincides with mass chatbot adoption in the industry.
+Quarterly share of negative reviews mentioning AI / chatbots (loose tagging)129.06.03.00.023Q123Q324Q124Q325Q125Q326Q1
+Noisy where quarters are thin. The step up across the 2023–2024 boundary is the reliable feature, and it coincides with the first mass chatbot deployments.
+Furthermore, three secondary signals show AI-era service design reshaping not just what but how customers experience those failures:
+Hold-time complaints fell (15.3% to 11.3%) as bots absorbed first contact. The queue got shorter because fewer people reached it.
+Digital dead ends rose to 38% of negative reviews, and “forced offline” resolution (branch, mail, fax) rose to 1 in 6 negative reviews. The human escape hatch was being removed faster than the automation could carry the load.
+The tone changed. In 2023, complaints read as impatience. By 2025–26 they read as abandonment: 40-year customers described verification loops with no exit; disabled accounts locked out abroad; executors faxing death certificates into the void.
+Ultimately, customers were shouting at the machine because it was the last thing that would ever answer them back:
+“Literally unusable customer support. The functioning of the automated systems is so poor that I could not use the card issued to me. Despite repeated attempts to identify any mechanism through which to fix the issue, there was simply no way to a person through their automated system (which, does not function).”
+Tier 1 national bank
+“This is frustrating—I’ve been trying to reach a representative, but I keep getting stuck in their automated phone system, even when I enter all the correct information.”
+Tier 1 national bank
+“A bank I’ve been with for over 40 years. I’m trying to reach someone regarding account security, and their automated system does everything possible not to connect you to a human. Nonstop glitches in the verification.”
+Tier 1 national bank
+Conversational AI that Resolves, Not Deflects.
+Governed conversational banking that anticipates customer needs and completes complex digital workflows without human handoffs.Build my bespoke agent
+Steps to improve your reputational standing
+All of these insights point in the same general direction: customers aren’t asking you to build new machine intelligence. And they’re not necessarily averse to AI assistance. They simply want better processes and outcomes.
+The common thread is resolution. AI that only talks is the problem. AI that can block a card, raise a limit, dispute a payment, and close most matters on the customer’s behalf is the fix, which is what Backbase’s agentic assistants are built to do. These steps can help you to deliver more of what your customers want and need from their AI-assisted banking experiences:
+01
+Break the “unresolved loop.”
+The number of customers who leave the digital stream without a resolution predicts a one-star review better than your bot containment rate. To solve such defections, consider steps you can put into place to limit instructions like “visit a branch,” “mail” or “fax a form”—if not eliminate them outright. In practice, that means an assistant that can finish the job itself: block the card, raise the limit, file the dispute, and confirm the outcome in the same conversation.
+02
+Keep a human escape hatch, and make it findable.
+Hold-time complaints dropped and abandonment increased because AI assistance made it harder for people to reach the queue. If you’re going to offer an agentic front-door, be sure that your customers can escalate their issue to a human, with as few steps to get there as possible.
+03
+Give legitimate users an exit strategy from security restrictions.
+Lockouts are a pain for everyone involved: the consumer can’t get their banking needs met, and the bank misses the opportunity to deepen the relationship. Every fraud control needs an appeal path to a human, especially for the changed-phone-number, traveling-abroad, and bereaved cases that models treat as anomalies.
+04
+Build the estate journey like an onboarding journey.
+Bereavement is the highest-severity, lowest-volume failure in the record and a pure process problem. It’s also automatable through document intake, status visibility, and a named case owner. Put those in place, and watch your reviews turn around.
+05
+Run business-account freezes as incidents.
+Silence during a compliance review is the single most litigation-threatening behavior in the sample. Put these easy updates in place now, which parallel processes used in incident investigations: clearly stipulate timelines; name owners and decision-makers; and, identify interim access arrangements.
+06
+Provide greater visibility into your money mechanics.
+Fees, deposit holds, frozen accounts, and fraud outcomes still drive the greatest dissatisfaction among customers. Most of that anger is about opacity. Show the state of the money the way challengers do, and a large share of the “delay” category dissolves.
+07
+Move the needle on reviews with better resolution.
+One regional incumbent’s rise from 1.06 to 4.2 stars shows that reviews aren’t destiny, while another bank’s 70-odd boilerplate replies at a sub-2-star rating show what doesn’t work. If you’re expecting public in-thread replies to take the place of your own customer service, you’re inviting negative reviews–and AI assistants that recommend banks read that same text, too.
+© 2026 Backbase · research.backbase.com · backbase.com
+Research
+Original studies from the Backbase research team - measured, reproducible, and grounded in production data.
+Publications
+FinRAG-12B
+The Reputational Cost of a Bad Chatbot
+Backbase
+backbase.com
+Newsroom
+© 2026 Backbaseresearch.backbase.com
+Interactive demo
+Conversational AI that Resolves, Not Deflects.
+Governed conversational banking that anticipates customer needs and completes complex digital workflows without human handoffs.Build my bespoke agent

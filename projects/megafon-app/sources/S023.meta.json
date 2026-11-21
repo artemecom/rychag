@@ -1,0 +1,22 @@
+{
+  "id": "S023",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт full_recalc.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "05981adfc9355fd025462d4804b87a2b624604ff8d22295b4675e10e89f9e6d1",
+  "question": "пересчёт задетых выводов, полная выгрузка",
+  "stale_accepted": false,
+  "added": "2026-11-19T00:05:22",
+  "script": "analysis/full_recalc.py",
+  "script_sha256": "89083bd63b5a524415fa6fde671b601d12589a8bece4cf1edd773e370f9de00a",
+  "inputs": [
+    {
+      "path": "materials/rustore_megafon_reviews_full.csv",
+      "sha256": "4bc771bf94f027b418ed82e9ab4329dd74e4448ec984b3513f71c16c86283815"
+    }
+  ]
+}

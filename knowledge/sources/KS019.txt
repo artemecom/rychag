@@ -1,0 +1,97 @@
+Customer knowledge and understanding of mid-contract price rises - Which?
+Skip to main content
+Back
+My saved items MenuSearchSearchClose MenuClose
+My saved itemsLog inJoin
+My account
+Manage Account
+Appointments
+Log outClose
+Search
+Home
+Policy and Insight
+Customer knowledge and understanding of mid-contract price rises
+Insight article
+Customer knowledge and understanding of mid-contract price rises
+18 Aug 2023
+6 min read
+Stephen McDonaldHead of Economics
+Nicole ChanEconomist
+Save article
+In this article
+Key findings
+Introduction
+Few consumers understand inflation-linked MCPRs
+Some consumer groups particularly struggle
+Conclusions
+Annex: Methodology
+In this article:
+Please select
+Key findings
+Only one in twenty consumers (5.2%) are capable of estimating what impact an inflation-linked mid-contract price rise (MCPR) will have on their monthly telecoms bill.
+Almost half (49%) of broadband and mobile customers were not able to identify the Consumer and Retail Price Indices as measures of the rate of inflation, while many more were unable to make a reasonable forecast of future inflation or calculate the impact on price of an increase after being told an inflation forecast.
+Levels of knowledge and capability were particularly low among some socio-demographic groups. People with a disability, with lower levels of educational attainment and with lower incomes were all less likely to be able to correctly answer questions related to inflation-linked MCPRs.
+Introduction
+Ofcom is currently reviewing the practice of inflation-linked mid-contract price rises (MCPRs). These practices are common across the telecoms market with many of the largest mobile and broadband providers increasing prices by the consumer price index (CPI) plus 3.9%, or similar, during an 18- or 24-month contract.
+Inflation-linked MCPRs are controversial for various reasons. They reduce the incentive for firms to hold down costs and, since consumers tend to focus on the initial price, the increases are not set competitively. The latter is indicated by the fact that most providers set increases at or around the same level.
+MCPRs have also been criticised for a lack of transparency, leading the Committee of Advertising Practice to introduce new guidance on how they should be advertised.
+However, there is a fundamental question about whether, even if transparency is improved, consumers will be able to fully understand the impact an inflation-linked MCPR has on their bill and hence be able to make an informed choice when choosing a broadband or mobile provider and package.
+The evidence to date on consumer understanding is not reassuring. Ofcom’s own consumer research found that six in ten customers don’t know that CPI and RPI (the retail price index) measure the rate of inflation.
+Understanding what CPI or RPI mean is only a first step though. To properly understand how much their monthly bill will be affected during the term of a contract, customers need to be able to do three things:
+Understand what an inflationary increase is;
+Have an estimate of what the future rate of inflation will be;
+Be able to calculate the impact this will have on the monthly price.
+If large numbers of consumers are unable to do any of these things then competition is undermined, because customers will not be able to compare the offers of firms which may have different levels of MCPR or not include one at all, and the question of whether these contract terms are substantively fair becomes more pressing.
+To investigate this, we surveyed just over 4,000 broadband and mobile customers in June 2023. See Annex for full details of the methodology.
+Few consumers understand inflation-linked MCPRs
+We asked consumers three questions to test their knowledge of inflation and their ability to estimate a future increase.
+First, we asked a multiple choice question about what is measured by CPI and RPI. Only about half (51%) of broadband and mobile customers successfully identified CPI and RPI as measures of the rate of inflation (see Figure 1). This is more than Ofcom found when they surveyed consumers in January 2023, but that so many people still do not know that these terms measure the rate of inflation despite price rises appearing prominently and repeatedly in news stories in the first half of the year is evidence of the difficulty inherent to raising public understanding.
+Figure 1: Only about half of consumers know that CPI / RPI measures the rate of inflation
+Next, even among those who did correctly identify CPI and RPI as inflation, few were able to credibly forecast what the inflation rate might be in January 2024, which is when the size of the next inflation-linked MCPR would be determined for customers entering contracts at the time of our survey.
+48% of those who knew CPI and RPI measured inflation selected ‘don’t know’ when asked to forecast the January 2024 inflation rate. The estimates of those who did give a forecast ranged widely, and implausibly, from 0.2% - 20%. Less than a quarter (22.6%) of respondents were within two percentage points either way of the Bank of England’s estimate of CPI inflation in January 2024, which is 4.4%.
+Finally, we told all respondents a specific forecast for CPI and asked them to calculate the new monthly price for a contract featuring a MCPR of CPI + 3.9%. Over a third (37%) of respondents selected ‘don’t know’ as a response. Only a quarter (25%) of all respondents answered correctly with either the exact figure (which is £32.88) or an answer that was reasonably assumed to have been rounded up (either £32.89, £32.90 or £33.00).
+When we look at the answers for all three questions, we find very few consumers are able to accurately estimate how much their telecoms bills will be once inflation-linked MCPRs are applied. Of the 4,004 respondents to our survey only 209 (5.2%) managed to correctly answer all three questions that tested knowledge and capability.
+Figure 2: Only 5.2% of people could estimate their future price
+Source: Yonder on behalf of Which?, surveyed a nationally-representative sample of 4,004 people online in June 2023.
+Some consumer groups particularly struggle
+Analysing the data by socio-demographics, we find that some consumer groups are notably more likely to find inflation-linked MCPRs difficult to understand.
+People with a disability, with lower levels of educational attainment and with lower incomes are all less likely to know what CPI and RPI are, to be able to forecast future rates of inflation and to be able to calculate a price increase.
+Taken cumulatively this results in large differences in the success rates of different groups in answering all three questions. Those with higher household incomes (greater than £48,000 per annum) were more than twice as likely to correctly answer all three questions than those with lower incomes, and those with a higher education were about one and half times as likely to be able to do it as those without.
+Table 1: Differences between socio-demographic groups
+Expand table
+Socio-demographic
+Sample sizePercentage that correctly answered all three
+Age
+18-349373.8%
+35-541,4635.3%
+55+1,6046.0%
+Disability
+Yes9293.9%
+No2,9915.7%
+Education
+No higher education2,0634.3%
+Higher education1,8506.2%
+Annual household income
+Less than £21,0009663.5%
+£21,000 - £48,0001,8084.2%
+Greater than £48,0009439.4%
+Show all rows
+Note: All differences are statistically significant at the 5% level except between ages 18-34 and 35-54, ages 35-54 and 55+, and incomes <£21,000 and £21,000 - £48,000.
+Conclusions
+Inflation-linked MCPRs place a substantial cognitive burden on consumers trying to compare contract prices, and it is clear from our research that relatively few consumers are able to work through the steps required to have an understanding of what price they will be paying after these increases have been applied. While knowledge and capability is low across the board, these problems are even worse for some types of consumers, including for characteristics that tend to be proxies for vulnerability.
+Inflation-linked MCPRs have been described by the CMA as ‘anti-consumer’ and our findings make it difficult not to question the fairness of these price rises. Clearly, if consumer contracts feature terms that the vast majority of consumers are unable to fully understand then the appropriateness of such terms is in doubt. Which? believes that Ofcom should use its current review to prohibit inflation-linked MCPRs and ensure that consumers have certainty over their contract price.
+Annex: Methodology
+Yonder on behalf of Which?, conducted an online survey with a sample of 4,004 broadband and mobile customers that was representative of the UK population. The poll was conducted between 2nd and 20th June, 2023.
+The questions on knowledge of inflation and ability to calculate a price rise were:
+1. Which ONE of the following best describes the concept that is measured by both the Consumer Price Index (CPI) and the Retail Price Index (RPI)?
+a. The rate of inflation
+b. The broadband speed
+c. The rate of interest
+d. The rate of economic growth
+e. Don't know
+2. What do you think the CPI rate will be in January 2024?
+3. For the following question, please imagine you are paying £30 a month for your contract. Your provider informs you that your monthly cost will increase by the CPI rate and an additional 3.9% in April 2024. The relevant CPI rate being used is 5.7%. What do you think your total monthly payment will be in April 2024?Save article
+Back to top
+Related articles
+Broadband price increases could cost nearly £200 each year
+Phone and broadband providers to send end-of-contract alerts to customers

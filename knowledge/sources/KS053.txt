@@ -1,0 +1,119 @@
+Studying the dialogue between users and developers of free apps in the Google Play Store
+ - Monash University
+Skip to main navigation
+ Skip to search
+Skip to main content
+ Monash University Home
+ Search content at Monash University
+ Home
+ Profiles
+ Research units
+ Research Infrastructure
+ Projects
+ Outputs
+ Prizes
+ Activities
+ Press/Media
+ Studying the dialogue between users and developers of free apps in the Google Play Store
+ Safwat Hassan
+, Chakkrit Tantithamthavorn
+, Cor-Paul Bezemer
+, Ahmed E. Hassan
+ Research output: Contribution to journal › Article › Research › peer-review
+ 88
+   Link opens in a new tab
+ Citations
+(Scopus)
+ Overview
+ Abstract
+ The popularity of mobile apps continues to grow over the past few years. Mobile app stores, such as the Google Play Store and Apple’s App Store provide a unique user feedback mechanism to app developers through the possibility of posting app reviews. In the Google Play Store (and soon in the Apple App Store), developers are able to respond to such user feedback. Over the past years, mobile app reviews have been studied excessively by researchers. However, much of prior work (including our own prior work) incorrectly assumes that reviews are static in nature and that users never update their reviews. In a recent study, we started analyzing the dynamic nature of the review-response mechanism. Our previous study showed that responding to a review often has a positive effect on the rating that is given by the user to an app. In this paper, we revisit our prior finding in more depth by studying 4.5 million reviews with 126,686 responses for 2,328 top free-to-download apps in the Google Play Store. One of the major findings of our paper is that the assumption that reviews are static is incorrect. In particular, we find that developers and users in some cases use this response mechanism as a rudimentary user support tool, where dialogues emerge between users and developers through updated reviews and responses. Even though the messages are often simple, we find instances of as many as ten user-developer back-and-forth messages that occur via the response mechanism. Using a mixed-effect model, we identify that the likelihood of a developer responding to a review increases as the review rating gets lower or as the review content gets longer. In addition, we identify four patterns of developers: 1) developers who primarily respond to only negative reviews, 2) developers who primarily respond to negative reviews or to reviews based on their contents, 3) developers who primarily respond to reviews which are posted shortly after the latest release of their app, and 4) developers who primarily respond to reviews which are posted long after the latest release of their app. We perform a qualitative analysis of developer responses to understand what drives developers to respond to a review. We manually analyzed a statistically representative random sample of 347 reviews with responses for the top ten apps with the highest number of developer responses. We identify seven drivers that make a developer respond to a review, of which the most important ones are to thank the users for using the app and to ask the user for more details about the reported issue. Our findings show that it can be worthwhile for app owners to respond to reviews, as responding may lead to an increase in the given rating. In addition, our findings show that studying the dialogue between user and developer can provide valuable insights that can lead to improvements in the app store and user support process.
+ Original languageEnglish
+Pages (from-to)1275-1312
+Number of pages38
+JournalEmpirical Software Engineering
+Volume23
+Issue number3
+DOIshttps://doi.org/10.1007/s10664-017-9538-9
+Publication statusPublished - Jun 2018
+Externally publishedYes
+ Keywords
+Android mobile apps
+Developer reply
+Developer response
+Empirical study
+Google play store
+Mixed-effect model
+Software engineering
+User-developer dialogue
+ Access to Document
+ 10.1007/s10664-017-9538-9
+ Other files and links
+ Link to publication in Scopus
+ Cite this
+ APA
+ Author
+ BIBTEX
+ Harvard
+ Standard
+ RIS
+ Vancouver
+ Hassan, S., Tantithamthavorn, C., Bezemer, C.-P., & Hassan, A. E. (2018). Studying the dialogue between users and developers of free apps in the Google Play Store. Empirical Software Engineering, 23(3), 1275-1312. https://doi.org/10.1007/s10664-017-9538-9
+ Hassan, Safwat ; Tantithamthavorn, Chakkrit ; Bezemer, Cor-Paul et al. / Studying the dialogue between users and developers of free apps in the Google Play Store. In: Empirical Software Engineering. 2018 ; Vol. 23, No. 3. pp. 1275-1312.
+ @article{8971f5547a3641938e321aa13243f8ca,
+ title = "Studying the dialogue between users and developers of free apps in the Google Play Store",
+ abstract = "The popularity of mobile apps continues to grow over the past few years. Mobile app stores, such as the Google Play Store and Apple{\textquoteright}s App Store provide a unique user feedback mechanism to app developers through the possibility of posting app reviews. In the Google Play Store (and soon in the Apple App Store), developers are able to respond to such user feedback. Over the past years, mobile app reviews have been studied excessively by researchers. However, much of prior work (including our own prior work) incorrectly assumes that reviews are static in nature and that users never update their reviews. In a recent study, we started analyzing the dynamic nature of the review-response mechanism. Our previous study showed that responding to a review often has a positive effect on the rating that is given by the user to an app. In this paper, we revisit our prior finding in more depth by studying 4.5 million reviews with 126,686 responses for 2,328 top free-to-download apps in the Google Play Store. One of the major findings of our paper is that the assumption that reviews are static is incorrect. In particular, we find that developers and users in some cases use this response mechanism as a rudimentary user support tool, where dialogues emerge between users and developers through updated reviews and responses. Even though the messages are often simple, we find instances of as many as ten user-developer back-and-forth messages that occur via the response mechanism. Using a mixed-effect model, we identify that the likelihood of a developer responding to a review increases as the review rating gets lower or as the review content gets longer. In addition, we identify four patterns of developers: 1) developers who primarily respond to only negative reviews, 2) developers who primarily respond to negative reviews or to reviews based on their contents, 3) developers who primarily respond to reviews which are posted shortly after the latest release of their app, and 4) developers who primarily respond to reviews which are posted long after the latest release of their app. We perform a qualitative analysis of developer responses to understand what drives developers to respond to a review. We manually analyzed a statistically representative random sample of 347 reviews with responses for the top ten apps with the highest number of developer responses. We identify seven drivers that make a developer respond to a review, of which the most important ones are to thank the users for using the app and to ask the user for more details about the reported issue. Our findings show that it can be worthwhile for app owners to respond to reviews, as responding may lead to an increase in the given rating. In addition, our findings show that studying the dialogue between user and developer can provide valuable insights that can lead to improvements in the app store and user support process.",
+ keywords = "Android mobile apps, Developer reply, Developer response, Empirical study, Google play store, Mixed-effect model, Software engineering, User-developer dialogue",
+ author = "Safwat Hassan and Chakkrit Tantithamthavorn and Cor-Paul Bezemer and Hassan, \{Ahmed E.\}",
+ year = "2018",
+ month = jun,
+ doi = "10.1007/s10664-017-9538-9",
+ language = "English",
+ volume = "23",
+ pages = "1275--1312",
+ journal = "Empirical Software Engineering",
+ issn = "1382-3256",
+ publisher = "Springer",
+ number = "3",
+}
+ Hassan, S, Tantithamthavorn, C, Bezemer, C-P & Hassan, AE 2018, 'Studying the dialogue between users and developers of free apps in the Google Play Store', Empirical Software Engineering, vol. 23, no. 3, pp. 1275-1312. https://doi.org/10.1007/s10664-017-9538-9
+ Studying the dialogue between users and developers of free apps in the Google Play Store. / Hassan, Safwat; Tantithamthavorn, Chakkrit; Bezemer, Cor-Paul et al.
+In: Empirical Software Engineering, Vol. 23, No. 3, 06.2018, p. 1275-1312.Research output: Contribution to journal › Article › Research › peer-review
+ TY - JOUR
+T1 - Studying the dialogue between users and developers of free apps in the Google Play Store
+AU - Hassan, Safwat
+AU - Tantithamthavorn, Chakkrit
+AU - Bezemer, Cor-Paul
+AU - Hassan, Ahmed E.
+PY - 2018/6
+Y1 - 2018/6
+N2 - The popularity of mobile apps continues to grow over the past few years. Mobile app stores, such as the Google Play Store and Apple’s App Store provide a unique user feedback mechanism to app developers through the possibility of posting app reviews. In the Google Play Store (and soon in the Apple App Store), developers are able to respond to such user feedback. Over the past years, mobile app reviews have been studied excessively by researchers. However, much of prior work (including our own prior work) incorrectly assumes that reviews are static in nature and that users never update their reviews. In a recent study, we started analyzing the dynamic nature of the review-response mechanism. Our previous study showed that responding to a review often has a positive effect on the rating that is given by the user to an app. In this paper, we revisit our prior finding in more depth by studying 4.5 million reviews with 126,686 responses for 2,328 top free-to-download apps in the Google Play Store. One of the major findings of our paper is that the assumption that reviews are static is incorrect. In particular, we find that developers and users in some cases use this response mechanism as a rudimentary user support tool, where dialogues emerge between users and developers through updated reviews and responses. Even though the messages are often simple, we find instances of as many as ten user-developer back-and-forth messages that occur via the response mechanism. Using a mixed-effect model, we identify that the likelihood of a developer responding to a review increases as the review rating gets lower or as the review content gets longer. In addition, we identify four patterns of developers: 1) developers who primarily respond to only negative reviews, 2) developers who primarily respond to negative reviews or to reviews based on their contents, 3) developers who primarily respond to reviews which are posted shortly after the latest release of their app, and 4) developers who primarily respond to reviews which are posted long after the latest release of their app. We perform a qualitative analysis of developer responses to understand what drives developers to respond to a review. We manually analyzed a statistically representative random sample of 347 reviews with responses for the top ten apps with the highest number of developer responses. We identify seven drivers that make a developer respond to a review, of which the most important ones are to thank the users for using the app and to ask the user for more details about the reported issue. Our findings show that it can be worthwhile for app owners to respond to reviews, as responding may lead to an increase in the given rating. In addition, our findings show that studying the dialogue between user and developer can provide valuable insights that can lead to improvements in the app store and user support process.
+AB - The popularity of mobile apps continues to grow over the past few years. Mobile app stores, such as the Google Play Store and Apple’s App Store provide a unique user feedback mechanism to app developers through the possibility of posting app reviews. In the Google Play Store (and soon in the Apple App Store), developers are able to respond to such user feedback. Over the past years, mobile app reviews have been studied excessively by researchers. However, much of prior work (including our own prior work) incorrectly assumes that reviews are static in nature and that users never update their reviews. In a recent study, we started analyzing the dynamic nature of the review-response mechanism. Our previous study showed that responding to a review often has a positive effect on the rating that is given by the user to an app. In this paper, we revisit our prior finding in more depth by studying 4.5 million reviews with 126,686 responses for 2,328 top free-to-download apps in the Google Play Store. One of the major findings of our paper is that the assumption that reviews are static is incorrect. In particular, we find that developers and users in some cases use this response mechanism as a rudimentary user support tool, where dialogues emerge between users and developers through updated reviews and responses. Even though the messages are often simple, we find instances of as many as ten user-developer back-and-forth messages that occur via the response mechanism. Using a mixed-effect model, we identify that the likelihood of a developer responding to a review increases as the review rating gets lower or as the review content gets longer. In addition, we identify four patterns of developers: 1) developers who primarily respond to only negative reviews, 2) developers who primarily respond to negative reviews or to reviews based on their contents, 3) developers who primarily respond to reviews which are posted shortly after the latest release of their app, and 4) developers who primarily respond to reviews which are posted long after the latest release of their app. We perform a qualitative analysis of developer responses to understand what drives developers to respond to a review. We manually analyzed a statistically representative random sample of 347 reviews with responses for the top ten apps with the highest number of developer responses. We identify seven drivers that make a developer respond to a review, of which the most important ones are to thank the users for using the app and to ask the user for more details about the reported issue. Our findings show that it can be worthwhile for app owners to respond to reviews, as responding may lead to an increase in the given rating. In addition, our findings show that studying the dialogue between user and developer can provide valuable insights that can lead to improvements in the app store and user support process.
+KW - Android mobile apps
+KW - Developer reply
+KW - Developer response
+KW - Empirical study
+KW - Google play store
+KW - Mixed-effect model
+KW - Software engineering
+KW - User-developer dialogue
+UR - https://www.scopus.com/pages/publications/85028978549
+U2 - 10.1007/s10664-017-9538-9
+DO - 10.1007/s10664-017-9538-9
+M3 - Article
+AN - SCOPUS:85028978549
+SN - 1382-3256
+VL - 23
+SP - 1275
+EP - 1312
+JO - Empirical Software Engineering
+JF - Empirical Software Engineering
+IS - 3
+ER -
+ Hassan S, Tantithamthavorn C, Bezemer CP, Hassan AE. Studying the dialogue between users and developers of free apps in the Google Play Store. Empirical Software Engineering. 2018 Jun;23(3):1275-1312. doi: 10.1007/s10664-017-9538-9
+ Powered by Pure Link opens in a new tab, Scopus Link opens in a new tab & Elsevier Fingerprint Engine™ Link opens in a new tab
+ All content on this site: Copyright © 2026 Monash University, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply
+ We use cookies to help provide and enhance our service and tailor content. By continuing you agree to the use of cookies
+ Monash University data protection policy   Link opens in a new tab
+ About web accessibility   Link opens in a new tab
+ Report vulnerability   Link opens in a new tab
+ Contact us

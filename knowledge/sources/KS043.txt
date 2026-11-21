@@ -1,0 +1,134 @@
+Operators in MEA should enhance their self-care apps
+ Events
+ Press
+ Newsletters
+ Contact
+ Industries
+ Consumer Internet & Digital Media
+ Digital Infrastructure
+ Energy & Utilities
+ Financial Sponsors & Lenders
+ Governments & Regulators
+ Industrials & Applied Technology
+ IT Services
+ Security & Resilience
+ Software
+ Space
+ Telecoms
+ Transport, Logistics, Mobility & Post
+ Capabilities
+ Artificial intelligence
+ Strategy
+ Transaction
+ Transformation
+ Research
+ 5G in focus
+ Artificial intelligence
+ Business Services
+ Communications Infrastructure Data
+ Communications Infrastructure Research
+ Consumer Services
+ IT Data
+ Networks and Cloud
+ Operational Applications
+ Space
+ Telecoms and Media Data
+ DataHub
+ Featured topics
+ Artificial intelligence
+ Communications infrastructure
+ Cyber security
+ Data centres
+ Internet
+ Mobile consolidation
+ Raising finance
+ Rural broadband
+ Satellite strategies for telcos
+ Spectrum strategy, policy and auctions
+ Sustainability
+ Knowledge Centre
+ About
+ About us
+ Client projects
+ Our experts
+ Our local offices
+ Our ESG goals
+ Careers
+ Your career journey
+ What we offer
+ The interview process
+ Click to open search bar
+ Click to close search form
+ Search the site
+ Search
+ Share on Linkedin
+ Share on Twitter
+ Send as email
+ Operators in MEA should enhance their self-care apps in order to improve customer service satisfaction
+ 04 April 2022
+ |
+ Research
+Article | PDF (4 pages)
+| Mobile Services| Middle East and Africa Metrics and Forecasts | Telecoms
+ "Operators in the Middle East and Africa should enhance and promote their self-care apps to improve customer satisfaction metrics."
+ Most operators in the Middle East and Africa (MEA) have launched self-care apps to reduce their support costs and digitise their customer experience. However, some of these apps, especially those from challenger operators and from players in the Middle East, are struggling to gain traction with subscribers, according to our consumer survey. The low take-up of self-care apps could limit operators’ ability to realise their objectives related to digitising customer support.
+Our survey results also show that the happier customers are with self-care apps, the more satisfied they are with customer service. Operators in MEA should therefore do more to promote their self-care apps and ensure that they are well-designed and feature-rich in order to improve the customer experience and create deeper engagement with app users.
+The use of self-care apps in the Middle East lags behind that in the rest of the world
+We surveyed 5250 smartphone users in 7 countries in the Middle East (Kuwait, Oman, Saudi Arabia and the UAE) and Africa (Kenya, Nigeria and South Africa) in 3Q 2021. We asked about a range of topics, including the use of traditional (such as shops and call centres) and digital channels (such as self-care apps and websites) to interact with an operator.
+Self-care apps are becoming an integral part of the customer experience for many smartphone users. However, the adoption of self-care apps varies considerably by region (Figure 1). Our survey results show that self-care app adoption in Africa is slightly higher than that in Europe and the USA and considerably higher than that in the Middle East.
+Figure 1: Use of self-care apps to communicate with a mobile service provider for sales and customer support, Africa, Europe and the USA and the Middle East, 2021
+Source: Analysys Mason, 2022
+Incumbent operators lead in terms of self-care adoption in Africa. Indeed, Safaricom, MTN (Nigeria) and Vodacom have an average self-care app adoption rate of 40%. Self-care app penetration is the highest in the Middle East among customers of stc (Saudi Arabia), Ooredoo (Oman) and Etisalat (26% penetration on average). Kuwaiti operators have the lowest penetration overall (an average of only 5.5%).
+The use of self-care apps in the Middle East did not change between 2020 and 2021. This suggests that the new behaviours adopted at the start of the pandemic have become the norm in the region. However, the use of self-care apps for sales and support in Africa increased markedly, especially among customers of Safaricom and Airtel in Kenya, MTN in Nigeria and Cell C in South Africa. This is possibly due to the big push by these operators to accelerate the digitisation of customer touchpoints.
+The level of satisfaction with self-care apps generally correlates with customer service satisfaction
+Digitising the customer experience is arguably the most important digital transformation project for telecoms operators. It is mainly driven by the need to cut costs, but improving customer satisfaction is also an important motivation. Indeed, most of the respondents in MEA returned relatively high satisfaction ratings1 for self-care apps, despite their low penetration in some markets.
+Our survey results show that a higher level of satisfaction with using self-care apps for customer support is generally correlated with improved overall satisfaction with customer service (Figure 2).
+Figure 2: Satisfaction with using self-care apps for support and with customer service, by operator, Middle East and Africa, 2021
+Source: Analysys Mason, 2022
+Airtel (Kenya) and stc (Kuwait) are the outliers. Airtel’s relatively low satisfaction scores for self-care apps and customer service suggest that it might have issues with both traditional and digital support channels that contributed to customer dissatisfaction. stc obtained the second-highest score for customer service satisfaction in the region, despite the low level of app penetration (6%). This suggests that the operator has managed to deliver a good customer experience via other support channels.
+Respondents that use self-care apps for support are more likely to recommend their operator than those that do not, all other things being equal. This means that operators that can increase customers’ satisfaction with their self-care apps have the potential to improve overall satisfaction levels.
+Operators should ensure that their self-care apps are well-designed and feature-rich to drive adoption and satisfaction
+Operators can experiment with different approaches to improve their digital channels and increase their appeal. Some of the best practices from the top-performing operators in our survey in terms of satisfaction with self-care apps and customer service are as follows.
+Enable customers to manage different telecoms services from the app. Operators could expand the range of telecoms services that are accessible through their apps beyond basic account management features. For example, Ooredoo (Oman), Etisalat, stc (Saudi Arabia) and Vodacom have integrated their loyalty programmes into their apps. Operators could also enable their customers to manage other services via the app such as home broadband subscriptions or smart home services.
+Incorporate non-telecoms services into the app. Operators could turn self-care apps into ‘super apps’ to maximise the share of consumers’ attention and wallet. For example, Safaricom is transforming its self-care app into a one-stop interface to access non-telecoms services such as mobile money services and online content (including news and entertainment).
+Incentivise customers to increase their app usage. Operators could add gamification elements into the app to increase service engagement. For example, MTN and Vodacom (both in South Africa) reward customers for using their self-care apps by offering points that can be redeemed for non-telecoms rewards such as entries to prize draws.
+Operators should increase their customers’ awareness of their apps. They should also improve their app quality and ensure that their apps are aligned with customers’ expectations. This is crucial if operators want to drive the migration away from traditional customer care channels, improve the customer experience and lower their operating costs.
+1 We asked respondents to rate their level of satisfaction with self-care apps used for support and their level of satisfaction with customer services on a scale of 1 to 5, where 1 is ‘very dissatisfied’ and 5 is ‘very satisfied’.
+Article (PDF)
+ Download
+ Related items
+ 28 October 2026
+ Transaction
+ Client project
+ Powering India’s largest IPO (Jio Platforms) with independent market insights
+ 19 October 2026
+ Transaction
+ Article
+ Where will US digital infrastructure capital go next?
+ 02 October 2026
+ Research
+ Article
+ Operators must look beyond speed and price to differentiate their business broadband services
+ Questions
+ Contact our experts...
+ Contact us
+ Close modal
+ Analysys Mason Privacy Policy.
+ Sign up
+ Ts & Cs
+ Privacy
+ Imprint
+ Modern Slavery Act
+ Carbon Reduction Plan (UK)
+ © Analysys Mason 2026
+ We use cookies to improve your experience
+We use cookies to improve the functionality and performance of this site. Please click 'Accept' to continue browsing the site. Learn about our use of cookies in our Privacy Policy.
+ We value your privacy
+Please provide your consent for cookie usage on analysysmason.com. We use the following cookie types.
+Essential cookies enable you to move around the website and use its features, such as accessing secure areas.
+Third-party cookies enable us to monitor site usage. They will NOT be used to gather information that could be used for marketing to the user; or to remember user preferences or IDs outside a single session.
+Session cookies are stored only temporarily during a browsing session and are deleted from the user's device when the browser is closed.
+Persistent cookies create a convenient and faster website experience by remembering information, settings, preferences, or sign-on credentials.
+ Accept
+ Get more information
+ Use only essential cookies

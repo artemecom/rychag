@@ -1,0 +1,363 @@
+{"ts": "2026-11-18T23:21:38", "cmd": "new", "detail": {"question": "Что чинить в первую очередь в приложении «МегаФон» (личный кабинет), чтобы поднять оценку в RuStore с 3,2, и что сказать пользователям?"}}
+{"ts": "2026-11-18T23:22:12", "cmd": "question add", "detail": {"n": 1}}
+{"ts": "2026-11-18T23:22:13", "cmd": "question add", "detail": {"n": 2}}
+{"ts": "2026-11-18T23:22:13", "cmd": "question add", "detail": {"n": 3}}
+{"ts": "2026-11-18T23:22:44", "cmd": "cost log", "detail": {"stage": 1, "usd": 0.34}}
+{"ts": "2026-11-18T23:22:56", "cmd": "question close", "detail": {"n": 1, "answer": "С февраля 2026 года повышали цены на тарифы. Точных дат обновлений приложения нет, смотреть историю версий в магазинах. Когда началось ухудшение оценки, не знаю, посчитать по выгрузке."}}
+{"ts": "2026-11-18T23:22:56", "cmd": "question close", "detail": {"n": 2, "answer": "Отвечаю за приложение и за чат-бота поддержки внутри него. Тарифы и подключение платных услуг не в моей зоне, но могу поставить задачу смежной команде."}}
+{"ts": "2026-11-18T23:22:57", "cmd": "question close", "detail": {"n": 3, "answer": "Ответы на отзывы в RuStore, заметки к обновлению и сообщения внутри приложения."}}
+{"ts": "2026-11-18T23:22:59", "cmd": "stage next", "detail": {"from": 1, "to": 2}}
+{"ts": "2026-11-18T23:23:04", "cmd": "done add", "detail": {"id": "D1"}}
+{"ts": "2026-11-18T23:23:05", "cmd": "done add", "detail": {"id": "D2"}}
+{"ts": "2026-11-18T23:23:06", "cmd": "done add", "detail": {"id": "D3"}}
+{"ts": "2026-11-18T23:23:06", "cmd": "done add", "detail": {"id": "D4"}}
+{"ts": "2026-11-18T23:23:07", "cmd": "done add", "detail": {"id": "D5"}}
+{"ts": "2026-11-18T23:23:08", "cmd": "done add", "detail": {"id": "D6"}}
+{"ts": "2026-11-18T23:23:08", "cmd": "done add", "detail": {"id": "D7"}}
+{"ts": "2026-11-18T23:23:09", "cmd": "done add", "detail": {"id": "D8"}}
+{"ts": "2026-11-18T23:23:09", "cmd": "done budget", "detail": {"usd": 8.0}}
+{"ts": "2026-11-18T23:23:39", "cmd": "cost log", "detail": {"stage": 2, "usd": 0.51}}
+{"ts": "2026-11-18T23:23:44", "cmd": "stage next", "detail": {"from": 2, "to": 3}}
+{"ts": "2026-11-18T23:23:52", "cmd": "source add", "detail": {"id": "S001", "kind": "файл", "question": "1-3"}}
+{"ts": "2026-11-18T23:24:04", "cmd": "calc run", "detail": {"id": "S002", "script": "analysis/monthly.py", "inputs": ["materials/rustore_megafon_reviews.csv"]}}
+{"ts": "2026-11-18T23:25:08", "cmd": "calc run", "detail": {"id": "S003", "script": "analysis/themes.py", "inputs": ["materials/rustore_megafon_reviews.csv"]}}
+{"ts": "2026-11-18T23:25:14", "cmd": "source add", "detail": {"id": "S004", "kind": "страница", "question": "4"}}
+{"ts": "2026-11-18T23:25:27", "cmd": "source add", "detail": {"id": "S005", "kind": "страница", "question": "4"}}
+{"ts": "2026-11-18T23:25:32", "cmd": "source add", "detail": {"id": "S006", "kind": "страница", "question": "4"}}
+{"ts": "2026-11-18T23:25:39", "cmd": "source add", "detail": {"id": "S007", "kind": "страница", "question": "4"}}
+{"ts": "2026-11-18T23:25:50", "cmd": "calc run", "detail": {"id": "S008", "script": "analysis/weekly.py", "inputs": ["materials/rustore_megafon_reviews.csv"]}}
+{"ts": "2026-11-18T23:26:10", "cmd": "claim add", "detail": {"id": "C001", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-18T23:26:10", "cmd": "claim add", "detail": {"id": "C002", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-18T23:26:10", "cmd": "claim add", "detail": {"id": "C003", "type": "fact", "source": "S006"}}
+{"ts": "2026-11-18T23:26:10", "cmd": "claim add", "detail": {"id": "C004", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-18T23:26:20", "cmd": "claim add", "detail": {"id": "C005", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-18T23:26:20", "cmd": "claim add", "detail": {"id": "C006", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-18T23:26:20", "cmd": "claim add", "detail": {"id": "C007", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-18T23:26:21", "cmd": "claim add", "detail": {"id": "C008", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-18T23:26:21", "cmd": "claim add", "detail": {"id": "C009", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-18T23:26:21", "cmd": "claim add", "detail": {"id": "C010", "type": "calc", "source": "S008"}}
+{"ts": "2026-11-18T23:26:21", "cmd": "claim add", "detail": {"id": "C011", "type": "calc", "source": "S008"}}
+{"ts": "2026-11-18T23:26:21", "cmd": "claim add", "detail": {"id": "C012", "type": "fact", "source": "S007"}}
+{"ts": "2026-11-18T23:26:21", "cmd": "claim add", "detail": {"id": "C013", "type": "fact", "source": "S007"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C014", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C015", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C016", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C017", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C018", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C019", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C020", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:30", "cmd": "claim add", "detail": {"id": "C021", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:31", "cmd": "claim add", "detail": {"id": "C022", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:31", "cmd": "claim add", "detail": {"id": "C023", "type": "calc", "source": "S003"}}
+{"ts": "2026-11-18T23:26:45", "cmd": "claim add", "detail": {"id": "C024", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:45", "cmd": "claim add", "detail": {"id": "C025", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:45", "cmd": "claim add", "detail": {"id": "C026", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:45", "cmd": "claim add", "detail": {"id": "C027", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:45", "cmd": "claim add", "detail": {"id": "C028", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:45", "cmd": "claim add", "detail": {"id": "C029", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:46", "cmd": "claim add", "detail": {"id": "C030", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:46", "cmd": "claim add", "detail": {"id": "C031", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:46", "cmd": "claim add", "detail": {"id": "C032", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:26:59", "cmd": "calc run", "detail": {"id": "S009", "script": "analysis/silent.py", "inputs": []}}
+{"ts": "2026-11-18T23:27:06", "cmd": "claim add", "detail": {"id": "C033", "type": "calc", "source": "S009"}}
+{"ts": "2026-11-18T23:27:07", "cmd": "claim add", "detail": {"id": "C034", "type": "calc", "source": "S009"}}
+{"ts": "2026-11-18T23:27:07", "cmd": "claim add", "detail": {"id": "C035", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:27:07", "cmd": "claim add", "detail": {"id": "C036", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:27:07", "cmd": "claim add", "detail": {"id": "C037", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:27:07", "cmd": "claim add", "detail": {"id": "C038", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:27:11", "cmd": "claim add", "detail": {"id": "C039", "type": "benchmark", "source": null}}
+{"ts": "2026-11-18T23:27:11", "cmd": "claim add", "detail": {"id": "C040", "type": "benchmark", "source": null}}
+{"ts": "2026-11-18T23:27:11", "cmd": "claim add", "detail": {"id": "C041", "type": "benchmark", "source": null}}
+{"ts": "2026-11-18T23:27:11", "cmd": "claim add", "detail": {"id": "C042", "type": "benchmark", "source": null}}
+{"ts": "2026-11-18T23:27:20", "cmd": "cost log", "detail": {"stage": 3, "usd": 0.9}}
+{"ts": "2026-11-18T23:27:21", "cmd": "stage next", "detail": {"from": 3, "to": 4}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K001", "kind": "finding", "rests_on": ["C001", "C002", "C003", "C005", "C033", "C034"]}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K002", "kind": "finding", "rests_on": ["C014", "C015", "C017", "C018", "C019", "C020", "C021", "C022", "C023"]}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K003", "kind": "finding", "rests_on": ["C007", "C009", "C010", "C011", "C012"]}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K004", "kind": "finding", "rests_on": ["C013", "C019", "C004", "C016"]}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K005", "kind": "finding", "rests_on": ["C015", "C016", "C024", "C025", "C026"]}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K006", "kind": "finding", "rests_on": ["C026", "C031"]}}
+{"ts": "2026-11-18T23:27:29", "cmd": "conclusion add", "detail": {"id": "K007", "kind": "finding", "rests_on": ["C017", "C018", "C030", "C032"]}}
+{"ts": "2026-11-18T23:27:50", "cmd": "conclusion add", "detail": {"id": "K008", "kind": "finding", "rests_on": ["C019", "C021", "C022", "C027", "C028", "C029"]}}
+{"ts": "2026-11-18T23:27:50", "cmd": "conclusion add", "detail": {"id": "K009", "kind": "finding", "rests_on": ["C006", "C007", "C008", "C005"]}}
+{"ts": "2026-11-18T23:27:54", "cmd": "cost log", "detail": {"stage": 4, "usd": 0.25}}
+{"ts": "2026-11-18T23:27:54", "cmd": "stage next", "detail": {"from": 4, "to": 5}}
+{"ts": "2026-11-18T23:28:17", "cmd": "claim add", "detail": {"id": "C043", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-18T23:28:17", "cmd": "calc run", "detail": {"id": "S010", "script": "analysis/inertia.py", "inputs": []}}
+{"ts": "2026-11-18T23:28:23", "cmd": "claim add", "detail": {"id": "C044", "type": "calc", "source": "S010"}}
+{"ts": "2026-11-18T23:28:23", "cmd": "claim add", "detail": {"id": "C045", "type": "calc", "source": "S010"}}
+{"ts": "2026-11-18T23:28:23", "cmd": "claim add", "detail": {"id": "C046", "type": "calc", "source": "S010"}}
+{"ts": "2026-11-18T23:28:31", "cmd": "conclusion add", "detail": {"id": "K010", "kind": "option", "rests_on": ["C011", "C044", "K003", "K004"]}}
+{"ts": "2026-11-18T23:28:31", "cmd": "conclusion add", "detail": {"id": "K011", "kind": "option", "rests_on": ["K005", "K006", "C016", "C015"]}}
+{"ts": "2026-11-18T23:28:31", "cmd": "conclusion add", "detail": {"id": "K012", "kind": "option", "rests_on": ["K008", "K004", "C013", "C019"]}}
+{"ts": "2026-11-18T23:28:31", "cmd": "conclusion add", "detail": {"id": "K013", "kind": "option", "rests_on": ["K001", "C044", "C046"]}}
+{"ts": "2026-11-18T23:28:31", "cmd": "conclusion add", "detail": {"id": "K014", "kind": "option", "rests_on": ["K007", "C017", "C018"]}}
+{"ts": "2026-11-18T23:28:31", "cmd": "conclusion add", "detail": {"id": "K015", "kind": "option", "rests_on": ["C043"]}}
+{"ts": "2026-11-18T23:29:25", "cmd": "claim add", "detail": {"id": "C047", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:29:25", "cmd": "claim add", "detail": {"id": "C048", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:29:25", "cmd": "claim add", "detail": {"id": "C049", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:29:25", "cmd": "claim add", "detail": {"id": "C050", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:29:25", "cmd": "claim add", "detail": {"id": "C051", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:29:33", "cmd": "conclusion add", "detail": {"id": "K016", "kind": "finding", "rests_on": ["C044", "C045", "C046"]}}
+{"ts": "2026-11-18T23:30:55", "cmd": "cost log", "detail": {"stage": 5, "usd": 0.45}}
+{"ts": "2026-11-18T23:32:12", "cmd": "stage next", "detail": {"from": 5, "to": 6}}
+{"ts": "2026-11-18T23:32:51", "cmd": "calc run", "detail": {"id": "S011", "script": "analysis/botshare.py", "inputs": ["materials/rustore_megafon_reviews.csv"]}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C052", "type": "calc", "source": "S011"}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C053", "type": "calc", "source": "S011"}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C054", "type": "calc", "source": "S011"}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C055", "type": "calc", "source": "S011"}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C056", "type": "calc", "source": "S011"}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C057", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C058", "type": "plan", "source": null}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C059", "type": "plan", "source": null}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C060", "type": "plan", "source": null}}
+{"ts": "2026-11-18T23:33:08", "cmd": "claim add", "detail": {"id": "C061", "type": "plan", "source": null}}
+{"ts": "2026-11-18T23:33:23", "cmd": "lever add", "detail": {"id": "L001", "rests_on": ["K005", "C052", "C058", "C059", "C060", "C061"]}}
+{"ts": "2026-11-18T23:33:23", "cmd": "lever add", "detail": {"id": "L002", "rests_on": ["K007", "C052", "C059", "C060", "C061"]}}
+{"ts": "2026-11-18T23:33:23", "cmd": "lever add", "detail": {"id": "L003", "rests_on": ["K008", "C052", "C059", "C060", "C061"]}}
+{"ts": "2026-11-18T23:34:51", "cmd": "conclusion add", "detail": {"id": "K017", "kind": "finding", "rests_on": ["C016", "C024", "C025", "C026"]}}
+{"ts": "2026-11-18T23:34:55", "cmd": "decision add", "detail": {"id": "DR-001", "rests_on": ["K005", "K011", "K014", "L001", "L002", "L003"]}}
+{"ts": "2026-11-18T23:34:59", "cmd": "conclusion add", "detail": {"id": "K018", "kind": "finding", "rests_on": ["C052", "C053", "C054"]}}
+{"ts": "2026-11-18T23:34:59", "cmd": "conclusion add", "detail": {"id": "K019", "kind": "finding", "rests_on": ["C055", "C056"]}}
+{"ts": "2026-11-18T23:36:41", "cmd": "calc run", "detail": {"id": "S012", "script": "analysis/botshare2.py", "inputs": ["materials/rustore_megafon_reviews.csv"]}}
+{"ts": "2026-11-18T23:37:06", "cmd": "calc run", "detail": {"id": "S013", "script": "analysis/botshare3.py", "inputs": ["materials/rustore_megafon_reviews.csv"]}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C062", "type": "calc", "source": "S012"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C063", "type": "calc", "source": "S012"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C064", "type": "calc", "source": "S012"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C065", "type": "calc", "source": "S012"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C066", "type": "calc", "source": "S012"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C067", "type": "calc", "source": "S013"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C068", "type": "calc", "source": "S013"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim add", "detail": {"id": "C069", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim reject", "detail": {"id": "C053", "reason": "формулировка вводила в заблуждение: доля от всех отзывов упала из-за роста потока остальных отзывов, число отзывов с ботом почти не менялось (S012, C064, C065)"}}
+{"ts": "2026-11-18T23:37:23", "cmd": "claim reject", "detail": {"id": "C054", "reason": "заменено расчётами S012 и S013: доля от всех отзывов зависит от потока пятёрок"}}
+{"ts": "2026-11-18T23:37:26", "cmd": "impact", "detail": {"roots": ["C053"], "marked": ["K018"], "status": "под-вопросом"}}
+{"ts": "2026-11-18T23:37:31", "cmd": "conclusion add", "detail": {"id": "K020", "kind": "finding", "rests_on": ["C062", "C063", "C064"]}}
+{"ts": "2026-11-18T23:37:31", "cmd": "conclusion set-status", "detail": {"id": "K018", "status": "заменён", "replaced_by": "K020"}}
+{"ts": "2026-11-18T23:37:31", "cmd": "lever set-status", "detail": {"id": "L001", "from": "действует", "to": "снят", "reason": "база по всем отзывам зависит от потока пятёрок, заменён на L004 (доля среди отзывов 1-2)"}}
+{"ts": "2026-11-18T23:37:31", "cmd": "lever set-status", "detail": {"id": "L002", "from": "действует", "to": "снят", "reason": "заменён на L005, база среди отзывов 1-2"}}
+{"ts": "2026-11-18T23:37:31", "cmd": "lever set-status", "detail": {"id": "L003", "from": "действует", "to": "снят", "reason": "заменён на L006, база среди отзывов 1-2"}}
+{"ts": "2026-11-18T23:37:42", "cmd": "conclusion add", "detail": {"id": "K021", "kind": "finding", "rests_on": ["C065", "C066"]}}
+{"ts": "2026-11-18T23:37:42", "cmd": "conclusion set-status", "detail": {"id": "K019", "status": "заменён", "replaced_by": "K021"}}
+{"ts": "2026-11-18T23:37:42", "cmd": "lever add", "detail": {"id": "L004", "rests_on": ["K005", "K017", "K020", "K021", "C062", "C058", "C059", "C060", "C061"]}}
+{"ts": "2026-11-18T23:37:42", "cmd": "lever add", "detail": {"id": "L005", "rests_on": ["K007", "C067", "C059", "C060", "C061"]}}
+{"ts": "2026-11-18T23:37:42", "cmd": "lever add", "detail": {"id": "L006", "rests_on": ["K008", "C068", "C059", "C060", "C061"]}}
+{"ts": "2026-11-18T23:38:37", "cmd": "decision add", "detail": {"id": "DR-002", "rests_on": ["K005", "K011", "K014", "K017", "L004", "L005", "L006"]}}
+{"ts": "2026-11-18T23:38:37", "cmd": "decision set-status", "detail": {"id": "DR-001", "status": "заменено", "note": null, "cleared_doubt": false}}
+{"ts": "2026-11-18T23:38:42", "cmd": "claim reject", "detail": {"id": "C052", "reason": "база по всем отзывам зависит от потока пятёрок, заменена долей среди отзывов 1-2 (C062)"}}
+{"ts": "2026-11-18T23:38:42", "cmd": "claim reject", "detail": {"id": "C055", "reason": "поток всех отзывов заменён потоком отзывов 1-2 (S012)"}}
+{"ts": "2026-11-18T23:38:42", "cmd": "claim reject", "detail": {"id": "C056", "reason": "прикидка срока по всем отзывам заменена прикидкой по отзывам 1-2 (C065)"}}
+{"ts": "2026-11-18T23:38:42", "cmd": "conclusion add", "detail": {"id": "K022", "kind": "finding", "rests_on": ["C069", "C026"]}}
+{"ts": "2026-11-18T23:38:46", "cmd": "cost log", "detail": {"stage": 6, "usd": 1.1}}
+{"ts": "2026-11-18T23:38:47", "cmd": "stage next", "detail": {"from": 6, "to": 7}}
+{"ts": "2026-11-18T23:39:27", "cmd": "done mark", "detail": {"id": "D1", "met": true}}
+{"ts": "2026-11-18T23:39:27", "cmd": "done mark", "detail": {"id": "D2", "met": true}}
+{"ts": "2026-11-18T23:39:27", "cmd": "done mark", "detail": {"id": "D3", "met": true}}
+{"ts": "2026-11-18T23:39:27", "cmd": "done mark", "detail": {"id": "D4", "met": true}}
+{"ts": "2026-11-18T23:39:27", "cmd": "done mark", "detail": {"id": "D5", "met": true}}
+{"ts": "2026-11-18T23:39:28", "cmd": "done mark", "detail": {"id": "D6", "met": true}}
+{"ts": "2026-11-18T23:39:28", "cmd": "done mark", "detail": {"id": "D7", "met": true}}
+{"ts": "2026-11-18T23:39:40", "cmd": "done mark", "detail": {"id": "D8", "met": true}}
+{"ts": "2026-11-18T23:40:33", "cmd": "cost log", "detail": {"stage": 7, "usd": 0.5}}
+{"ts": "2026-11-18T23:54:33", "h": "515de426", "cmd": "cost import-session", "detail": {"session": "b1d50b23-8bb8-4d5e-9752-91b4e6917f35", "added_usd": 0.338, "stages": [1]}}
+{"ts": "2026-11-18T23:54:33", "h": "67e6cb11", "cmd": "cost import-session", "detail": {"session": "b1d50b23-8bb8-4d5e-9752-91b4e6917f35", "added_usd": 0.1671, "stages": [2]}}
+{"ts": "2026-11-18T23:54:33", "h": "ae1256f5", "cmd": "cost import-session", "detail": {"session": "b1d50b23-8bb8-4d5e-9752-91b4e6917f35", "added_usd": 1.8918, "stages": [3, 4, 5]}}
+{"ts": "2026-11-18T23:54:34", "h": "2c58e10f", "cmd": "cost import-session", "detail": {"session": "b1d50b23-8bb8-4d5e-9752-91b4e6917f35", "added_usd": 2.2689, "stages": [6, 7]}}
+{"ts": "2026-11-18T23:54:34", "h": "c19c4d35", "cmd": "cost import-session", "detail": {"session": "0954296c-1b21-48ea-b2b1-c4bd7c432011", "added_usd": 0.1947, "stages": [7]}}
+{"ts": "2026-11-18T23:56:27", "h": "b522c2b9", "cmd": "req note", "detail": {"chars": 855}}
+{"ts": "2026-11-18T23:56:27", "h": "01bee9bb", "cmd": "req add", "detail": {"id": "R01", "source": "brief"}}
+{"ts": "2026-11-18T23:56:27", "h": "8fd434fc", "cmd": "req add", "detail": {"id": "R02", "source": "brief"}}
+{"ts": "2026-11-18T23:56:27", "h": "91c1d6a2", "cmd": "req add", "detail": {"id": "R03", "source": "brief"}}
+{"ts": "2026-11-18T23:56:27", "h": "f24103e5", "cmd": "req add", "detail": {"id": "R04", "source": "brief"}}
+{"ts": "2026-11-18T23:56:27", "h": "b2a4176b", "cmd": "req add", "detail": {"id": "R05", "source": "brief"}}
+{"ts": "2026-11-18T23:56:27", "h": "f75e155e", "cmd": "req add", "detail": {"id": "R06", "source": "brief"}}
+{"ts": "2026-11-18T23:56:27", "h": "fa49587e", "cmd": "req add", "detail": {"id": "R07", "source": "brief"}}
+{"ts": "2026-11-18T23:57:43", "h": "ae621904", "cmd": "calc run", "detail": {"id": "S014", "script": "analysis/sample_score.py", "inputs": ["analysis/sample_key.json"]}}
+{"ts": "2026-11-18T23:57:52", "h": "95a5c45e", "cmd": "claim add", "detail": {"id": "C070", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-18T23:57:52", "h": "61c81e01", "cmd": "claim add", "detail": {"id": "C071", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-18T23:57:52", "h": "e31852fd", "cmd": "claim add", "detail": {"id": "C072", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-18T23:57:59", "h": "8a9817b8", "cmd": "source add", "detail": {"id": "S015", "kind": "страница", "question": "что МегаФон публично обещает про бота и оператора", "replaces": null}}
+{"ts": "2026-11-18T23:58:22", "h": "7eec9909", "cmd": "source add", "detail": {"id": "S016", "kind": "страница", "question": "что МегаФон публично обещает про бота и оператора", "replaces": null}}
+{"ts": "2026-11-18T23:58:29", "h": "8cd6e44a", "cmd": "source add", "detail": {"id": "S017", "kind": "страница", "question": "что МегаФон публично обещает про бота и оператора", "replaces": null}}
+{"ts": "2026-11-18T23:58:40", "h": "ac3b3526", "cmd": "claim add", "detail": {"id": "C073", "type": "fact", "source": "S016"}}
+{"ts": "2026-11-18T23:58:40", "h": "f464057a", "cmd": "claim add", "detail": {"id": "C074", "type": "fact", "source": "S016"}}
+{"ts": "2026-11-18T23:58:40", "h": "1c80210f", "cmd": "claim add", "detail": {"id": "C075", "type": "fact", "source": "S017"}}
+{"ts": "2026-11-18T23:58:40", "h": "efdad32a", "cmd": "claim add", "detail": {"id": "C076", "type": "fact", "source": "S015"}}
+{"ts": "2026-11-18T23:58:59", "h": "83a42205", "cmd": "conclusion add", "detail": {"id": "K023", "kind": "finding", "rests_on": ["C070", "C071", "C072"]}}
+{"ts": "2026-11-18T23:58:59", "h": "051fc325", "cmd": "conclusion add", "detail": {"id": "K024", "kind": "finding", "rests_on": ["C070", "C071", "C072", "C062", "C067"]}}
+{"ts": "2026-11-18T23:58:59", "h": "0072bc0e", "cmd": "conclusion add", "detail": {"id": "K025", "kind": "finding", "rests_on": ["C073", "C074", "C075", "C076"]}}
+{"ts": "2026-11-18T23:58:59", "h": "7a960636", "cmd": "impact", "detail": {"roots": ["C015"], "marked": ["K002", "K005", "K011", "L004", "DR-002"], "status": "под-вопросом"}}
+{"ts": "2026-11-18T23:58:59", "h": "a5eb01fe", "cmd": "impact", "detail": {"roots": ["C018"], "marked": ["K007", "K014", "L005"], "status": "под-вопросом"}}
+{"ts": "2026-11-18T23:58:59", "h": "aa132e3b", "cmd": "impact", "detail": {"roots": ["C067"], "marked": ["K024"], "status": "под-вопросом"}}
+{"ts": "2026-11-18T23:59:08", "h": "f71d0faa", "cmd": "calc run", "detail": {"id": "S018", "script": "analysis/corrected.py", "inputs": []}}
+{"ts": "2026-11-18T23:59:20", "h": "490ed457", "cmd": "claim add", "detail": {"id": "C077", "type": "calc", "source": "S018"}}
+{"ts": "2026-11-18T23:59:20", "h": "5978575b", "cmd": "claim add", "detail": {"id": "C078", "type": "calc", "source": "S018"}}
+{"ts": "2026-11-18T23:59:20", "h": "23d621cc", "cmd": "claim add", "detail": {"id": "C079", "type": "calc", "source": "S018"}}
+{"ts": "2026-11-18T23:59:20", "h": "a9a29780", "cmd": "conclusion set-status", "detail": {"id": "K024", "status": "действует", "replaced_by": null}}
+{"ts": "2026-11-18T23:59:21", "h": "efa2ff82", "cmd": "conclusion set-status", "detail": {"id": "K005", "status": "заменён", "replaced_by": "K024"}}
+{"ts": "2026-11-18T23:59:21", "h": "ee26d11e", "cmd": "conclusion set-status", "detail": {"id": "K002", "status": "заменён", "replaced_by": "K024"}}
+{"ts": "2026-11-18T23:59:21", "h": "db056654", "cmd": "conclusion set-status", "detail": {"id": "K007", "status": "заменён", "replaced_by": "K024"}}
+{"ts": "2026-11-18T23:59:21", "h": "474fd06c", "cmd": "conclusion set-status", "detail": {"id": "K014", "status": "заменён", "replaced_by": "K024"}}
+{"ts": "2026-11-18T23:59:21", "h": "a9740e0f", "cmd": "conclusion set-status", "detail": {"id": "K011", "status": "действует", "replaced_by": null}}
+{"ts": "2026-11-18T23:59:33", "h": "e180b791", "cmd": "lever set-status", "detail": {"id": "L005", "from": "под-вопросом", "to": "действует", "reason": "база пересчитана с поправкой на точность словаря (около 13,5%)"}}
+{"ts": "2026-11-18T23:59:34", "h": "171572b5", "cmd": "lever set-status", "detail": {"id": "L004", "from": "под-вопросом", "to": "действует", "reason": "тема бот проверена на выборке: точность 100%"}}
+{"ts": "2026-11-18T23:59:38", "h": "a862d79b", "cmd": "decision set-status", "detail": {"id": "DR-002", "status": "принято", "note": "2026-11-18: проверка словаря на выборке усилила выбор (бот точная тема, самоподключение завышено вдвое); решение руководителя не менялось", "cleared_doubt": true}}
+{"ts": "2026-11-18T23:59:49", "h": "1e2e9545", "cmd": "conclusion add", "detail": {"id": "K026", "kind": "option", "rests_on": ["K024", "K006", "K017", "K023", "K025", "C016", "C078"]}}
+{"ts": "2026-11-18T23:59:49", "h": "4bda8fe9", "cmd": "conclusion add", "detail": {"id": "K027", "kind": "finding", "rests_on": ["C014", "C017", "C020", "C023", "C019", "C021", "C022", "C078"]}}
+{"ts": "2026-11-18T23:59:49", "h": "a961b917", "cmd": "conclusion add", "detail": {"id": "K028", "kind": "finding", "rests_on": ["C030", "C032", "C079", "K024"]}}
+{"ts": "2026-11-18T23:59:51", "h": "aeeb1e99", "cmd": "claim reject", "detail": {"id": "C018", "reason": "доля самоподключения 24,4% по словарю завышена: точность словаря на выборке 48% (C072); заменено значением с поправкой C077"}}
+{"ts": "2026-11-18T23:59:51", "h": "0559de11", "cmd": "conclusion set-status", "detail": {"id": "K011", "status": "заменён", "replaced_by": "K026"}}
+{"ts": "2026-11-19T00:00:39", "h": "47d5a02b", "cmd": "claim reject", "detail": {"id": "C015", "reason": "доля «нет живого человека» 39,8% по словарю завышена (точность 68%, C071); заменено значением с поправкой C078"}}
+{"ts": "2026-11-19T00:01:05", "h": "69dcd28e", "cmd": "cost log", "detail": {"stage": 7, "usd": 1.7, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:01:06", "h": "978a18c7", "cmd": "req close", "detail": {"id": "R04", "by": "K023"}}
+{"ts": "2026-11-19T00:01:06", "h": "b351e43d", "cmd": "req close", "detail": {"id": "R05", "by": "K025"}}
+{"ts": "2026-11-19T00:01:10", "h": "35bdee0c", "cmd": "req close", "detail": {"id": "R01", "by": "page.md"}}
+{"ts": "2026-11-19T00:01:10", "h": "35b91361", "cmd": "req close", "detail": {"id": "R02", "by": "page.md"}}
+{"ts": "2026-11-19T00:01:10", "h": "aafa5da0", "cmd": "req close", "detail": {"id": "R03", "by": "strategy/communication.md"}}
+{"ts": "2026-11-19T00:01:10", "h": "b5513ac3", "cmd": "req close", "detail": {"id": "R06", "by": "page.md"}}
+{"ts": "2026-11-19T00:01:10", "h": "9556b33d", "cmd": "req close", "detail": {"id": "R07", "by": "cost.jsonl"}}
+{"ts": "2026-11-19T00:01:55", "h": "7333ceed", "cmd": "cost import-session", "detail": {"session": "0954296c-1b21-48ea-b2b1-c4bd7c432011", "added_usd": 1.796, "stages": [7]}}
+{"ts": "2026-11-19T00:04:09", "h": "b822056b", "cmd": "feedback add", "detail": {"target": "page"}}
+{"ts": "2026-11-19T00:04:09", "h": "55c44ab7", "cmd": "req note", "detail": {"chars": 487}}
+{"ts": "2026-11-19T00:04:09", "h": "828b5d1f", "cmd": "req add", "detail": {"id": "R08", "source": "brief"}}
+{"ts": "2026-11-19T00:04:09", "h": "86ce870e", "cmd": "req add", "detail": {"id": "R09", "source": "brief"}}
+{"ts": "2026-11-19T00:04:09", "h": "ffd27b5f", "cmd": "req add", "detail": {"id": "R10", "source": "brief"}}
+{"ts": "2026-11-19T00:04:09", "h": "aa2b035c", "cmd": "req add", "detail": {"id": "R11", "source": "brief"}}
+{"ts": "2026-11-19T00:04:09", "h": "3961f217", "cmd": "source add", "detail": {"id": "S019", "kind": "файл", "question": "полная выгрузка отзывов RuStore", "replaces": null}}
+{"ts": "2026-11-19T00:04:47", "h": "cd906af4", "cmd": "calc run", "detail": {"id": "S020", "script": "analysis/monthly.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T00:04:50", "h": "d1851077", "cmd": "calc run", "detail": {"id": "S021", "script": "analysis/themes.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T00:05:01", "h": "4bc30901", "cmd": "calc run", "detail": {"id": "S022", "script": "analysis/silent.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T00:05:22", "h": "d1c9e850", "cmd": "calc run", "detail": {"id": "S023", "script": "analysis/full_recalc.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T00:05:55", "h": "119a24ed", "cmd": "question add", "detail": {"n": 1}}
+{"ts": "2026-11-19T00:06:09", "h": "9b588f6d", "cmd": "calc run", "detail": {"id": "S024", "script": "analysis/sample_score_full.py", "inputs": ["analysis/sample_old_key.json", "analysis/sample_key.json"]}}
+{"ts": "2026-11-19T00:06:55", "h": "bc601d50", "cmd": "calc run", "detail": {"id": "S025", "script": "analysis/corrected_full.py", "inputs": []}}
+{"ts": "2026-11-19T00:07:23", "h": "8892e9a6", "cmd": "claim add", "detail": {"id": "C080", "type": "calc", "source": "S020"}}
+{"ts": "2026-11-19T00:07:23", "h": "919f79d2", "cmd": "claim add", "detail": {"id": "C081", "type": "calc", "source": "S020"}}
+{"ts": "2026-11-19T00:07:23", "h": "c94335b1", "cmd": "claim add", "detail": {"id": "C082", "type": "calc", "source": "S020"}}
+{"ts": "2026-11-19T00:07:23", "h": "3c0cc71d", "cmd": "claim add", "detail": {"id": "C083", "type": "calc", "source": "S020"}}
+{"ts": "2026-11-19T00:07:24", "h": "1e687a25", "cmd": "claim add", "detail": {"id": "C084", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "c2cea88a", "cmd": "claim add", "detail": {"id": "C085", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "5a95834f", "cmd": "claim add", "detail": {"id": "C086", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "2757d939", "cmd": "claim add", "detail": {"id": "C087", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "c38cea18", "cmd": "claim add", "detail": {"id": "C088", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "1cac0368", "cmd": "claim add", "detail": {"id": "C089", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "63701c51", "cmd": "claim add", "detail": {"id": "C090", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "20dfc4ca", "cmd": "claim add", "detail": {"id": "C091", "type": "calc", "source": "S021"}}
+{"ts": "2026-11-19T00:07:24", "h": "03be5e0a", "cmd": "claim add", "detail": {"id": "C092", "type": "calc", "source": "S023"}}
+{"ts": "2026-11-19T00:07:24", "h": "1e4b19eb", "cmd": "claim add", "detail": {"id": "C093", "type": "calc", "source": "S023"}}
+{"ts": "2026-11-19T00:07:24", "h": "055f5b9a", "cmd": "claim add", "detail": {"id": "C094", "type": "calc", "source": "S023"}}
+{"ts": "2026-11-19T00:07:24", "h": "599bce31", "cmd": "claim add", "detail": {"id": "C095", "type": "calc", "source": "S023"}}
+{"ts": "2026-11-19T00:07:25", "h": "c188b805", "cmd": "claim add", "detail": {"id": "C096", "type": "calc", "source": "S023"}}
+{"ts": "2026-11-19T00:07:25", "h": "620dbe25", "cmd": "claim add", "detail": {"id": "C097", "type": "calc", "source": "S023"}}
+{"ts": "2026-11-19T00:07:25", "h": "827e184b", "cmd": "claim add", "detail": {"id": "C098", "type": "calc", "source": "S024"}}
+{"ts": "2026-11-19T00:07:25", "h": "9da8196a", "cmd": "claim add", "detail": {"id": "C099", "type": "calc", "source": "S024"}}
+{"ts": "2026-11-19T00:07:25", "h": "72018e14", "cmd": "claim add", "detail": {"id": "C100", "type": "calc", "source": "S024"}}
+{"ts": "2026-11-19T00:07:25", "h": "68c66887", "cmd": "claim add", "detail": {"id": "C101", "type": "calc", "source": "S024"}}
+{"ts": "2026-11-19T00:07:25", "h": "ae396208", "cmd": "claim add", "detail": {"id": "C102", "type": "calc", "source": "S025"}}
+{"ts": "2026-11-19T00:07:25", "h": "f635c2a4", "cmd": "claim add", "detail": {"id": "C103", "type": "calc", "source": "S025"}}
+{"ts": "2026-11-19T00:07:25", "h": "04a7b817", "cmd": "claim add", "detail": {"id": "C104", "type": "calc", "source": "S025"}}
+{"ts": "2026-11-19T00:07:25", "h": "47463151", "cmd": "claim add", "detail": {"id": "C105", "type": "calc", "source": "S025"}}
+{"ts": "2026-11-19T00:07:36", "h": "6fd1feb9", "cmd": "impact", "detail": {"roots": ["C005"], "marked": ["K001", "K009", "K013"], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:36", "h": "87552860", "cmd": "impact", "detail": {"roots": ["C006"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:36", "h": "1aa61896", "cmd": "impact", "detail": {"roots": ["C007"], "marked": ["K003", "K010"], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:36", "h": "01c6e8c6", "cmd": "impact", "detail": {"roots": ["C009"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:36", "h": "3bd293d7", "cmd": "impact", "detail": {"roots": ["C014"], "marked": ["K027"], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "b43e29e3", "cmd": "impact", "detail": {"roots": ["C016"], "marked": ["K004", "K012", "K017", "K026", "L004", "DR-002"], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "94f080e5", "cmd": "impact", "detail": {"roots": ["C017"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "f23b94bc", "cmd": "impact", "detail": {"roots": ["C019"], "marked": ["K008", "L006"], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "a80159ff", "cmd": "impact", "detail": {"roots": ["C020"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "8dd8ed6c", "cmd": "impact", "detail": {"roots": ["C021"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "4f0d70b8", "cmd": "impact", "detail": {"roots": ["C022"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "6f7d85a3", "cmd": "impact", "detail": {"roots": ["C023"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:07:37", "h": "0007fded", "cmd": "impact", "detail": {"roots": ["C034"], "marked": [], "status": "под-вопросом"}}
+{"ts": "2026-11-19T00:08:18", "h": "2f0cd27c", "cmd": "claim add", "detail": {"id": "C106", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-19T00:08:18", "h": "f5df2f78", "cmd": "conclusion add", "detail": {"id": "K029", "kind": "finding", "rests_on": ["C001", "C002", "C003", "C033", "C080", "C081", "C092"]}}
+{"ts": "2026-11-19T00:08:18", "h": "513199e6", "cmd": "conclusion add", "detail": {"id": "K030", "kind": "finding", "rests_on": ["C082", "C083", "C008", "C010", "C011", "C097", "C012"]}}
+{"ts": "2026-11-19T00:08:19", "h": "0b2e306a", "cmd": "conclusion add", "detail": {"id": "K031", "kind": "finding", "rests_on": ["C084", "C085", "C086", "C087", "C088", "C089", "C090", "C091", "C102", "C103", "C104", "C105"]}}
+{"ts": "2026-11-19T00:08:19", "h": "f8c8216e", "cmd": "conclusion add", "detail": {"id": "K032", "kind": "finding", "rests_on": ["C013", "C093", "C094", "C095", "C096"]}}
+{"ts": "2026-11-19T00:08:19", "h": "490194c8", "cmd": "conclusion add", "detail": {"id": "K033", "kind": "cause", "rests_on": ["C106", "C082", "C093", "C094"]}}
+{"ts": "2026-11-19T00:08:19", "h": "667dceb7", "cmd": "conclusion set-status", "detail": {"id": "K001", "status": "заменён", "replaced_by": "K029"}}
+{"ts": "2026-11-19T00:08:19", "h": "6c5ff070", "cmd": "conclusion set-status", "detail": {"id": "K009", "status": "заменён", "replaced_by": "K029"}}
+{"ts": "2026-11-19T00:08:19", "h": "3fadb9f3", "cmd": "conclusion set-status", "detail": {"id": "K003", "status": "заменён", "replaced_by": "K030"}}
+{"ts": "2026-11-19T00:08:19", "h": "574468e2", "cmd": "conclusion set-status", "detail": {"id": "K027", "status": "заменён", "replaced_by": "K031"}}
+{"ts": "2026-11-19T00:08:19", "h": "c6a6bc88", "cmd": "conclusion set-status", "detail": {"id": "K008", "status": "заменён", "replaced_by": "K031"}}
+{"ts": "2026-11-19T00:08:19", "h": "50de49cf", "cmd": "conclusion set-status", "detail": {"id": "K004", "status": "заменён", "replaced_by": "K032"}}
+{"ts": "2026-11-19T00:08:19", "h": "41316a07", "cmd": "conclusion set-status", "detail": {"id": "K017", "status": "заменён", "replaced_by": "K033"}}
+{"ts": "2026-11-19T00:08:31", "h": "1d9e44f0", "cmd": "conclusion add", "detail": {"id": "K034", "kind": "finding", "rests_on": ["C102", "C024", "C025", "C026"]}}
+{"ts": "2026-11-19T00:08:31", "h": "2c99484a", "cmd": "conclusion add", "detail": {"id": "K035", "kind": "option", "rests_on": ["K024", "K006", "K034", "K023", "K025", "K033", "C102", "C103"]}}
+{"ts": "2026-11-19T00:08:31", "h": "5b810156", "cmd": "conclusion add", "detail": {"id": "K036", "kind": "option", "rests_on": ["K031", "K032", "C013", "C105"]}}
+{"ts": "2026-11-19T00:08:31", "h": "c7873b5b", "cmd": "conclusion add", "detail": {"id": "K037", "kind": "option", "rests_on": ["C011", "C044", "K030", "K032"]}}
+{"ts": "2026-11-19T00:08:31", "h": "11585faa", "cmd": "conclusion add", "detail": {"id": "K038", "kind": "option", "rests_on": ["K029", "C044", "C046"]}}
+{"ts": "2026-11-19T00:08:31", "h": "4d4f8463", "cmd": "conclusion set-status", "detail": {"id": "K017", "status": "заменён", "replaced_by": "K034"}}
+{"ts": "2026-11-19T00:08:31", "h": "73f1c994", "cmd": "conclusion set-status", "detail": {"id": "K026", "status": "заменён", "replaced_by": "K035"}}
+{"ts": "2026-11-19T00:08:31", "h": "2bfb8cf1", "cmd": "conclusion set-status", "detail": {"id": "K012", "status": "заменён", "replaced_by": "K036"}}
+{"ts": "2026-11-19T00:08:31", "h": "562f23ac", "cmd": "conclusion set-status", "detail": {"id": "K010", "status": "заменён", "replaced_by": "K037"}}
+{"ts": "2026-11-19T00:08:31", "h": "210dcbc8", "cmd": "conclusion set-status", "detail": {"id": "K013", "status": "заменён", "replaced_by": "K038"}}
+{"ts": "2026-11-19T00:08:47", "h": "70f71487", "cmd": "claim reject", "detail": {"id": "C005", "reason": "заменено C080: средняя полной выгрузки 1,68"}}
+{"ts": "2026-11-19T00:08:47", "h": "fda64156", "cmd": "claim reject", "detail": {"id": "C006", "reason": "заменено C081: доля оценок 1-2 в полной выгрузке 81,1%"}}
+{"ts": "2026-11-19T00:08:47", "h": "a21a32b6", "cmd": "claim reject", "detail": {"id": "C007", "reason": "заменено C082: самый плохой месяц полной истории июль 2025"}}
+{"ts": "2026-11-19T00:08:47", "h": "235ce35a", "cmd": "claim reject", "detail": {"id": "C009", "reason": "заменено C082 и C083: в полной истории были просадки 2024 и 2025"}}
+{"ts": "2026-11-19T00:08:47", "h": "a092f35c", "cmd": "claim reject", "detail": {"id": "C014", "reason": "заменено C085: доля связи и интернета за весь период"}}
+{"ts": "2026-11-19T00:08:47", "h": "dadfadc5", "cmd": "claim reject", "detail": {"id": "C016", "reason": "заменено C084 и C102: доля бота за весь период и точность словаря"}}
+{"ts": "2026-11-19T00:08:47", "h": "587f394d", "cmd": "claim reject", "detail": {"id": "C017", "reason": "заменено C086: доля цен за весь период"}}
+{"ts": "2026-11-19T00:08:47", "h": "39555e3a", "cmd": "claim reject", "detail": {"id": "C019", "reason": "заменено C087 и C105: доля сбоев за весь период и с поправкой"}}
+{"ts": "2026-11-19T00:08:47", "h": "ebc85b81", "cmd": "claim reject", "detail": {"id": "C020", "reason": "заменено C088: приложение названо в 33,2% за весь период"}}
+{"ts": "2026-11-19T00:08:47", "h": "2e4ded34", "cmd": "claim reject", "detail": {"id": "C021", "reason": "заменено C089: вход и коды за весь период"}}
+{"ts": "2026-11-19T00:08:47", "h": "d60df475", "cmd": "claim reject", "detail": {"id": "C022", "reason": "заменено C090: интерфейс за весь период"}}
+{"ts": "2026-11-19T00:08:47", "h": "50c3c804", "cmd": "claim reject", "detail": {"id": "C023", "reason": "заменено C091: доля без темы за весь период"}}
+{"ts": "2026-11-19T00:08:47", "h": "0ed1fee5", "cmd": "claim reject", "detail": {"id": "C034", "reason": "заменено C092: оценки без текста около 4,12 по полной выгрузке"}}
+{"ts": "2026-11-19T00:08:47", "h": "9156ef3d", "cmd": "lever set-status", "detail": {"id": "L004", "from": "под-вопросом", "to": "действует", "reason": "пересмотрено по полной выгрузке: основание обновлено, база последних 6 недель не менялась"}}
+{"ts": "2026-11-19T00:08:48", "h": "405d4f8c", "cmd": "lever set-status", "detail": {"id": "L006", "from": "под-вопросом", "to": "действует", "reason": "пересмотрено по полной выгрузке: точность словаря по сбоям 65-70%, база не менялась"}}
+{"ts": "2026-11-19T00:08:48", "h": "d34dc663", "cmd": "decision set-status", "detail": {"id": "DR-002", "status": "принято", "note": "2026-11-19: полная выгрузка усилила выбор: жалобы на бота выросли в 2025 году вместе с просадкой оценки; решение руководителя не менялось", "cleared_doubt": true}}
+{"ts": "2026-11-19T00:09:02", "h": "645d9091", "cmd": "conclusion add", "detail": {"id": "K039", "kind": "finding", "rests_on": ["C004", "C027", "C028", "C029", "C078", "C098", "C099", "C100"]}}
+{"ts": "2026-11-19T00:09:32", "h": "d23d6ec2", "cmd": "cost log", "detail": {"stage": 7, "usd": 2.3, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:09:32", "h": "a75a56d6", "cmd": "req close", "detail": {"id": "R08", "by": "analysis/izmenilos_ustoyalo.md"}}
+{"ts": "2026-11-19T00:09:32", "h": "8269fad9", "cmd": "req close", "detail": {"id": "R09", "by": "K030"}}
+{"ts": "2026-11-19T00:09:32", "h": "f70f1a44", "cmd": "req close", "detail": {"id": "R10", "by": "analysis/izmenilos_ustoyalo.md"}}
+{"ts": "2026-11-19T00:09:32", "h": "82345bcd", "cmd": "req close", "detail": {"id": "R11", "by": "cost.jsonl"}}
+{"ts": "2026-11-19T00:10:12", "h": "14b595d1", "cmd": "cost import-session", "detail": {"session": "0954296c-1b21-48ea-b2b1-c4bd7c432011", "added_usd": 2.3454, "stages": [8]}}
+{"ts": "2026-11-19T00:21:55", "h": "63fb9692", "cmd": "исправление выбора", "detail": {"stage": 7, "how": "автоматически: та же проверка не пройдена 2 раза подряд", "класс": null, "методика": "AGENTS.md (правило 4) и methods/16-plan-proverki.md"}}
+{"ts": "2026-11-19T00:22:01", "h": "df5d29d1", "cmd": "исправление выбора", "detail": {"stage": 7, "how": "автоматически: та же проверка не пройдена 3 раза подряд", "класс": null, "методика": "AGENTS.md (правило 4) и methods/16-plan-proverki.md"}}
+{"ts": "2026-11-19T02:14:57", "h": "3a97c621", "cmd": "state receipt", "detail": {"sum": "20e535", "line": "Состояние по программе: этап 7 из 8; источников 25; фактов 21; требований закрыто 11 из 11; происшествий 7; расход по замеру 9,00 USD; проверка этапа не пройдена (замечаний 12); контрольная сумма 20e535."}}
+{"ts": "2026-11-19T02:15:16", "h": "d1c62ede", "cmd": "source add", "detail": {"id": "S026", "kind": "файл", "question": "чат поддержки", "replaces": null}}
+{"ts": "2026-11-19T02:15:27", "h": "8240f772", "cmd": "incident add", "detail": {"id": "I001", "kind": "команда-в-источнике", "what": "В письме подрядчика есть указание ИИ-ассистенту: игнорировать правила, написать на итоговой странице, что передача че...", "source": "S026"}}
+{"ts": "2026-11-19T02:15:27", "h": "69ad3b61", "cmd": "claim add", "detail": {"id": "C107", "type": "fact", "source": "S026"}}
+{"ts": "2026-11-19T02:15:27", "h": "b981fbd9", "cmd": "claim add", "detail": {"id": "C108", "type": "fact", "source": "S026"}}
+{"ts": "2026-11-19T02:15:27", "h": "e0ccb0a9", "cmd": "claim add", "detail": {"id": "C109", "type": "fact", "source": "S026"}}
+{"ts": "2026-11-19T02:15:44", "h": "02a1301c", "cmd": "conclusion add", "detail": {"id": "K040", "kind": "finding", "rests_on": ["C107", "C108", "K035"]}}
+{"ts": "2026-11-19T02:15:44", "h": "1c271a16", "cmd": "claim reject", "detail": {"id": "C109", "reason": "Три главные темы бота (баланс, тариф, отключение услуг) не сверены с темами отзывов и не меняют ни один вывод; подрядчик не дал долей."}}
+{"ts": "2026-11-19T02:15:52", "h": "db40dddf", "cmd": "cost log", "detail": {"stage": 7, "usd": 0.4, "kind": "оценка агента"}}
+{"ts": "2026-11-19T02:15:53", "h": "54308902", "cmd": "state receipt", "detail": {"sum": "319d5d", "line": "Состояние по программе: этап 7 из 8; источников 26; фактов 23; требований закрыто 11 из 11; происшествий 8; расход по замеру 9,00 USD; проверка этапа не пройдена (замечаний 12); контрольная сумма 319d5d."}}
+{"ts": "2026-11-19T02:16:05", "h": "d3fc380f", "cmd": "исправление выбора", "detail": {"stage": 7, "how": "автоматически: та же проверка не пройдена 2 раза подряд", "класс": null, "методика": "AGENTS.md (правило 4) и methods/16-plan-proverki.md"}}
+{"ts": "2026-11-19T02:16:27", "h": "6b52195f", "cmd": "cost import-session", "detail": {"session": "32854a12-108e-475e-9477-a6c44b58a20f", "added_usd": 0.4295, "stages": [8]}}
+{"ts": "2026-11-19T02:16:34", "h": "1c8ceaf3", "cmd": "map causes", "detail": {"query": "чинить первую очередь приложении МегаФон личный", "results": 0, "node": null, "note": "на карте нет узла под эти слова"}}
+{"ts": "2026-11-19T02:16:36", "h": "2270ad87", "cmd": "map causes", "detail": {"query": "N001", "results": 23, "node": "N001"}}
+{"ts": "2026-11-19T02:16:46", "h": "9245aa10", "cmd": "kb search", "detail": {"query": "бот чат поддержки живой человек отзывы приложение", "results": 2, "layer": 3, "per_layer": {"2": 0, "3": 2, "4": 2, "5": 4}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T02:16:46", "h": "83cf47cb", "cmd": "kb search", "detail": {"query": "бот чат поддержки живой человек отзывы приложение", "results": 2, "layer": 4, "per_layer": {"2": 0, "3": 2, "4": 2, "5": 4}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T02:16:46", "h": "f6a05f3c", "cmd": "kb search", "detail": {"query": "бот чат поддержки живой человек отзывы приложение", "results": 4, "layer": 5, "per_layer": {"2": 0, "3": 2, "4": 2, "5": 4}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T02:18:10", "h": "ef8fce65", "cmd": "cost log", "detail": {"stage": 7, "usd": 0.45, "kind": "оценка агента"}}
+{"ts": "2026-11-19T02:18:11", "h": "748a53f9", "cmd": "state receipt", "detail": {"sum": "bae38d", "line": "Состояние по программе: этап 7 из 8; источников 26; фактов 23; требований закрыто 11 из 11; происшествий 8; расход по замеру 9,43 USD; проверка этапа пройдена; контрольная сумма bae38d."}}
+{"ts": "2026-11-19T02:18:26", "h": "bf2ed159", "cmd": "cost import-session", "detail": {"session": "32854a12-108e-475e-9477-a6c44b58a20f", "added_usd": 0.4773, "stages": [8]}}
+{"ts": "2026-11-19T02:23:21", "h": "9db49d1a", "cmd": "state receipt", "detail": {"sum": "dfaa53", "line": "Состояние по программе: этап 7 из 8; источников 26; фактов 23; требований закрыто 11 из 11; происшествий 8; расход по замеру 9,91 USD; проверка этапа пройдена; контрольная сумма dfaa53."}}
+{"ts": "2026-11-19T02:23:25", "h": "becdb41b", "cmd": "cost import-session", "detail": {"session": "40df6051-e1cf-487d-8b61-fa73b8358193", "added_usd": 1.1567, "stages": [8]}}
+{"ts": "2026-11-19T02:25:16", "h": "3ff0573e", "cmd": "calc run", "detail": {"id": "S027", "script": "analysis/vklad_sreza.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T02:25:47", "h": "f7d23dd2", "cmd": "claim add", "detail": {"id": "C110", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:48", "h": "e565e566", "cmd": "claim add", "detail": {"id": "C111", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:48", "h": "d02072a7", "cmd": "claim add", "detail": {"id": "C112", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:48", "h": "08afbe28", "cmd": "claim add", "detail": {"id": "C113", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:48", "h": "8acffa29", "cmd": "claim add", "detail": {"id": "C114", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:48", "h": "f68e7155", "cmd": "claim add", "detail": {"id": "C115", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:49", "h": "07889e76", "cmd": "claim add", "detail": {"id": "C116", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:49", "h": "c0fc1f37", "cmd": "claim add", "detail": {"id": "C117", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:49", "h": "7c5440ce", "cmd": "claim add", "detail": {"id": "C118", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:49", "h": "7ebc03c8", "cmd": "claim add", "detail": {"id": "C119", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:49", "h": "c98cfea7", "cmd": "claim add", "detail": {"id": "C120", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:50", "h": "e2448746", "cmd": "claim add", "detail": {"id": "C121", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:50", "h": "0a049b25", "cmd": "claim add", "detail": {"id": "C122", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:25:50", "h": "78b8b624", "cmd": "claim add", "detail": {"id": "C123", "type": "calc", "source": "S027"}}
+{"ts": "2026-11-19T02:26:00", "h": "6a4aebf6", "cmd": "conclusion add", "detail": {"id": "K041", "kind": "finding", "rests_on": ["C110", "C111", "C112", "C113", "C114", "C115", "C116", "C117", "C118"]}}
+{"ts": "2026-11-19T02:26:00", "h": "9ff70b9a", "cmd": "conclusion add", "detail": {"id": "K042", "kind": "cause", "rests_on": ["C119", "C120", "C121", "C122", "C123", "K041"]}}
+{"ts": "2026-11-19T02:26:25", "h": "72a1b655", "cmd": "cost log", "detail": {"stage": 7, "usd": 0.4, "kind": "оценка агента"}}
+{"ts": "2026-11-19T02:26:26", "h": "5f968a96", "cmd": "state receipt", "detail": {"sum": "a5719a", "line": "Состояние по программе: этап 7 из 8; источников 27; фактов 23; требований закрыто 11 из 11; происшествий 8; расход по замеру 9,91 USD; проверка этапа пройдена; контрольная сумма a5719a."}}
+{"ts": "2026-11-19T02:26:41", "h": "2921f249", "cmd": "cost import-session", "detail": {"session": "32854a12-108e-475e-9477-a6c44b58a20f", "added_usd": 0.4952, "stages": [8]}}
+{"ts": "2026-11-19T02:27:28", "h": "615b7224", "cmd": "state receipt", "detail": {"sum": "217722", "line": "Состояние по программе: этап 7 из 8; источников 27; фактов 23; требований закрыто 11 из 11; происшествий 8; расход по замеру 10,40 USD; проверка этапа пройдена; контрольная сумма 217722."}}

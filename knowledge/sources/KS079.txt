@@ -1,0 +1,237 @@
+View and analyze your app's ratings and reviews - Play Console Help Skip to main content
+Play Console Help
+Sign in
+Google Help
+Help Center
+Play Console Help
+Policy Center
+Community
+Play Console
+Privacy Policy
+Terms of Service
+Submit feedback
+Send feedback on...
+This help content & information
+General Help Center experience
+CloseNext
+Help Center
+Community
+Announcements
+Play Console
+Play Console Help
+Get startedPopular articlesManage your developer accountCreate, upload, and publishDistribute your appRun tests and check performanceProtect your appComply with Google Play policiesFix an issueAndroid developer verificationDesign for multiple form factorsCentral Play Help Center
+Policy Center
+Restricted ContentIntellectual PropertyPrivacy, Deception and Device AbuseUse of SDKs In AppsMalwareImpersonationMobile Unwanted SoftwareMonetization and AdsStore Listing and PromotionSpam, Functionality, and User ExperienceOther ProgramsFamiliesEnforcementUpdates and Other ResourcesHow Google Play Works for Developers
+Notification
+You can now request help from the Help page in your Play Console account. If you don't have access to Play Console, ask your account admin for an invite.
+View and analyze your app's ratings and reviews
+In Play Console, you can see an overview of your app's ratings, individual user reviews, and clustered data about your app's reviews.
+Users can rate your app on Google Play with a star rating and review. Users can only rate an app once, but they can update their rating or review at any time.
+Tip: If you're a user looking for information on reviews that you've posted, go to the Google Play Help Center.
+Ratings delay and pauses
+To allow us to protect your app on Google Play and automatically detect suspicious ratings and reviews activity, we do not publicly post user reviews immediately, and new ratings do not immediately impact your published rating. Instead, new submissions are generally held back for around 24 hours. You can still see and reply to new reviews, even if they aren’t yet public. This allows you to continue to provide great customer service and quickly address any issues your users may be experiencing.
+If suspicious activity is detected during the 24-hour delay period, all new ratings and reviews for your app will be held back from being published publicly while we investigate. Once complete, we will unpause and remove any ratings or reviews that were found to be abusive. Notifications and status indicators on the Ratings and Reviews pages will tell you if your app is paused, and the resolution of any investigation. They also show you if each review is public or not.
+Browse ratings
+Using the Play Console website
+View your app's ratings data
+Open Play Console and go to the Ratings page (Ratings and reviews > Ratings).
+Scroll the page to view the available ratings data, as described below.
+Note: Currently, the rating that users see on Google Play is weighted towards more recent ratings to reflect changes and updates that you make to your app.
+Overview
+At the top of the page, you’ll see an overview of your app’s ratings, which includes the following:
+Google Play rating: Your app rating shown to users on Google Play. This is calculated based on your most recent ratings.
+Lifetime average rating: Your average rating from when you first launched your app.
+Users: The total number of users who have rated your app. Note that users can update their rating at any time.
+Total ratings: Number of ratings your app has received in its lifetime.
+Note: Total ratings is only available for apps that have received five or more ratings.
+Rating vs. peers: How your app’s rating compares to a recommended set or a custom peer group that you select.
+Compare ratings to peers
+Near the top of your app’s Ratings page, in the “Ratings vs. peers” card, select Edit peer group to create a custom peer group. After you create a custom peer group, you can see how your app compares with other apps on Google Play that you select.
+On your app’s Ratings page and on any “Ratings breakdown” card, you can see how your app’s ratings compare with one of the apps in your custom peer group by hovering over any of the app icons displayed on a Ratings vs. peers card.
+Performance over time
+Under your app’s rating summary, you can view historical and detailed rating data. You can download the data in any chart you see using the Download CSV button. This allows you to analyze your data offline.
+Use the date-range selector to choose what time period you want your data to cover. This covers a range from the last 28 days, to your app’s whole lifetime.
+Use the period selector to choose how your data is aggregated: daily, every 7 days, or every 28 days.
+Average rating shows your average rating over each period in your selected date range. You can choose if this average is just for the period (for instance the average rating for a given day), or your rolling lifetime average rating (your average total lifetime rating up to that day). Your peers’ median performance is displayed to help you compare your app’s quality.
+Rating distribution shows the number of each rating that you received over each period in your selected date range. Change the selector to "Percentages" if you want to evaluate your normalized distribution, as opposed to absolute numbers received.
+Tip: by selecting "Lifetime" in the time date-range selector, and “Daily” in the period selector, you can use the Download CSV option in "Ratings distribution" to download data on all of the ratings that your app has ever received.
+Ratings breakdown
+See how many ratings there are, and your average rating, across the following key dimensions:
+Country/region
+Language
+App version
+Android version
+Device type
+Device model
+Operator
+Select Explore on any "Ratings breakdown" card to see more information for that dimension, including how your app compares to other apps on Google Play.
+Average rating: Your app's rating for the selected time period, number of ratings, and breakdown type.
+Number of ratings: The number of ratings submitted for your app for the selected time period and breakdown type.
+Share of ratings: How the number of ratings per row compares to your app's total ratings.
+Peers' median: The average rating for apps in the same Google Play category.
+Vs. peers' median: How your app's rating compares to apps in the same Google Play category. For example, if your app's rating is 3.9 with a difference of +1.2, similar apps have a rating of 2.7.
+Using the Play Console app
+Open the Play Console app .
+Select an app.
+In the "KPIs" section, select Daily average rating KPI.
+Browse reviews
+Using the Play Console website
+See reviews for production apps
+Open Play Console and go to the Reviews page (Ratings and reviews > Reviews).
+Decide how you want to browse reviews.
+Filter: To see reviews based on certain criteria (such as date, language, reply state, star rating, app version, device, and more), select from the available filters.
+Sort: To see reviews based on rating, date, or helpfulness, select the "Sort by" dropdown.
+Search: To look for specific words in your reviews, use the search box.
+See testing feedback
+If you have an app in testing, you can access and reply to user feedback in Play Console. Beta feedback from users is only visible to you and can't be seen on Google Play.
+Open Play Console and go to the Testing feedback page (Ratings and reviews > Testing feedback).
+Decide how you want to browse your feedback.
+Filter: To see beta feedback based on certain criteria (such as date, language, reply state, app version, device, and more), select from the available filters.
+Search: To look for specific words in your feedback, use the search box.
+Using the Play Console app
+Open the Play Console app .
+Select an app.
+Go to the "Reviews" section. You'll be able to filter by date, rating, app version, and more.
+Review format
+Reviews are automatically translated to the language that you use in Play Console. To see a review in its original language, next to a translated review, select Show original review.
+On each review, you can see the following:
+Star rating for your app
+User name
+Timestamp
+Some reviews also include the following:
+Review title (in bold)
+Device or app version details (for example, manufacturer, screen size, OS, version code, and language)
+Helpful votes from other users
+A history of your replies and any changes a user makes to a review after you reply. To show all replies separately, click Hide history at the top of a review.
+Note: Ratings and reviews include different versions of the same package. App ratings don't start over when you publish a new version of your app.
+Analyze your reviews
+To help you target the most impactful improvements to your app or game, you can view top trends and issues that users mention in your app's reviews. For tips on analyzing your reviews, visit the Android Developers site.
+To see top trends and issues for your app, open Play Console and go to the Reviews analysis page.
+The following features are available on the web version of Play Console.
+Review summaries: see common themes in your app's reviews
+In the "Review summaries" section, you'll see the top positive and critical themes that surface regularly in reviews written in English. Summaries update regularly to let you know about the latest user experiences with your app.
+We use machine learning algorithms to create summaries and apply filters to make sure only the most relevant reviews are included.
+For summaries to be available, your app needs to have enough similar reviews around more than one theme or topic.
+Users may see representative summaries on your app's Google Play store listing in English.
+Benchmarks: see how different topics impact your app rating
+In the "Benchmarks" section, you can see how users review your app in relation to specific categories. This can help you identify and understand trends in your app's reviews. The report analyzes how each topic impacts your overall app rating.
+Any data available within your "Benchmarks" section is only visible in Play Console and isn't visible to users.
+You'll see how users rate your app across a series of static categories used to measure all apps in the same Google Play category (for example, Health & Fitness or Lifestyle). The benchmarks report is available for reviews written in English.
+Data points for your app
+At the top right of the "Benchmarks" section, you can change the time period for your report. You can also filter results by artifact. When viewing your data, you'll see the following information:
+Common topic: A fixed set of topics relevant to most apps in the same Google Play category. Common topics include the following:
+Design: Reviews that mention the app's visuals (for example, graphics, beautiful game, looks good, etc.).
+Privacy: Reviews that mention the ability to control information collected.
+Profile: Reviews that mention the app's sign-up experience (for example, login, can’t logout, sign-up, etc.).
+Resource usage: Reviews that mention the app's impact on hardware consumption (for example, battery, memory, data, etc.).
+Speed: Reviews that mention the app speed (for example, lags, slow, fast, etc.).
+Stability: Reviews that mention app failures (for example, crashes, bugs, freezing, etc.).
+Uninstalls: Reviews that mention user reasons for uninstalling an app (for example, uninstall, uninstalling, uninstalled).
+Update: Reviews that mention the latest app version (for example, version, update, etc.).
+Usability: Reviews that mention how users experience the flow of the app (for example, easy to use, difficult to navigate, user friendly).
+Average rating: The most negative reviews will be red with a rating of 1. The most positive reviews will be green with a rating of 5.
+Number of reviews: The number of reviews associated with that topic. The line chart displays the change in volume over the length of time selected.
+Effect on rating: Any red bars are bringing down your rating, and green bars are improving your rating. The width of the colored bar shows how much that topic impacts your overall rating.
+Peer benchmarks
+In addition to the data for your app, benchmarks show how your app compares to others in the same Google Play category.
+Rating vs. peers: How your rating compares to apps in the same Google Play category. For example, if your app's rating for design is 3.9 with a benchmark difference of +1.2, similar apps have a rating of 2.7.
+Number vs. peers: How the number of reviews per topic compares to apps in the same Google Play category. For example, if your app has 1,000 reviews for stability with a volume difference of 0.5x, similar apps have an average review volume of 2,000.
+Updated ratings: see how users update ratings and reviews over time
+In the "Updated Ratings" section, you'll see how users have updated their ratings and reviews over the time period selected.
+Types of updates from users
+With replies: In this row, you'll see data related to users who updated their rating or review after receiving a reply to their original review.
+Without replies: In this row, you'll see data related to users who updated their rating or review without receiving a reply to their original review.
+Data points for your app
+Returning users: Number of users who returned to Google Play to update their original rating or review.
+Updates to ratings: Upon returning to Google Play, the "changes to ratings" section shows whether users increased, decreased, or maintained their original rating. You can use the colored bars to see how replying to reviews impacts changes to your app's rating.
+Red: The red section shows the percentage of users who lowered their original rating.
+Gray: The gray section shows the percentage of users who left their original rating unchanged.
+Green: The green section shows the percentage of users who increased their original rating.
+Average rating change: Average change to the app's rating from returning users.
+Reply to reviews
+To reply to reviews from Play Console, make sure you have the "Reply to reviews" permission. You can write one public reply for each user review of your app. You can edit your reply to a review at any time.
+After you reply to a user’s review, they receive a push notification and an email notification.
+Email notifications include the following information:
+Name of your app
+Date of the user's review
+User's rating and review of your app
+Your reply
+Link to contact you by email (using the contact email address listed on your app’s store listing page)
+For best practices on engaging with your users through reviews, visit the Android Developers site.
+ Using the Play Console website
+When you’re replying to a review, you can type your own reply or select a suggested reply, which is a response based on a user’s review. If you choose to use a suggested reply, you can edit it before publishing your response.
+Suggested replies are only available for recent reviews written in English for developers who view Play Console in English. Suggested replies aren’t available for reviews that you’ve already replied to.
+Here’s how to reply to a review:
+Open Play Console and go to the Reviews page (Ratings and reviews > Reviews).
+In the "Your reply" field below a review, type your response or select a suggested reply.
+If you select a suggested reply and you haven’t added contact information to use in suggested replies before, type a phone number, email address, or website.
+Select Publish Reply.
+Note: To update your contact information used in suggested replies, visit your Account details page.
+Using the Play Console app
+Open the Play Console app .
+Select an app.
+Go to the "Reviews" section and tap an individual review.
+Tap Reply and enter your text.
+To publish your reply, click Send. You can edit your reply if needed.
+Using the Reply to Reviews API
+With the Reply to Reviews API, you can retrieve and reply to reviews using third-party services like Zendesk and Conversocial or build your own custom integration.
+As a courtesy to other developers, the Reply to Reviews API enforces several quotas. To request an API quota increase, fill out this form.
+For more information, go to the Google Developers site.
+Comment policies
+Developer Comment Posting Policy
+The public developer response feature is intended to help you resolve problems with your app and build relationships with users. Your use of Google Play is governed by the Google Play Business and Program Policies.
+Follow these policies when commenting on user reviews:
+Make it clear and relevant: Replies should directly address the user's comment in a clear, valuable, and truthful manner. Try to address the user's comment within the text of your reply.
+Be nice: These are your users and you want to help them find a resolution, not burn bridges. Do not post content that is abusive, hateful, dismissive, or threatens or harasses others. Also, don't engage inappropriate user comments through replies. Instead, read our posting guidelines for users and learn how to report inappropriate comments. You need to follow our posting policies regardless of the nature of the message you are replying to.
+Don't solicit or promote: Users don't find solicitations and promotions relevant or useful.
+Keep it clean: Don't post content that is sexually explicit or contains profanity.
+The use of this feature is a privilege, not a right. Failure to observe the above guidelines and any other Google Play terms may result in a suspension of your application or Google Play developer account as outlined in the Google Play terms.
+Report inappropriate reviews and comments
+If you see a review or comment that doesn't follow the standards of our comment posting policy, go to report inappropriate reviews.
+Sign up for review notifications
+To receive email notifications when users write new reviews, update existing reviews, or submit new testing feedback, you can set up your notification preferences.
+To learn more about email notifications, see Manage your developer account information.
+Download reports from Google Cloud Storage
+You can access and download reports as CSV files from Google Cloud Storage. Reports are generated daily and accumulated in monthly CSV files.
+Related content
+Learn more about Feedback, ratings, and reviews in Play Academy.
+Was this helpful?
+How can we improve it?
+YesNo
+Submit
+Need more help?
+Try these next steps:
+ Post to the help community Get answers from community members
+ Contact us Tell us more and we’ll help you get there
+true
+Home
+1 of 5Use Play Console app to track app performance
+2 of 5Get started with Play Console
+3 of 5View app statistics
+4 of 5Review your app's revenue and buyer data
+5 of 5View and analyze your app's ratings and reviews
+ ©2026 Google
+ Privacy Policy
+ Terms of Service Language Afrikaans‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎Gaeilge‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏اردو‏العربيةहिन्दी‎தமிழ்‎ಕನ್ನಡ‎ไทย‎አማርኛ‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎
+Enable Dark Mode
+Send feedback on... This help content & information General Help Center experience
+Search
+Clear search
+Close search
+Google apps
+Main menu
+3610432927713556276
+true
+Search Help Center
+false
+true
+true
+true
+true
+true
+92637
+false
+false
+false
+false
+false

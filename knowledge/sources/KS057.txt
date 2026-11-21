@@ -1,0 +1,148 @@
+T-Mobile: Customers protected from more than 40B scam calls in 2022
+Informa TechTarget|Telecoms Channel DiveTechTarget Infrastructure
+Explore our brandsAn Informa TechTarget Publication
+Leading Lights AwardsNetwork XWebinarsPartner with us
+Newsletter Sign-Up
+Newsletter Sign-Up
+Network Tech
+Related TopicsOptical Networking
+Broadband
+Semiconductors
+Cable Technology
+Routing & Switching
+SDN
+Recent in Network TechSee all
+BroadbandUSTelecom to new Congress: Let us buildUSTelecom to new Congress: Let us buildbyNicole Ferraro
+Nov 18, 20264 Min Read
+BroadbandTucows offloads Ting-owned fiber assets to Clearwave, weighs fate of 'partner' marketsTucows offloads Ting-owned fiber assets to Clearwave, weighs fate of 'partner' marketsbyJeff Baumgartner
+Nov 18, 20263 Min Read
+Wireless
+Related Topics5G
+Mobile Core
+6G
+Open RAN
+Satellite
+Smartphones & Devices
+2G/3G/4G
+Private Networks
+IOT
+Recent in WirelessSee all
+5GT-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reachT-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reachbyJeff Baumgartner
+Nov 18, 20263 Min Read
+IOTVerizon IoT connects Bosch Motorsport race cars at 200 mphVerizon IoT connects Bosch Motorsport race cars at 200 mphbyMichelle Donegan
+Nov 18, 20263 Min Read
+Software
+Related TopicsOSS/BSS/CX
+Network Platforms
+Recent in SoftwareSee All
+IOTVerizon IoT connects Bosch Motorsport race cars at 200 mphVerizon IoT connects Bosch Motorsport race cars at 200 mphbyMichelle Donegan
+Nov 18, 20263 Min Read
+AI & Machine LearningVodafoneThree to test Nokia's AI-RAN with Nvidia GPUsVodafoneThree to test Nokia's AI-RAN with Nvidia GPUsbyMichelle Donegan
+Nov 18, 20264 Min Read
+IT Infrastructure
+Related TopicsData Centers
+The Edge Network
+Recent in IT InfrastructureSee all
+AI & Machine LearningEurobites: Nokia and friends plan 'Northern' AI gigafactoryEurobites: Nokia and friends plan 'Northern' AI gigafactorybyPaul Rainford
+Nov 16, 20262 Min Read
+Data CentersSKT powers up AI data centers with HyosungSKT powers up AI data centers with HyosungbyGigi Onag
+Nov 16, 20262 Min Read
+Digital Transformation
+Related TopicsAI & Machine Learning
+Network Automation
+Security
+Cloud
+Virtualization
+Customer Experience
+Recent in Digital TransformationSee all
+5GAMD telco chief says GPU 'backlash' is coming in AI-RANAMD telco chief says GPU 'backlash' is coming in AI-RANbyIain Morris
+Nov 18, 20265 Min Read
+AI & Machine LearningVodafoneThree to test Nokia's AI-RAN with Nvidia GPUsVodafoneThree to test Nokia's AI-RAN with Nvidia GPUsbyMichelle Donegan
+Nov 18, 20264 Min Read
+Business
+Related TopicsOperations
+Business Transformation
+Regulatory & Politics
+Sustainability
+Diversity & Inclusion
+Finance
+Asia
+Recent in BusinessSee all
+5GT-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reachT-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reachbyJeff Baumgartner
+Nov 18, 20263 Min Read
+BroadbandUSTelecom to new Congress: Let us buildUSTelecom to new Congress: Let us buildbyNicole Ferraro
+Nov 18, 20264 Min Read
+Services
+Related TopicsVideo Broadcast
+Video Streaming
+CDN
+SD-WAN
+Recent in ServicesSee all
+Cable TechnologyMidco details CEO transitionMidco details CEO transition
+Oct 27, 20261 Min Read
+AI & Machine LearningHPE claims to have beaten Cisco to a proper self-driving networkHPE claims to have beaten Cisco to a proper self-driving networkbyIain Morris
+Oct 27, 20266 Min Read
+More
+Related TopicsNewsletters
+Webinars
+Leading Lights Awards
+White Papers
+Videos
+Podcasts
+Symposiums
+Omdia Telecoms Research
+About us
+Meet the Light Reading Team
+Light Reading Resource Library
+Security
+Digital Transformation
+Press Release
+T-Mobile: Customers protected from more than 40B scam calls in 2022
+T-Mobile identified or blocked 41.5 billion scam calls in 2022, a 75% increase from 2021. #pressrelease
+February 22, 2023
+3 Min Read
+BELLEVUE, Wash. – T-Mobile (NASDAQ: TMUS) today released its second annual Scam and Robocall Report, sharing new data looking back at 2022 to uncover insights related to scam, spam and robocall activity, as well as underscore how the Un-carrier helps to keep customers protected against these bad actors.
+Scammers are continuously upping their game to find new tactics and targets, with total robocall attempts up 75% from 2021 to 2022. Scam call volume reached an all-time high in January 2022 due to a surge of caller retries resulting from the introduction of a new return code (608) mandated by the Federal Communications Commission. Then, scam call volume declined steadily each month throughout the year, with occasional spikes during seasonal scam surges. Several factors contributed to this decline, including ongoing improvements to scam protection technology like T-Mobile's Scam Shield, agility by mobile operators to implement new prevention tactics and regulator intervention.
+Scam Shield is leading the way in keeping wireless customers safe from scams. In June, Verizon said they blocked 5B robocalls in the first half of the year. In that same period, T-Mobile's Scam Shield blocked an impressive 25B.
+Common Scam Tactics
+Scammers followed similar patterns from years past, targeting consumers more heavily on weekdays vs. weekends and heavily ramping up activity during the two weeks before Christmas (hello package delivery scams!). But even scammers need a break, accounting for why major holidays like Christmas, New Year's Eve, Easter, and 4th of July saw the lowest scam traffic dropping anywhere from 80-90%.
+Vehicle warranty scams dominated the first half of the year, with T-Mobile's Scam Shield blocking nearly double the amount of scam and robocalls in the front half of the year – averaging 4.2B blocked calls/month – compared to the back half – which averaged 2.7B blocked calls/month. In July, an unprecedented FCC cease and desist identified eight wireless providers – not T-Mobile – in violation of carrying these calls, which effectively brought vehicle warranty scams to a halt.
+Scammers never stay away for long, so as vehicle warranty scams went into hibernation, health and insurance-related scams quickly rose up to take their place. To maximize their profits, these bad actors adapted their tactics to target key moments throughout the year. Back to school? That's prime time for student loan fraudsters and Amazon scams. Tax season? IRS-related scams reigned supreme.
+Target Regions/Demographics
+Scammers hit some states harder than others, with Texas, Missouri, Nevada, South Carolina, and Oklahoma seeing the brunt of it, with victims often targeted by demographic and region. Texas received the highest volume of scam calls with insurance-related tactics targeting the uninsured and other unsuspecting victims. States with high senior populations like South Carolina are also key targets – imposters often mask as seniors' aid staffers going after Medicare and other health-related scams.
+Hardest hit areas: Texas - San Antonio, Dallas, Tyler, Lubbock, and Fort Worth; Oklahoma - Oklahoma City, Tulsa, and Lawton; South Carolina - Greenville, Columbia, and Charleston
+The industry continues to see a rise in robotexts as a way to deceive unsuspecting victims. As scammers adapt and use new methods, T-Mobile continues to adapt as well, increasing investment in network level robotext protection.
+Read the full press release here.
+T-Mobile
+Want more Light Reading stories in your Google search results?
+Add Us Now
+Subscribe and receive the latest news from the industry.
+Join 62,000+ members. Yes it's completely free.
+Sign me up
+Want more Light Reading stories in your Google search results?
+OFC Conference and Exhibition
+Experience OFC. Where the industry goes to learn, showcase technologies, forge partnerships and close deals.
+Registration is Open
+Popular whitepapers in 5G
+More whitepapers
+Sponsored ContentAntenna Monitoring for Programmable PerformanceAntenna Monitoring for Programmable Performance
+Jan 12, 2026
+Sponsored ContentAntenna Beam Efficiency in Urban 4G/5G NetworksAntenna Beam Efficiency in Urban 4G/5G Networks
+Nov 17, 2025
+Our Latest Videos
+More videos
+Wi-FiWi-Fi 8, Edge AI and the Introduction of Security and Management servicesWi-Fi 8, Edge AI and the Introduction of Security and Management services
+Cable TechnologyHarmonic CEO Charts a Pure-Play Broadband FutureHarmonic CEO Charts a Pure-Play Broadband Future
+5G
+Featured Story
+Vodafone is sold on AI-RAN but not yet on need for GPUs
+Vodafone is investigating the benefits of different network chips for AI-RAN at a Malaga facility, the company's head of RAN evolution tells an Omdia event.
+More
+Discover moreLeading Lights AwardsNetwork XResearch & ConsultingOmdia Telecoms ResearchAsiaEurope
+Partner with usAbout UsMeet the Light Reading TeamMedia KitDigital Symposiums Sponsorship Specifications
+Join Us
+Newsletter Sign-Up
+Follow Us
+Copyright © 2026 TechTarget, Inc. d/b/a Informa TechTarget. This website is owned and operated by Informa TechTarget, part of a global network that informs, influences and connects the world’s technology buyers and sellers. All copyright resides with them. Informa PLC’s registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. TechTarget, Inc.’s registered office is 275 Grove St. Newton, MA 02466.
+Home|CCPA: Do not sell my personal info|Cookies|Privacy|Terms
+Your Privacy Choices

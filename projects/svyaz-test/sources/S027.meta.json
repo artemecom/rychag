@@ -1,0 +1,31 @@
+{
+  "id": "S027",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (okup-kab-silny-450.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "7afb3049e5ea7f3e9a944a3e229b5e3091eaec55c09b226e92a85d967eae1bec",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:48:38",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/okup-kab-silny-450.json",
+      "sha256": "a5a51ff36499e3d566a0194c0e99f766f58506a484ea2234cfbf3dbb293b80c5"
+    }
+  ],
+  "rests_on": [
+    "C147",
+    "C148",
+    "C149",
+    "C150",
+    "C118"
+  ]
+}

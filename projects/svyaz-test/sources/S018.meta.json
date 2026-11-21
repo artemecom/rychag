@@ -1,0 +1,31 @@
+{
+  "id": "S018",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «удержание» (uderzhanie-kab-osn.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "3c5f9fe0a1fce1d22ac269426578ad31a6809a90f03c6e537fdd213feb95ad4a",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:31:52",
+  "method": "расчёт",
+  "ready": "удержание",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/uderzhanie-kab-osn.json",
+      "sha256": "9e0b1fd080fab4ed152071cf2084eb134c4ca47a78f218e09ceac974659c5320"
+    }
+  ],
+  "rests_on": [
+    "C005",
+    "C022",
+    "C048",
+    "C024",
+    "C023"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "S001",
+  "kind": "файл",
+  "url": null,
+  "path": "materials/brief-zakazchika.txt",
+  "title": "===== страница 1 =====",
+  "published": null,
+  "accessed": "2026-11-19",
+  "sha256": "9d89bd16c76385ba4338595c44747a0788025ddf83eb97ba1f77e9eccf4755a6",
+  "question": "бриф заказчика",
+  "layer": 1,
+  "stale_accepted": false,
+  "added": "2026-11-19T17:48:37"
+}

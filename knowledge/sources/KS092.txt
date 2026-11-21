@@ -1,0 +1,188 @@
+AI Revolution on Chat Bot: Evidence from a Randomized Controlled Experiment
+Skip to main content
+ Report GitHub Issue
+ ×
+ Title:
+Content selection saved. Describe the issue below:
+ Description:
+ Submit without GitHub
+ Submit in GitHub
+ Why HTML?
+ Report Issue
+ Back to Abstract
+ Download PDF
+ Contents
+ Reading mode
+ Colour theme
+1 Introduction
+2 Backgrounds and Experimental Designs
+3 Results
+3.1 Engagement Rates
+3.2 Primary Outcome: Escalation Rate
+3.3 Comparing GPT3.5 and GPT4
+3.4 Robustness Check
+4 Regression Details
+4.1 Engagement Rates
+4.2 Escalation Rates
+4.3 Comparing GPT3.5 and GPT4
+4.4 Robustness Check
+References
+ License: CC BY 4.0
+arXiv:2401.10956v1 [cs.HC] 19 Jan 2024
+AI Revolution on Chat Bot: Evidence from a Randomized Controlled Experiment
+Sida Peng
+††thanks: Office of Chief Economist, Microsoft
+Wojciech Swiatek
+††thanks: Microsoft
+Allen Gao
+††thanks: Microsoft
+Paul Cullivan
+††thanks: Microsoft
+Haoge Chang
+††thanks: Microsoft Research
+November 2023
+1 Introduction
+In recent years, generative AI has undergone major advancements, demonstrating significant promise in augmenting human productivity. Notably, large language models (LLM), with ChatGPT-4 as an example, have drawn considerable attention. Many companies are now incorporating LLM-based tools within their organizations and integrating it with various products (OpenAI, 2023; Forbes, 2023). There is increasing interest on evaluating the impact of LLMs on human decision-making and productivity.
+Numerous articles have examined the impact of LLM-based tools in lab settings or designed tasks (Peng et al., 2023; Spatharioti et al., 2023; Noy & Zhang, 2023; Dell’Acqua et al., 2023), or in observational studies (Brynjolfsson et al., 2023). In these investigations, LLM-based tools are deployed to aid humans in various tasks, with measured outcomes including task completion time and accuracy. It is generally observed that LLM-based tools are able to increase users’ productivity substantially.
+Despite recent advances, field experiments applying LLM-based tools in realistic settings are limited. This paper presents the findings of a field randomized controlled trial assessing the effectiveness of LLM-based tools in providing unmonitored support services for information retrieval. While superior service quality is expected from LLM-based tools, concerns such as hallucinations raise questions about their effectiveness. Consequently, an empirical investigation is necessary.
+We collaborated with a team managing support chat bots that support Microsoft’s internal developers. Prior to adopting GPT-based models, these bots operated on a flowchart-based system called Power Virtual Agents (PowerVA, see Figure 1). Users navigated through predefined categories to find document links potentially relevant to their queries.
+In our experiment, we integrated a particular support bot, the Work Management Support Bot, with GPT-based tools and compared its performance to the existing keyword-based flowchart support bot. This bot is tailored to assist Microsoft software developers with login and access issues. The new GPT-based approach features a bot (hereafter GPT-based bot) that enables users to ask questions in natural language and receive direct answers from the same document sources used by the flowchart support bot (hereafter classical bot).
+The primary outcome of interest in our study is the escalation decision, which is defined by a user’s decision to escalate the inquiry and seek support from the back-end engineer. A good support bot should lead to low escalation rates. Our experiment suggests that the GPT-based bot reduces the escalation rate by 9.2 percentage compared with the classical bot. This represents a 53.8 percent reduction in escalation rate relative to the baseline of the classical bot.
+In addition, we implemented two versions of the GPT-based support bots, one based on the GPT4 model and the other based on the GPT3.5 model. We compare their escalation rates and token consumption. While we find no significant difference in escalation rates between the two models, there are notable differences in token usage: although GPT4-based bot consumes less tokens per question on average, GPT3.5-based bot has a price advantage under the current pricing structure of GPT models (OpenAI, 2023a).
+Our results add to the literature of experimental and observational research on the productivity-enhancing effects of LLM-based tools. For instance, Noy & Zhang, 2023 examines the individual and distributional productivity effects of ChatGPT on writing task completion and quality among experienced, college-educated professionals. Peng et al., 2023 investigates how GitHub Copilot affects software developers’ productivity in programming tasks. Dell’Acqua et al., 2023 randomizes GPT4 tools to consultants and measures the change in productivity. Spatharioti et al., 2023 evaluates LLM-based tools in aiding consumers with search tasks. Finally, Brynjolfsson et al., 2023 studies the impact of AI tools on productivity in an observational setting using a difference-in-differences approach.
+The rest of the paper is as follows. Section 2 introduces backgrounds and experimental designs. Section 3 contains results of the experiments, and Section 4 includes details on the specifications of our statistical analysis.
+2 Backgrounds and Experimental Designs
+We conducted a randomized control trial (RCT) to compare the performance of the Power Virtual Agents (classical) based bot with the GPT-based bot. This chatbot assists Microsoft developers with login and access issues. All traffic to the chatbot service was randomized into control and treatment groups. The control group interacted with the existing bot, based on the PowerVA service, offering a flowchart-style experience where users navigate predefined options to find documents addressing their questions. The treatment group used the new GPT-based bot, which allows users to pose questions in natural language and provides direct answers from the same document sources as the classical bot. Figure 2 depicts the PowerVA-based support bot experience, and Figure 3 illustrates the GPT-based support bot experience.
+If developers are unsatisfied with the bot’s responses, they have the option to escalate their questions for real human intervention. Our back-end engineers assign 10 minutes to resolve each escalated case, and most cases are resolved within this estimate. The traffic varies between 5 to 20 cases per week, depending on seasonality. One may witness heavier-than-usual traffic during Monday, specific months, and after reorganizations when some users lose access and turn to the bot to request new permissions.
+Our experiments had two waves. The first wave took place between May 05, 2023 and July 21, 2023, and the second wave from July 21, 2023 to Oct 12, 2023. In the first wave, users in each session were randomly assigned to either the classical bot or the GPT4-based version. In the second wave, a new GPT3-supported version was introduced, and and users were randomly assigned to one of three options: the classical bot, the GPT4-based bot, or the GPT3.5-based bot. No additional instructions were provided on how users should interact with the support bots.
+For each session, we collected data such as session ID, starting time of the session, engagement decision, duration of the engagement, and escalation decision. For the GPT-based versions, we were able to collect data such as users’ first prompts and support bot’s first responses.
+The primary outcome of our study is the escalation decision, which reflects a user’s choice to escalate their inquiry and seek assistance from a back-end engineer. An effective support bot should accurately comprehend a user’s question, retrieve the correct information, and provide clear responses. Ultimately, a high-quality support bot should result in a low escalation rate, thereby reducing the workload for back-end engineers in supporting users.
+3 Results
+We collected data on 3296 sessions over a span of five months. There are 1413 engaged cases and 165 escalations. We calculate the overall engagement rate as:
+Overall Engagement Rate=14133296=42.9%.\text{Overall Engagement Rate}=\frac{1413}{3296}=42.9\%.
+Among the engaged cases, the overall escalation rate is calculated as
+Overall Escalation Rate=1651413=11.7%.\text{Overall Escalation Rate}=\frac{165}{1413}=11.7\%.
+3.1 Engagement Rates
+Users may not to engage with the support bot services for various reasons. For instance, the support bots automatically initiate a login action when the conversation starts. This login process can take anywhere from 5 to 30 seconds, during which users might refresh the page, inadvertently skipping the existing session. Additionally, some users may accidentally click on the wrong page, leading to unintended visits to the support bot service.
+In our analysis, we concentrate on the outcomes of engaged sessions to evaluate the quality of the support bots. A GPT-based bot session is deemed engaged if the user posts a question and the bot responds. For a classical bot session, engagement is defined as the user utilizing at least one functionality of the bot. Our findings indicate no significant difference in engagement rates between classical sessions and GPT-based sessions (difference-in-means = -0.026, t-statistics = -1.457, p-value = 0.145).
+3.2 Primary Outcome: Escalation Rate
+We observe 66 escalations out of 835 engaged sessions with the GPT-based support bots, and 99 escalations out of the 578 engaged sessions with the classical support bots.
+We calculate the average escalation rate as:
+Average Escalation Rate (GPT-based bot)=66835=7.9%\text{Average Escalation Rate (GPT-based bot)}=\frac{66}{835}=7.9\%
+Average Escalation Rate (classical bot)=99578=17.1%\text{Average Escalation Rate (classical bot)}=\frac{99}{578}=17.1\%
+This is a significant 9.2 percentage point reduction (t-statistics=-5.05, p-value=4.9e-07) in the average escalation rate when using the GPT-based support bots.
+In a relative term, this represents a 53.8 percent (9.2/17.1) reduction in average escalation rate compared to the baseline escalation rate of 17.1 percentage points for the classical support bot.
+3.3 Comparing GPT3.5 and GPT4
+In the second wave of our experiment and after July 21st 2023, we increased the number of sessions that are assigned to the GPT-based support bot. Further, we randomized sessions into either GPT3.5-based support bot or GPT4-based support bot. During the period between July 21st, 2023 and October 11th, 2023, we collected information on 190 engaged cases for the GPT4-based support bot and 203 engaged cases for the GPT3.5-based support bot.
+Among the 203 engaged cases for the GPT3.5-based version, there were 17 escalations, and among the 190 engaged cases for GPT4-based version, there were 19 escalations. The average escalation rates for the GPT3.5-based and GPT4-based versions are
+Average Escalation Rate (GPT3.5-based bot)=17203=8.4%\text{Average Escalation Rate (GPT3.5-based bot)}=\frac{17}{203}=8.4\%
+Average Escalation Rate (GPT4-based bot)=19190=10%\text{Average Escalation Rate (GPT4-based bot)}=\frac{19}{190}=10\%
+The escalation rate of the GPT4-based version is slightly higher than that of the GPT3.5-based version, but the difference is not statistical significant (t-statistics=0.556, p-value=0.579).
+We also compared the GPT3.5-based and GPT4-based versions in terms of input and output token consumption. Input and output tokens form the basis for cost calculations when using GPT-based services (OpenAI, 2023a). Since the pricing plans for tokens vary depending on the version used, our comparison here is relevant to cost considerations.
+Input Tokens
+Output Tokens
+GPT3.5-based bot
+2575.0
+190.3
+GPT4-based bot
+2018.4
+235.5
+Table 1: Average token consumptions for GPT3.5-based and GPT4-based bots.
+We found that users’ questions consume from 290 to 3363 input tokens, from 38 to 300 output tokens, and from 500 to 3620 total tokens (input tokens + output tokens). Figure 4 plots token consumption for both GPT3.5-based and GPT4-based bots. As shown in Table 1, on average the GPT3.5-based bot consumes more input tokens than the GPT4-based bot does (difference-in-means=-556.6, t-value=-6.864, p-value=2.6e-11). The GPT4-based bot consumes more output tokens than the GPT3.5-based bot (difference-in-means=45.2, t-value=0.557, p-value=0.578), but this difference is not statistically significant.
+The variation in input token consumption between the two versions can be explained by the fact that GPT4 is able to process several frequently-referenceed documents with less resources. The difference of the output tokens can be explained by the fact that GPT4-based version often outputs longer but more structured responses. For example, for the same prompt ”I need access”, GPT4-based bot outputs
+For the GPT3.5-based bot, it outputs
+We can calculate average cost per question for both GPT-3.5 based bot and GPT4-based bot, using the existing pricing schedule (OpenAI, 2023a) (price based on Azure public price at Dec 2023). Based on the information in Table 1, the average cost per question is 7.5 cents (0.03*2018.4/1000 + 0.06*235.5/1000) for GPT4-based bot and 0.3 cents (0.0010*2575/1000 + 0.0020*190.3/1000 ) for GPT3.5-based bot. Provided that the GPT3.5-based bot and GPT4-bot are able to provide similar experience, GPT3.5-based bot offers a more cost-efficient alternative compared with the GPT4-based bot.
+3.4 Robustness Check
+Our randomization happens on a per-session level, so a user who use multiple sessions may see both the GPT-based and classical versions with the same question. We’ll use a different experimental design to prevent this complication in the next round. In this session, we conduct a robustness check, specifically looking at users’ escalation decisions in the first session.
+We recorded 679 sessions with user alias between September 12, 2023 to October 12, 2023. There are 310 engaged cases during this time period and 263 cases are first sessions of users’ interactions with the bots. There are 160 engaged GPT-based bot sessions with 10 escalations, and 103 Classical bot sessions with 21 escalations. We calculate the average escalation rate as:
+Average Escalation Rate (GPT-based bot)=10160=6.3%\text{Average Escalation Rate (GPT-based bot)}=\frac{10}{160}=6.3\%
+Average Escalation Rate (classical bot)=21103=20.4%\text{Average Escalation Rate (classical bot)}=\frac{21}{103}=20.4\%
+This is a significant 14.1 percentage point reduction (t-statistics=-3.19, p-value=0.001) in the average escalation rate when using the GPT-based support bots. It appears that results based on the restricted samples are qualitatively similar to the results reported in Section 3.2.
+4 Regression Details
+We used the statistical programming language R to analyze the data. The standard errors of all regression results are calculated using the HC2 formula, implemented in the sandwich (Zeileis et al., 2019) package in R. The t-tests are calculated using the lmtest (Hothorn et al., 2015) package in R .
+4.1 Engagement Rates
+The reported results in Section 3.1 are based on the regression specification:
+Engagement=β0+β1​Version+ϵ,\text{Engagement}=\beta_{0}+\beta_{1}\text{Version}+\epsilon,
+where Engagement is a binary variable, with 1 indicating that the user engaged with the support bot and 0 otherwise. Version is also a binary variable, with 1 representing a GPT-based support bot and 0 representing the classical version of the support bot.
+4.2 Escalation Rates
+The reported results in 3.2 are based on the regression specification:
+Escalation=β0+β1​Version+ϵ,\text{Escalation}=\beta_{0}+\beta_{1}\text{Version}+\epsilon,
+where Escalation is a binary variable, with 1 indicating the user escalated the issue to a back-end engineer and 0 otherwise. Version is defined as in Section 4.1. We limited our analysis to engaged sessions.
+4.3 Comparing GPT3.5 and GPT4
+The reported results in 3.2 are based on the regression specification:
+Escalation=β0+β1​GPT4+ϵ,\text{Escalation}=\beta_{0}+\beta_{1}\text{GPT4}+\epsilon,
+where Escalation is a binary variable, with 1 indicating that the user has escalated the issue to a back-end engineer and 0 otherwise. GPT4 is also a binary variable, with 1 representing a GPT4-based support bot and 0 indicating a GPT3.5-based bot. We restricted samples to engaged sessions. The regression specifications for the input tokens and output tokens are similar but with different dependent variables.
+4.4 Robustness Check
+The reported results in Section 3.4 use the same specifications as those reported in Section 3.2, with the constructed sample described in Section 3.4.
+References
+Brynjolfsson et al. (2023)
+Erik Brynjolfsson, Danielle Li and Lindsey Raymond
+“Generative AI at work”, 2023
+Dell’Acqua et al. (2023)
+Fabrizio Dell’Acqua et al.
+“Navigating the jagged technological frontier: Field experimental evidence of the effects of AI on knowledge worker productivity and quality”
+In Harvard Business School Technology & Operations Mgt. Unit Working Paper, 2023
+Forbes (2023)
+Forbes
+“10 Amazing Real-World Examples Of How Companies Are Using ChatGPT In 2023”, https://www.forbes.com/sites/bernardmarr/2023/05/30/10-amazing-real-world-examples-of-how-companies-are-using-chatgpt-in-2023/?sh=11a57e151441, 2023
+Hothorn et al. (2015)
+Torsten Hothorn et al.
+“Package ‘lmtest”’
+In Testing linear regression models. https://cran. r-project. org/web/packages/lmtest/lmtest. pdf. Accessed 6, 2015
+Noy & Zhang (2023)
+Shakked Noy and Whitney Zhang
+“Experimental evidence on the productivity effects of generative artificial intelligence”
+In Available at SSRN 4375283, 2023
+OpenAI (2023)
+OpenAI
+“Introducing ChatGPT Enterprise”, https://openai.com/blog/introducing-chatgpt-enterprise, 2023
+OpenAI (2023a)
+OpenAI
+“Pricing”, https://openai.com/pricing, 2023
+Peng et al. (2023)
+Sida Peng, Eirini Kalliamvakou, Peter Cihon and Mert Demirer
+“The impact of ai on developer productivity: Evidence from github copilot”
+In arXiv preprint arXiv:2302.06590, 2023
+Spatharioti et al. (2023)
+Sofia Spatharioti, David Rothschild, Daniel Goldstein and Jake Hofman
+“Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment”
+In arXiv preprint arXiv:2307.03744, 2023
+Zeileis et al. (2019)
+Achim Zeileis et al.
+“Package ‘sandwich”’
+In R package version, 2019, pp. 2–5
+Figure 1: Power Virtual Agents: Flow Chart Based System
+Figure 2: Microsoft PowerVA-based Support Bot Experience
+Figure 3: GPT-based Support Bot Experience
+Figure 4: Distributions of Token Consumption for GPT3.5-based and GPT-4 based bots
+ Experimental support, please
+ view the build logs
+ for errors. Generated by
+ L
+ A
+ T
+ E
+ xml
+ .
+Instructions for reporting errors
+We are continuing to improve HTML versions of papers, and your feedback helps enhance accessibility and mobile
+ support. To report errors in the HTML that will help us improve conversion and rendering, choose any of the
+ methods listed below:
+Click the "Report Issue" () button, located in the page header.
+Tip: You can select the relevant text first, to include it in your report.
+Our team has already identified the following issues. We appreciate your time reviewing and reporting rendering errors we
+ may not have found yet. Your efforts will help us improve the HTML versions for all readers, because disability
+ should not be a barrier to accessing research. Thank you for your continued support in championing open access for
+ all.
+Have a free development cycle? Help support accessibility at arXiv! Our collaborators at LaTeXML maintain a list of packages that need conversion, and welcome developer contributions.
+ We gratefully acknowledge support from our major funders,
+ member institutions, ,
+ and all contributors.
+ About ·
+ Help ·
+ Contact ·
+ Subscribe ·
+ Copyright ·
+ Privacy ·
+ Accessibility ·
+ Operational Status (opens in new tab)

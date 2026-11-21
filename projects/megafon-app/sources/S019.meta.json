@@ -1,0 +1,14 @@
+{
+  "id": "S019",
+  "kind": "файл",
+  "url": null,
+  "path": "materials/rustore_megafon_reviews_full.csv",
+  "title": "date,rating,text,app_version_code",
+  "published": null,
+  "accessed": "2026-11-19",
+  "sha256": "3306791c361f268d5cb19c19154b0950712043bda90c51f79a8aad7c1f6cefba",
+  "question": "полная выгрузка отзывов RuStore",
+  "layer": 1,
+  "stale_accepted": false,
+  "added": "2026-11-19T00:04:09"
+}

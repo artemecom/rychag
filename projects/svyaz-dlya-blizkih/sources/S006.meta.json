@@ -1,0 +1,29 @@
+{
+  "id": "S006",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «удержание» (uderzhanie_silnyi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "33cbb3c5d6f54606731e5fcadd0c0f74f8a9c1968db9ba42720e9887547131a0",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:53:56",
+  "method": "расчёт",
+  "ready": "удержание",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/uderzhanie_silnyi.json",
+      "sha256": "19bc715a287e3fe1a0d2876f7737ebc1287f6bd42eef089edda28172a8b48f72"
+    }
+  ],
+  "rests_on": [
+    "C008",
+    "C027",
+    "C028"
+  ]
+}

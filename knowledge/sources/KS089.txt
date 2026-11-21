@@ -1,0 +1,443 @@
+Ofcom Sets Ground Rules for AI in Customer Service - A Standard Any UK Business Can Audit Against | Cloudswitched News
+Services
+IT SupportHelpdesk, monitoring and on-site support
+IT Office MovesYour whole office, moved and working
+IT AdminDay-to-day network and systems admin
+Virtual CIOIT strategy and budgets for your board
+Cyber Essentials PlusCertification readiness, start to finish
+Penetration TestingFind the gaps before attackers do
+Solutions
+Connectivity & InternetBusiness broadband, fibre and leased lines
+VoIP & Phone SystemsCloud phone systems for every office
+Cloud Email with Microsoft Office 365Email, Teams and Office, fully managed
+Cloud Server with Microsoft AzureMove your servers into the cloud
+Cloud Networking with MerakiManaged Wi-Fi, switching and security
+Cloudswitched Hybrid BackupLocal and cloud backup, tested
+Digital & AI
+Web DevelopmentFast, modern websites for your business
+SEO & Digital VisibilityGet found on Google and AI search
+Google Ads & PPCPaid search, managed and measured
+AI Software & ToolsAI tools built around how you work
+Microsoft 365 CopilotRoll out AI across your team safely
+Database ReportingDashboards built from your own data
+Resources
+ArticlesPractical guides on business IT
+NewsTech and security news that matters
+Free ResourcesGuides and checklists to download
+Free ToolsFree checkers and calculators
+About Us
+Our JourneyOur story so far, and what comes next
+Meet the TeamThe people behind your IT
+Location1 St Katharine's Way, London E1W 1UN
+Contact us
+Contact usLet's talk about your IT.
+Free, no-obligation chat
+IT, cloud, security and digital in one team
+Transparent pricing, no lock-in
+ First name
+ Last name
+ Email
+ Phone
+ Company
+ Team sizeSelect1-55-2525-5050-100100-500500+
+ How can we help? (optional)
+ Send me occasional updates. Unsubscribe any time. Privacy Policy
+ Send enquiry
+Services
+IT SupportIT Office MovesIT AdminVirtual CIOCyber Essentials PlusPenetration Testing
+Solutions
+Connectivity & InternetVoIP & Phone SystemsCloud Email with Microsoft Office 365Cloud Server with Microsoft AzureCloud Networking with MerakiCloudswitched Hybrid Backup
+Digital & AI
+Web DevelopmentSEO & Digital VisibilityGoogle Ads & PPCAI Software & ToolsMicrosoft 365 CopilotDatabase Reporting
+Resources
+ArticlesNewsFree ResourcesFree Tools
+About Us
+Our JourneyMeet the TeamLocation
+ Contact us
+Back to News
+AI & Business
+Ofcom Sets Ground Rules for AI in Customer Service - A Standard Any UK Business Can Audit Against
+Cloudswitched Team27 September 2026
+Ofcom published its first assessment of AI’s impact on telecoms customers on 25 September 2026, and buried in a research document is the clearest statement a UK regulator has yet made about what acceptable AI customer service looks like. Two expectations, both short enough to quote in full. Providers must be transparent with customers when they are interacting with a GenAI application. And providers’ AI applications must not act as “gatekeepers” creating barriers to accessing support through channels providers are required to offer.
+That is worth more attention than the headline figure it arrived with. Most guidance on AI governance is a page of principles that no one can be measured against. These two are close to binary: either you disclose that a customer is talking to a machine, or you do not; either the automation can block the route to a human, or it cannot. They are auditable in an afternoon. And while Ofcom regulates telecoms, the research itself shows customers are meeting AI chatbots most often in retail, where 11% of UK adult internet users encountered one — nearly double the 6% who met one at a telecoms provider. Expectations articulated in one regulated sector do not stay there. They become the benchmark that procurement questionnaires, client contracts and customers themselves apply everywhere, which makes this a useful specification for any UK business building or buying AI–powered support, regulated or not.
+53%
+Of online UK adults have used GenAI tools such as ChatGPT, Meta AI, Google Gemini or Microsoft Copilot in the past 12 months
+8%
+Roughly one in twelve UK adult internet users have interacted with an AI service specifically in relation to their telecoms services
+46%
+Have not interacted with AI at all in the past 12 months — a figure Ofcom expects to fall, but which describes a very large population today
+2
+Ofcom expectations set for providers: be transparent when a customer is dealing with GenAI, and never let AI become a gatekeeper to human support
+What Ofcom found, and what it decided to do about it
+The adoption picture is one of breadth without depth. 53% of online UK adults have used GenAI tools in the past 12 months, which is a majority and a striking number for a technology this young. But that figure measures people choosing to use a tool. When you ask instead about encountering AI deployed by a business, the numbers drop sharply: 23% of UK adult internet users say they interacted with an AI chatbot in the same period. Broken down by sector, that was most commonly retail at 11%, then financial services and utilities at 8% each, and telecoms at 6%.
+For telecoms specifically, 8% — the one in twelve of the headline — had interacted with an AI service in relation to their broadband, mobile or phone account. The breakdown of what they were trying to do is the most useful part of the whole dataset: 6% to resolve an issue, 3% for a price or product comparison, and 2% to make a complaint. Those figures can overlap, so they do not sum. Note the shape: the dominant use is problem–solving, and a meaningful slice is complaints — which is precisely the category where automation performs worst and where a gatekeeping failure does the most damage.
+Running the other way is the 46% who report no interaction with AI at all over twelve months. Ofcom expects that to fall as adoption continues, and it almost certainly will. But it is the operative number for anyone designing a support journey today, because it describes customers who will encounter your assistant with no prior mental model of what it can do, no learned habits for getting past it, and no basis for calibrating how much to trust it. A design that assumes familiarity is designing for the other half.
+On sentiment, the research is more interesting than a simple satisfaction score. Ofcom found views are mixed: some customers welcome the speed, while others read AI as a way of reducing access to human support — and critically, they read it that way “often regardless of whether AI actually resolves the issue faster”. Most people recognise the time AI could save, but “share concerns about risks to their personal data and privacy”. And many feel that negotiating with a human still gets them a better deal.
+Ofcom’s regulatory conclusion, for now, is restraint. Policy Director Cristina Luna–Esteban said the regulator is “working with telecoms firms to ensure a future where AI works in consumers’ best interests and firms ensure human support remains available when they need it”. Ofcom says there is currently only “limited evidence” of AI being a systemic cause of harm, and considers existing rules sufficient — while stating it will act if evidence of harm emerges. No new rulebook, then. A stated standard and a watching brief.
+“Existing rules are sufficient for now” is a conditional, not a clearance
+It would be easy to read Ofcom’s finding of only limited evidence of systemic harm as permission to proceed as planned. Read the whole sentence. The regulator has published the standard it expects, said the current rules can carry it, and stated plainly that it will act if evidence of harm emerges. That is a structure with a trigger in it, and the trigger is evidence — which accumulates from customer complaints, consumer group research and press coverage rather than from regulatory inspection. A provider whose AI is quietly blocking access to human support is not in a safe position because no rule names it; it is contributing to the evidence base that would justify a rule. And for businesses outside telecoms there is a second–order effect worth noting: once a regulator has articulated a two–sentence test in public, that test gets applied by clients, insurers, procurement teams and journalists to organisations the regulator has no jurisdiction over at all.
+How UK AI customer service expectations took shape this month
+Ofcom’s assessment did not land in isolation. It arrived days after a consumer charity made the same argument from the opposite direction, and the two together are what make this month a turning point in the UK conversation.
+The past 12 months — adoption becomes mainstream but uneven
+Over the period Ofcom surveyed, 53% of online UK adults use GenAI tools on their own initiative, while 46% have no interaction with AI at all. Both facts are true of the same population at the same time, which is the defining feature of this market: a technology that is simultaneously mainstream and unfamiliar depending on which customer you are serving.
+The past 12 months — businesses deploy, retail leads
+23% of UK adult internet users interact with a business AI chatbot. Retail is where most people meet one, at 11%, ahead of financial services and utilities at 8% each and telecoms at 6%. The sector Ofcom regulates is therefore not the sector where customers are having most of these experiences — a point that matters for how far its expectations will travel.
+July 2026 — the consumer side is polled
+Separate polling on behalf of Citizens Advice finds that only 20% of UK adults consider chatbots their preferred way to communicate with essential service providers, with phone, email and instant messaging all ranking higher. The direction of travel in public sentiment is established well before either organisation publishes.
+21 September 2026 — Citizens Advice makes the harm case
+The charity calls on essential service providers to guarantee a “right to talk to a human”, reporting that 14% of people who struggled to reach one gave up on their issue entirely, and that some customers concluded chatbots seemed rigged to make them give up. We covered this in detail four days ago; it is the demand–side case for the same standard Ofcom would articulate.
+25 September 2026 — Ofcom publishes its assessment
+The regulator’s initial assessment of AI’s impact on telecoms customers sets out two expectations: transparency when a customer is interacting with a GenAI application, and no gatekeeping that creates barriers to support channels providers are required to offer. It is the supply–side specification for what Citizens Advice asked for on the demand side.
+25 September 2026 — the regulatory posture is set
+Ofcom concludes there is only “limited evidence” of AI being a systemic cause of harm and that existing rules are sufficient for now, while saying it will act if evidence of harm emerges. Cristina Luna–Esteban frames the work as ensuring “a future where AI works in consumers’ best interests and firms ensure human support remains available when they need it”.
+27 September 2026 — what businesses now have
+No new obligation for anyone outside telecoms, and no new rulebook even inside it. What exists is a published, quotable, testable standard, endorsed in substance by a consumer charity and a regulator in the same week. Any UK business can measure its own support journey against it today, and increasingly its clients will.
+Ahead — the evidence question
+Ofcom’s position turns on whether evidence of harm accumulates. That evidence comes from complaints, consumer research and press attention rather than inspection, which means the sector’s own behaviour over the next year determines whether the current light touch persists or is replaced with something prescriptive.
+Read together, the two publications are unusually well matched. Citizens Advice supplied the harm evidence — the people who gave up, the sense of being deliberately obstructed. Ofcom supplied the specification — transparency and no gatekeeping. That combination is how UK regulation typically develops: a credible account of consumer detriment, followed by a stated expectation, followed either by industry adjustment or by rules. Businesses currently sit in the window where adjustment is voluntary and cheap.
+What the adoption numbers actually say
+The chart below uses Ofcom’s published figures, all expressed as a share of UK adult internet users over the past 12 months. One caution before reading it: the top two bars answer a different question from the rest. They measure using GenAI tools on your own initiative, and having no AI interaction at all. The bars beneath measure encountering a chatbot deployed by a business. They are not additive and should not be compared as though they were the same behaviour.
+Used GenAI tools — ChatGPT, Gemini, Copilot — on own initiative
+53%
+No interaction with AI at all in the past 12 months
+46%
+Interacted with a business AI chatbot — any sector
+23%
+Retail business chatbots
+11%
+AI service in relation to telecoms — any purpose
+8%
+Financial services and utilities chatbots — 8% each
+8%
+Telecoms chatbots specifically
+6%
+The gap between the first bar and the third is the most commercially useful thing in this dataset. A majority of online adults have chosen to use a GenAI tool, but fewer than a quarter have met one working for a business. That is not a contradiction; it is a statement about who currently controls the interaction. When a customer opens ChatGPT they are using a tool for their own purposes and can abandon it costlessly. When they meet your assistant they are inside a process you designed, pursuing an outcome only you can deliver. The same underlying technology, encountered in those two contexts, produces entirely different expectations — and a business reasoning from the 53% to conclude “customers are comfortable with AI now” is reading the wrong number.
+The sector ordering carries a second lesson. Retail at 11% is where most of these encounters happen, and retail is also where the stakes per interaction are typically lowest — a delivery query, a returns question, a stock check. Telecoms at 6% is lower but the interactions are weightier: contract disputes, service faults, billing. Customers are therefore forming their general impression of business AI largely in a low–stakes context and then carrying that impression into high–stakes ones. Whether that helps or hurts depends entirely on which experience came first.
+One in twelve — and why a small number is the interesting one
+The figure Ofcom led with, and the one worth planning around, is deliberately modest.
+Roughly one in twelve UK adult internet users have interacted with an AI service in relation to their telecoms account in the past 12 months — 6% to resolve an issue, 3% for a price or product comparison, and 2% to make a complaint. The figures overlap, so they do not sum
+A small arc is the honest visual. This is an early–stage behaviour, not a settled one, and that has a direct implication for how much weight to put on current satisfaction data: the population with an opinion about telecoms AI is still a minority, and their experiences were formed on first–generation deployments. Sentiment measured now is measuring the industry’s first attempt.
+The internal breakdown is where the design guidance sits. 6% came to resolve an issue and 2% came to make a complaint. Both of those are, in the taxonomy that matters, judgement cases rather than lookups — something has gone wrong, the situation may not match a standard path, and the customer needs someone able to make a decision. Only the 3% doing price or product comparison is a genuinely good fit for automation, and even that is contested, because Ofcom also found that many customers feel negotiating with a human still gets them a better deal.
+That last finding deserves isolating, because it explains something that otherwise looks irrational. Ofcom reports that customers who see AI as reducing access to human support often feel that way “regardless of whether AI actually resolves the issue faster”. Speed, in other words, does not buy trust. The reason is that the customer’s objection is not about latency but about whose interests the system serves. A customer who suspects the assistant exists to protect the provider’s margin rather than to solve their problem will not be reassured by it protecting that margin more efficiently. Combine this with the finding that people believe human negotiation gets a better deal, and the picture is coherent: some customers read automation as the company withdrawing its discretion, and discretion is the thing they were hoping to appeal to.
+The practical consequence for any business is uncomfortable but clarifying. You cannot resolve this trust deficit by improving the model. A faster, more accurate assistant that still cannot make a concession, waive a charge or exercise judgement will be experienced as a better–built wall. What changes the perception is evidence that the human route remains genuinely open — which is exactly what Ofcom’s second expectation requires, and why the gatekeeping test is the more substantive of the two.
+Measuring your own support journey against the two tests
+Ofcom’s expectations are specific enough to audit. The rows below turn them into checkable conditions, with badges indicating how often each is a live problem in a UK business.
+Against Ofcom’s two expectations — transparency and no gatekeeping
+ A customer can always reach a human without the assistant agreeing to allow it
+ High
+ It is disclosed clearly, at the start, that the customer is dealing with AI rather than a person
+ High
+ Complaints can be raised without passing through automation at all
+ High
+ The assistant is never the only route to a channel you are obliged, or have promised, to offer
+ High
+ A human–sounding name or persona does not imply the customer is talking to a person
+ Mid
+ What the assistant may promise, offer or concede is documented and bounded
+ Mid
+ Data handling is explained where customers raise privacy concerns, not buried in a policy
+ Mid
+ A named owner reviews failed conversations and can change the system
+ Low
+The fifth row is the transparency question most businesses get wrong without meaning to. Giving an assistant a friendly first name is a reasonable design choice for warmth, and it becomes a transparency problem the moment a customer reasonably concludes they are speaking to a member of staff called Alex. Ofcom’s expectation is that it must be transparent when a customer is interacting with a GenAI application — and a persona that obscures that, even unintentionally, works against it. The fix is not to remove the personality but to state the position once, plainly, at the start.
+The seventh row connects to a finding businesses tend to underrate. Ofcom reports that most people recognise the time AI could save but “share concerns about risks to their personal data and privacy”. Those concerns are not satisfied by a privacy policy, because nobody reads one mid–conversation. They are addressed by a sentence at the point of interaction explaining what happens to what the customer types — and, on the business side, by having actually established the answer: whether the assistant is a third–party service, what it retains, and whether content is used for model training. Support conversations are unusually rich in personal data, so under UK GDPR those are questions with real answers rather than rhetorical ones.
+What meeting the standard costs
+The bands below are indicative planning figures for UK businesses bringing an AI support deployment in line with the standard Ofcom has articulated — not quotes.
+ Business profile
+ Typical scope
+ Indicative cost
+ What you get for it
+ Small business with an existing chat widget
+ Clear AI disclosure at the start, unconditional handover on request, human contact details restored to the contact page, complaint route taken out of automation
+ £400 – £1,800
+ Both Ofcom tests met, usually within a week, at the lowest cost of anything on this table
+ SME deploying AI support for the first time
+ Scoping to lookups rather than judgement cases, disclosure and escalation designed in from the start, data handling position established, transcript review process
+ £2,000 – £8,000
+ An assistant that satisfies the standard by design rather than being retrofitted after a complaint
+ Business with regulated or contractual service obligations
+ Channel obligation mapping, evidence that automation does not gate any required route, documented limits on what the assistant may offer, audit trail of automated interactions
+ £8,000 – £30,000
+ A demonstrable position for a regulator, a client audit or a procurement questionnaire rather than an assertion
+ Supplier to regulated clients
+ All of the above plus a written AI use statement suitable for client due diligence, sub–processor disclosure, and alignment with clients’ own consumer duties
+ £6,000 – £25,000
+ The answer ready before a client asks — increasingly a question on supplier questionnaires rather than a courtesy
+ Any business, ongoing
+ A named owner, a monthly sample of conversations that ended without resolution, and a resolution metric reported alongside volume
+ £0 – £2,500 a year
+ Early sight of the problem while it is still cheap, instead of discovering it from a complaint or a consumer group’s research
+The first row is the one most readers need and it is close to trivial. Ofcom’s two expectations are, in implementation terms, a disclosure line and a working escalation path. Neither requires a better model, a new platform or a project. What makes them hard is not technical difficulty but that they cut against the commercial logic that justified the deployment — every unconditional escalation route is a contact that reaches a person, and the business case was built on that number going down.
+Two ways to read a regulator’s restraint
+Reactive posture
+Reading “limited evidence of harm” as clearance
+No new rule was made, so nothing needs to change and the roadmap continues unaltered
+AI disclosure left implicit, with a human–sounding persona doing the opposite of disclosing
+Escalation available only when the assistant concludes it cannot help
+Complaints routed through the same automated front door as routine queries
+Effort directed at making the assistant faster, on the assumption that speed resolves the trust problem
+Privacy concerns treated as answered by an existing policy nobody reads mid–conversation
+The business finds out where it stands from a complaint, a client questionnaire or a consumer group’s research
+Proactive posture
+Where virtual CIO oversight with Cloudswitched takes you
+The two published expectations adopted as an internal standard now, while compliance is voluntary and cheap
+A single plain sentence at the start of every interaction stating that the customer is dealing with AI
+An unconditional route to a person that does not depend on the assistant agreeing to provide it
+Complaints and vulnerability kept out of automation entirely, by design and in writing
+Recognition that trust is about whose interests the system serves, so effort goes to the escalation path rather than the response time
+Data handling explained at the point of interaction, with the underlying position actually established
+A written AI use statement ready for client due diligence before the first questionnaire arrives
+The left–hand column is not negligence; it is a reasonable reading of a regulator that has declined to make a rule. The difficulty is that Ofcom’s restraint is explicitly conditional on evidence, and evidence of this kind is generated by the sector’s own conduct rather than gathered by inspection. Every customer who cannot reach a human and complains to a consumer group is a contribution to the case for prescriptive rules. Businesses that adopt the standard now are, among other things, protecting the light–touch regime they currently benefit from.
+42
+Indicative readiness, out of 100, against Ofcom’s two stated expectations for a typical UK business running AI–assisted support — assessed on disclosure, unconditional escalation, complaint routing and documented limits on what the assistant may offer
+The two–test audit — ten minutes, and the answers are binary
+Ofcom’s expectations are unusually easy to check because neither is a matter of degree. Test one, transparency: open your own support journey as a customer and ask whether, within the first exchange, you are told plainly that you are dealing with AI rather than a person. Not implied by tone, not disclosed in a footer, not recoverable from a terms page — stated. If your assistant has a human first name and no disclosure line, you have failed this test in a way your customers will notice before you do. Test two, gatekeeping: ask for a human. If you get one immediately, you pass. If you get another attempt to help, a request to describe the problem first, or a suggestion to try the help centre, you do not — and note that failing this test is usually a deliberate configuration choice made by somebody optimising a metric rather than an oversight. Then apply both tests specifically to the complaints route, because that is where 2% of Ofcom’s telecoms respondents were heading and where a gate does the most damage. Write down what you find and date it. That document is the beginning of a defensible position.
+Why this belongs on a board agenda rather than a support team’s backlog
+The instinct is to treat AI customer service as an operational matter for whoever runs support. This month’s two publications are an argument for handling it a level higher, for a reason that has nothing to do with technology. The decisions that produce the failures — what to measure, whether escalation is unconditional, whether complaints may be automated, what the assistant is allowed to concede — are all trade–offs between cost and customer access. Those are not engineering choices and they should not be made by whoever is closest to the tooling. They are the kind of judgement a virtual CIO engagement exists to surface: decisions with a clear short–term financial upside and a diffuse, delayed reputational cost.
+There is a supplier dimension too, and it is arriving faster than most businesses expect. Ofcom’s expectations apply to telecoms providers, but the organisations reading them include every regulated firm wondering whether its own regulator will say something similar — and those firms pass their obligations down through procurement. A written statement of how your business uses AI in customer–facing processes, what it discloses, and how a customer reaches a human is becoming a routine due diligence question rather than an unusual one. Having the answer drafted is considerably cheaper than assembling it during a tender.
+The security and data protection angle rounds it out, and it is where the Cyber Essentials discipline of enumeration earns its keep again. An AI support assistant is a third–party service processing your customers’ personal data, reachable from the internet, integrated with your systems, and frequently procured outside the IT function by a marketing or operations team. That makes it precisely the kind of asset that never reaches an inventory, never gets a data protection assessment and never appears in a scope conversation. Ofcom’s finding that customers “share concerns about risks to their personal data and privacy” is, for once, a customer instinct that matches the internal reality rather well.
+The final point is about timing, and it is the reason this is worth acting on in a quiet week rather than a busy one. Right now the standard is published, the obligation is absent, and the fixes are a disclosure line and an escalation path. If evidence of harm accumulates and Ofcom or another regulator moves to rules, the same changes will have to be made anyway — to a deadline, with documentation requirements, and alongside every competitor doing the same thing at the same time. The work does not get smaller by waiting. Only the discretion about how to do it does.
+The story at a glance
+ Item
+ Detail
+ What was published
+ Ofcom’s initial assessment of AI’s impact on telecoms customers, 25 September 2026
+ Expectation one
+ It must be transparent to customers when they are interacting with a GenAI application
+ Expectation two
+ Providers’ AI applications must not act as “gatekeepers” creating barriers to accessing support through channels providers are required to offer
+ GenAI tool use
+ 53% of online UK adults have used tools such as ChatGPT, Meta AI, Google Gemini or Microsoft Copilot in the past 12 months
+ Business chatbot contact
+ 23% of UK adult internet users interacted with an AI chatbot in the same period
+ By sector
+ Retail 11%, financial services 8%, utilities 8%, telecoms 6%
+ Telecoms–specific AI use
+ 8% — about one in twelve — used an AI service in relation to telecoms services
+ What they used it for
+ 6% to resolve an issue, 3% for a price or product comparison, 2% to make a complaint — figures overlap and do not sum
+ No AI contact at all
+ 46% of UK adult internet users, a figure Ofcom expects to fall
+ Consumer sentiment
+ Mixed — some welcome the speed, others see AI as reducing access to human support, “often regardless of whether AI actually resolves the issue faster”
+ Privacy
+ Most recognise the time AI could save but “share concerns about risks to their personal data and privacy”
+ The negotiation finding
+ Many feel that negotiating with a human still gets them a better deal
+ Ofcom’s quote
+ Policy Director Cristina Luna–Esteban: working with firms “to ensure a future where AI works in consumers’ best interests and firms ensure human support remains available when they need it”
+ Regulatory position
+ Only “limited evidence” of AI as a systemic cause of harm; existing rules considered sufficient for now
+ The condition attached
+ Ofcom says it will act if evidence of harm emerges
+ Why it matters outside telecoms
+ A published, testable two–part standard becomes the benchmark clients, insurers and procurement teams apply to businesses Ofcom does not regulate
+ Cheapest way to comply
+ A plain disclosure line at the start, and an unconditional route to a human that the assistant cannot refuse
+This story sits directly alongside several we have covered recently. The Citizens Advice call for a “right to talk to a human” is the essential companion piece — published four days before Ofcom’s assessment, it supplies the harm evidence for which Ofcom has now supplied the specification, and the two should be read together. Ofcom’s investigations into VoIP number misuse show the same regulator in a different posture, and are a useful reminder of what happens when supervisory concern hardens into formal action. The Kiteworks shutdown warning makes the case for knowing which third–party services process your data — an AI assistant is exactly such a service. Cambium Networks entering administration is the supplier–risk version of the same question. And Vodafone’s copper switch–off is a reminder that the human–support channel customers say they prefer depends on a phone network currently being rebuilt.
+Two tests. Would your customer journey pass either?
+Ofcom has published something genuinely rare: an AI standard specific enough to audit. Cloudswitched’s virtual CIO service helps UK businesses make exactly this class of decision well — where automation belongs, what gets disclosed, which contacts must always reach a person, what an assistant is permitted to offer, and how the data position stands up. These are strategic trade–offs between cost and customer access, not configuration settings, and they are considerably cheaper to get right before a client questionnaire or a complaint forces the question.
+ Talk to us about Virtual CIO Services
+Frequently asked questions
+Does Ofcom’s assessment create new obligations for our business?
+Not directly, and not at all if you are outside telecoms. Ofcom concluded there is only “limited evidence” of AI being a systemic cause of harm and that existing rules are sufficient for now, so no new rulebook has been issued even for the providers it regulates. What it has published is a clear statement of what it expects: transparency when customers are dealing with GenAI, and no gatekeeping that blocks access to support channels providers are required to offer. For everyone else that is not a legal requirement but a published benchmark — and published benchmarks tend to migrate into client contracts, procurement questionnaires and press scrutiny well ahead of any regulation.
+What does “gatekeeper” actually mean in practice?
+It means the automation standing between a customer and a channel they are entitled to use. The clearest failure is an assistant that will only hand over to a person when it concludes it cannot help — because that is precisely the judgement it is least able to make when it has misunderstood the problem. Softer versions count too: requiring a customer to describe their issue to the bot before a phone number is revealed, removing contact details from a contact page so the widget is the only entry point, or routing complaints through the same automated front door as routine queries. The test is simple. If a customer asks for a human, do they get one immediately and unconditionally?
+How much disclosure counts as transparent?
+One plain sentence at the start of the interaction, stating that the customer is dealing with an AI assistant rather than a person. Not implied by tone, not disclosed in a footer, not recoverable from a terms page. The common trap is an assistant given a human first name for warmth — a reasonable design choice that becomes a transparency problem the moment a customer reasonably believes they are speaking to a member of staff. You do not have to strip out the personality to fix this; you have to state the position once, clearly, before the conversation begins. It is the cheapest of all the changes discussed here and the one most often left undone.
+If only 8% of people use AI for telecoms, is this really urgent?
+The 8% is a reason to act now rather than a reason to wait. It tells you this behaviour is early–stage, which means current sentiment is being formed on the industry’s first attempts and habits are not yet set. Ofcom expects the 46% who have had no AI interaction at all to shrink. Designing the disclosure and escalation properly while your volumes are small is straightforward; retrofitting it once automation is load–bearing across your whole support operation is a project. The businesses that will struggle are those that scale a deployment built on a deflection assumption and then have to unpick it under external pressure.
+Why does making our chatbot faster not improve satisfaction?
+Because the objection is not about speed. Ofcom found that customers who see AI as reducing access to human support often feel that way “regardless of whether AI actually resolves the issue faster”, and separately that many believe negotiating with a human gets them a better deal. Put those together and the complaint becomes legible: some customers read automation as the company withdrawing its discretion, and discretion is what they were hoping to appeal to. A faster assistant that still cannot waive a charge, make a concession or exercise judgement is experienced as a better–built wall. What shifts perception is visible evidence that the human route is genuinely open.
+We are not in telecoms. Why should we care what Ofcom thinks?
+Two reasons. First, Ofcom’s own data shows customers are meeting AI chatbots most often in retail, at 11%, nearly double the 6% who meet one at a telecoms provider — so the experiences shaping public expectations are largely happening outside the regulated sector. Second, a two–sentence test published by a regulator becomes the reference point everyone else uses. Clients writing supplier questionnaires, insurers assessing conduct risk, regulated firms pushing obligations down their supply chain and journalists writing the next story all now have a standard to measure against, and none of them need jurisdiction over you to apply it.
+What is the single cheapest thing to change this week?
+Two changes, both usually achievable in days. Add a plain sentence at the start of every AI interaction stating that the customer is dealing with an assistant rather than a person. And make the route to a human unconditional — a visible phone number or email address reachable without engaging the bot, plus a handover that fires whenever someone asks for a person rather than only when the system decides it cannot help. Then apply both specifically to your complaints route, since 2% of Ofcom’s telecoms respondents were using AI to make a complaint and that is where a barrier causes the most damage. Nothing on that list requires a better model or a new platform.
+How should we handle the privacy concerns Ofcom identified?
+Start by establishing the facts internally, because you cannot explain a position you have not determined. If the assistant is a third–party service, that provider is processing customer messages — which in support contexts routinely contain names, account details and sometimes financial or health circumstances volunteered while explaining a problem. Under UK GDPR you need to know the lawful basis, what the processor terms say, how long content is retained and whether it is used for model training. Reputable providers answer all of that clearly. Then surface a short version at the point of interaction, because Ofcom’s finding is about customer concern, and a privacy policy nobody reads mid–conversation does not address concern.
+Who in our business should own this?
+Someone more senior than the person who configures the tool. The decisions that produce the failures in this research are not technical: what to measure, whether escalation is unconditional, whether complaints may be automated, and what the assistant is permitted to concede. Each is a trade–off between cost and customer access, with a clear short–term financial upside and a diffuse, delayed reputational cost — which is exactly the shape of decision that gets made badly when it is delegated to whoever is closest to the tooling. It also needs someone who will notice that an AI assistant is a third–party service processing personal data and therefore belongs in your asset inventory.
+Is regulation likely to follow?
+Ofcom has left itself the option in explicit terms: existing rules are sufficient “for now”, and it will act if evidence of harm emerges. The important detail is where that evidence comes from. Not inspection, but complaints, consumer group research and press coverage — which means the sector’s own conduct over the next year determines the outcome. Given that Citizens Advice published substantial harm evidence four days before Ofcom’s assessment, the accumulation has arguably already started. Businesses that adopt the standard voluntarily now are protecting the light–touch regime they currently benefit from, as well as doing the work they would have to do anyway under a deadline later.
+Adopt the standard while it is still voluntary
+The changes Ofcom’s expectations imply — a disclosure line, an unconditional escalation path, complaints kept out of automation, a documented data position — are the same changes a business would have to make if rules arrived. The only thing that shrinks by waiting is your discretion over how to do them. Cloudswitched works with UK businesses on this as a strategic question rather than a support–desk configuration: where AI genuinely helps, what customers must be told, which contacts always reach a person, and how to evidence all of it when a client asks.
+ Talk to us about Virtual CIO Services
+Tags:Virtual CIOIT SupportCyber EssentialsAI
+Cloudswitched
+London-based managed IT services provider offering support, cloud solutions and cybersecurity for SMEs.
+Cloudswitched Service
+Virtual CIO Services
+Strategic IT leadership and technology roadmaps aligned to your business goals
+Get a free consultationMore about this service
+Virtual CIO Services
+Get senior IT leadership for your business
+Tell us where the business is heading and we will show you how a virtual CIO can turn that into a clear technology roadmap.
+Free, no-obligation call
+London-based team
+No lock-in contracts
+Clear, fixed pricing
+How Cloudswitched helps
+A technology roadmap tied to your business goals
+IT budgeting, supplier management and procurement
+Board-level reporting without a full-time CIO salaryMore about Virtual CIO Services →
+1What do you need help with?
+An IT strategy or roadmapPlanning next year's IT budgetReviewing our IT suppliers and contractsPreparing for growth or an acquisitionBusiness continuity and disaster recovery planningOngoing strategic IT guidance
+2Your details
+First nameLast nameEmailPhoneCompanyTeam sizeSelect1-55-2525-5050-100100-500500+
+3Anything else? (optional)Send me occasional updates from Cloudswitched. Unsubscribe any time. See our Privacy Policy.
+Book my free consultation
+Prefer to talk? Call 020 3004 3450
+By submitting, you agree to Cloudswitched storing your details to respond to this enquiry.
+CloudswitchedVirtual CIO Services
+020 3004 3450Get a free consultation
+More News
+Database Security
+Oracle July 2026 CPU - 1,434 CVEs, 1,449 Patches: The Largest Quarterly Security Release in Oracle's History and What Every UK Business Running Oracle Must Do This Week26 July 2026
+Cloud Infrastructure
+Azure West US Outage - 23 July 2026: A Maintenance Bug Severed IP Routes for Five Hours, Taking Down AKS, PostgreSQL, ExpressRoute and Teams for UK Businesses25 July 2026
+Cyber Security
+Proofpoint 2026 AI-Era Ransomware Report - 58% of UK Victims Paid Despite NCSC Warnings: Why AI-Powered Attacks Are Now a Human Problem, Not a Malware Problem24 July 2026
+×
+Insights & guides
+Latest from our blog
+View all
+VoIP & Phone Systems18 Nov 2026
+Business Caller ID and Spam Call Labelling
+If your sales team, collections desk or service engineers have noticed that fewer people pick up when they ring, the cause is often not the script or the time...
+Read article
+Internet & Connectivity17 Nov 2026
+Static IP Addresses for Business Broadband
+A static IP address for business broadband is one of those line items that sits quietly on a connectivity quote, costs a few pounds a month, and then turns out...
+Read article
+Database Reporting16 Nov 2026
+Data Quality for Business Reporting
+Every UK business that reports from a database eventually hits the same wall: the dashboard looks polished, but nobody trusts the numbers. Data quality for...
+Read article
+AI15 Nov 2026
+RAG for UK Businesses
+Retrieval-augmented generation (RAG) is the most practical way for a UK business to build an AI knowledge assistant that answers questions from its own...
+Read article
+Google Ads & PPC14 Nov 2026
+Google Consent Mode v2 and Enhanced Conversions
+Google Consent Mode v2 and enhanced conversions decide whether your Google Ads account can still see what your advertising is actually doing. For a UK business...
+Read article
+IT Support13 Nov 2026
+New Starter IT Onboarding Checklist UK
+A new starter IT onboarding checklist is the difference between a new employee who is productive by ten o clock on their first morning and one who spends the...
+Read article
+Microsoft 365 Copilot12 Nov 2026
+Microsoft 365 Copilot Licensing & Cost in the UK
+Microsoft 365 Copilot licensing is the single biggest line item most UK organisations will add to their Microsoft bill this decade, and it is also one of the...
+Read article
+Penetration Testing11 Nov 2026
+Penetration Test Preparation
+A penetration test checklist is the difference between a test that tells you something useful and one that burns five days of consultant time arguing about IP...
+Read article
+Cloud Backup10 Nov 2026
+Cloud Backup Initial Seeding
+Most businesses sign up for a cloud backup service, install the agent, press start and assume they are protected by the end of the day. In reality, cloud...
+Read article
+Cloud Networking9 Nov 2026
+WPA3-Enterprise and 802.1X Wi-Fi Authentication
+If your office Wi-Fi still runs on a single shared password that has not changed since the last office move, WPA3-Enterprise and 802.1X Wi-Fi authentication is...
+Read article
+VoIP & Phone Systems18 Nov 2026
+Business Caller ID and Spam Call Labelling
+If your sales team, collections desk or service engineers have noticed that fewer people pick up when they ring, the cause is often not the script or the time...
+Read article
+Internet & Connectivity17 Nov 2026
+Static IP Addresses for Business Broadband
+A static IP address for business broadband is one of those line items that sits quietly on a connectivity quote, costs a few pounds a month, and then turns out...
+Read article
+Database Reporting16 Nov 2026
+Data Quality for Business Reporting
+Every UK business that reports from a database eventually hits the same wall: the dashboard looks polished, but nobody trusts the numbers. Data quality for...
+Read article
+AI15 Nov 2026
+RAG for UK Businesses
+Retrieval-augmented generation (RAG) is the most practical way for a UK business to build an AI knowledge assistant that answers questions from its own...
+Read article
+Google Ads & PPC14 Nov 2026
+Google Consent Mode v2 and Enhanced Conversions
+Google Consent Mode v2 and enhanced conversions decide whether your Google Ads account can still see what your advertising is actually doing. For a UK business...
+Read article
+IT Support13 Nov 2026
+New Starter IT Onboarding Checklist UK
+A new starter IT onboarding checklist is the difference between a new employee who is productive by ten o clock on their first morning and one who spends the...
+Read article
+Microsoft 365 Copilot12 Nov 2026
+Microsoft 365 Copilot Licensing & Cost in the UK
+Microsoft 365 Copilot licensing is the single biggest line item most UK organisations will add to their Microsoft bill this decade, and it is also one of the...
+Read article
+Penetration Testing11 Nov 2026
+Penetration Test Preparation
+A penetration test checklist is the difference between a test that tells you something useful and one that burns five days of consultant time arguing about IP...
+Read article
+Cloud Backup10 Nov 2026
+Cloud Backup Initial Seeding
+Most businesses sign up for a cloud backup service, install the agent, press start and assume they are protected by the end of the day. In reality, cloud...
+Read article
+Cloud Networking9 Nov 2026
+WPA3-Enterprise and 802.1X Wi-Fi Authentication
+If your office Wi-Fi still runs on a single shared password that has not changed since the last office move, WPA3-Enterprise and 802.1X Wi-Fi authentication is...
+Read article
+Technology stack
+Built on technology you can trust.
+We design, run and secure your IT on proven, industry-leading platforms, including Microsoft 365 and Azure, Cisco Meraki, Cloudflare, AWS, BitDefender and SolarWinds, so your business stays secure, scalable and reliable.
+Facebook
+LinkedIn
+Instagram
+Newsletter sign up form - it's quick and easy
+Let's make your IT work for you.
+Managed IT support, cloud, cyber security, websites and AI for London businesses - one local team, one point of contact.Contact usinfo@cloudswitched.com
+Newsletter
+Practical IT, security and AI guides for UK businesses.
+Subscribe
+Send me:WeeklyMonthlyI agree to receive communications from Cloudswitched.
+Unsubscribe any time. See our Privacy Policy for details. By submitting, you consent to Cloudswitched storing your information to provide the requested content.
+Managed IT services for London businesses, with over two decades of experience.
+WeWork, 1 St Katharine's Way
+London E1W 1UN
+Services
+IT Support
+IT Office Moves
+IT Admin
+Virtual CIO
+Cyber Essentials Plus
+Penetration Testing
+Solutions
+Connectivity & Internet
+VoIP & Phone Systems
+Cloud Email with Microsoft 365
+Cloud Server with Azure
+Cloud Networking with Meraki
+Hybrid Backup
+Digital & AI
+Web Development
+SEO & Digital Visibility
+Google Ads & PPC
+AI Software & Tools
+Microsoft 365 Copilot
+Database Reporting
+Company
+About Us
+Meet the Team
+Contact
+Resources
+Articles
+News
+Free Resources
+Free Tools
+From the blog
+Business Caller ID and Spam Call Labelling - How to Protect Your Number Reputation in the UKNovember 18, 2026
+Static IP Addresses for Business Broadband: A UK Guide to Costs, IPv4 Scarcity and IPv6 Readiness in 2026November 17, 2026
+Data Quality for Business Reporting - A UK Guide to Fixing Bad Data Before It Reaches Your DashboardsNovember 16, 2026
+© 2026 Cloudswitched Limited. All rights reserved.Terms of usePrivacy policyCookie policy
+Enquiry Received!
+Thank you for getting in touch. A member of our team will review your enquiry and get back to you within 24 hours.Got it
+Added to Basket!
+View BasketKeep Shopping
+We use cookies to enhance your experience, analyse site traffic, and for marketing purposes. By clicking "Accept All", you consent to our use of cookies. Read our cookie policy
+Essential OnlyAccept All
+0 products
+Compare NowClear All

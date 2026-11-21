@@ -1,0 +1,28 @@
+{
+  "id": "S022",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «окупаемость» (okupaemost_bez_kanalov.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "d451d02e95aba3741709c25891a9e55fb3c24fac04a126e61b738edb689b2c02",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:55:00",
+  "method": "расчёт",
+  "ready": "окупаемость",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/okupaemost_bez_kanalov.json",
+      "sha256": "e25c89d4a479633b86a89a7be55bb34831eb7ba4ffc37268040e438a45281eae"
+    }
+  ],
+  "rests_on": [
+    "C028",
+    "C036"
+  ]
+}

@@ -1,0 +1,186 @@
+{"ts": "2026-11-19T00:33:35", "h": "d9425502", "cmd": "new", "detail": {"question": "Кому продавать платные функции сервиса «Ева» (МегаФон, 149 руб. за 30 дней) в первую очередь и что сказать людям, чтобы они поняли, за что платить?"}}
+{"ts": "2026-11-19T00:34:07", "h": "5b822413", "cmd": "req add", "detail": {"id": "R01", "source": "brief"}}
+{"ts": "2026-11-19T00:34:07", "h": "6be1901b", "cmd": "req add", "detail": {"id": "R02", "source": "brief"}}
+{"ts": "2026-11-19T00:34:12", "h": "25750c0d", "cmd": "req note", "detail": {"chars": 594}}
+{"ts": "2026-11-19T00:34:12", "h": "ae0f11a9", "cmd": "req add", "detail": {"id": "R03", "source": "brief"}}
+{"ts": "2026-11-19T00:34:12", "h": "f6a1ac07", "cmd": "req add", "detail": {"id": "R04", "source": "brief"}}
+{"ts": "2026-11-19T00:34:12", "h": "7a7cc8f3", "cmd": "req add", "detail": {"id": "R05", "source": "brief"}}
+{"ts": "2026-11-19T00:34:12", "h": "34c578dd", "cmd": "question add", "detail": {"n": 1}}
+{"ts": "2026-11-19T00:34:12", "h": "381048ee", "cmd": "question add", "detail": {"n": 2}}
+{"ts": "2026-11-19T00:34:45", "h": "d50fe144", "cmd": "cost import-session", "detail": {"session": "b42310b9-d999-428d-a625-2182f6905188", "added_usd": 0.3691, "stages": [1]}}
+{"ts": "2026-11-19T00:34:55", "h": "921da5ea", "cmd": "req note", "detail": {"chars": 731}}
+{"ts": "2026-11-19T00:34:55", "h": "ce6d66ab", "cmd": "question close", "detail": {"n": 1, "answer": "Успех: доля продливших платные функции на второй месяц; оценка к концу марта 2027 года"}}
+{"ts": "2026-11-19T00:34:55", "h": "ad6a351b", "cmd": "question close", "detail": {"n": 2, "answer": "Экран в приложении, сообщение сразу после заблокированного Евой звонка, СМС"}}
+{"ts": "2026-11-19T00:34:56", "h": "9119c22c", "cmd": "stage next", "detail": {"from": 1, "to": 2}}
+{"ts": "2026-11-19T00:35:05", "h": "e89b4f4c", "cmd": "req add", "detail": {"id": "R06", "source": "brief"}}
+{"ts": "2026-11-19T00:35:05", "h": "a6aa3ce1", "cmd": "req add", "detail": {"id": "R07", "source": "brief"}}
+{"ts": "2026-11-19T00:35:05", "h": "a764d3e9", "cmd": "req add", "detail": {"id": "R08", "source": "brief"}}
+{"ts": "2026-11-19T00:35:05", "h": "417aaa17", "cmd": "req add", "detail": {"id": "R09", "source": "brief"}}
+{"ts": "2026-11-19T00:35:05", "h": "b0692c34", "cmd": "req add", "detail": {"id": "R10", "source": "brief"}}
+{"ts": "2026-11-19T00:35:05", "h": "93aea08e", "cmd": "req add", "detail": {"id": "R11", "source": "brief"}}
+{"ts": "2026-11-19T00:35:05", "h": "18d42cf8", "cmd": "req add", "detail": {"id": "R12", "source": "brief"}}
+{"ts": "2026-11-19T00:35:17", "h": "ea4ecc3f", "cmd": "done budget", "detail": {"usd": 10.0}}
+{"ts": "2026-11-19T00:35:17", "h": "e6435b27", "cmd": "done add", "detail": {"id": "D1"}}
+{"ts": "2026-11-19T00:35:17", "h": "1a032ddc", "cmd": "done add", "detail": {"id": "D2"}}
+{"ts": "2026-11-19T00:35:18", "h": "27bd7d39", "cmd": "done add", "detail": {"id": "D3"}}
+{"ts": "2026-11-19T00:35:18", "h": "c759bafb", "cmd": "done add", "detail": {"id": "D4"}}
+{"ts": "2026-11-19T00:35:18", "h": "aeda8aa7", "cmd": "done add", "detail": {"id": "D5"}}
+{"ts": "2026-11-19T00:35:18", "h": "9d51e251", "cmd": "done add", "detail": {"id": "D6"}}
+{"ts": "2026-11-19T00:35:18", "h": "6cfeece4", "cmd": "done add", "detail": {"id": "D7"}}
+{"ts": "2026-11-19T00:35:18", "h": "3262fd84", "cmd": "done add", "detail": {"id": "D8"}}
+{"ts": "2026-11-19T00:35:25", "h": "14c41894", "cmd": "stage next", "detail": {"from": 2, "to": 3}}
+{"ts": "2026-11-19T00:35:34", "h": "d771de00", "cmd": "source add", "detail": {"id": "S001", "kind": "файл", "question": "2", "replaces": null}}
+{"ts": "2026-11-19T00:36:36", "h": "8cb669ce", "cmd": "calc run", "detail": {"id": "S002", "script": "analysis/eva_razmetka.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T00:36:49", "h": "cfe1c534", "cmd": "claim add", "detail": {"id": "C001", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:36:49", "h": "ad6e5a0d", "cmd": "claim add", "detail": {"id": "C002", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:36:49", "h": "d9a2983d", "cmd": "claim add", "detail": {"id": "C003", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:36:49", "h": "2cf541b3", "cmd": "claim add", "detail": {"id": "C004", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:36:49", "h": "0ac89b9d", "cmd": "claim add", "detail": {"id": "C005", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:36:49", "h": "df13ef13", "cmd": "claim add", "detail": {"id": "C006", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:36:56", "h": "3ffb9b5e", "cmd": "claim add", "detail": {"id": "C007", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-19T00:36:56", "h": "b8245f95", "cmd": "claim add", "detail": {"id": "C008", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-19T00:36:56", "h": "7e1bea0e", "cmd": "claim add", "detail": {"id": "C009", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-19T00:36:57", "h": "e0b6cbfd", "cmd": "claim add", "detail": {"id": "C010", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-19T00:36:57", "h": "651780eb", "cmd": "claim add", "detail": {"id": "C011", "type": "fact", "source": "S001"}}
+{"ts": "2026-11-19T00:37:01", "h": "8af62ef5", "cmd": "source add", "detail": {"id": "S003", "kind": "страница", "question": "1", "replaces": null}}
+{"ts": "2026-11-19T00:37:01", "h": "3609ddbc", "cmd": "source add", "detail": {"id": "S004", "kind": "страница", "question": "1", "replaces": null}}
+{"ts": "2026-11-19T00:37:02", "h": "65f7636c", "cmd": "source add", "detail": {"id": "S005", "kind": "страница", "question": "1", "replaces": null}}
+{"ts": "2026-11-19T00:37:10", "h": "496e66af", "cmd": "source add", "detail": {"id": "S006", "kind": "страница", "question": "3", "replaces": null}}
+{"ts": "2026-11-19T00:37:11", "h": "3b02d790", "cmd": "source add", "detail": {"id": "S007", "kind": "страница", "question": "3", "replaces": null}}
+{"ts": "2026-11-19T00:37:16", "h": "489ace93", "cmd": "source add", "detail": {"id": "S008", "kind": "страница", "question": "3", "replaces": null}}
+{"ts": "2026-11-19T00:37:17", "h": "f2d6aec4", "cmd": "source add", "detail": {"id": "S009", "kind": "страница", "question": "3", "replaces": null}}
+{"ts": "2026-11-19T00:37:30", "h": "a894ca37", "cmd": "claim add", "detail": {"id": "C012", "type": "fact", "source": "S008"}}
+{"ts": "2026-11-19T00:37:30", "h": "05e7cd4c", "cmd": "claim add", "detail": {"id": "C013", "type": "fact", "source": "S008"}}
+{"ts": "2026-11-19T00:37:30", "h": "2c72f944", "cmd": "claim add", "detail": {"id": "C014", "type": "fact", "source": "S003"}}
+{"ts": "2026-11-19T00:37:30", "h": "05932d7e", "cmd": "claim add", "detail": {"id": "C015", "type": "fact", "source": "S003"}}
+{"ts": "2026-11-19T00:37:30", "h": "ff89d7de", "cmd": "claim add", "detail": {"id": "C016", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-19T00:37:30", "h": "6e401ddf", "cmd": "claim add", "detail": {"id": "C017", "type": "fact", "source": "S006"}}
+{"ts": "2026-11-19T00:37:30", "h": "bf2d26c0", "cmd": "claim add", "detail": {"id": "C018", "type": "fact", "source": "S006"}}
+{"ts": "2026-11-19T00:37:31", "h": "7fb8048f", "cmd": "claim add", "detail": {"id": "C019", "type": "fact", "source": "S007"}}
+{"ts": "2026-11-19T00:37:40", "h": "95b52330", "cmd": "claim add", "detail": {"id": "C020", "type": "fact", "source": "S009"}}
+{"ts": "2026-11-19T00:38:13", "h": "41b2a668", "cmd": "source add", "detail": {"id": "S010", "kind": "страница", "question": "1", "replaces": null}}
+{"ts": "2026-11-19T00:38:54", "h": "fc6f97e7", "cmd": "claim add", "detail": {"id": "C021", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:38:54", "h": "9b61d025", "cmd": "claim add", "detail": {"id": "C022", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:38:55", "h": "c7866351", "cmd": "claim add", "detail": {"id": "C023", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:38:55", "h": "275c1a61", "cmd": "claim add", "detail": {"id": "C024", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:38:55", "h": "4b1aa0ba", "cmd": "claim add", "detail": {"id": "C025", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:38:55", "h": "40f8f9d8", "cmd": "claim add", "detail": {"id": "C026", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:38:55", "h": "b53201bb", "cmd": "stage next", "detail": {"from": 3, "to": 4}}
+{"ts": "2026-11-19T00:39:27", "h": "66b7d3db", "cmd": "claim add", "detail": {"id": "C027", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-19T00:39:27", "h": "f4df9b75", "cmd": "claim add", "detail": {"id": "C028", "type": "fact", "source": "S004"}}
+{"ts": "2026-11-19T00:39:27", "h": "325e6e07", "cmd": "claim add", "detail": {"id": "C029", "type": "fact", "source": "S005"}}
+{"ts": "2026-11-19T00:39:27", "h": "6c6eabd5", "cmd": "claim add", "detail": {"id": "C030", "type": "fact", "source": "S005"}}
+{"ts": "2026-11-19T00:39:51", "h": "7df02ea1", "cmd": "claim add", "detail": {"id": "C031", "type": "calc", "source": "S002"}}
+{"ts": "2026-11-19T00:39:58", "h": "5bdbc634", "cmd": "conclusion add", "detail": {"id": "K001", "kind": "finding", "rests_on": ["C001", "C002"]}}
+{"ts": "2026-11-19T00:39:59", "h": "a187c122", "cmd": "conclusion add", "detail": {"id": "K002", "kind": "finding", "rests_on": ["C003", "C004", "C005", "C006"]}}
+{"ts": "2026-11-19T00:39:59", "h": "f82326b0", "cmd": "conclusion add", "detail": {"id": "K003", "kind": "finding", "rests_on": ["C007", "C008", "C009", "C010"]}}
+{"ts": "2026-11-19T00:39:59", "h": "98709dd2", "cmd": "conclusion add", "detail": {"id": "K004", "kind": "finding", "rests_on": ["C031", "C011", "C003"]}}
+{"ts": "2026-11-19T00:39:59", "h": "7b23ba57", "cmd": "conclusion add", "detail": {"id": "K005", "kind": "option", "rests_on": ["C012", "C013", "C021", "C022", "C014"]}}
+{"ts": "2026-11-19T00:40:25", "h": "8bdf9a1a", "cmd": "conclusion add", "detail": {"id": "K006", "kind": "finding", "rests_on": ["C014", "C015", "C016", "C027", "C028", "C029", "C030"]}}
+{"ts": "2026-11-19T00:40:25", "h": "dd4a38c5", "cmd": "conclusion add", "detail": {"id": "K007", "kind": "finding", "rests_on": ["C017", "C018", "C019", "C020"]}}
+{"ts": "2026-11-19T00:40:33", "h": "6b0c144e", "cmd": "conclusion add", "detail": {"id": "K008", "kind": "option", "rests_on": ["C017", "C018", "C019", "C020"]}}
+{"ts": "2026-11-19T00:40:38", "h": "13a915ac", "cmd": "conclusion add", "detail": {"id": "K009", "kind": "option", "rests_on": ["C017", "C018", "C019", "C020", "C008"]}}
+{"ts": "2026-11-19T00:40:39", "h": "0ae7706a", "cmd": "conclusion set-status", "detail": {"id": "K007", "status": "заменён", "replaced_by": "K009"}}
+{"ts": "2026-11-19T00:40:39", "h": "f88b5e03", "cmd": "conclusion set-status", "detail": {"id": "K008", "status": "заменён", "replaced_by": "K009"}}
+{"ts": "2026-11-19T00:40:39", "h": "9141b864", "cmd": "stage next", "detail": {"from": 4, "to": 5}}
+{"ts": "2026-11-19T00:40:46", "h": "e778c2a6", "cmd": "source add", "detail": {"id": "S011", "kind": "собеседник", "question": "4", "replaces": null}}
+{"ts": "2026-11-19T00:40:46", "h": "402881d1", "cmd": "claim add", "detail": {"id": "C032", "type": "synthetic", "source": "S011"}}
+{"ts": "2026-11-19T00:40:56", "h": "1fdc1bcd", "cmd": "conclusion add", "detail": {"id": "K010", "kind": "option", "rests_on": ["C003", "C004", "C005", "C006", "C031"]}}
+{"ts": "2026-11-19T00:40:56", "h": "6f6cb05d", "cmd": "conclusion add", "detail": {"id": "K011", "kind": "option", "rests_on": ["C003", "C031", "C011", "C014"]}}
+{"ts": "2026-11-19T00:40:57", "h": "a12d3cb2", "cmd": "conclusion add", "detail": {"id": "K012", "kind": "option", "rests_on": ["C015", "C027", "C003", "C014"]}}
+{"ts": "2026-11-19T00:40:57", "h": "c98bca4d", "cmd": "conclusion add", "detail": {"id": "K013", "kind": "option", "rests_on": ["C007", "C008", "C010", "C002"]}}
+{"ts": "2026-11-19T00:40:57", "h": "1aa4033e", "cmd": "conclusion add", "detail": {"id": "K014", "kind": "option", "rests_on": ["C008", "C009", "C010", "C018"]}}
+{"ts": "2026-11-19T00:41:31", "h": "409dae55", "cmd": "cost log", "detail": {"stage": 1, "usd": 0.15, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:41:31", "h": "8e4028e2", "cmd": "cost log", "detail": {"stage": 2, "usd": 0.1, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:41:32", "h": "591dc1b7", "cmd": "cost log", "detail": {"stage": 3, "usd": 1.0, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:41:32", "h": "417e8265", "cmd": "cost log", "detail": {"stage": 4, "usd": 0.4, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:42:18", "h": "b1ca0718", "cmd": "claim reject", "detail": {"id": "C032", "reason": "ответы ИИ-персонажей не данные; используются только как подсказка к формулировкам в strategy"}}
+{"ts": "2026-11-19T00:42:23", "h": "618d3f6f", "cmd": "conclusion set-status", "detail": {"id": "K005", "status": "заменён", "replaced_by": "K011"}}
+{"ts": "2026-11-19T00:42:24", "h": "89564d8b", "cmd": "conclusion set-status", "detail": {"id": "K009", "status": "заменён", "replaced_by": "K014"}}
+{"ts": "2026-11-19T00:42:42", "h": "ac254ddd", "cmd": "claim reject", "detail": {"id": "C017", "reason": "цена в долларах США не переносится на российские рубли, в вывод не вошла"}}
+{"ts": "2026-11-19T00:42:42", "h": "cd635d14", "cmd": "claim reject", "detail": {"id": "C019", "reason": "цена в долларах США не переносится на российские рубли, в вывод не вошла"}}
+{"ts": "2026-11-19T00:42:42", "h": "3cb86092", "cmd": "claim reject", "detail": {"id": "C020", "reason": "Билайн: базовая защита бесплатна, уже отражено через AT&T (C018) в K014"}}
+{"ts": "2026-11-19T00:42:49", "h": "b4e6a288", "cmd": "conclusion add", "detail": {"id": "K015", "kind": "option", "rests_on": ["C012", "C013", "C008"]}}
+{"ts": "2026-11-19T00:42:54", "h": "ee8c7440", "cmd": "conclusion add", "detail": {"id": "K016", "kind": "finding", "rests_on": ["C012", "C013", "C008"]}}
+{"ts": "2026-11-19T00:42:55", "h": "3603d1d2", "cmd": "conclusion set-status", "detail": {"id": "K015", "status": "заменён", "replaced_by": "K016"}}
+{"ts": "2026-11-19T00:42:59", "h": "f5bd7e78", "cmd": "cost log", "detail": {"stage": 5, "usd": 0.5, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:43:05", "h": "4de14c23", "cmd": "req close", "detail": {"id": "R03", "by": "K006"}}
+{"ts": "2026-11-19T00:43:05", "h": "bf762b8a", "cmd": "req close", "detail": {"id": "R04", "by": "K001"}}
+{"ts": "2026-11-19T00:43:05", "h": "121cdd7d", "cmd": "req close", "detail": {"id": "R06", "by": "K016"}}
+{"ts": "2026-11-19T00:43:09", "h": "c278678e", "cmd": "req close", "detail": {"id": "R05", "by": "brief.md"}}
+{"ts": "2026-11-19T00:43:09", "h": "ee1baf87", "cmd": "req close", "detail": {"id": "R07", "by": "materials/ii_sobesedniki.txt"}}
+{"ts": "2026-11-19T00:43:09", "h": "fcd450fa", "cmd": "req close", "detail": {"id": "R08", "by": "analysis/ekran.md"}}
+{"ts": "2026-11-19T00:43:09", "h": "0c3bee70", "cmd": "done mark", "detail": {"id": "D3", "met": true}}
+{"ts": "2026-11-19T00:43:09", "h": "486bb174", "cmd": "done mark", "detail": {"id": "D4", "met": true}}
+{"ts": "2026-11-19T00:43:09", "h": "6efc5e1a", "cmd": "done mark", "detail": {"id": "D5", "met": true}}
+{"ts": "2026-11-19T00:43:09", "h": "d67ee01e", "cmd": "done mark", "detail": {"id": "D6", "met": true}}
+{"ts": "2026-11-19T00:43:09", "h": "1053460c", "cmd": "done mark", "detail": {"id": "D7", "met": true}}
+{"ts": "2026-11-19T00:44:00", "h": "fefe7bbf", "cmd": "cost import-session", "detail": {"session": "b42310b9-d999-428d-a625-2182f6905188", "added_usd": 2.6366, "stages": [2, 3, 4, 5]}}
+{"ts": "2026-11-19T00:44:14", "h": "4d466b0a", "cmd": "req note", "detail": {"chars": 519}}
+{"ts": "2026-11-19T00:44:14", "h": "e20cb8f7", "cmd": "source add", "detail": {"id": "S012", "kind": "файл", "question": "1", "replaces": null}}
+{"ts": "2026-11-19T00:44:15", "h": "51d83995", "cmd": "stage next", "detail": {"from": 5, "to": 6}}
+{"ts": "2026-11-19T00:44:43", "h": "2c5e7489", "cmd": "claim add", "detail": {"id": "C033", "type": "fact", "source": "S012"}}
+{"ts": "2026-11-19T00:44:43", "h": "288c350f", "cmd": "claim add", "detail": {"id": "C034", "type": "fact", "source": "S003"}}
+{"ts": "2026-11-19T00:44:48", "h": "67c667a8", "cmd": "calc run", "detail": {"id": "S013", "script": "analysis/razmer_gruppy.py", "inputs": []}}
+{"ts": "2026-11-19T00:44:54", "h": "e17d1d67", "cmd": "claim add", "detail": {"id": "C035", "type": "calc", "source": "S013"}}
+{"ts": "2026-11-19T00:44:54", "h": "cfcaf278", "cmd": "claim add", "detail": {"id": "C036", "type": "plan", "source": null}}
+{"ts": "2026-11-19T00:44:54", "h": "bb80dc1b", "cmd": "claim add", "detail": {"id": "C037", "type": "plan", "source": null}}
+{"ts": "2026-11-19T00:44:54", "h": "1f017489", "cmd": "claim add", "detail": {"id": "C038", "type": "plan", "source": null}}
+{"ts": "2026-11-19T00:44:54", "h": "7e405bdd", "cmd": "claim add", "detail": {"id": "C039", "type": "plan", "source": null}}
+{"ts": "2026-11-19T00:45:02", "h": "82addf56", "cmd": "conclusion add", "detail": {"id": "K017", "kind": "promise", "rests_on": ["C029", "C030"]}}
+{"ts": "2026-11-19T00:45:02", "h": "17b2ec48", "cmd": "conclusion add", "detail": {"id": "K018", "kind": "promise", "rests_on": ["C015"]}}
+{"ts": "2026-11-19T00:45:02", "h": "1a99f92e", "cmd": "conclusion add", "detail": {"id": "K019", "kind": "promise", "rests_on": ["C027"]}}
+{"ts": "2026-11-19T00:45:02", "h": "d36742c6", "cmd": "conclusion add", "detail": {"id": "K020", "kind": "promise", "rests_on": ["C033"]}}
+{"ts": "2026-11-19T00:45:07", "h": "067aaf0d", "cmd": "lever add", "detail": {"id": "L001", "rests_on": ["K011", "K003", "K004", "C031", "C007", "C035"]}}
+{"ts": "2026-11-19T00:45:26", "h": "726968f5", "cmd": "question add", "detail": {"n": 1}}
+{"ts": "2026-11-19T00:45:26", "h": "e5867b5f", "cmd": "question add", "detail": {"n": 2}}
+{"ts": "2026-11-19T00:45:26", "h": "f1bfddb9", "cmd": "question add", "detail": {"n": 3}}
+{"ts": "2026-11-19T00:46:16", "h": "57eb080a", "cmd": "decision add", "detail": {"id": "DR-001", "rests_on": ["K011", "K013", "L001"]}}
+{"ts": "2026-11-19T00:46:19", "h": "2f96dae1", "cmd": "conclusion add", "detail": {"id": "K021", "kind": "finding", "rests_on": ["C033", "C034"]}}
+{"ts": "2026-11-19T00:46:20", "h": "b2c8d24f", "cmd": "stage next", "detail": {"from": 6, "to": 7}}
+{"ts": "2026-11-19T00:46:48", "h": "03fb8f97", "cmd": "req close", "detail": {"id": "R01", "by": "DR-001"}}
+{"ts": "2026-11-19T00:46:48", "h": "c9c774d4", "cmd": "req close", "detail": {"id": "R02", "by": "strategy/communication.md"}}
+{"ts": "2026-11-19T00:46:48", "h": "ab4872ae", "cmd": "req close", "detail": {"id": "R09", "by": "analysis/plan.md"}}
+{"ts": "2026-11-19T00:46:48", "h": "321d2176", "cmd": "req close", "detail": {"id": "R10", "by": "DR-001"}}
+{"ts": "2026-11-19T00:46:48", "h": "ffb6b3b7", "cmd": "req close", "detail": {"id": "R11", "by": "L001"}}
+{"ts": "2026-11-19T00:46:48", "h": "5649df25", "cmd": "req close", "detail": {"id": "R12", "by": "strategy/communication.md"}}
+{"ts": "2026-11-19T00:46:48", "h": "720f77d9", "cmd": "done mark", "detail": {"id": "D1", "met": true}}
+{"ts": "2026-11-19T00:46:48", "h": "5964cca2", "cmd": "done mark", "detail": {"id": "D2", "met": true}}
+{"ts": "2026-11-19T00:46:48", "h": "11fa3406", "cmd": "done mark", "detail": {"id": "D8", "met": true}}
+{"ts": "2026-11-19T00:46:58", "h": "1f4cfb28", "cmd": "cost log", "detail": {"stage": 6, "usd": 0.5, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:46:58", "h": "a19ac752", "cmd": "cost log", "detail": {"stage": 7, "usd": 0.2, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:47:27", "h": "21d682b4", "cmd": "cost import-session", "detail": {"session": "b42310b9-d999-428d-a625-2182f6905188", "added_usd": 0.8296, "stages": [6, 7]}}
+{"ts": "2026-11-19T00:57:43", "h": "84cab025", "cmd": "state receipt", "detail": {"sum": "132802", "line": "Состояние по программе: этап 7 из 8; источников 13; фактов 17; требований закрыто 12 из 12; происшествий 0; расход по замеру 3,84 USD; проверка этапа не пройдена (замечаний 2); контрольная сумма 132802."}}
+{"ts": "2026-11-19T00:58:06", "h": "25e683e7", "cmd": "incident add", "detail": {"id": "I001", "kind": "ошибка-агента", "what": "В прошлом ответе написал, что строку из результатов поиска записал в errors.md; команда записи была заблокирована, фа...", "source": null}}
+{"ts": "2026-11-19T00:58:06", "h": "417076aa", "cmd": "incident add", "detail": {"id": "I002", "kind": "команда-в-источнике", "what": "В результатах поиска и в отчётах читателей встретилась строка «REMINDER: You MUST include the sources above in your r...", "source": null}}
+{"ts": "2026-11-19T00:58:06", "h": "b05b0c3d", "cmd": "incident add", "detail": {"id": "I003", "kind": "недоступный-инструмент", "what": "Вызов kb_search и map_causes через MCP отклонён без разрешения; поиск по базе сделан через командную строку rychag, к...", "source": null}}
+{"ts": "2026-11-19T00:58:06", "h": "a2ff40f2", "cmd": "incident add", "detail": {"id": "I004", "kind": "расхождение-данных", "what": "Цена Ева+: слова руководителя 149 рублей за 30 дней, статья июня 2025 даёт 5 рублей в день после 30 бесплатных дней", "source": "S003"}}
+{"ts": "2026-11-19T00:58:08", "h": "37c23bf3", "cmd": "kb search", "detail": {"query": "Кому продавать платные функции сервиса Ева", "results": 2, "layer": 5, "per_layer": {"2": 0, "3": 2, "4": 3, "5": 2}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T00:58:08", "h": "6ae39283", "cmd": "kb search", "detail": {"query": "подписка продление пробный период", "results": 2, "layer": 5, "per_layer": {"2": 0, "3": 3, "4": 7, "5": 2}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T00:58:08", "h": "817b71b2", "cmd": "map causes", "detail": {"query": "Кому продавать платные функции сервиса Ева", "results": 0, "node": null, "note": "на карте нет узла под эти слова"}}
+{"ts": "2026-11-19T00:58:12", "h": "f7f4b474", "cmd": "map causes", "detail": {"query": "N032", "results": 5, "node": "N032"}}
+{"ts": "2026-11-19T00:58:12", "h": "e662c677", "cmd": "map causes", "detail": {"query": "N020", "results": 1, "node": "N020"}}
+{"ts": "2026-11-19T00:58:18", "h": "ec7bcea6", "cmd": "claim add", "detail": {"id": "C040", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:58:18", "h": "78ea2383", "cmd": "claim add", "detail": {"id": "C041", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:58:18", "h": "fee7a084", "cmd": "claim add", "detail": {"id": "C042", "type": "benchmark", "source": null}}
+{"ts": "2026-11-19T00:58:18", "h": "6584295e", "cmd": "claim add", "detail": {"id": "C043", "type": "hypothesis", "source": null}}
+{"ts": "2026-11-19T00:58:26", "h": "858b069b", "cmd": "conclusion add", "detail": {"id": "K022", "kind": "option", "rests_on": ["C040", "C041", "C042", "C043", "C010"]}}
+{"ts": "2026-11-19T00:58:31", "h": "4d9a9dc0", "cmd": "исправление выбора", "detail": {"stage": 7, "how": "автоматически: та же проверка не пройдена 2 раза подряд", "класс": null, "методика": "AGENTS.md (правило 4) и methods/16-plan-proverki.md"}}
+{"ts": "2026-11-19T00:58:34", "h": "f843b747", "cmd": "conclusion add", "detail": {"id": "K023", "kind": "finding", "rests_on": ["C040", "C041", "C042", "C043", "C010"]}}
+{"ts": "2026-11-19T00:58:34", "h": "12101694", "cmd": "conclusion set-status", "detail": {"id": "K022", "status": "заменён", "replaced_by": "K023"}}
+{"ts": "2026-11-19T00:58:38", "h": "64ff6e67", "cmd": "cost log", "detail": {"stage": 7, "usd": 0.3, "kind": "оценка агента"}}
+{"ts": "2026-11-19T00:58:39", "h": "960934b7", "cmd": "state receipt", "detail": {"sum": "9d88a4", "line": "Состояние по программе: этап 7 из 8; источников 13; фактов 17; требований закрыто 12 из 12; происшествий 4; расход по замеру 3,84 USD; проверка этапа пройдена; контрольная сумма 9d88a4."}}
+{"ts": "2026-11-19T00:59:18", "h": "eb7fb67f", "cmd": "cost import-session", "detail": {"session": "b42310b9-d999-428d-a625-2182f6905188", "added_usd": 0.3679, "stages": [7]}}
+{"ts": "2026-11-19T02:19:13", "h": "3c234b39", "cmd": "kb search", "detail": {"query": "бот живой человек", "results": 12, "layer": null, "per_layer": {"2": 0, "3": 2, "4": 2, "5": 8}, "theme": null, "tag": null}}
+{"ts": "2026-11-19T02:22:08", "h": "72a82de2", "cmd": "calc run", "detail": {"id": "S014", "script": "analysis/prosadka_2025.py", "inputs": ["materials/rustore_megafon_reviews_full.csv"]}}
+{"ts": "2026-11-19T02:22:26", "h": "df28cd1a", "cmd": "claim add", "detail": {"id": "C044", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-19T02:22:28", "h": "6ebc9ecc", "cmd": "claim add", "detail": {"id": "C045", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-19T02:22:31", "h": "5d83dcd4", "cmd": "claim add", "detail": {"id": "C046", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-19T02:22:33", "h": "833b194b", "cmd": "claim add", "detail": {"id": "C047", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-19T02:22:36", "h": "6ba2532d", "cmd": "claim add", "detail": {"id": "C048", "type": "calc", "source": "S014"}}
+{"ts": "2026-11-19T02:22:46", "h": "4728c54a", "cmd": "conclusion add", "detail": {"id": "K024", "kind": "finding", "rests_on": ["C044", "C045", "C046", "C047", "C048"]}}
+{"ts": "2026-11-19T02:23:10", "h": "cd2bf26a", "cmd": "cost log", "detail": {"stage": 7, "usd": 1.1, "kind": "оценка агента"}}
+{"ts": "2026-11-19T02:23:12", "h": "c8ec56bb", "cmd": "state receipt", "detail": {"sum": "4ea0c4", "line": "Состояние по программе: этап 7 из 8; источников 14; фактов 17; требований закрыто 12 из 12; происшествий 4; расход по замеру 4,20 USD; проверка этапа пройдена; контрольная сумма 4ea0c4."}}
+{"ts": "2026-11-19T02:23:42", "h": "9377bb9b", "cmd": "cost import-session", "detail": {"session": "40df6051-e1cf-487d-8b61-fa73b8358193", "added_usd": 1.1567, "stages": [4]}}
+{"ts": "2026-11-19T02:23:42", "h": "56c92c4b", "cmd": "incident add", "detail": {"id": "I005", "kind": "другое", "what": "Шаг с расчётом вклада тем и контрольного среза предназначался задаче megafon-app, но попал в эту задачу: ведущая моде...", "source": null}}
+{"ts": "2026-11-19T02:27:30", "h": "f9ab3226", "cmd": "state receipt", "detail": {"sum": "3dadb6", "line": "Состояние по программе: этап 7 из 8; источников 14; фактов 17; требований закрыто 12 из 12; происшествий 5; расход по замеру 5,36 USD; проверка этапа пройдена; контрольная сумма 3dadb6."}}

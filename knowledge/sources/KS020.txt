@@ -1,0 +1,265 @@
+How telcos can lock in high-value customers
+Redesigning growth in a fragmenting world
+Discover how decentralization is driving a shift from global scale to regional powerhouse, where local relevance and speed will determine advantage.
+ Jetzt entdecken
+Your destination for forward-thinking strategies, insights, and bold ideas that fuel real business growth. Navigate today’s complex world and achieve smarter, more sustainable success.
+ Jetzt entdecken
+ Sitemap
+Secondary Navigation
+Search
+ Kontakt
+ Newsroom
+ Language
+Main navigation
+Contact us
+ Wer wir sind
+ Unser Angebot
+ Unsere Branchen
+ Was wir denken
+ Karriere
+ Veranstaltungen
+ Unsere Standorte
+Blog
+The retention battle: Why telcos struggle to lock in high-value customers
+ Juni 2, 2026 | min Lesedauer
+Pfadnavigation
+ Startseite
+ The Retention Battle: Why Telcos Struggle To Lock In High-value Customers
+With roughly a third of the total customer base actively considering switching, telcos cannot grow just by replacing the customers they lose. The priority must be retention, particularly protecting the high-ARPU, high-loyalty segment that sits at the heart of commercial value. The default industry response of price cuts is making the problem worse. In the final instalment of our four-part Global Telecom Study 2026 – across 35 markets and 18,000 consumers – we explore why the base is the most commercially important asset and how successful telcos are locking in high-value customers.
+The fight for retention starts before customers actively decide to leave. As the final chapter of the IBRO framework – covering inflow, base and renewal, and outflow – this is where the entire customer investment either compounds or unravels.
+Our study shows that currently 28% of mobile and 31% of broadband consumers globally are considering switching providers. The biggest churn drivers are weak price-value perception and network dissatisfaction – demonstrating that the decision to switch is often rooted in the core telco promise itself. Should these customers leave, the strain ripples across the entire commercial chain.
+So why are some telcos succeeding while others keep losing ground to the same avoidable triggers? When customers feel overcharged, get more attractive offers from competitors, or struggle with internet speed and poor network quality, they start looking elsewhere. Unattractive loyalty benefits round out the top five, which makes the fix clear: high-value loyal customers are a telco's most important asset and should be recognized and rewarded. This is both to protect revenue and to signal to others that loyalty brings real benefits. Source: Simon-Kucher Insights 2026
+The "red ocean" trap – and opportunities in the "blue ocean"
+Churn willingness is highest in the premium segment, where the customers most worth keeping are also the most at risk. And the dominant industry response – price cuts – is precisely the wrong move. Our study shows why. Source: Simon-Kucher Insights 2026
+The "red ocean" is a competitive acquisition market. In it, customers – whether threatening to churn or being won from a competitor – only move for lower prices or the same price with higher value. Cost-cutting intent is consistent across all segments: 26-30% of premium, mid-market, and budget customers alike are seeking lower prices or lower-value plans. No customer who is switching providers accepts paying more than they did before.
+Price sensitivity looks almost identical across opposite ends of the market. That budget customers optimize for cost is expected, but 27% of premium customers are also only staying on the condition of lower prices. Customers who feel under-served on value will always push back on price, and it is telcos who are left to absorb the cost. The only sustainable responses are offering more value for more price, more for the same, or where necessary, less for less.
+The "blue ocean" operates by a different logic entirely – and it is where most telcos are leaving value on the table. Price reduction tactics speak to roughly 30% of the base. The remaining 70% are open to value-focused solutions, yet they receive the same price erosion measures by default. It is an opportunity lost on two fronts: retention and growth.
+Our study finds that 35-38% of customers across all tiers keep their existing offer without requesting any change. A further 15-16% accept a higher-value plan at a higher price – and it happens exclusively within the existing base, not through acquisition. This willingness to invest in higher value indicates that a substantial share of the base is receptive to retention and loyalty strategies built around value, not discounts.
+Who’s worth the investment, and how to think about it
+Not all customers require the same retention investment. The CLTV matrix shows where to focus. Source: Simon-Kucher Insights 2026
+‘Champions’, who have high ARPU and high tenure, represent 42% of the base and are the highest priority to protect. ‘Rising Stars’ have high ARPU but low tenure and represent 12%: they are the ‘Champions' of tomorrow. Meanwhile, ‘Steady Supporters' (low ARPU, high tenure) and ‘Bargain Hunters' (low ARPU, low tenure) represent 34% and 12% respectively.
+The strategic goal is to move ‘Rising Stars' into ‘Champions', and ‘Bargain Hunters' into ‘Steady Supporters'. For postpaid customers, that means pre-emptive retention measures before churn signals appear. For prepaid, the priority is migration to postpaid, where lifetime value and stickiness are structurally higher.
+Across both contract types, engagement and customer satisfaction are what makes the movement stick, not price intervention.
+What actually moves the needle
+Four levers have clear, measurable impact on tenure and churn, and none require leading with price cuts.
+First call resolution adds +0.4 years of tenure. When issues are resolved on first contact more than 75% of the time, churn likelihood drops from 3.3 to 2.5 on a five-point scale.
+Service channel gets one in three incidents through the hotline. Handling those interactions well produces around 30% higher satisfaction among high-risk customers. Ultimately, the channel mix matters less than whether the issue gets resolved.
+Loyalty programs deliver a modest but real tenure uplift of +0.2 years. Members average 6.1 years of customer lifetime versus 5.9 for non-members. While the gap is not dramatic, it compounds at scale in high-ARPU segments.
+Retention offers do not have to default to price cuts. While 47% of at-risk customers would stay for a lower price on their current plan, 39% would stay for additional services at the same price, and 34% for free loyalty program inclusion – reducing churn risk by 4% across the base. Source: Simon-Kucher Insights 2026
+How the best telcos manage retention as a system
+Successful telcos manage value perception, multi-brand portfolio, monetization, engagement, and retention as one connected commercial system.
+Each action compounds the next: fixing value perception pre-emptively reduces churn, building the right portfolio reduces price pressure, monetizing beyond connectivity increases ARPU, and scaling engagement and loyalty locks in the customers worth keeping.
+Where to start
+But knowing what to do is only half the answer. Prioritizing by value impact and time to impact makes the sequencing clear.
+The most immediate, highest-value actions are fixing value perception and scaling retention – through predictive churn models, context-based customer interactions, and proactive plan optimizations. Source: Simon-Kucher Insights 2026
+Portfolio transformation and tactical campaign optimization follow. It's important to redefine brand roles in the portfolio and avoid cannibalization and assess alternative non-monetary benefits that can be offered instead.
+Building engagement as a monetization engine, by establishing the telco app as a digital sales platform and scaling loyalty program penetration, takes longer but creates compounding returns that are hardest to replicate.
+The telcos that win on outflow act before churn happens and engage before loyalty erodes. They are the ones that have already moved their highest-value customers firmly into the "blue ocean" before the competitor offer arrives.
+This concludes the four-part series on the Simon-Kucher Global Telecom Study 2026. Contact us to discuss what the findings mean for your business.
+Click here to read blog 1: brand
+Click here to read blog 2: inflow
+Click here to read blog 3: base and renewal
+Interested in our 2026 Global Telecommunications Study results in more detail?
+ Download the study
+ Form placeholder. This will only show within the editor
+ Autoren
+Kajetan Zwirglmaier
+ Partner | Munich, Germany
+ Kontakt
+Alexander Zimm
+ Senior Director | Vienna, Austria
+ Kontakt
+Tags
+Telekommunikation
+Kunden-, Produkt- & Marktstrategie
+Preis- & Revenue Management
+Related Insights
+ Mehr erfahren
+ Juni 02, 2026 | Blog
+ The role of brand portfolio strategy in telco
+ Telecommunications
+ Juni 02, 2026 | Blog
+ Importance of right customers over more customers in telco
+ Telecommunications
+ Juni 02, 2026 | Blog
+ Telco hidden growth lever: Your customer base
+ Telecommunications
+Kontakt
+Nehmen Sie Kontakt zu uns auf, unser Team berät Sie gerne.
+ Kontakt
+ Kontakt
+ Über uns
+ Newsroom
+ Webinars
+ Events
+ Unsere Branchen
+ Consumer
+ Financial Services
+ Healthcare & Life Sciences
+ Industrials
+ Technology, Media & Telecom
+Better growth starts here
+Karriere
+© Simon-Kucher & Partners 2026
+Impressum Datenschutz Sitemap
+Who We Are
+Back
+ Wer wir sind
+Simon-Kucher ist eine globale Unternehmensberatung mit über 2.200 Mitarbeitern in 30 Ländern. Unser Schwerpunkt: Unlocking Better Growth. Wir helfen unseren Kunden dabei, Umsatzsteigerungen und Gewinne zu erzielen, langfristig und nachhaltig.
+Mit über 40 Jahren Erfahrung in Monetarisierung und Pricing gelten wir als weltweit führend in den Bereichen Preisberatung und Unternehmenswachstum.
+ Über uns
+ Unsere Geschichte
+ Leadership & Experten
+ Inclusion & belonging
+What we do
+Back
+ Unser Angebot
+Simon-Kucher ist die weltweit führende Beratung für nachhaltiges Wachstum. Wir helfen unseren Kunden dabei, zukunftsweisendes Wachstum zu erschließen, um Umsatz, Wert und Gewinn langfristig zu steigern.
+Dabei optimieren wir jeden Pfeiler ihrer Unternehmensstrategie – von Produkt und Preis über Innovation bis hin zu Marketing und Vertrieb.
+ Commercial Strategy Consulting
+ Elevate: Digital Growth
+ Preis- & Revenue-Management
+ Engine: Commercial Software
+ Transaction Services & Private Equity
+ Commercial Strategy Consulting
+ Übersicht: Warum Simon-Kucher?
+ Kunden-, Produkt- & Marktstrategie
+ Sales Excellence
+ Nachhaltigkeit
+ Elevate: Digital Growth
+ Overview: Digital growth - Elevate
+ Advanced analytics
+ Customer experience strategy
+ Technology strategy
+ Digital transformation strategy
+ Preis- & Revenue-Management
+ Überblick: Preis- & Revenue-Management
+ Dynamische Preisgestaltung
+ Monetarisierungsstrategie
+ Revenue-Management
+Our Industries
+Back
+ Unsere Branchen
+Unsere Experten verfügen über umfassende Praxiserfahrung und fundierte Branchenkenntnisse in verschiedenen Funktionen, Sektoren und Regionen.
+Finden Sie mehr darüber heraus, wie unsere Services und Lösungen dazu beitragen, nachhaltiges Wachstum in Ihrer Branche neu zu definieren und zu steigern.
+ Consumer
+ Financial Services
+ Healthcare & Life Sciences
+ Industrials
+ Technology, Media & Telecom
+ Consumer
+ Übersicht Consumer
+ Langlebige Konsumgüter
+ Mode, Beauty & Lifestyle
+ Fast-Moving Consumer Goods (FMCG)
+ Ingredients
+ Luxusgüter
+ Restaurants
+ Handel
+ Reisen, Tourismus & Freizeit
+ Financial Services
+ Übersicht Financial Services
+ Banking
+ Fintech & Payments
+ Versicherung
+ Wealth & Asset Management
+ Healthcare & Life Sciences
+ Übersicht Healthcare & Life Sciences
+ Tiergesundheit
+ Consumer Healthcare
+ Diagnostik
+ Digital Health & Health IT
+ Healthcare B2B-Anbieter
+ Healthcare Providers
+ Medtech
+ Pharma & Biotechnologie
+ Industrials
+ Übersicht Industrials
+ Luft-, Raumfahrt & Verteidigung
+ Automobilbranche
+ Baustoffe & Gebäudetechnik
+ Business Services
+ Chemie & Rohstoffe
+ Elektronik & Halbleiter
+ Energie & Versorgung
+ Industriegüter & Maschinenbau
+ Logistik & Distribution
+ Öl & Gas
+ Papier & Verpackungen
+ Großhandel & Distribution
+ Technology, Media & Telecom
+ Übersicht Technology, Media & Telecom
+ B2B Data & Information
+ Medien & Unterhaltung
+ Software, Internet & Technologie
+ Telekommunikation
+ Marketplaces & Networks
+What we think
+Back
+ Was wir denken
+Hier finden Sie unsere neuesten Veröffentlichungen zu allen Branchen und Services.
+ Zur Übersicht
+Insights nach Branche
+ Consumer
+ Financial Services
+ Healthcare & Life Sciences
+ Industrials
+ Technologie, Medien & Telekommunikation
+Join Us
+Back
+ Karriere
+Better growth starts here, with you!
+Ob als Praktikant:in, Werkstudent:in, Berufseinsteiger:in oder Berufserfahrene:r – wir bieten Dir viele spannende Karrieremöglichkeiten.
+ Find out more
+ People & Stories
+ Offene Stellen
+Events
+Back
+ Veranstaltungen
+Entdecken Sie hier unsere aktuellen Veranstaltungen. Lernen Sie unsere Experten kennen, um mehr über uns und unsere Arbeit zu erfahren sowie Wissen und Erfahrungen auszutauschen.
+ Zur Übersicht
+ Unsere Events
+ Recruiting-Events
+ On Demand Content
+Our Locations
+Back
+Unsere Standorte
+ Ägypten
+ Australien
+ Belgien
+ Brasilien
+ Spanish LatAm
+ China
+ Denmark
+ Deutschland
+ Finland
+ Frankreich
+ Großbritannien
+ Hongkong
+ Indien
+ Italien
+ Japan
+ Kanada
+ Luxemburg
+ Mexiko
+ Niederlande
+ Norway
+ Österreich
+ Polen
+ Saudi Arabien
+ Schweiz
+ Singapur
+ Spanien
+ Südafrika
+ Südkorea
+ Sweden
+ Türkei
+ Vereinigte Arabische Emirate
+ Vereinigte Staaten von Amerika
+Language
+ Global | EN
+ Global | DE
+ Global | FR
+ Global | CN
+ Global | JA
+Search

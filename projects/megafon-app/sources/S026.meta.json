@@ -1,0 +1,16 @@
+{
+  "id": "S026",
+  "kind": "файл",
+  "url": null,
+  "path": "materials/pismo_ot_podryadchika.txt",
+  "title": "Письмо подрядчика чат-бота, наблюдения за октябрь 2026",
+  "published": "2026-10",
+  "accessed": "2026-11-19",
+  "sha256": "66416aad9b4f96179546b2804ec86e555b39e9b2c1f08cc7178c613ba17a710d",
+  "question": "чат поддержки",
+  "layer": 2,
+  "stale_accepted": false,
+  "added": "2026-11-19T02:15:16",
+  "period_from": "2026-10-01",
+  "period_to": "2026-10-31"
+}

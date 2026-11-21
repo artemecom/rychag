@@ -1,0 +1,22 @@
+{
+  "id": "S014",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт sample_score.py",
+  "published": "2026-11-18",
+  "accessed": "2026-11-18",
+  "sha256": "9657e4667e34476f8f845b41d973b1de0564f35cb95c60f77bfd87b45319c249",
+  "question": "точность словаря тем на выборке 150 отзывов",
+  "stale_accepted": false,
+  "added": "2026-11-18T23:57:43",
+  "script": "analysis/sample_score.py",
+  "script_sha256": "59faa46c8bf12b2ad8564f9bcbe3c9dd35e1e95a3d0757c3ed3ed219e2bbf66d",
+  "inputs": [
+    {
+      "path": "analysis/sample_key.json",
+      "sha256": "a2d2d1c5965cea917322367046f73e9225b42c60fc24f8aa5c08d57440bd3cf1"
+    }
+  ]
+}

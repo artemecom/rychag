@@ -1,0 +1,287 @@
+Ofcom targets scam calls faking UK mobile numbers Skip to contentTelecoms News is part of the TechForge Publications series
+Explore all
+AI News
+CloudTech
+Developer
+MarketingTech
+TechHQ
+Tech Wire Asia
+IoT News
+Explore all
+AI News
+CloudTech
+Developer
+MarketingTech
+TechHQ
+Tech Wire Asia
+IoT News
+TechForge
+CategoriesEnterprise & Industry SolutionsCloud-Enabled Telco
+IoT & M2M Connectivity
+Private Networks & SD-WAN
+Telecom in the Future Workplace
+FeaturesExplainers & Visual Guides
+Sponsored Content
+Market Landscape & StrategyMarket Analysis & Forecasts
+Mergers, Acquisitions & Consolidation
+National & Global Policy
+Investment & Funding
+Operator Strategies
+Regulatory & Legislative
+Network Infrastructure3G & 4G Development
+5G & 6G Development
+Fibreoptics & Broadband
+mmWave & Spectrum
+Network Visualisation
+Next-Gen RAN Architectures
+OpenRAN/vRAN
+Private 5G
+Satellite & Non-Terrestial Networks
+Smart Cells
+Sectors & ApplicationsAutomotive/V2X
+Education
+Healthcare
+Industrial & Logistics
+Media & Broadcasting
+Public Sector & Smart Cities
+Retail & Consumer Services
+Toolkits & Technical InsightsAI & Predictive Networking
+Automation & Self-Optimising Networks
+Cloud & Edge Convergence
+Digital Twins & Network Simulation
+Open-Source Telecoms
+Sustainability & Green Telco
+Voices & AnalysisCase Studies
+Industry Events
+Interviews & Analysis
+Special Reports & Longform
+Thought Leadership & Opinion
+Events
+ResourcesAll Resources
+MoreContact Us
+About Us
+CategoriesEnterprise & Industry SolutionsCloud-Enabled Telco
+IoT & M2M Connectivity
+Private Networks & SD-WAN
+Telecom in the Future Workplace
+FeaturesExplainers & Visual Guides
+Sponsored Content
+Market Landscape & StrategyMarket Analysis & Forecasts
+Mergers, Acquisitions & Consolidation
+National & Global Policy
+Investment & Funding
+Operator Strategies
+Regulatory & Legislative
+Network Infrastructure3G & 4G Development
+5G & 6G Development
+Fibreoptics & Broadband
+mmWave & Spectrum
+Network Visualisation
+Next-Gen RAN Architectures
+OpenRAN/vRAN
+Private 5G
+Satellite & Non-Terrestial Networks
+Smart Cells
+Sectors & ApplicationsAutomotive/V2X
+Education
+Healthcare
+Industrial & Logistics
+Media & Broadcasting
+Public Sector & Smart Cities
+Retail & Consumer Services
+Toolkits & Technical InsightsAI & Predictive Networking
+Automation & Self-Optimising Networks
+Cloud & Edge Convergence
+Digital Twins & Network Simulation
+Open-Source Telecoms
+Sustainability & Green Telco
+Voices & AnalysisCase Studies
+Industry Events
+Interviews & Analysis
+Special Reports & Longform
+Thought Leadership & Opinion
+Events
+ResourcesAll Resources
+MoreContact Us
+About Us
+ Search
+ Subscribe
+ Subscribe
+ Explore all
+AI News
+CloudTech
+Developer
+MarketingTech
+TechHQ
+Tech Wire Asia
+IoT News
+ Hamburger Toggle Menu
+Investment & Funding, mmWave & Spectrum, National & Global Policy, Network Visualisation, Operator Strategies, Private Networks & SD-WAN, Regulatory & Legislative, Regulatory Compliance Toolkits, Telecom in the Future Workplace, Telecoms
+Ofcom targets scam calls faking UK mobile numbers
+Ryan Daws
+21st July 2025
+Share this story:
+Tags:
+crimecybersecurityeuropeinfosecmobilenetworksOperatorsregulationSecuritytelecomsuk
+Categories::
+Investment & FundingmmWave & SpectrumNational & Global PolicyNetwork VisualisationOperator StrategiesPrivate Networks & SD-WANRegulatory & LegislativeRegulatory Compliance ToolkitsTelecom in the Future WorkplaceTelecoms
+We’re all facing a barrage of scam calls, and now UK telecoms regulator Ofcom is stepping up the fight against them.
+If you’ve ever hesitated to answer a call from an unknown UK mobile number, you’re not alone. Ofcom’s new plan targets one of the most common tricks used by criminals: faking, or ‘spoofing’, a UK mobile number to make their call look legitimate.
+Marina Gibbs, Policy Director for Networks and Communications at Ofcom, said: “Customers endure a barrage of scam calls, and when people get caught out, the consequences can be devastating. It can happen to anyone, with criminal gangs in other countries trying to exploit people when their guard is down.
+“The work we’ve collectively already done has led to a million calls a day being blocked, but there’s no silver bullet, and we’re always looking for new ways to shore up our defences in the fight against fraud. These new measures would provide further protection for people in the UK.”
+Scammers based abroad know we’re far more likely to answer from a familiar +44 number than an international one. Ofcom’s research shows just how much we trust local numbers. While only one in ten of us would pick up a buzz from an unrecognised international number, that figure jumps to one in four if the scam call appears to come from a UK mobile.
+Ofcom has already told phone companies to block international calls that fake a UK landline number. However, a loophole allowed scammers to keep exploiting UK mobile numbers—partly to avoid blocking genuine customers who were using their phones while roaming abroad.
+Now, the regulator wants to close that gap. The new proposal would force phone companies to hide the caller ID of any call from overseas that looks like a UK mobile, unless they can prove it’s a legitimate customer. Cybersecurity experts say the move is long overdue.
+“Scam calls are not a new crime, and the methods to deal with them are not fit for purpose,” said Marijus Briedis, Chief Technology Officer at NordVPN. “It is encouraging to see Ofcom tackling the issues and putting pressure on telecom providers to do more to protect their customers.”
+Briedis warned that these calls are often the first step towards devastating financial crime. The goal is to trick you into giving away personal information, which can then be used in a ‘SIM-swapping’ attack.
+“If successful,” he explained, “a SIM-swapping attack lets the criminal intercept calls and messages intended for the victim, potentially granting access to the victim’s online accounts.”
+While these new rules could make a real difference, you don’t have to wait to protect yourself. Briedis advises that you can take action right now. He suggests speaking to your mobile provider about services like EE’s Scam Guard, or using a trusted third-party call-blocking app. At a minimum, if you get a call you know is a scam, block the number immediately.
+Ofcom is asking for feedback on its plan until 13 October 2025 and expects to make a final decision early next year.
+(Image by Mohamed Hassan)
+See also: UK risks losing £230B without mobile network upgrades
+Want to learn more about cybersecurity and the cloud from industry leaders? Check out Cyber Security & Cloud Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Digital Transformation Week, IoT Tech Expo, Blockchain Expo, and AI & Big Data Expo.
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.
+About the Author
+Ryan Daws
+Senior Editor
+ Ryan Daws is a senior editor at TechForge Media with over a decade of experience in crafting compelling narratives and making complex topics accessible. His articles and interviews with industry leaders have earned him recognition as a key influencer by organisations like Onalytica. Under his leadership, publications have been praised by analyst firms such as Forrester for their excellence and performance. Connect with him on X (@gadget_ry), Bluesky (@gadgetry.bsky.social), and/or Mastodon (@gadgetry@techhub.social)
+Related
+ Nokia adds quantum encryption to Telia 5G network
+18th November 2026
+GSMA sets quantum-safe migration path for operators
+16th November 2026
+Enea identifies SilentAir spying on Asian mobile operators
+13th November 2026
+Telcos race ahead on AI-managed customer experience plans
+12th November 2026
+Join our Community
+Subscribe now to get all our premium content and latest tech news delivered straight to your inbox
+ Click here
+Popular
+ Operators, Research
+Customer engagement and billing are vital to a CSP’s success
+14037 view(s)
+AT&T, Network Infrastructure, Operators, Satellite & Non-Terrestial Networks, Satellites, Verizon, Vodafone
+AST SpaceMobile targets beta D2D service with next BlueBird launch
+1871 view(s)
+5G-A, AI & Predictive Networking, Automation & Self-Optimising Networks, Network Infrastructure, Next-Gen RAN Architectures, Operators
+T-Mobile and Ericsson test AI-RAN on live 5G Advanced network
+1714 view(s)
+AI & Predictive Networking, Enterprise & Industry Solutions, Featured News, Features, Operator Strategies, Operators, Trends, Tech & Innovation, Unified Communications & Collaboration
+BT Business launches AI Receptionist for customer calls
+1226 view(s)
+ See all
+Latest
+ View All Latest
+ Operator Strategies
+12th November 2026
+Telcos race ahead on AI-managed customer experience plans
+ Operators
+9th November 2026
+Orange scales governed AI billing agents to 26 countries
+ 5G
+6th November 2026
+Sweden turns 5G into a NATO-grade military network
+Subscribe
+All our premium content and latest tech news delivered straight to your inbox
+ Subscribe
+Explore
+About Us
+Contact Us
+Cookie Policy
+Newsletter
+Privacy Policy
+About Us
+Contact Us
+Cookie Policy
+Newsletter
+Privacy Policy
+Reach Our Audience
+Editorial opportunities
+Post a press release
+Contact Us
+Editorial opportunities
+Post a press release
+Contact Us
+Categories
+5G
+5G-A
+6G
+Broadband
+Digital Twin
+IoT
+Legislation & Government
+LTE
+Networks
+Open RAN
+Operators
+Research
+Satellites
+Security
+Telecoms
+5G
+5G-A
+6G
+Broadband
+Digital Twin
+IoT
+Legislation & Government
+LTE
+Networks
+Open RAN
+Operators
+Research
+Satellites
+Security
+Telecoms
+Other Publications
+Explore All
+AI News
+CloudTech
+Developer
+MarketingTech
+IoT News
+TechHQ
+Tech Wire Asia
+Explore All
+AI News
+CloudTech
+Developer
+MarketingTech
+IoT News
+TechHQ
+Tech Wire Asia
+Telecoms Events is part of TechForge
+Manage Cookie Consent
+We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+ Functional Functional Always active
+ The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+ Preferences Preferences
+ The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+ Statistics Statistics
+ The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+ Marketing Marketing
+ The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+ Accept Deny View preferences Save preferences View preferences
+{title}
+{title}
+{title}
+Manage consent
+Subscribe
+All our premium content and latest tech news delivered straight to your inbox
+ URL
+This field is for validation purposes and should be left unchanged.
+First Name(Required)
+Last Name(Required)
+Job Title(Required)
+Company Name(Required)
+Email(Required)
+Company Size(Required)Company Size1-1011-200201-10001001-50005000+
+Company Sector(Required)Company SectorBiotechnology & PharmaceuticalsComputer Hardware & ElectronicsConsulting & Professional ServicesDefense & SecurityE-CommerceEducationEnergy, Chemicals & UtilitiesEngineering & ResearchEnvironmentalFinancial & Insurance ServicesGovernmentHealthcareIT ServicesManufacturingMedia & EntertainmentNot for ProfitReal Estate & ConstructionRetailSoftware & Cloud ServicesTechnologyTelecommunicationsTransportation, Shipping & LogisticsTravel & HospitalityWholesaleOther
+Country(Required)CountryUnited KingdomUnited StatesAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos IslandsColombiaComorosCongoCongo, Democratic Republic of theCook IslandsCosta RicaCroatiaCubaCuraçaoCyprusCzechiaCôte d'IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHoly SeeHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorth MacedoniaNorthern Mariana IslandsNorwayOmanPakistanPalauPalestine, State ofPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRomaniaRussian FederationRwandaRéunionSaint BarthélemySaint Helena, Ascension and Tristan da CunhaSaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandSyria Arab RepublicTaiwanTajikistanTanzania, the United Republic ofThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkmenistanTurks and Caicos IslandsTuvaluTürkiyeUS Minor Outlying IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVenezuelaViet NamVirgin Islands, BritishVirgin Islands, U.S.Wallis and FutunaWestern SaharaYemenZambiaZimbabweÅland Islands
+Permissions(Required) By submitting your email, you agree to our Terms and Privacy Notice
+ Submit

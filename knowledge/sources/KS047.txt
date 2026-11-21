@@ -1,0 +1,148 @@
+Churn rate benchmarks: SaaS, media, retail & more industries | Recurly
+Get started
+Products
+Solutions
+ResourcesCase studiesPricing
+Log InGet started
+What is churn rate?
+Churn rate measures the percentage of subscribers who cancel or fail to renew within a given period. It is typically calculated monthly or annually depending on your billing model.
+There are two types of churn worth tracking separately:
+Voluntary churn is when a subscriber actively cancels. It reflects dissatisfaction, changing priorities, or a perceived mismatch between price and value.
+Involuntary churn is when a subscriber loses access because a payment fails. It reflects nothing about their intent to stay. A card expires, a bank flags a renewal, a billing limit is hit. The subscriber did not choose to leave.
+This page draws on Recurly's network of subscription businesses to give you benchmarks across industries, revenue tiers, and churn types. All figures are updated with July 2026 data.
+How to minimize business churn rates: Voluntary vs. involuntary churn
+The most useful comparison is against businesses with a similar customer profile, not against an industry average that blends premium B2B SaaS with low-ARPC direct-to-consumer products.
+That said, some broad patterns hold up across the Recurly network:
+Below 2% annual churn is strong performance across almost any segment. Very few businesses sustain this without active retention and recovery programs.
+2% to 4% annual churn is the range where most well-run subscription businesses operate. This is the benchmark zone.
+Above 5% annual churn is worth investigating regardless of vertical. It typically signals either a product-market fit issue (voluntary) or a payment operations gap (involuntary).
+For SaaS specifically: The Recurly network shows a median overall annual churn rate of 3.04% for software businesses, with top-quartile performers at 1.78% or below.
+For B2B: Business and Professional Services on the Recurly network showed a 3.21% median annual churn rate, with best-quartile performance at 1.83%. B2B businesses generally run lower than B2C due to longer contract cycles, higher switching costs, and multi-seat dynamics.
+For subscription boxes and direct-to-consumer: Ecommerce on the Recurly network showed a 4.25% median annual churn rate. Lower price points and impulse-driven signup patterns contribute to higher voluntary churn in this category.
+For enterprise SaaS: Within the $250+ ARPC cohort on the Recurly network, median annual churn sits at 3.54%, with involuntary churn at just 0.18%. Higher-value subscribers tend to use better payment methods and are more likely to resolve failed payments proactively.
+What to look for in your industry
+On overall churn, SaaS (3.22%) and Business and Professional Services (3.44%) are the lowest in the dataset. Both also have the lowest involuntary churn, reflecting the higher-value payment methods and more predictable billing cycles typical of B2B subscribers.
+Education's voluntary rate (3.30%) is the highest of any vertical, pointing to an engagement and value problem. Digital Media and Entertainment has a comparatively lower voluntary rate (2.55%) but a high involuntary rate (1.59%), which typically reflects a payment recovery gap rather than a subscriber intent problem.
+Ecommerce and Travel sit in the middle of the range. Both run higher voluntary churn than SaaS, consistent with the lower price points and more discretionary purchase behavior in those categories.
+Take out (Recurly helps its customers recover $1.6B in revenue annually. How much revenue could you recover?)
+Involuntary churn vs voluntary churn
+Voluntary churn: The subscriber decided to leave
+Voluntary churn happens when a subscriber actively cancels. The fixes are engagement and value problems, not billing problems: engagement programs, cancel-save flows, and product experiences that demonstrate ongoing value.
+One underused lever is pause. According to the 2026 State of Subscriptions, 38% of consumers prefer pausing over canceling. Brands that offered a pause option saw pause usage increase by 337%, and 3 out of 4 of those subscribers returned within months.
+Also worth noting: nearly 1 in 4 new subscriptions now comes from a previously canceled customer. Voluntary churn is not always permanent. Former subscribers can be brought back with the right offer at the right time, which means win-back programs should be treated as a standard part of the acquisition mix, and should personalize their messaging for the specific cohort.
+Involuntary churn: The subscriber did not choose to leave
+Involuntary churn happens when a payment fails and the subscription lapses. The subscriber may have no idea it happened. Common causes include expired cards, updated card numbers not reflected in the billing system, bank-side fraud flags, and insufficient funds at renewal time. Businesses that invest in automated dunning recover substantial revenue that would otherwise be lost to passive churn. Across the Recurly network:
+SaaS recovered $155+ million
+Digital media recovered $100+ million
+Ecommerce recovered $34+million
+Business and professional services recovered $19+ million
+Publishing recovered $15+ million
+Education recovered $8+ million
+Businesses with a 16X ROI on their subscription platform investment tend to treat dunning not as a collections function but as a revenue recovery program with its own KPIs. How much revenue could you recover?
+CTA: Calculate my revenue opportunity
+Involuntary churn drops sharply as ARPC rises. At $250+ ARPC, involuntary churn is just 0.18%. At $10 to $25 ARPC, it is 1.30%. For lower-ARPC segments, involuntary churn represents a larger share of the total problem and is often the highest-leverage place to start.
+The $10 to $25 band carries the most overall churn risk. This cohort shows the highest overall median (4.29%) in the table. This range often corresponds to consumer-facing subscriptions at a price point that triggers price sensitivity without the engagement depth that higher-cost products tend to generate.
+Churn rate vs. retention rate
+Churn rate is a loss metric. It is useful for diagnosing problems and benchmarking against external data. Retention rate is a value metric, more useful for communicating health to stakeholders and tracking improvement over time.
+Neither captures expansion or contraction of revenue within the subscriber base. For a complete picture, pair churn rate with net revenue retention (NRR), which accounts for upgrades, downgrades, and reactivations in addition to cancellations.
+MRR churn rate is a related but distinct metric. It measures the percentage of monthly recurring revenue lost in a period rather than the percentage of subscribers. Because higher-value subscribers who cancel have a disproportionate revenue impact, MRR churn and customer churn can diverge significantly. A business with a 3% customer churn rate could have a 5% MRR churn rate if the accounts being lost skew above average in value.
+What drives churn above benchmarks?
+Voluntary churn drivers
+Low early-stage engagement: The single biggest driver of voluntary cancellations is poor onboarding. Subscribers who fail to realize core product value in the initial weeks are highly likely to drop off.
+Fix: Prioritize product usage nudges, structured onboarding, and re-engagement campaigns over discount-led save offers — the issue is perceived value, not price.
+Unoptimized plan structure & renewal playbooks:
+Monthly plans: Carry higher month-to-month volatility, though failed payments are generally easier to recover.
+Annual plans: Offer higher Customer Lifetime Value (LTV) but introduce a high-risk renewal milestone. Running annual subscriptions without an automated pre-renewal engagement playbook leaves a critical retention lever untapped.
+Involuntary churn drivers
+Passive dunning & fixed retry schedules: Relying on single retries without direct subscriber outreach causes subscriptions to lapse silently.
+Fix: Implement intelligent retry logic that sequences attempts by timing, varies charge amounts, and routes transactions through optimal card networks based on specific decline codes.
+Unmanaged payment method failure profiles: Different payment methods (credit cards, ACH, digital wallets) carry unique decline patterns that evolve over time. Failing to analyze decline reasons by payment type prevents you from optimizing your recovery logic as subscriber payment diversity grows.
+Products & Pricing
+Products & Pricing
+Recurly SubscriptionsRecurly CommerceRecurly EngageRecurly RevRecApp ManagementInnovation spotlightTry it free
+Resources & Support
+Resources & Support
+Resource centerGlossaryBlogEventsBenchmarks & InsightsSupport & ServicesLogin
+Integrations & Partners
+Integrations & Partners
+Integration methodsSecurity & CompliancePartners integrationsPartner ecosystem
+Developers
+Developers
+Subscriptions documentationCommerce documentationEngage documentationRevRec documentationAPI ReferenceStatus
+Company
+Company
+AboutLeadershipNewsroomCareersContact us
+Privacy policyLegalDPACookie policyTerms of serviceSecurity & complianceModern slavery act statement
+©2026 Recurly, Inc.
+EXPLORE THE DATA
+What is customer churn?
+Often mistaken for turnover, churn refers to subscribers who either voluntarily cancel or fail to pay and are involuntarily removed, whereas turnover refers to the total revenue your business acquires from its goods and services. Both are calculated over a period of time, but turnover is related to profit generation, while churn is related to customer behavior.
+Benchmarking: How does your business churn rate compare?
+Your churn rate is a critical indicator of the health of your subscription businesses. Monitor this rate closely for unusual changes that could indicate a problem in your subscriber lifecycle.
+3.60%
+Overall churn rate
+Across all industries
+2.34%
+Average voluntary churn rate
+Across all industries
+1.25%
+Average involuntary churn rate
+Across all industries
+Churn by industry
+The following are median annual churn rates from Recurly network data (July 2026), with voluntary and involuntary breakdowns for each vertical.
+Churn rates by average revenue per customer
+Churn behaves differently depending on how much subscribers pay. Higher-ARPC subscribers churn at lower rates overall, and they churn involuntarily at dramatically lower rates.
+The following are median annual churn rates from the Recurly network (July 2026).
+FAQ
+What is a good churn rate?
+A good annual churn rate typically falls between 3% and 5% across most subscription verticals, based on benchmark data from the Recurly network.
+B2B & SaaS: Clustered at the lower end (around 3% or below).
+B2C & low-ARPC: Typically experience higher voluntary churn due to lower switching costs.
+Compare your metrics against businesses with similar Average Revenue Per Customer (ARPC) and models rather than relying on a single cross-industry benchmark.
+What is a good churn rate for SaaS?
+The Recurly network shows a median annual churn rate of 3.22% for SaaS businesses (July 2026 data). Top-quartile performers come in at 1.78% or below. If your SaaS business is running above 5% annual churn, involuntary churn is worth auditing first, since it is often fixable without any product changes.
+What are average subscription churn rates by industry?
+Median annual churn rates differ across subscription industries. The following figures reflect total, voluntary, and involuntary churn from Recurly network data (July 2026):
+SaaS: Total 3.22% | Voluntary 2.16% | Involuntary 1.06%
+Business & professional services: Total 3.44% | Voluntary 2.27% | Involuntary 1.18%
+Travel, hospitality & entertainment: Total 3.91% | Voluntary 2.63% | Involuntary 1.28%
+Digital media & entertainment: Total 4.14% | Voluntary 2.55% | Involuntary 1.59%
+Ecommerce: Total 4.25% | Voluntary 2.87% | Involuntary 1.38%
+Education: Total 4.99% | Voluntary 3.30% | Involuntary 1.69%
+Voluntary churn is the dominant driver across all six verticals. Education and Ecommerce face the highest overall churn pressure, while SaaS and Business & professional services are the most stable.
+What is the difference between voluntary and involuntary churn?
+The main difference comes down to intent: voluntary churn happens when a customer actively cancels, whereas involuntary churn occurs when a subscription lapses passively due to payment failure.
+Voluntary churn: Managed through customer onboarding, targeted engagement campaigns, pause options, and cancel-save flows.
+Involuntary churn: Recovered via intelligent retry logic, automated dunning emails, and Account Updater services.
+Across all industries, the median annual involuntary churn rate sits at 1.25%, ranging from 0.18% for high-ARPC businesses to 1.69% in higher-risk sectors like Education.
+What causes involuntary churn in subscription businesses?
+Involuntary churn is primarily driven by payment processing issues rather than customer dissatisfaction. Common root causes include:
+Expired credit or debit card details.
+Outdated billing credentials not synced with card networks.
+Bank-level fraud flags and strict authorization checks.
+Credit limit hits or insufficient funds at renewal.
+Higher decline rates associated with specific alternative payment methods (APMs).
+The gap between low-churn sectors (SaaS at 1.06%) and higher-churn sectors (Education at 1.69%) stems largely from the sophistication of their automated payment recovery stack, rather than underlying subscriber behavior.
+How do churn rates vary by average revenue per customer (ARPC)?
+Higher-paying subscribers churn at significantly lower rates. Recurly network data (July 2026) shows the following total, voluntary, and involuntary churn rates by ARPC tier:
+$10–$25/month: Total 4.29% | Voluntary 2.99% | Involuntary 1.30%
+$25–$50/month: Total 3.84% | Voluntary 2.73% | Involuntary 1.11%
+$50–$100/month: Total 3.15% | Voluntary 2.41% | Involuntary 0.74%
+$100–$250/month: Total 2.87% | Voluntary 2.40% | Involuntary 0.46%
+Over $250/month: Total 3.07% | Voluntary 2.90% | Involuntary 0.18%
+Involuntary churn — driven by failed payments — falls most dramatically with ARPC, dropping 87% from the lowest to highest tier. Voluntary churn also declines, though it ticks back up slightly at the over $250 tier.
+How does dunning reduce churn?
+Dunning reduces churn by recovering failed recurring payments before a subscription is canceled. An optimized dunning process automated within your billing engine works by:
+Intelligent retries: Retrying declined cards at algorithmically determined intervals using specific decline reason codes
+Proactive outreach: Prompting subscribers to update their billing details via automated email and SMS workflows
+Smart routing: Routing retry attempts through optimal card networks to maximize approval rates
+How do I calculate churn rate?
+Divide the number of subscribers lost in a period by the number of subscribers at the start of that period, then multiply by 100. For monthly churn: (subscribers lost in month / subscribers at start of month) x 100. Note that annual churn is not simply 12x monthly churn because of compounding. A 2% monthly churn rate translates to roughly 22% annual churn, not 24%.
+You can read more here.
+What is MRR churn?
+MRR churn measures the percentage of monthly recurring revenue lost in a period rather than the percentage of subscribers. It diverges from customer churn when the subscribers being lost skew above or below average in value. A business with 3% customer churn could have 5% MRR churn if higher-value accounts are churning disproportionately. Tracking both gives a more complete picture of retention health than customer churn alone.
+Understanding the different factors that drive churn is the first step. Taking action is the next step.
+2026 State of Subscriptions: The new rules for retention, AI, and trust
+Tool | 3 min read
+Recurly recovered revenue calculatorCalculate now
+The retention revolution: Why flexibility is the new growth lever

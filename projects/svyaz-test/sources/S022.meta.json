@@ -1,0 +1,30 @@
+{
+  "id": "S022",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «выборка» (vyborka-kab.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "6f220829d354bba993f3f7f6571ec577d5dba5812749b36c19e39382a83a1339",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:32:04",
+  "method": "расчёт",
+  "ready": "выборка",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/vyborka-kab.json",
+      "sha256": "0d98b35243b36b7a327b484db02e450478d8e33e1dbedcd03f82f44c2885e9df"
+    }
+  ],
+  "rests_on": [
+    "C020",
+    "C021",
+    "C024",
+    "C053"
+  ]
+}

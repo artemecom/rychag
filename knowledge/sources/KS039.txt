@@ -1,0 +1,738 @@
+Android vitals  |  Android Developers
+ Skip to main content
+ Essentials
+ Build AI experiences
+ Build AI-powered Android apps with Gemini APIs and more.
+ Get started
+ Get started
+ Create your first app. Use Compose for UI and adaptive app development to support multiple device form factors.
+ Hello, world!
+ Adaptive apps
+ Compose for UI
+ AI-powered IDE
+ Monetization with Play ↗️
+ Developer Verification
+ Registered App Stores
+ Optimize by form factor
+ Build apps that optimize the user experience on phones, tablets, foldables, cars, XR, and more.
+ Phones, tablets, foldables
+ Android for Cars
+ Android TV
+ Android XR
+ Googlebook
+ ChromeOS
+ Wear OS
+ Build by category
+ Learn to build for your use case by following Google's prescriptive and opinionated guidance.
+ Games
+ Camera & media
+ Social & messaging
+ Health & fitness
+ Productivity
+ Enterprise apps
+ Get the latest
+ Stay in touch with the latest releases throughout the year, join our preview programs, and give us your feedback.
+ Latest updates
+ Experimental updates
+ Android Studio preview
+ Jetpack & Compose libraries
+ Wear OS releases
+ Privacy Sandbox ↗️
+ Design & Plan
+ Excellent Experiences
+ Build the best experiences for your best users.
+ Learn more
+ UI Design
+ Design a beautiful user interface using Android best practices.
+ Design for Android
+ Mobile
+ Desktop experiences
+ XR Headsets & XR Glasses
+ AI Glasses
+ Widgets
+ Wear OS
+ Android TV
+ Android for Cars
+ Architecture
+ Design robust, testable, and maintainable app logic and services.
+ Introduction
+ Libraries
+ Navigation
+ Modularization
+ Testing
+ Kotlin Multiplatform
+ Quality
+ Plan for app quality and align with Play store guidelines.
+ Overview
+ Core value
+ User experience
+ Accessibility
+ Technical quality
+ Excellent Experiences
+ Security
+ Safeguard users against threats and ensure a secure Android experience.
+ Overview
+ Privacy
+ Permissions
+ Identity
+ Fraud prevention
+ Develop
+ Build more with agents in Android
+ Turn prompts into real Android experiences using your favorite agents.
+ Learn more
+ Get Android CLI
+ Core areas
+ Get the samples and docs for the features you need.
+ Samples
+ Multidevice support
+ User interfaces
+ Background work
+ Data and files
+ Connectivity
+ All core areas ⤵️
+ Tools and workflow
+ Use the IDE to write and build your app, or create your own pipeline.
+ Write and debug code
+ Build projects
+ Test your app
+ Performance
+ Command-line tools
+ Gradle plugin API
+ Android Bench
+ Build with agents
+ Device tech
+ Write code for form factors. Connect devices and share data.
+ Phones, tablets, foldables
+ Googlebook
+ ChromeOS
+ Android for Cars
+ Android TV
+ Android XR
+ Wear OS
+ Android Health
+ Better Together
+ All devices ⤵️
+ Libraries
+ Browse API reference documentation with all the details.
+ Android platform
+ Jetpack libraries
+ Compose libraries
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ Google Play
+ Play Console
+ Publish your app or game and grow your business on Google Play.
+ Learn more ↗️
+ Go to Play Console
+ Fundamentals
+ Learn how to engage users, monitize, and secure your app.
+ Play Monetization
+ Play Integrity
+ Android vitals
+ Play Policies
+ Play Programs ↗️
+ Games Dev Center
+ Develop and deliver games. Get tools, downloads, and samples.
+ Overview
+ Play Asset Delivery
+ Play Games Services
+ Play Games on PC
+ Level Up guidelines
+ All Play guides ⤵️
+ Libraries
+ Browse API reference documentation with all the details.
+ Play Feature Delivery
+ Play In-app Updates
+ Play In-app Reviews
+ Play Install Referrer
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ All Play libraries ⤵️
+ Tools & resources
+ Tools for publishing, promoting, and managing your app.
+ Android App Bundles
+ Brand & marketing
+ Play Console APIs ↗️
+ Blog
+ the Android Developer's Blog
+ Read the latest
+ Explore the authors →
+ Explore categories
+ Product News
+ Stay in the loop with the latest updates, feature releases, and behind-the-scenes looks at how we’re evolving.
+ Community
+ Discover stories from our users, spotlight features, and the collaborative projects that bring us all together.
+ How-tos
+ From quick tips to deep-dive tutorials, these step-by-step guides are designed to help you work smarter and faster.
+ Case Studies
+ Real-world results from real-world users. Explore how different teams use our tools to achieve their goals.
+ Events & Programs
+ Get the details on upcoming webinars, workshops, meetups, and special initiatives designed to help you grow.
+ Documentation
+ Access detailed manuals, API references, and technical specifications to help you build and integrate with confidence.
+ /
+ English
+ Deutsch
+ Español – América Latina
+ Français
+ Indonesia
+ Italiano
+ Polski
+ Português – Brasil
+ Tiếng Việt
+ Türkçe
+ Русский
+ עברית
+ العربيّة
+ فارسی
+ हिंदी
+ বাংলা
+ ภาษาไทย
+ 中文 – 简体
+ 中文 – 繁體
+ 日本語
+ 한국어
+ Android Studio
+ Sign in
+ Google Play
+ Android vitals
+ Essentials
+ More
+ Design & Plan
+ More
+ Develop
+ More
+ Google Play
+ More
+ Blog
+ More
+ Android Studio
+ About Android vitals
+ ANRs
+ Crashes
+ Slow Rendering
+ Slow Sessions
+ Low memory killers (LMKs)
+ Memory Usage (Anonymous RSS + swap)
+ Bitmap Memory Usage
+ Excessive Wake Locks
+ Stuck Partial Wake Locks
+ Excessive Wakeups
+ Excessive Background Wi-Fi Scans
+ Excessive Background Network Usage
+ Excessive Battery Usage
+ Permission Denials
+ App Startup Time
+ DEX Code Optimization
+ Build AI experiences
+ Get started
+ Get started
+ Hello, world!
+ Adaptive apps
+ Compose for UI
+ AI-powered IDE
+ Monetization with Play ↗️
+ Developer Verification
+ Registered App Stores
+ Optimize by form factor
+ Phones, tablets, foldables
+ Android for Cars
+ Android TV
+ Android XR
+ Googlebook
+ ChromeOS
+ Wear OS
+ Build by category
+ Games
+ Camera & media
+ Social & messaging
+ Health & fitness
+ Productivity
+ Enterprise apps
+ Get the latest
+ Latest updates
+ Experimental updates
+ Android Studio preview
+ Jetpack & Compose libraries
+ Wear OS releases
+ Privacy Sandbox ↗️
+ Excellent Experiences
+ Learn more
+ UI Design
+ Design for Android
+ Mobile
+ Desktop experiences
+ XR Headsets & XR Glasses
+ AI Glasses
+ Widgets
+ Wear OS
+ Android TV
+ Android for Cars
+ Architecture
+ Introduction
+ Libraries
+ Navigation
+ Modularization
+ Testing
+ Kotlin Multiplatform
+ Quality
+ Overview
+ Core value
+ User experience
+ Accessibility
+ Technical quality
+ Excellent Experiences
+ Security
+ Overview
+ Privacy
+ Permissions
+ Identity
+ Fraud prevention
+ Build more with agents in Android
+ Learn more
+ Get Android CLI
+ Core areas
+ Samples
+ Multidevice support
+ User interfaces
+ Background work
+ Data and files
+ Connectivity
+ All core areas ⤵️
+ Tools and workflow
+ Write and debug code
+ Build projects
+ Test your app
+ Performance
+ Command-line tools
+ Gradle plugin API
+ Android Bench
+ Build with agents
+ Device tech
+ Phones, tablets, foldables
+ Googlebook
+ ChromeOS
+ Android for Cars
+ Android TV
+ Android XR
+ Wear OS
+ Android Health
+ Better Together
+ All devices ⤵️
+ Libraries
+ Android platform
+ Jetpack libraries
+ Compose libraries
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ Play Console
+ Learn more ↗️
+ Go to Play Console
+ Fundamentals
+ Play Monetization
+ Play Integrity
+ Android vitals
+ Play Policies
+ Play Programs ↗️
+ Games Dev Center
+ Overview
+ Play Asset Delivery
+ Play Games Services
+ Play Games on PC
+ Level Up guidelines
+ All Play guides ⤵️
+ Libraries
+ Play Feature Delivery
+ Play In-app Updates
+ Play In-app Reviews
+ Play Install Referrer
+ Google Play services ↗️
+ Google Play SDK index ↗️
+ All Play libraries ⤵️
+ Tools & resources
+ Android App Bundles
+ Brand & marketing
+ Play Console APIs ↗️
+ the Android Developer's Blog
+ Read the latest
+ Explore the authors →
+ Explore categories
+ Product News
+ Community
+ How-tos
+ Case Studies
+ Events & Programs
+ Documentation
+ Android Developers
+ Google Play
+ Android vitals
+ Android vitals
+ Stay organized with collections
+ Save and categorize content based on your preferences.
+Android vitals helps Google improve the quality of Android apps on Google Play.
+When a user allows it, their Android-powered device tracks app quality metrics
+such as stability, performance, battery use, and permission issues. Google Play
+collects this data, which can be accessed through the Android vitals
+dashboard in the Play Console, and through the Google Play
+Developer Reporting API.
+Developers should monitor Android vitals to improve the user experience,
+especially the core vitals: user-perceived crash rate,
+user-perceived ANR rate, excessive partial wake locks, memory usage,
+and bitmap memory usage.
+Core vitals and bad behaviors
+Your app's core vitals affect your app's visibility on Google Play. In addition
+to core vitals, Android vitals alerts you to items such as DEX Code
+Optimization that require attention and may also affect your app's visibility on
+Google Play. User-perceived crash rate and user-perceived ANR rate have an
+overall bad behavior threshold and a per-device bad behavior threshold.
+Excessive partial wake locks only has an overall bad behavior threshold and
+excessive battery usage on wear OS has an overall and
+per watch model threshold.
+The memory usage metric has different thresholds for each device RAM tier and
+app state, and differs for apps and games. Bitmap memory usage is the same
+across device RAM tiers, but has different thresholds for each app state.
+FAQs
+What are core vitals?
+Core vitals are the most important metrics in Android vitals, and affect the
+visibility of your app on Google Play. The core vitals are:
+Stability: User-perceived crash rate and user-perceived ANR rate for
+all apps.
+Battery: Excessive partial wake locks for all apps, and excessive
+battery usage for watch face apps.
+Memory: Memory usage (Anonymous RSS + Swap) and bitmap memory usage
+for all mobile apps.
+Note: Apps exceeding the thresholds for memory usage, bitmap memory usage, or
+code optimization may see store visibility impact starting from
+February 2027. For specifics on these metrics, see
+Memory usage, Bitmap memory usage, and
+Enable app optimization.
+What are the bad behavior thresholds?
+Stability & Battery Vitals
+ BAD BEHAVIOR THRESHOLD
+ To maximize your title's visibility on Google Play,
+ please keep it under these thresholds.
+ Overall (average across devices)
+ Per phone model
+ Per watch model
+ User-perceived crash rate
+ 1.09%
+ 8%
+ 4%
+ User-perceived ANR rate
+ 0.47%
+ 8%
+ 5%
+ Excessive battery usage
+ 1%
+ -
+ 1%
+ Excessive partial wake locks
+ 5%
+ -
+ -
+Memory Vitals
+Note: The Total Memory Range for each tier defines the usable memory available
+to apps (inclusive of the lowest value). Usable RAM may vary across devices due
+to hardware carve-outs and discrepancies between advertised physical RAM and
+actual usable memory available to the Android OS. Query
+ActivityManager.MemoryInfo.totalMem to log device total memory, and
+associate the value with the user's device profile in your analytics pipeline.
+Apps
+ BAD BEHAVIOR THRESHOLD
+ To maximize your title's visibility on Google Play,
+ please keep it under these thresholds.
+ Physical RAM
+(Total Memory Range)
+ App State
+ Foreground
+ User-Perceived Services
+ Background
+ Cached
+ Memory usage (Anonymous RSS + Swap)
+ 0 - 4 GB
+(0 - 3200 MB)
+ -
+ -
+ -
+ -
+ 4 GB
+(3200 - 4800 MB)
+ 2.00 GB
+ 1.00 GB
+ 1.00 GB
+ -
+ 6 GB
+(4800 - 6800 MB)
+ 2.25 GB
+ 1.25 GB
+ 1.25 GB
+ -
+ 8 GB
+(6800 - 9216 MB)
+ 2.25 GB
+ 1.50 GB
+ 1.50 GB
+ -
+ 12 GB
+(9216 - 14336 MB)
+ 3.25 GB
+ 1.75 GB
+ 1.75 GB
+ -
+ 16 GB
+(14336 - 18432 MB)
+ 4.25 GB
+ 2.00 GB
+ 2.00 GB
+ -
+ 16 GB +
+(Above 18432 MB)
+ -
+ -
+ -
+ -
+ Bitmap memory usage
+ -
+ -
+ 200 MB
+ 200 MB
+ 400 MB
+Games
+ BAD BEHAVIOR THRESHOLD
+ To maximize your title's visibility on Google Play,
+ please keep it under these thresholds.
+ Physical RAM
+(Total Memory Range)
+ App State
+ Foreground
+ User-Perceived Services
+ Background
+ Cached
+ Memory usage (Anonymous RSS + Swap)
+ 0 - 4 GB
+(0 - 3200 MB)
+ -
+ -
+ -
+ -
+ 4 GB
+(3200 - 4800 MB)
+ 2.25 GB
+ 2.00 GB
+ 2.00 GB
+ -
+ 6 GB
+(4800 - 6800 MB)
+ 2.75 GB
+ 2.50 GB
+ 2.50 GB
+ -
+ 8 GB
+(6800 - 9216 MB)
+ 3.50 GB
+ 2.75 GB
+ 2.75 GB
+ -
+ 12 GB
+(9216 - 14336 MB)
+ 4.00 GB
+ 3.20 GB
+ 3.20 GB
+ -
+ 16 GB
+(14336 - 18432 MB)
+ 5.00 GB
+ 3.50 GB
+ 3.50 GB
+ -
+ 16 GB +
+(Above 18432 MB)
+ -
+ -
+ -
+ -
+ Bitmap memory usage
+ -
+ -
+ 200 MB
+ 200 MB
+ 400 MB
+DEX Code Optimization
+ BAD BEHAVIOR THRESHOLD
+ To maximize your title's visibility on Google Play,
+ please keep it above these thresholds.
+ Criteria
+ Requirement
+ Minimum threshold
+ Apps with > 10 MB DEX code
+ Optimization, Obfuscation, and Shrinking
+ 25%
+ Games with > 50 MB DEX code
+ Optimization, Obfuscation, and Shrinking
+ 25%
+How do core vitals affect my title's visibility on Play?
+If your app or game exceeds a bad behavior threshold, Play may reduce the
+visibility of your title. Play may also show users a warning on your store
+listing.
+Is it possible to have both per-device and overall bad behaviors? Or one but not the other? What do I do if so?
+Yes, all combinations are possible. To improve app quality, fix the crashes and
+ANRs affecting the most users. For better quality on specific devices, fix the
+biggest crash and ANR groups on those devices. If you have both issues, focus
+first on the largest overall crash and ANR clusters.
+I need help to fix my technical issues. Where do I start?
+The following resources are provided to help you understand how Android vitals
+tracks technical issues in your app or game, and you can visit
+Address common performance issues for general
+diagnostic and remediation guidance.
+Core vitals:
+User-perceived ANR rate
+User-perceived crash rate
+Excessive battery usage
+Excessive partial wake locks
+Memory usage (Anonymous RSS + swap)
+Bitmap memory usage
+All other vitals:
+Excessive wakeups Stuck partial wake locks
+Excessive background Wi-Fi scans Excessive background network
+usage App startup time Slow rendering
+Slow Sessions Low memory killers (LMKs)
+Permission denials
+I don't want to be surprised by bad behaviors or store listing warnings. How can I get ahead of this?
+Play uses the last 28 days of data to assess your app's quality.
+Android vitals warn you about any problems during that period.
+Regularly check the UI or use the reporting API to integrate data into your
+workflow.
+Set up email alerts in the Play Console for issues.
+Android vitals flags "emerging issues"—problems affecting devices for over 7
+days for crashes and ANRs. This gives you 21 days to address them.
+I have a lot of devices with bad behaviors. How do I make sense of the list?
+Sometimes, device hardware or software problems cause high error rates. Android
+vitals alerts you to possible links between high error rates and things like
+RAM, Android version, and processor type. You can also investigate these links
+yourself using Reach and Devices in the Play Console.
+Android vitals also provides quick access to key device information, such as
+user numbers, revenue, ratings, and reviews. This information is shown in a side
+panel, so you don't need to leave your current page.
+If I fix an issue on a device, how long before warnings stop showing?
+Play checks your app's key performance indicators daily, using a 28-day average.
+When this average improves, Android vitals warnings disappear. Store listing
+warnings may be removed faster if Play's system detects improvement.
+What if I can't fix the issue, or I don't want to do so?
+Ensure you've weighed the costs and lost opportunities from ongoing poor user
+experiences. Bad behavior hurts current users and makes it harder to attract new
+ones. If fixing problems on specific devices isn't practical, reconsider your
+device targeting and exclusion rules.
+Why don't Android vitals issue counts and rates match the issue counts and rates I see from my own or other third-party solutions?
+Android vitals is Play's main source for technical app quality. The number of
+issues and rates may differ from other sources for several reasons:
+Android vitals data comes from the Android system and includes events not
+seen by SDKs, such as:
+Crashes before SDK initialization
+ANRs before Android 12
+Android vitals only counts issues from certified devices and apps installed
+from Google Play.
+Android vitals only uses data from users who agreed to share data.
+To protect user privacy, we only show data if we have enough to make
+anonymous reports.
+Issue rates may be calculated differently. Android vitals shows issues per
+daily active user.
+For example, Crashlytics counts the number of issues per app session. If
+a user played a game three times in one day and experienced one crash,
+Android vitals would show a 100% crash rate while Crashlytics would show
+a 33% crash rate.
+For more information on how data is collected, see the Play Console Help
+Center.
+Can I see my ANR and crashes insights in the IDE?
+Yes, from Android Studio Meerkat, when viewing reports in App Quality Insights, click the Insights tab.
+Gemini provides a summary of the crash, generates insights, and links to useful documentation. If
+you also provide Gemini with access to local code context, Gemini can provide more accurate results,
+relevant next steps, and code suggestions. This helps you reduce the time spent diagnosing and resolving issues.
+See the Android Studio documentation to learn more.
+What is considered a user session and when does it begin and end?
+A user session is defined as the sum of usage activity that occurs in a 24-hour
+period. The 24-hour period starts at midnight Pacific Time (PT) for all
+collected Android vitals metrics. If there is no usage activity recorded on the
+app for the day, a session is not recorded.
+ Content and code samples on this page are subject to the licenses described in the Content License. Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates.
+ Last updated 2026-10-19 UTC.
+ [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-10-19 UTC."],[],[]]
+ X
+ Follow @GooglePlayBiz for news and support
+ Medium
+ Read articles and industry thoughts from the Play team
+ LinkedIn
+ Connect with Google Play business community
+ Developer Help
+ Get help from the Google Play Developer Help Community
+ More Android
+ Android
+ Android for Enterprise
+ Security
+ Source
+ News
+ Blog
+ Podcasts
+ Discover
+ Gaming
+ Machine Learning
+ Health & Fitness
+ Camera & Media
+ Privacy
+ 5G
+ Android Devices
+ Large screens
+ Wear OS
+ ChromeOS devices
+ Android for cars
+ Android TV
+ Releases
+ Android 17
+ Android 16
+ Android 15
+ Android 14
+ Android 13
+ Android 12
+ Android 11
+ Documentation and Downloads
+ Android Studio guide
+ Developers guides
+ API reference
+ Download Studio
+ Android NDK
+ Support
+ Report platform bug
+ Report documentation bug
+ Google Play support
+ Join research studies
+ Android
+ Chrome
+ Firebase
+ Google Cloud Platform
+ All products
+ Privacy
+ License
+ Brand guidelines
+ Manage cookies
+ Get news and tips by email
+ Subscribe
+ English
+ Deutsch
+ Español – América Latina
+ Français
+ Indonesia
+ Italiano
+ Polski
+ Português – Brasil
+ Tiếng Việt
+ Türkçe
+ Русский
+ עברית
+ العربيّة
+ فارسی
+ हिंदी
+ বাংলা
+ ภาษาไทย
+ 中文 – 简体
+ 中文 – 繁體
+ 日本語
+ 한국어

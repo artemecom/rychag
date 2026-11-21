@@ -1,0 +1,31 @@
+{
+  "id": "S020",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «граница» (granica-kab.json)",
+  "published": "2026-11-22",
+  "accessed": "2026-11-22",
+  "sha256": "9bcf7efe9fa7b36d53ebf683a7f708d644a4533fea3746d66bdffd60b4d06246",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-22T01:32:04",
+  "method": "расчёт",
+  "ready": "граница",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/granica-kab.json",
+      "sha256": "de3b9f995eb5bf0fb828bed10853da3ba6da56d5320b8d0a8d2843deb78b2146"
+    }
+  ],
+  "rests_on": [
+    "C005",
+    "C006",
+    "C087",
+    "C048",
+    "C049"
+  ]
+}

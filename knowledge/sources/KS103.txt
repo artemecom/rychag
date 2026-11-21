@@ -1,0 +1,274 @@
+How telcos can lock in high-value customers
+Redesigning growth in a fragmenting world
+Discover how decentralization is driving a shift from global scale to regional powerhouse, where local relevance and speed will determine advantage.
+ 今すぐご覧ください
+Your destination for forward-thinking strategies, insights, and bold ideas that fuel real business growth. Navigate today’s complex world and achieve smarter, more sustainable success.
+ 今すぐご覧ください
+ サイトマップ
+Secondary Navigation
+Search
+ お問い合わせ
+ ニュースルーム
+ 言語
+Main navigation
+Contact us
+ サイモン・クチャー
+ 事業内容
+ 産業別グループ
+ インサイト
+ 採用情報
+ イベント
+ 事業所一覧
+Blog
+The retention battle: Why telcos struggle to lock in high-value customers
+ June 2, 2026 | min read
+Breadcrumb
+ ホーム
+ The Retention Battle: Why Telcos Struggle To Lock In High-value Customers
+With roughly a third of the total customer base actively considering switching, telcos cannot grow just by replacing the customers they lose. The priority must be retention, particularly protecting the high-ARPU, high-loyalty segment that sits at the heart of commercial value. The default industry response of price cuts is making the problem worse. In the final instalment of our four-part Global Telecom Study 2026 – across 35 markets and 18,000 consumers – we explore why the base is the most commercially important asset and how successful telcos are locking in high-value customers.
+The fight for retention starts before customers actively decide to leave. As the final chapter of the IBRO framework – covering inflow, base and renewal, and outflow – this is where the entire customer investment either compounds or unravels.
+Our study shows that currently 28% of mobile and 31% of broadband consumers globally are considering switching providers. The biggest churn drivers are weak price-value perception and network dissatisfaction – demonstrating that the decision to switch is often rooted in the core telco promise itself. Should these customers leave, the strain ripples across the entire commercial chain.
+So why are some telcos succeeding while others keep losing ground to the same avoidable triggers? When customers feel overcharged, get more attractive offers from competitors, or struggle with internet speed and poor network quality, they start looking elsewhere. Unattractive loyalty benefits round out the top five, which makes the fix clear: high-value loyal customers are a telco's most important asset and should be recognized and rewarded. This is both to protect revenue and to signal to others that loyalty brings real benefits. Source: Simon-Kucher Insights 2026
+The "red ocean" trap – and opportunities in the "blue ocean"
+Churn willingness is highest in the premium segment, where the customers most worth keeping are also the most at risk. And the dominant industry response – price cuts – is precisely the wrong move. Our study shows why. Source: Simon-Kucher Insights 2026
+The "red ocean" is a competitive acquisition market. In it, customers – whether threatening to churn or being won from a competitor – only move for lower prices or the same price with higher value. Cost-cutting intent is consistent across all segments: 26-30% of premium, mid-market, and budget customers alike are seeking lower prices or lower-value plans. No customer who is switching providers accepts paying more than they did before.
+Price sensitivity looks almost identical across opposite ends of the market. That budget customers optimize for cost is expected, but 27% of premium customers are also only staying on the condition of lower prices. Customers who feel under-served on value will always push back on price, and it is telcos who are left to absorb the cost. The only sustainable responses are offering more value for more price, more for the same, or where necessary, less for less.
+The "blue ocean" operates by a different logic entirely – and it is where most telcos are leaving value on the table. Price reduction tactics speak to roughly 30% of the base. The remaining 70% are open to value-focused solutions, yet they receive the same price erosion measures by default. It is an opportunity lost on two fronts: retention and growth.
+Our study finds that 35-38% of customers across all tiers keep their existing offer without requesting any change. A further 15-16% accept a higher-value plan at a higher price – and it happens exclusively within the existing base, not through acquisition. This willingness to invest in higher value indicates that a substantial share of the base is receptive to retention and loyalty strategies built around value, not discounts.
+Who’s worth the investment, and how to think about it
+Not all customers require the same retention investment. The CLTV matrix shows where to focus. Source: Simon-Kucher Insights 2026
+‘Champions’, who have high ARPU and high tenure, represent 42% of the base and are the highest priority to protect. ‘Rising Stars’ have high ARPU but low tenure and represent 12%: they are the ‘Champions' of tomorrow. Meanwhile, ‘Steady Supporters' (low ARPU, high tenure) and ‘Bargain Hunters' (low ARPU, low tenure) represent 34% and 12% respectively.
+The strategic goal is to move ‘Rising Stars' into ‘Champions', and ‘Bargain Hunters' into ‘Steady Supporters'. For postpaid customers, that means pre-emptive retention measures before churn signals appear. For prepaid, the priority is migration to postpaid, where lifetime value and stickiness are structurally higher.
+Across both contract types, engagement and customer satisfaction are what makes the movement stick, not price intervention.
+What actually moves the needle
+Four levers have clear, measurable impact on tenure and churn, and none require leading with price cuts.
+First call resolution adds +0.4 years of tenure. When issues are resolved on first contact more than 75% of the time, churn likelihood drops from 3.3 to 2.5 on a five-point scale.
+Service channel gets one in three incidents through the hotline. Handling those interactions well produces around 30% higher satisfaction among high-risk customers. Ultimately, the channel mix matters less than whether the issue gets resolved.
+Loyalty programs deliver a modest but real tenure uplift of +0.2 years. Members average 6.1 years of customer lifetime versus 5.9 for non-members. While the gap is not dramatic, it compounds at scale in high-ARPU segments.
+Retention offers do not have to default to price cuts. While 47% of at-risk customers would stay for a lower price on their current plan, 39% would stay for additional services at the same price, and 34% for free loyalty program inclusion – reducing churn risk by 4% across the base. Source: Simon-Kucher Insights 2026
+How the best telcos manage retention as a system
+Successful telcos manage value perception, multi-brand portfolio, monetization, engagement, and retention as one connected commercial system.
+Each action compounds the next: fixing value perception pre-emptively reduces churn, building the right portfolio reduces price pressure, monetizing beyond connectivity increases ARPU, and scaling engagement and loyalty locks in the customers worth keeping.
+Where to start
+But knowing what to do is only half the answer. Prioritizing by value impact and time to impact makes the sequencing clear.
+The most immediate, highest-value actions are fixing value perception and scaling retention – through predictive churn models, context-based customer interactions, and proactive plan optimizations. Source: Simon-Kucher Insights 2026
+Portfolio transformation and tactical campaign optimization follow. It's important to redefine brand roles in the portfolio and avoid cannibalization and assess alternative non-monetary benefits that can be offered instead.
+Building engagement as a monetization engine, by establishing the telco app as a digital sales platform and scaling loyalty program penetration, takes longer but creates compounding returns that are hardest to replicate.
+The telcos that win on outflow act before churn happens and engage before loyalty erodes. They are the ones that have already moved their highest-value customers firmly into the "blue ocean" before the competitor offer arrives.
+This concludes the four-part series on the Simon-Kucher Global Telecom Study 2026. Contact us to discuss what the findings mean for your business.
+Click here to read blog 1: brand
+Click here to read blog 2: inflow
+Click here to read blog 3: base and renewal
+Interested in our 2026 Global Telecommunications Study results in more detail?
+ Download the study
+ Form placeholder. This will only show within the editor
+ 著者
+Kajetan Zwirglmaier
+ Partner | ドイツ・ミュンヘン
+ Contact
+Alexander Zimm
+ Senior Director | オーストリア・ウィーン
+ Contact
+タグ
+電気通信
+顧客、製品、市場戦略
+プライシング、収益管理
+Related Insights
+ See all
+ Jun 02, 2026 | Blog
+ The role of brand portfolio strategy in telco
+ Telecommunications
+ Jun 02, 2026 | Blog
+ Importance of right customers over more customers in telco
+ Telecommunications
+ Jun 02, 2026 | Blog
+ Telco hidden growth lever: Your customer base
+ Telecommunications
+Contact us
+Our experts are always happy to discuss your issue. Reach out, and we’ll connect you with a member of our team.
+ Contact us
+ お問い合わせ
+ 会社概要
+ ニュースルーム
+ ウェビナー
+ イベント
+ 産業別グループ
+ テクノロジー・メディア・通信
+ ヘルスケア・ライフサイエンス
+ 消費財
+ 産業財・サービス
+ 金融サービス
+“良質な成長”（better growth）はここから始まります
+採用情報
+© Simon-Kucher & Partners 2026
+法律上の注意事項 データプライバシー Sitemap
+Who We Are
+Back
+ サイモン・クチャーについて
+サイモン・クチャーは、30カ国以上に拠点を持ち、2,200名を超えるプロフェッショナルを擁するグローバルコンサルティングファームです。信頼される事業戦略領域のアドバイザーとして、クライアント企業の売上および利益の向上につながる持続的かつ高い成長の実現を支援しています。
+40年以上にわたり培ってきたマネタイゼーション分野での知見と実績を背景に、事業の成長および価格戦略の分野における世界的なリーディングファームとして高い評価を得ています。
+ サイモン・クチャーについて
+ 私たちのストーリー
+ ダイバーシティ・エクイティ＆インクルージョン（DE&I）
+What we do
+Back
+ 事業内容
+"私たちは、クライアントの売上、価値、利益の長期的な増加をもたらし、クライアントにとっての“より良い成長”（better growth）を解き放つことを唯一のフォーカスとしています。私たちは、クライアントの事業戦略のあらゆる側面（製品、価格、イノベーション、マーケティング、販売など）を最適化することでこれを実現します。
+ディープサイエンスとデジタル専門技術をフルに活用し、私たちのプロジェクトでは、平均して1%から5%の利益の増加をクライアントにもたらしています。"
+ 事業戦略&プライシングコンサルティング
+ デジタル成長 – Elevate
+ プライシング、収益管理
+ 事業成長のためのソフトウェア – Engine
+ トランザクションサービス、プライベートエクイティ
+ 事業戦略&プライシングコンサルティング
+ 概要：なぜサイモン・クチャーなのか？
+ 顧客、製品、市場戦略
+ セールスエクセレンス
+ サステナビリティ
+ デジタル成長 – Elevate
+ Overview: Digital growth - Elevate
+ Advanced analytics
+ Customer experience strategy
+ Technology strategy
+ Digital transformation strategy
+ プライシング、収益管理
+ 概要：価格戦略と収益管理
+ Dynamic Pricing
+ Monetization Strategy
+ Revenue Management
+Our Industries
+Back
+ 産業別グループ
+"当社のスペシャリストが、機能、部門、地域を超えた実践的な経験から得た業界の深い専門知識を提供します・
+私たちのサービスと実践的なソリューションが、とのようにクライアントの業界の再定義と“良質な成長”（better growth）の実現に役立っているのか、ぜひお確かめください。"
+ 消費財
+ 金融サービス
+ ヘルスケア・ライフサイエンス
+ 産業財・サービス
+ テクノロジー・メディア・通信
+ 消費財
+ 消費財の概要
+ 耐久財
+ ファッション、美容、ライフスタイル
+ 日用消費財
+ 素材・材料
+ ラグジュアリーブランド
+ レストラン業界
+ 小売
+ 旅行・観光・レジャー
+ 金融サービス
+ 金融サービスの概要
+ バンキング
+ フィンテック・ペイメント
+ 保険
+ ウェルス・アセットマネジメント
+ ヘルスケア・ライフサイエンス
+ ヘルスケア、ライフサイエンスの概要
+ アニマルヘルス
+ コンシューマーヘルスケア
+ 診断薬・機器
+ デジタルヘルス・ヘルスIT
+ ヘルスケアB2Bサプライヤー
+ ヘルスケアプロバイダー
+ 医療機器
+ 製薬・バイオテクノロジー
+ 産業財・サービス
+ 産業サービスの概要
+ 航空宇宙・防衛
+ 自動車
+ 建材・建設
+ ビジネスサービス
+ 化学品・原材料
+ エレクトロニクス・半導体
+ エネルギー・ユーティリティ
+ 工業製品・機械
+ 物流・輸送
+ 石油・ガス
+ 製紙・パッケージ
+ 卸・流通
+ テクノロジー・メディア・通信
+ テクノロジー・メディア・通信の概要
+ メディア・エンターテインメント
+ ソフトウェア・インターネット・テクノロジー
+ 通信
+What we think
+Back
+ 私たちの考え
+私たちの最新のインサイト、アイデア、展望についてご紹介します。ここでは、業界やサービス内容を横断する、私たちの最新の考え方を知ることができます。
+ 概要を見る
+産業別のインサイト
+ 消費財
+ 金融サービス
+ ヘルスケア・ライフサイエンス
+ 産業財・サービス
+ テクノロジー・メディア・通信
+トレンドトピックス
+ジェネレーティブAI
+メタバース
+Navigating Volatility
+物価インフレーション
+サステナビリティ
+トレンドトピックス
+ジェネレーティブAI
+メタバース
+Navigating Volatility
+物価インフレーション
+サステナビリティ
+Join Us
+Back
+ 採用情報
+"あなたの“良質な成長”（better growth）はここから始まります！
+サイモン・クチャーは、インターン、新卒者、中途採用のプロフェッショナルを問わず、あなたのキャリア目標を追求するエキサイティングな機会を提供します。"
+ さらに詳しくみる
+ 社員の声
+ 募集職種
+Events
+Back
+ イベント
+最新のイベント情報をご覧いただけます。当社のリーダーやスペシャリストに会い、理解を深め、その経験や知識を分かち合いましょう。
+ See Overview
+ 今後のイベント
+ 採用イベント
+ オンデマンドコンテンツ
+Our Locations
+Back
+事業所一覧
+ Denmark
+ Finland
+ Saudi Arabia
+ Sweden
+ アメリカ
+ アラブ首長国連邦
+ イギリス
+ イタリア
+ インド
+ エジプト
+ オランダ
+ オーストラリア
+ オーストリア
+ カナダ
+ シンガポール
+ スイス
+ スペイン
+ チリ
+ トルコ
+ ドイツ
+ ノルウェー
+ フランス
+ ブラジル
+ ベルギー
+ ポーランド
+ メキシコ
+ ルクセンブルグ
+ 中国
+ 南アフリカ
+ 日本
+ 韓国
+ 香港
+言語
+ Global | EN
+ Global | DE
+ Global | FR
+ Global | CN
+ Global | JA
+検索

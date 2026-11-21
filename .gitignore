@@ -1,0 +1,11 @@
+# Служебное
+.DS_Store
+__pycache__/
+*.pyc
+# Ключи и личные настройки в репозиторий не попадают
+.env
+.env.*
+.claude/settings.local.json
+# Рабочие файлы обучения на одной машине
+learn/proposals-*
+learn/history.jsonl

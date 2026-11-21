@@ -1,0 +1,26 @@
+{
+  "id": "S024",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Расчёт sample_score_full.py",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "3abd848b5814ad12051b519f1a7d09f4c58bce534b2eeb16f93d5affadc56f99",
+  "question": "точность словаря на старой части и по сбоям",
+  "stale_accepted": false,
+  "added": "2026-11-19T00:06:09",
+  "script": "analysis/sample_score_full.py",
+  "script_sha256": "ec8e3b983ebc9663b8fa4e2ff733fe8a6a803c7360d7470a731e7fb78a138aa5",
+  "inputs": [
+    {
+      "path": "analysis/sample_old_key.json",
+      "sha256": "2095286fc0fe5b7e30a988e7d29281a24a45f07d9a47a71408f42afefec44b0a"
+    },
+    {
+      "path": "analysis/sample_key.json",
+      "sha256": "a2d2d1c5965cea917322367046f73e9225b42c60fc24f8aa5c08d57440bd3cf1"
+    }
+  ]
+}

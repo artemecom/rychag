@@ -1,0 +1,6 @@
+{
+  "allowlist": [],
+  "max_sources_per_question": 10,
+  "freshness_days": 730,
+  "kb_freshness_days": 1095
+}

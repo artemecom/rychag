@@ -1,0 +1,29 @@
+{
+  "id": "S018",
+  "kind": "расчёт",
+  "url": null,
+  "path": null,
+  "layer": 1,
+  "title": "Готовый расчёт «сведение» (svedenie_silnyi.json)",
+  "published": "2026-11-19",
+  "accessed": "2026-11-19",
+  "sha256": "fad0cde890ff85ccb9268deb6dbcf4865866bd11cd76976f608382d4a59b439c",
+  "question": "общий",
+  "stale_accepted": false,
+  "added": "2026-11-19T17:55:00",
+  "method": "расчёт",
+  "ready": "сведение",
+  "script": null,
+  "script_sha256": null,
+  "inputs": [
+    {
+      "path": "analysis/svedenie_silnyi.json",
+      "sha256": "c24bf4a84b9b1103545709048958135772da438467c6d3ecf56a3f12c730928a"
+    }
+  ],
+  "rests_on": [
+    "C005",
+    "C030",
+    "C035"
+  ]
+}
